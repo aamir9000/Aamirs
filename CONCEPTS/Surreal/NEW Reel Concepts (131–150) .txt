@@ -2005,14 +2005,14 @@ KINETIC STILLNESS (8 layers): (1) a loose strand drifting slow at the temple in 
 
 MICRO-MAGIC (cue only): at the top of the loom a single fine thread of aurora has drifted down from the sky and now hangs caught on the frame, glowing faint green — deniable, the first whisper that she will weave the northern lights.
 
-SPATIAL LOGIC: FOREGROUND — the shuttle and her hand at ≈20% depth, tack sharp. MIDGROUND — Aira at the loom. BACKGROUND — the vast aurora sky and moonlit cloud-sea far below, lantern off frame-left, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — a near snow-drift and the loom-beam foot at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the loom on the platform with Aira small at it. BACKGROUND — the colossal aurora filling the upper sky in rippling green-violet, the moonlit cloud-sea receding far below with true atmospheric perspective (nearer cloud sharp, far horizon hazier and cooler to sell the immense height); the platform edge as a leading line into the void. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — the soft aurora-glow as a cool wrapping key from above. FILL — a gentle warm lantern bounce lifting the shadow side. RIM — cold star-light skimming her crown and one shoulder. PRACTICAL — the aurora and the lantern. SEPARATION — the sky pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint green kick off the caught aurora-thread. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium-full, head-to-knee, 12% headroom, the loom entering the lower third, clean cold negative space around the loom to receive the glowing cloth that arrives later.
-SUBJECT FRAMING & POSITION: A medium-full framing holds Aira at about 12% headroom, head-to-knee, the loom entering the lower third, clean cold negative space around the loom to receive the glowing cloth that arrives later. She is standing three-quarter to camera at the loom, weight settled even with a soft 2° lean toward the work, front shoulder dropped a touch, chin level, spine long, alive and breathing. The camera holds a mid-wide distance, Aira the sharp central figure of the Aurora Loom Station scene, centred in frame. She faces front to the lens. Standing three-quarter at the tall loom, the right hand poised on the carved shuttle and the left light on the loom-beam, a soft lean toward the work and weight settled even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame at the loom on a platform adrift high above a cloud-sea, the colossal aurora filling the sky above and around her so the night world dwarfs the human; the loom a small silhouette, deep cold negative space holding the aurora.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing at the tall loom on a platform adrift high above a moonlit cloud-sea, the immense aurora rippling far above and around her so she reads as a lone figure dwarfed by the night sky; she is the scale-anchor that makes the aurora read as truly vast. She stands three-quarter to camera at the loom, weight settled even with a soft 2° lean toward the work, front shoulder dropped a touch, chin level, spine long, the shuttle poised in her hand. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Aurora Loom Station scene while the aurora world is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus on her with the sky melting to soft aurora bokeh; the caught thread kept just soft; snow-motes as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the loom and the vast aurora sky all crisp for the establishing scale; only the nearest snow-motes softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: serene establishing hero — weaver at the loom beneath the lights, one impossible cue building (BA.3 cause building to effect).
 
@@ -2031,14 +2031,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium-full, head-to-knee, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the loom platform and the colossal aurora sky dominate.
 
-LENS: 35mm, f/2.2, smooth aurora background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the platform and the aurora.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium-full, head-to-knee, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, the aurora rippling slow, the shuttle poised in her hand.
-- [00:02–00:04] the single caught aurora-thread at the loom-top glows a touch brighter, drifting; Aira's chest rises on a slow steady breath, a strand lifting in the cold air.
-- [00:04–00:06] her eyes lift to the aurora, the bone earring swinging a half-beat late; she raises the shuttle the first few centimetres, the clip holding just before she begins.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% at the loom: a slow weighty crane-up-and-back is already underway, lifting to reveal the platform adrift beneath the colossal rippling aurora — the night world reads vast, she reads human; parallax slides the near snow-motes faster than the far sky for real 3D depth.
+- [00:02–00:04] the crane drifts on; the great aurora ripples slow across the whole sky, the moonlit cloud-sea far below hazier with atmospheric perspective, a single caught aurora-thread glowing faint at the loom-top.
+- [00:04–00:06] the move settles wide and high; at the tiny figure her chest rises on a slow steady breath as she raises the shuttle the first few centimetres — the lone weaver poised beneath the immense sky.
 
 PHYSICS: the cold air is thin and still — snow-motes and a loose hair-strand drift slow; the aurora ripples overhead at a natural slow cadence; her body, the loom, and the shuttle obey normal gravity, planted on the snowy platform. The caught thread of aurora glows and drifts but exerts no force.
 
@@ -2061,42 +2061,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 2 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked START of the aurora-weave — face fully recognizable, she reaches up and draws a ribbon of aurora down from the sky toward the loom as a glowing thread. Lock this START so Frame 3 interpolates cleanly to the woven cloth.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: she catches the light. Aira reaches one hand up to the rippling aurora and draws a ribbon of it down like a living thread, guiding it toward the loom; wonder warming her absorbed focus as the green-violet light bends to follow her hand.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the catch-the-light beat — her raised hand drawing a glowing aurora-ribbon down from the sky toward the loom, the light bending to follow, her face cool-lit and attentive.
+SCENE NOTE: the sky reaches down, empty of any person. A ribbon of the rippling aurora bends down from the vast green-violet sky like a living thread and guides itself toward the empty loom on the platform, the cold light bending in a slow arc — the northern lights offering themselves to the loom, no figure present, the world performing the gather on its own.
 
-WARDROBE: the charcoal-and-cream wrap-coat, continuity-locked, a sleeve catching the drawn aurora-glow as her arm rises, fully modest, pristine.
+VISUAL-LEAD NOTE: catch the catch-the-light beat as a world shot — NO figure; a glowing aurora-ribbon drawing down from the sky toward the loom, the light bending in a graceful arc, the loom waiting on the snow platform, the colossal aurora filling the sky above.
 
-FOOTWEAR: the concept-locked cream shearling boots with the bone toggle, planted in the snow and unchanged, the felted texture cool-lit.
 
-ACCESSORIES: the braided-aurora bracelet (glowing brighter as the ribbon passes near) and the carved-bone drop earring, unchanged, the earring beginning to swing.
 
-HAIR: the thick side-braid, continuity-locked, a temple strand drifting, deep sheen, color locked.
 
-MAKEUP: the cool fresh glow, continuity-locked, the frost-pink cheeks catching faint aurora light, clean rose-balm lip, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — aurora-green low, star-white high — brightened by the drawn ribbon; the eyes never glitch.
 
-HANDS & NAILS: the right hand raised with fingers spread guiding the aurora-ribbon down, the left hand steady on the loom-beam to receive it; short almond neutral-gloss nails, neat cuticles, no tension.
 
-FACIAL MICRO-DYNAMICS: quiet wonder warming the focus, brows lifting barely 1mm, lips parting a hair, eyes following the bending ribbon, a held serene delight.
 
-BODY POSTURE & WEIGHT: GAZE up toward the aurora-ribbon; HEAD chin tipping up; SHOULDERS reaching a touch upward; RIGHT ARM raised with the fingers spread guiding the aurora-ribbon down, the RIGHT HAND open, RIGHT FINGERS spread; LEFT ARM steady on the loom-beam to anchor, the LEFT HAND firm on the beam, LEFT FINGERS relaxed; TORSO reaching a touch upward toward the aurora, rotated about 4 degrees; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even and grounded; HAIR lifting a touch — awed and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the aurora-ribbon bending down to follow her hand; (2) cold light running along the drawn thread; (3) a temple strand drifting; (4) snow-motes in the air; (5) chest easing on a slow inhale; (6) cold specular sliding on the shuttle at the loom; (7) the felted wool breathing with a fold-shadow micro-shift; (8) a slow eyelash settle as she watches.
 
-MICRO-MAGIC (START keyframe): a ribbon of living aurora bending down from the sky to follow her raised hand toward the loom — the northern lights becoming a thread she can draw, clearly answering her.
+KINETIC STILLNESS (environmental, 6 layers): (1) the aurora-ribbon bending down toward the loom; (2) cold light running along the drawn thread; (3) snow-motes drifting in the air; (4) cold specular sliding on the loom's shuttle; (5) the great aurora rippling slow across the sky; (6) a lantern flame breathing warm at the loom.
 
-SPATIAL LOGIC: FOREGROUND — her raised hand and the bending ribbon at ≈18% depth, tack sharp. MIDGROUND — her face and the loom. BACKGROUND — the aurora sky in soft defocus, cloud-sea below, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+MICRO-MAGIC (START keyframe): a ribbon of living aurora bending down from the sky and threading itself toward the loom — the northern lights becoming a thread that seeks the frame on its own, clearly defying nature.
+
+SPATIAL LOGIC: FOREGROUND — the bending aurora-ribbon and a near loom-beam at ≈15% depth, tack sharp. MIDGROUND — the loom on the snow platform. BACKGROUND — the colossal aurora sky rippling green-violet with true atmospheric depth, the moonlit cloud-sea far below. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — cool aurora key. FILL — warm lantern bounce. RIM — cold star-light on crown. PRACTICAL — the drawn ribbon now a faint green secondary source on her hand. SEPARATION — sky deep, ≈1.5 stops up. BOUNCE — green kick on the shuttle. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium close, chest-up with the raised arm, 11% headroom, the bending ribbon entering frame from above, cool negative space camera-right.
-SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, chest-up with the raised arm, the bending ribbon entering frame from above, cool negative space camera-right. She is torso reaching a touch upward toward the aurora, rotated ≈4°, chin tipping up, weight even and grounded, spine long. The camera holds an intimate distance, Aira the sharp central figure of the Aurora Loom Station scene, with the clean negative space opening camera-right. She is turned a few degrees into the moment. Reaching a touch upward toward the aurora, the right hand spreads to guide the ribbon down while the left steadies the loom-beam to anchor, chin tipping up. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; the loom on the snow platform small in the lower third while a ribbon of aurora bends down from the vast green-violet sky that fills the frame, the moonlit cloud-sea far below.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the empty loom reads on the snow platform, a glowing aurora-ribbon arcing down toward it from the colossal sky, the northern lights filling the upper frame and the cloud-sea receding far below. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the bending ribbon so both read crisp; the sky melting to creamy aurora; soft green bloom along the ribbon; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the loom, the descending ribbon and the vast aurora sky crisp across the depth; only the nearest snow-motes softening; soft green bloom along the ribbon; gentle roll-off.
 
 COMPOSITION REFERENCE: the catch-the-light beat — the aurora becomes thread (AT.5 transform logic).
 
@@ -2104,43 +2097,43 @@ ATMOSPHERE: hushed, delighted, wondrous — the instant the sky bends to her han
 
 COLOR GRADE: cold midnight-blue with luminous aurora green-violet and warm lantern accent, rich blacks, clean whites, full mid-tone, no murk. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: the aurora-ribbon reads as living light with soft internal flow and faint translucency, not a flat band; the loom timber grained; skin micro-texture with peach-fuzz at the jaw catching the cool rim; snow drifting fine.
+TEXTURE & MICRO-DETAIL: the aurora-ribbon reads as living light with soft internal flow and faint translucency, not a flat band; the loom timber grained and frost-dusted; the shuttle bone-smooth; snow drifting fine.
 
-STORY BEAT: the gentle gathering — she draws a ribbon of the living sky down to her loom, wonder lighting her absorbed focus.
+STORY BEAT: the gentle gathering — a ribbon of the living sky bends down to the waiting loom on its own, the platform hushed and unpeopled beneath the vast aurora.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, malformed teeth, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue-frozen energy, glitching or colour-shifting eyes, crushed muddy blacks, garish oversaturation, flat dull light, flat band-like aurora.
 
 ## Frame 2 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: medium close, chest-up with the raised arm, subject and bending ribbon fill ≈58% of the frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the loom on the snow platform, the descending aurora-ribbon and the colossal aurora sky.
 
-LENS: 50mm, f/2.0.
+LENS: 24mm wide, f/4, deep focus holding the platform and the aurora sky.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium close, chest-up with the raised arm, subject and bending ribbon fill ≈58% of the frame: a slow smooth ≈15° orbit around her right shoulder is already underway — opens with her hand already raised and the ribbon beginning to bend down so the hook lands instantly.
-- [00:02–00:04] the aurora-ribbon bends down from the sky and follows her hand toward the loom, glowing green-violet; she guides it onto the loom-frame, the bone earring swinging a half-beat late.
-- [00:04–00:06] her eyes follow the thread settling, cold glow rising on her face; she steadies the thread on the loom, ready to weave.
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: a slow smooth crane-back is already underway, the aurora-ribbon already bending down from the sky toward the loom so the hook lands instantly, near snow-motes sliding faster than the far sky in real parallax.
+- [00:02–00:04] the aurora-ribbon arcs down from the vast sky and threads itself onto the loom-frame, glowing green-violet, the platform quiet and unpeopled.
+- [00:04–00:06] the ribbon settles onto the loom as cold glow pools on the timber; a gentle settle, the great aurora rippling on across the sky.
 
-PHYSICS: the aurora bends down as a coherent ribbon of living light with believable slow flow, following her hand without snapping or scattering; her body, hair, the loom and shuttle stay weighted; only snow-motes and a strand drift.
+PHYSICS: the aurora bends down as a coherent ribbon of living light with believable slow flow, threading toward the loom without snapping or scattering; the loom, shuttle and platform stay weighted; only snow-motes drift.
 
 MICRO-MAGIC: one beat — the aurora-ribbon drawn down to the loom as thread.
 
-CONTINUITY: boots, bracelet, earring, wardrobe, braid, makeup, dual catchlight identical to Frame 1.
+CONTINUITY: the loom, snow platform, aurora sky and cloud-sea identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — thin wind and aurora-shimmer. SFX — a soft crystalline draw-shimmer as the ribbon bends at 0:01.0, a faint loom-settle as it lands at 0:02.4. Reaction — a soft delighted breath at 0:02.8. Master — the nordic drone-and-harp bed rising a touch (present, never full). VO — none (non-talkable).
+AUDIO: diegetic only. Ambient — thin wind and aurora-shimmer. SFX — a soft crystalline draw-shimmer as the ribbon bends at 0:01.0, a faint loom-settle as it lands at 0:02.4. Master — the nordic drone-and-harp bed rising a touch (present, never full). VO — none (non-talkable, no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips softly parted in wonder.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked aurora-green / star-white catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the rising glow never melts the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 3 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
