@@ -9207,14 +9207,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): at the base of the rod where it nearly meets the surface, a single faint ripple has stirred the mirror and stilled — deniable, the first whisper that the mercury will rise.
 
-SPATIAL LOGIC: FOREGROUND — the rod-tip and the mirror surface at ≈20% depth, tack sharp with a crisp reflection. MIDGROUND — Aira on the dunes. BACKGROUND — the mirror dunes receding to a flat horizon, the twilight sky and first stars, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — a near stretch of the mirror-mercury ground with a crisp sky-reflection at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the mirror dunes with Aira small on them, the dune-rod a slim glint at her side. BACKGROUND — the vast mirror-mercury dune sea receding to a flat horizon with true atmospheric perspective (nearer surface sharp, far dunes hazier), the lilac twilight sky and first stars above, doubled in the mirror ground. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — the pale twilight sky as a soft wrapping key from above. FILL — the mirror-mercury bouncing cool light up under her chin. RIM — a faint lilac edge skimming her crown and one shoulder. PRACTICAL — the sky and the mirror ground. SEPARATION — the horizon pulled deep so she reads ≈1.5 stops up. BOUNCE — a strong cool kick off the mirror surface. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium-full, hips-up with the mirror ground showing, 12% headroom, the rod entering the lower third, clean negative space behind her to receive the standing wave that arrives later.
-SUBJECT FRAMING & POSITION: A medium-full framing holds Aira at about 12% headroom, hips-up with the mirror ground showing, the rod entering the lower third, clean negative space behind her to receive the standing wave that arrives later. She is standing three-quarter to camera on the mirror dunes, weight settled even with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, spine long and grounded, alive and breathing. The camera holds a mid-wide distance, Aira the sharp central figure of the Liquid-Mercury Dune Sea scene, centred in frame. She faces front to the lens. Three-quarter to camera, the right hand holds the silver dune-rod low and the left rests soft and open at her hip, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame on the mirror dunes while the vast liquid-mercury sea spreads to a flat horizon and the twilight sky doubles in the mirror ground; the mirror desert dwarfs the human, deep negative space holding the sea and sky.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing on the vast sea of mirror-smooth liquid-mercury dunes at twilight, the mirror sea spreading to a flat horizon around her and the lilac sky doubled beneath her feet so she reads as a lone figure dwarfed by the mirror desert; she is the scale-anchor that makes the sea read as truly vast. She stands three-quarter to camera on the dunes, weight settled even with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, spine long and grounded, the slim silver dune-rod a glint held low at her side. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Liquid-Mercury Dune Sea scene while the mirror sea is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.5; focus split between her near eye and the rod-tip's reflection so both read crisp; the horizon melting to soft silver; vapor as fine drifting points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the mirror ground and the far horizon all crisp for the establishing scale; only the nearest vapor softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: cool cinematic establishing hero — figure on a mirror sea, one impossible cue building (BA.3 cause building to effect).
 
@@ -9235,20 +9235,20 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 CLIP SUMMARY: the mirror hush — she stands on the still mercury sea, a single ripple stirring at the rod; energy held at ≈15%, building toward Frame 2's first ripple.
 
-SHOT TYPE: medium-full, hips-up with mirror ground; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the rod-tip on the lower third.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical 9:16 frame while the vast mirror-mercury sea and twilight sky dominate.
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground reflection on the mercury slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a slow weighty crane-up-and-back across the full 6.0s, lifting to reveal the vast mirror sea spreading around the tiny figure; a foreground reflection on the mercury slides past for parallax, nearer than the far horizon; zero roll, zero shake — the reveal reads as a held breath.
 
-LENS & OPTICS: 35mm full-frame equivalent, T2.5; a faint cool flare on the brightest sky-reflection only; gentle natural vignette; clean coatings, no chromatic fringing.
+LENS & OPTICS: 24mm wide full-frame equivalent, T4; a faint cool flare on the brightest sky-reflection only; gentle natural vignette; clean coatings, no chromatic fringing.
 
-FOCUS BEHAVIOUR: focus split-held on her near eye and the rod-tip's reflection; no rack this frame; focus-breathing compensated so framing stays locked through the push-in.
+FOCUS BEHAVIOUR: deep focus holding Aira, the mirror ground and the far horizon; no rack this frame; focus-breathing compensated so framing stays locked through the crane.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium-full, hips-up with mirror ground; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the rod-tip on the lower third: the move is already underway — dead-still tableau, the mirror sea flawless, the rod held low; a single faint ripple widens once across the mercury at her feet then stills.
-- [00:02–00:04] her chest rises on a slow shallow inhale, the gown fold-shadow shifting a hair; her gaze lowers to the mirror surface, the teardrop earring hanging still, lashes settling from a quiet blink.
-- [00:04–00:06] she lowers the rod-tip toward the surface, a thin cool highlight sliding along it; the rod-tip hovers a hair above the mercury and holds, suspended just before contact.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% on the mirror dunes: the crane-up-and-back is already underway, lifting to reveal the flawless mirror sea spreading to the horizon around her — the sea reads vast, she reads human; the near reflection slides past faster than the far dunes in real parallax.
+- [00:02–00:04] the crane drifts on; the mirror-mercury holds a perfect upside-down twilight sky, the far dunes hazier with atmospheric perspective, a single faint ripple widening once at her feet.
+- [00:04–00:06] the move settles wide and high; her chest rises on a slow shallow inhale as she lowers the rod-tip toward the surface — the lone figure poised on the immense mirror sea, just before contact.
 
 MICRO-EXPRESSION TRACK: near-neutral cool calm throughout; 0:01.6 the faintest brow-soften as the ripple stirs; 0:03.4 a 1mm inner-brow lift of quiet anticipation; lips stay gently closed.
 
@@ -9669,42 +9669,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 6 of 8 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the sea stands all around. Aira sweeps the rod in a slow arc and the whole dune sea rises into many towering mirror-mercury standing waves around her — a vast cathedral of vertical mirrors reflecting her and the twilight sky from every side; she stands at its centre, cool and monumental, the keeper of a mirror cathedral.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the world-expands beat — many towering mirror-mercury waves standing around her like a cathedral of mirrors, Aira at the centre sweeping the rod, reflections multiplying.
+SCENE NOTE: the sea stands all around, empty of any person. The whole dune sea has risen into many towering mirror-mercury standing waves — a vast cathedral of vertical mirrors reflecting the twilight sky from every side, the slender silver dune-rod planted upright in the mirror ground at the centre as the trigger; no figure present, a sea stood on end in every direction on its own.
 
-WARDROBE: the pewter-grey draped gown, continuity-locked, lit cool-silver from many mirror-waves, fully modest.
+VISUAL-LEAD NOTE: catch the world-expands beat as a world shot — NO figure; many towering mirror-mercury waves standing like a cathedral of mirrors, the planted dune-rod small at the centre, the lilac twilight sky multiplied across every reflective face.
 
-FOOTWEAR: the concept-locked mirror-silver boots fully visible, planted firm, reflected in the surrounding mirrors.
 
-ACCESSORIES: the liquid-silver torque cuff and the mirror-drop earring, unchanged, catching multiplied glints.
 
-HAIR: the sleek low chignon, continuity-locked, color locked.
 
-MAKEUP: the cool silver glow, continuity-locked, multiplied cool catchlights faint across the eyes, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight intact, gently multiplied by the surrounding mirror-waves; the eyes never glitch.
 
-HANDS & NAILS: the rod sweeping in a slow arc, the left hand open and rising; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: cool monumental authority, eyes moving across the standing mirrors, lips softly closed, a composed exhilaration.
 
-BODY POSTURE & WEIGHT: GAZE following the arcing rod; HEAD turning with the sweep; SHOULDERS opening with the arc; RIGHT ARM sweeping the rod in a slow arc, the RIGHT HAND sweeping, RIGHT FINGERS easy; LEFT ARM open and rising, the LEFT HAND open, LEFT FINGERS softly spread; TORSO about 5 degrees open, opening with the arc; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even; HAIR drifting soft — graceful and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) many mirror-waves standing and wavering around her; (2) reflections multiplying and drifting across them; (3) a temple strand drifting; (4) vapor rising along the wave-bases; (5) chest on a lifted breath; (6) cool speculars sliding across the cuff; (7) gown fold-shadow micro-shift; (8) a slow blink.
 
-MICRO-MAGIC (unified): the whole dune sea risen into many towering mirror-waves around her — the single phenomenon at its grandest scale.
+KINETIC STILLNESS (environmental, 6 layers): (1) many mirror-waves standing and wavering around the rod; (2) reflections of the twilight sky multiplying and drifting across them; (3) vapor rising slow along the wave-bases; (4) the mirror ground holding a perfect upside-down sky; (5) cool speculars sliding across the curved crests; (6) the planted dune-rod glinting at the centre.
 
-SPATIAL LOGIC: FOREGROUND — a near standing wave-edge at ≈20% depth, soft. MIDGROUND — Aira at the centre. BACKGROUND — more mirror-waves softening into silver, twilight sky above. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+MICRO-MAGIC (unified): the whole dune sea risen into many towering mirror-waves around the planted rod — the single phenomenon at its grandest scale.
+
+SPATIAL LOGIC: FOREGROUND — a near standing wave-edge and mirror ground at ≈15% depth, tack sharp. MIDGROUND — the planted dune-rod at the centre amid the risen waves. BACKGROUND — ranks of further mirror-waves receding into silver with true atmospheric perspective (nearer faces sharp, far ones hazier), the lilac twilight sky above. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — the surrounding mirror-waves as live multiple cool sources plus the twilight sky. FILL — cool mercury bounce. RIM — lilac edge. SEPARATION — deep beyond the nearest waves. BOUNCE — cool kicks all around. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; wider medium, knees-up, 12% headroom, the standing mirror-waves filling the field, Aira anchored centre.
-SUBJECT FRAMING & POSITION: A wider medium framing holds Aira at about 12% headroom, knees-up, the standing mirror-waves filling the field, Aira anchored centre. She is standing tall at the centre, weight even and grounded, torso ≈5° open, chin lifting, spine long. The camera holds a wide distance, Aira the sharp central figure of the Liquid-Mercury Dune Sea scene, centred in frame. She is turned a few degrees into the moment. The rod sweeps in a slow arc in the right hand while the left opens and rises, shoulders opening with the arc and weight grounded. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the mirror-mercury dune sea risen into a cathedral of towering standing waves, the planted dune-rod small at the centre and the twilight sky multiplied across them.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the mirror dune sea reads full and deep, many towering mirror-mercury waves standing like a cathedral of vertical mirrors, the slender dune-rod planted at the centre, the lilac twilight sky reflected across every wavering face and in the mirror ground. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; moderate DOF keeping her sharp while the farthest waves soften into luminous silver bokeh; controlled glints; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the near wave, the planted rod and the far mirror-waves crisp across the depth; only the farthest waves softening into luminous silver; controlled glints; gentle roll-off.
 
 COMPOSITION REFERENCE: the world-expands beat — the mechanic at full scale, a cathedral of mirror-waves (BA.3).
 
@@ -9712,57 +9705,57 @@ ATMOSPHERE: cool, monumental, mirror-serene — a cathedral of standing mirrors.
 
 COLOR GRADE: cool mercury-silver with twilight-lilac, rich blacks, clean whites, controlled glint. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: each standing wave reads as true mirror-liquid with a wavering reflective skin; the rod machined; the ground a perfect mirror; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: each standing wave reads as true mirror-liquid with a wavering reflective skin; the dune-rod machined and real; the ground a perfect mirror; vapor fine along the wave-bases.
 
-STORY BEAT: the mirror cathedral — she stands amid towering mirror-waves risen all around her, cool and monumental, a sea stood on end in every direction.
+STORY BEAT: the mirror cathedral — towering mirror-waves stand risen all around the planted rod, cool and monumental, a sea stood on end and unpeopled in every direction.
 
-NEGATIVE: mirrored composition (subject flip), flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects (of the person), plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, body levitation, crushed blacks, garish oversaturation, flat light, over-crowding that hides her, flat matte non-reflective mercury.
+NEGATIVE: mirrored composition (subject flip), flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects (of the person), plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, body levitation, crushed blacks, garish oversaturation, flat light, over-crowding that flattens the depth, flat matte non-reflective mercury.
 
 ## Frame 6 of 8 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-CLIP SUMMARY: the world-expands crescendo — the whole dune sea rises into a cathedral of standing mirror-waves around her; energy hits its grandest ≈95% across a longer 6.0s beat.
+CLIP SUMMARY: the world-expands crescendo — the whole dune sea rises into a cathedral of standing mirror-waves around the planted rod; energy hits its grandest ≈95% across a longer 6.0s beat.
 
-SHOT TYPE: wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre amid the mirror-waves.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the mirror dune sea risen into a cathedral of towering standing waves, the planted rod at the centre.
 
 CAMERA BODY & RIG: virtual cinema body on a crane/jib with gimbal head; a smooth rise with a slow orbit; sub-pixel stabilized.
 
-CAMERA MOVEMENT (detailed): a slow crane-rise of ≈8% with a layered ≈12° orbit revealing the surrounding waves, soft-eased start and stop; a gentle ≈4° tilt-down developing to keep her centred; a foreground wave-edge slides past for parallax; locked roll, no shake.
+CAMERA MOVEMENT (detailed): a slow crane-rise of ≈8% with a layered ≈12° orbit revealing the surrounding waves, soft-eased start and stop; a gentle ≈4° tilt developing to keep the planted rod centred; a foreground wave-edge slides past for parallax; locked roll, no shake.
 
-LENS & OPTICS: 35mm, T2.8; controlled glints on the many wave-faces; gentle vignette; a single soft cool flare permitted as the rig peaks; clean optics.
+LENS & OPTICS: 24mm wide, T4; controlled glints on the many wave-faces; gentle vignette; a single soft cool flare permitted as the rig peaks; clean optics.
 
-FOCUS BEHAVIOUR: deep-ish focus holding her sharp while the farthest waves soften; one slow breathing-compensated hold on her face; no rack mid-rise.
+FOCUS BEHAVIOUR: deep focus holding the near waves and the planted rod sharp while the farthest waves soften; one slow breathing-compensated hold; no rack mid-rise.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre amid the mirror-waves: the move is already underway — opens as waves begin to stand all around so the scale lands instantly.
-- [00:02–00:04] she sweeps the rod in a slow arc and the whole sea rises into towering mirror-waves; the cathedral of mirrors completes, reflections multiplying across every face.
-- [00:04–00:06] she lifts the rod high at the centre, the waves wavering in answer, her face cool and uplifted; the cathedral settles into a slow living shimmer as she holds the grounded pose.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: the crane-orbit is already underway as waves begin to stand all around so the scale lands instantly, a near wave-edge sliding past faster than the far ranks in real parallax.
+- [00:02–00:04] the whole sea rises into towering mirror-waves around the planted rod; the cathedral of mirrors completes, reflections of the twilight sky multiplying across every face.
+- [00:04–00:06] the waves waver in answer at their crests; the cathedral settles into a slow living shimmer, the planted rod glinting at the still centre.
 
-MICRO-EXPRESSION TRACK: 0:01.2 lips part on a cool exhilarated breath; 0:02.8 a glow of monumental awe across the eyes; 0:04.0 the faintest commanding calm; never theatrical.
+ENVIRONMENT-MOTION TRACK: 0:01.2 the waves standing to full height; 0:02.8 reflections multiplying across the faces; 0:04.0 the cathedral settling into a slow shimmer; no person, no face.
 
-PHYSICS: each wave rises with conserved-volume liquid flow and holds upright with a wavering mirror skin; reflections of her and the sky track correctly across many faces; the waves exert no force on her; her feet stay planted — no levitation; vapor rises along the bases.
+PHYSICS: each wave rises with conserved-volume liquid flow and holds upright with a wavering mirror skin; reflections of the sky track correctly across many faces; the mirror ground and planted rod stay weighted — no levitation; vapor rises along the bases.
 
 MICRO-MAGIC (one sustained beat): the dune sea risen into a cathedral of standing mirror-waves — one phenomenon at maximum scale, not stacked tricks.
 
-CONTINUITY: boots, cuff, earring, wardrobe, chignon, makeup, dual catchlight unchanged.
+CONTINUITY: the mirror dune sea, standing waves, planted rod and twilight sky identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
 LIGHTING & GRADE (motion): the surrounding mirror-waves as the dominant multi-source cool key, twilight sky above, cool mercury bounce; overall level rises ≈0.7 stop to the peak (0:03.4) then eases; deep blacks held, clean whites, glints controlled — never blown.
 
 ENVIRONMENT MOTION: many waves wavering, reflections multiplying and drifting, vapor rising, the sky deep above.
 
-AUDIO (layered, diegetic-led): BED — low desert-wind hush, swelling subtly. SPOT FX — a deep layered mercury-swell rising to a gentle peak at 0:03.4, metallic shimmers across the many faces. BREATH — a soft exhilarated breath at 0:02.8. MASTER — the cello-and-pad bed at its gentle peak (present, never full). NO VO (non-talkable).
+AUDIO (layered, diegetic-led): BED — low desert-wind hush, swelling subtly. SPOT FX — a deep layered mercury-swell rising to a gentle peak at 0:03.4, metallic shimmers across the many faces. MASTER — the cello-and-pad bed at its gentle peak (present, never full). NO VO (non-talkable, no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips parted in cool awe.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the brightest peak so the multi-mirror light never washes or warps the features; ensure surrounding mirrors never spawn a false duplicate of her face.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 7 of 8 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
