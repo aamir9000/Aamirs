@@ -1970,7 +1970,7 @@ ENVIRONMENT: Pit lane becomes a frozen diorama; PA audio cuts to a held low dron
 
 SPEED RAMP: Ramp 24→96fps across `00:02.7–00:03.1` (the freeze), then back to 24fps.
 
-AUDIO (diegetic + reaction): `00:02.5` boot plant + suit rustle; `00:02.9` a deep sub-bass whoom + glassy crystalline "time-stop" shimmer as the ring fires; `00:03.0` all diegetic chaos audio abruptly ducks to near-silence (only a high cold ring-tone hum remains); `00:03.4` her soft awed inhale. No words. Master-track swells once then drops to a held pad.
+AUDIO (diegetic + reaction): `00:00.5` boot plant + suit rustle; `00:00.9` a deep sub-bass whoom + glassy crystalline "time-stop" shimmer as the ring fires; `00:01.0` all diegetic chaos audio abruptly ducks to near-silence (only a high cold ring-tone hum remains); `00:01.4` her soft awed inhale. No words. Master-track swells once then drops to a held pad.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2059,7 +2059,7 @@ ENVIRONMENT: Deep frozen diorama parallax. Every zone of the frame intentionally
 
 SPEED RAMP: Steady 24fps (human-real walk).
 
-AUDIO (diegetic + reaction): held cold ring-tone hum bed; `00:03.9` her live boot-steps echo unnaturally loud in the silence; `00:04.5` suit rustle + a soft awed breath; `00:05.4` a faint glassy tick as her air-bubble grazes the frozen lug-nut. No words. Master-track = single sustained low pad.
+AUDIO (diegetic + reaction): held cold ring-tone hum bed; `00:00.9` her live boot-steps echo unnaturally loud in the silence; `00:01.5` suit rustle + a soft awed breath; `00:02.4` a faint glassy tick as her air-bubble grazes the frozen lug-nut. No words. Master-track = single sustained low pad.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2150,7 +2150,7 @@ ENVIRONMENT: Densest frozen-debris depth of the reel. Every zone of the frame in
 
 SPEED RAMP: Ramp into 96fps slow-mo across `00:06.6–00:07.4` (peak weave), back to 24fps on the rise.
 
-AUDIO (diegetic + reaction): held cold hum bed; `00:06.2` soft cloth-and-air whoosh as she ducks; `00:06.8` faint glassy chimes as her bubble grazes each nut; `00:07.2` a small focused breath; `00:07.8` low rising tone hinting time wants to restart. No words. Master-track pad begins a slow upward bend.
+AUDIO (diegetic + reaction): held cold hum bed; `00:00.2` soft cloth-and-air whoosh as she ducks; `00:00.8` faint glassy chimes as her bubble grazes each nut; `00:01.2` a small focused breath; `00:01.8` low rising tone hinting time wants to restart. No words. Master-track pad begins a slow upward bend.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2241,7 +2241,7 @@ ENVIRONMENT: Full frozen-crew tableau revealed behind. Every zone of the frame i
 
 SPEED RAMP: Steady 24fps.
 
-AUDIO (diegetic + VO): held cold hum bed thinning; `00:08.4` glove leather creak + cuff snap; NARRATOR VO (AR), warm low female, NOT Aira's mouth — `00:09.2–00:10.8`: "Everyone's chasing the clock... she just turned it off." master-track ducks under the VO; `00:11.2` a low rising swell as time prepares to return. Aira's mouth stays neutral/closed (no lip-sync).
+AUDIO (diegetic + VO): held cold hum bed thinning; `00:00.4` glove leather creak + cuff snap; NARRATOR VO (AR), warm low female, NOT Aira's mouth — `00:01.2–02.8`: "Everyone's chasing the clock... she just turned it off." master-track ducks under the VO; `00:03.2` a low rising swell as time prepares to return. Aira's mouth stays neutral/closed (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2332,7 +2332,7 @@ ENVIRONMENT: Pit lane at full live chaos around a calm hero. Each area of the fr
 
 SPEED RAMP: Snap 96→24fps at the restart `00:11.9`, then steady 24fps.
 
-AUDIO (diegetic + reaction + master-track button): `00:11.9` a sharp sub-bass thud + crystalline reverse-shimmer as time snaps back, and ALL diegetic chaos audio SLAMS back in full (wheel-guns whirring, lug-nuts clattering, crew shouting wordlessly, sparks crackling); `00:12.4` her single calm exhale over the roar; master-track resolves on a confident final swell `00:12.5–00:14.0`, settling to a low warm tail. No words from Aira.
+AUDIO (diegetic + reaction + master-track button): `00:00.9` a sharp sub-bass thud + crystalline reverse-shimmer as time snaps back, and ALL diegetic chaos audio SLAMS back in full (wheel-guns whirring, lug-nuts clattering, crew shouting wordlessly, sparks crackling); `00:01.4` her single calm exhale over the roar; master-track resolves on a confident final swell `00:01.5–03.0`, settling to a low warm tail. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2558,7 +2558,7 @@ ENVIRONMENT: Rooftop deck rushing past, gap looming ahead. Each area of the fram
 
 SPEED RAMP: Steady 24fps (real sprint).
 
-AUDIO (diegetic, timed): wind-roar bed; `00:03.1` explosive first foot-strike on gravel; `00:03.5–04.8` rhythmic pounding strides + hard breath per step; `00:04.9` a deep plant-foot stomp at the edge; reaction: a sharp effort-grunt-breath at 04.6 (breath only, no word). Master-track drives a low pulse under it.
+AUDIO (diegetic, timed): wind-roar bed; `00:00.1` explosive first foot-strike on gravel; `00:00.5–01.8` rhythmic pounding strides + hard breath per step; `00:01.9` a deep plant-foot stomp at the edge; reaction: a sharp effort-grunt-breath at 04.6 (breath only, no word). Master-track drives a low pulse under it.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2649,7 +2649,7 @@ ENVIRONMENT: Mid-air over the gap, far glass wall ahead, drop below. Every zone 
 
 SPEED RAMP: Ramp 24→48fps into the apex, easing to slow-mo as the tilt begins.
 
-AUDIO (diegetic + reaction): wind-roar at the launch `00:05.3`; a powerful launch-grunt-breath `00:05.4` (no word); `00:06.4` a soft crystalline pearl-shimmer rises as the gravity-turn kindles; the city hum begins to warp/pitch-bend subtly. Master-track pad begins a slow upward bend.
+AUDIO (diegetic + reaction): wind-roar at the launch `00:00.3`; a powerful launch-grunt-breath `00:00.4` (no word); `00:01.4` a soft crystalline pearl-shimmer rises as the gravity-turn kindles; the city hum begins to warp/pitch-bend subtly. Master-track pad begins a slow upward bend.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2738,7 +2738,7 @@ ENVIRONMENT: The world visibly rotating; glass wall becoming floor. Each area of
 
 SPEED RAMP: 96fps deep slow-mo through the rotation.
 
-AUDIO (diegetic + reaction): the city hum fully warps/pitch-bends through the turn; `00:07.8` a deep whooshing gravity-swell; `00:08.4` crystalline pearl-shimmer at peak (long tails); a low sub-tone as down redefines; her calm awed breath `00:08.8`. No words, no VO. Master-track pad bends upward toward the peak.
+AUDIO (diegetic + reaction): the city hum fully warps/pitch-bends through the turn; `00:00.8` a deep whooshing gravity-swell; `00:01.4` crystalline pearl-shimmer at peak (long tails); a low sub-tone as down redefines; her calm awed breath `00:01.8`. No words, no VO. Master-track pad bends upward toward the peak.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2829,7 +2829,7 @@ ENVIRONMENT: The glass tower as a running track, city as a wall. Each area of th
 
 SPEED RAMP: 96fps slow-mo across the wall-run, easing toward 48fps as the roof edge nears.
 
-AUDIO (diegetic + reaction): the warped city-hum holds, slightly stabilized in the new gravity; `00:09.7` each foot-strike rings a deep glassy thoom with a pearl shimmer-tail; rhythmic pounding strides + hard breath; a delighted exhale `00:11.0` (no word). No VO. Master-track hits its PEAK — a soaring cinematic swell landed on the wall-run (under the SFX, never full).
+AUDIO (diegetic + reaction): the warped city-hum holds, slightly stabilized in the new gravity; `00:00.7` each foot-strike rings a deep glassy thoom with a pearl shimmer-tail; rhythmic pounding strides + hard breath; a delighted exhale `00:02.0` (no word). No VO. Master-track hits its PEAK — a soaring cinematic swell landed on the wall-run (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -2920,7 +2920,7 @@ ENVIRONMENT: The far rooftop, city upright again, gap behind. Each area of the f
 
 SPEED RAMP: 48fps easing to 24fps real-time on the settle.
 
-AUDIO (diegetic + reaction): the warped hum snaps back to normal city-hum at `00:12.6` with a soft reverse-shimmer; `00:13.0` a solid two-foot landing thud + gravel scatter + hand-slap touchdown; a hard release exhale `00:13.6` (no word). No VO. Master-track resolves from the peak to a warm settling chord.
+AUDIO (diegetic + reaction): the warped hum snaps back to normal city-hum at `00:00.6` with a soft reverse-shimmer; `00:01.0` a solid two-foot landing thud + gravel scatter + hand-slap touchdown; a hard release exhale `00:01.6` (no word). No VO. Master-track resolves from the peak to a warm settling chord.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -3009,7 +3009,7 @@ ENVIRONMENT: Rooftop edge, new gap, far wall, neon skyline. Each area of the fra
 
 SPEED RAMP: 24fps real-time.
 
-AUDIO (diegetic, timed): `00:14.9` high wind whistle + city hum returning to the Frame 1 bed; `00:15.8` a soft chalk-clap + fabric rustle; `00:16.6` a low tension swell as she primes again; reaction: a slow breath `00:16.0`. No VO. Master-track resolves on a sustained cold chord so the reel loops with no audible seam.
+AUDIO (diegetic, timed): `00:00.9` high wind whistle + city hum returning to the Frame 1 bed; `00:01.8` a soft chalk-clap + fabric rustle; `00:02.6` a low tension swell as she primes again; reaction: a slow breath `00:02.0`. No VO. Master-track resolves on a sustained cold chord so the reel loops with no audible seam.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -3233,7 +3233,7 @@ ENVIRONMENT: Dark dojo, neon walls, wet floor reflecting her. Each area of the f
 
 SPEED RAMP: Steady 24fps.
 
-AUDIO (diegetic, timed): low neon hum bed; `00:03.2` a clean barefoot pivot-squeak on wet concrete; `00:03.9` gi-fabric snap as the palm extends; `00:04.8` a sharp exhale (kiai-breath, no word) as the rear hand chambers. Master-track adds a single low rising tone.
+AUDIO (diegetic, timed): low neon hum bed; `00:00.2` a clean barefoot pivot-squeak on wet concrete; `00:00.9` gi-fabric snap as the palm extends; `00:01.8` a sharp exhale (kiai-breath, no word) as the rear hand chambers. Master-track adds a single low rising tone.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -3324,7 +3324,7 @@ ENVIRONMENT: Dark dojo, the first glowing stroke hanging in the air. Every zone 
 
 SPEED RAMP: Ramp 24→96fps across the punch `00:05.6–05.9` (the ink draws in slow-mo), back to 24fps on recoil.
 
-AUDIO (diegetic + reaction): low hum bed; `00:05.6` a hard kiai-breath (no word) + gi-snap crack; `00:05.8` a sharp whoosh + a liquid "ink-draw" shimmer as the stroke paints itself (wet, glassy, musical); `00:06.0` a water-ring splash off the foot. Master-track pad begins a slow upward bend.
+AUDIO (diegetic + reaction): low hum bed; `00:00.6` a hard kiai-breath (no word) + gi-snap crack; `00:00.8` a sharp whoosh + a liquid "ink-draw" shimmer as the stroke paints itself (wet, glassy, musical); `00:01.0` a water-ring splash off the foot. Master-track pad begins a slow upward bend.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -3415,7 +3415,7 @@ ENVIRONMENT: The dojo air full of layered glowing trails, mirrored in the floor.
 
 SPEED RAMP: 96fps deep slow-mo through the spinning kick, easing to 48fps as the trails converge.
 
-AUDIO (diegetic + reaction): low hum bed; `00:07.1` & `00:07.4` two sharp kiai-breaths (no words) + gi-snaps with liquid ink-draw shimmers; `00:07.8` a long whoosh + sweeping ink-arc tone for the kick; `00:08.6` glassy chimes as the trails converge; a hard controlled breath `00:09.0`. No VO yet. Master-track hits its PEAK — a soaring cinematic swell landed on the kick (under the SFX, never full).
+AUDIO (diegetic + reaction): low hum bed; `00:00.1` & `00:00.4` two sharp kiai-breaths (no words) + gi-snaps with liquid ink-draw shimmers; `00:00.8` a long whoosh + sweeping ink-arc tone for the kick; `00:01.6` glassy chimes as the trails converge; a hard controlled breath `00:02.0`. No VO yet. Master-track hits its PEAK — a soaring cinematic swell landed on the kick (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -3506,7 +3506,7 @@ ENVIRONMENT: The dark dojo holding the glowing glyph. Each area of the frame int
 
 SPEED RAMP: Steady 24fps.
 
-AUDIO (diegetic + VO): low hum bed; `00:09.8` glassy lock-in chime as the glyph completes; NARRATOR VO (AR), warm low female, NOT Aira's mouth — `00:10.6–12.2`: "Some fight to win... she fights to leave a mark." master-track ducks under the VO; `00:12.5` a soft shimmer as motes begin to drift. Aira's mouth stays neutral/closed (no lip-sync).
+AUDIO (diegetic + VO): low hum bed; `00:00.8` glassy lock-in chime as the glyph completes; NARRATOR VO (AR), warm low female, NOT Aira's mouth — `00:01.6–03.2`: "Some fight to win... she fights to leave a mark." master-track ducks under the VO; `00:03.5` a soft shimmer as motes begin to drift. Aira's mouth stays neutral/closed (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -3597,7 +3597,7 @@ ENVIRONMENT: The still dark dojo restored, empty air. Each area of the frame int
 
 SPEED RAMP: Steady 24fps.
 
-AUDIO (diegetic + master-track button): `00:13.1` a soft shimmer-fade as the motes scatter; `00:13.8` a gi-fabric rustle as she resets; `00:14.6` her slow centering exhale (no word); the room returns to deep silence + low neon hum (the Frame 1 bed). Master-track resolves on a meditative sustained chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): `00:00.1` a soft shimmer-fade as the motes scatter; `00:00.8` a gi-fabric rustle as she resets; `00:01.6` her slow centering exhale (no word); the room returns to deep silence + low neon hum (the Frame 1 bed). Master-track resolves on a meditative sustained chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -3819,7 +3819,7 @@ ENVIRONMENT: The traffic corridor opening, tail-lights streaking, haze parting. 
 
 SPEED RAMP: 100% to a slight 90% ease as she reaches the first car, prepping the dissolve.
 
-AUDIO (diegetic + reaction): city bed under; `00:03.1` a throttle roll-on crescendo + a clean exhaust surge `00:03.1–05.0`; `00:03.9` a rising doppler whoosh as cars streak past; `00:04.8` a sharp focused inhale inside the helmet (no word). Master-track adds a low driving pulse under the surge (present, never full).
+AUDIO (diegetic + reaction): city bed under; `00:00.1` a throttle roll-on crescendo + a clean exhaust surge `00:00.1–02.0`; `00:00.9` a rising doppler whoosh as cars streak past; `00:01.8` a sharp focused inhale inside the helmet (no word). Master-track adds a low driving pulse under the surge (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -3910,7 +3910,7 @@ ENVIRONMENT: The corridor, the first car turning to a curtain of light-particles
 
 SPEED RAMP: Ramp 24→96fps across the first dissolve `00:05.8–06.2` (particles part in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): city bed low; `00:05.8` a hard exhaust surge + a glassy "dematerialize" shimmer as the car bursts to particles (wet, crystalline, musical); `00:06.2` a soft whoosh-curtain as motes part; a sharp focused breath `00:06.6` (no word). Master-track pad begins a slow upward bend.
+AUDIO (diegetic + reaction): city bed low; `00:00.8` a hard exhaust surge + a glassy "dematerialize" shimmer as the car bursts to particles (wet, crystalline, musical); `00:01.2` a soft whoosh-curtain as motes part; a sharp focused breath `00:01.6` (no word). Master-track pad begins a slow upward bend.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4001,7 +4001,7 @@ ENVIRONMENT: A corridor of streaming light-particles parting around her, traffic
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as the road clears.
 
-AUDIO (diegetic + reaction): city bed low; `00:07.3` a deep dematerialize-swell as the lane bursts to light + fine crystalline particle-shimmers `00:07.3–09.0` (long soft tails); a low sub-boom at the peak `00:08.0`; a steady exhaust thread under; a calm held breath through the split. No VO yet. Master-track hits its PEAK — a soaring cinematic swell landed on the full dissolve (under the SFX, never full).
+AUDIO (diegetic + reaction): city bed low; `00:00.3` a deep dematerialize-swell as the lane bursts to light + fine crystalline particle-shimmers `00:00.3–02.0` (long soft tails); a low sub-boom at the peak `00:01.0`; a steady exhaust thread under; a calm held breath through the split. No VO yet. Master-track hits its PEAK — a soaring cinematic swell landed on the full dissolve (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4090,7 +4090,7 @@ ENVIRONMENT: The clear open expressway, traffic reformed far behind. Every zone 
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + VO): city bed faint and distant; `00:10.4` a soft settling exhaust burble + a last fading particle-shimmer; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:11.4–13.0`: "Everyone sees a wall... she sees the gap." master-track ducks under the VO; a release exhale `00:12.6` (breath only). Aira's mouth stays neutral behind the visor (no lip-sync).
+AUDIO (diegetic + VO): city bed faint and distant; `00:00.4` a soft settling exhaust burble + a last fading particle-shimmer; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.4–03.0`: "Everyone sees a wall... she sees the gap." master-track ducks under the VO; a release exhale `00:02.6` (breath only). Aira's mouth stays neutral behind the visor (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4179,7 +4179,7 @@ ENVIRONMENT: The city expressway at blue hour, gridlocked traffic, neon billboar
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the low city room-tone, distant horns and idling bed return (the Frame 1 bed); `00:14.0` a soft glove-creak as she resets; `00:14.6` her slow centering exhale (no word). Master-track resolves on a sustained cool chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the low city room-tone, distant horns and idling bed return (the Frame 1 bed); `00:00.0` a soft glove-creak as she resets; `00:00.6` her slow centering exhale (no word). Master-track resolves on a sustained cool chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4401,7 +4401,7 @@ ENVIRONMENT: The plunge from the spire, cloud-sea rushing up, god-rays. Every zo
 
 SPEED RAMP: 100% to a slight 90% ease as the membranes catch air, prepping the ignition.
 
-AUDIO (diegetic + reaction): wind bed swelling hard; `00:03.3` a sharp committed exhale (breath, no word) as she leaps; `00:03.9` a rising wind-roar as she accelerates `00:03.9–05.6`; `00:05.0` a deep membrane-thwump as the suit catches air. Master-track adds a low rising swell under the roar (present, never full).
+AUDIO (diegetic + reaction): wind bed swelling hard; `00:00.3` a sharp committed exhale (breath, no word) as she leaps; `00:00.9` a rising wind-roar as she accelerates `00:00.9–02.6`; `00:02.0` a deep membrane-thwump as the suit catches air. Master-track adds a low rising swell under the roar (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4492,7 +4492,7 @@ ENVIRONMENT: The flight-line above the cloud-sea, wings beginning to blaze. Each
 
 SPEED RAMP: Ramp 24→96fps across the kindle `00:06.0–06.5` (the fire ignites in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): wind-roar bed; `00:06.0` a deep warm fire-whoomf as the wings kindle + a soft crackling plume-shimmer (warm, living, musical); `00:06.5` a streaming flame-flutter as plumes trail; a held awed breath `00:07.0` (no word). Master-track pad begins a slow upward bend.
+AUDIO (diegetic + reaction): wind-roar bed; `00:00.0` a deep warm fire-whoomf as the wings kindle + a soft crackling plume-shimmer (warm, living, musical); `00:00.5` a streaming flame-flutter as plumes trail; a held awed breath `00:01.0` (no word). Master-track pad begins a slow upward bend.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4583,7 +4583,7 @@ ENVIRONMENT: The open dawn sky above the cloud-sea, wings of living fire. Every 
 
 SPEED RAMP: 96fps deep slow-mo through the full-blaze peak easing to 48fps on the bank.
 
-AUDIO (diegetic + reaction): wind-roar bed; `00:07.7` a deep warm fire-roar as the wings blaze + steady living-flame crackle `00:07.7–10.0` (warm, soft tails); a low sub-swell at the peak `00:08.4`; a calm awed breath through the soar. No VO yet. Master-track hits its PEAK — a soaring orchestral-and-choir swell landed on the full blaze (under the SFX, never full).
+AUDIO (diegetic + reaction): wind-roar bed; `00:00.7` a deep warm fire-roar as the wings blaze + steady living-flame crackle `00:00.7–03.0` (warm, soft tails); a low sub-swell at the peak `00:01.4`; a calm awed breath through the soar. No VO yet. Master-track hits its PEAK — a soaring orchestral-and-choir swell landed on the full blaze (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4674,7 +4674,7 @@ ENVIRONMENT: A canyon carved in the cloud-sea, gold sky above. Each area of the 
 
 SPEED RAMP: 48fps slow-mo through the carve easing to 100% real-time on the level-out.
 
-AUDIO (diegetic + reaction): wind-roar bed; `00:10.7` a deep banking fire-roar + a long trailing flame-whoosh `00:10.7–12.4`; `00:11.6` cloud-vapor rush as she carves the walls; a joyful focused breath `00:12.4` (no word). Master-track eases from the peak, soaring and warm (present, never full).
+AUDIO (diegetic + reaction): wind-roar bed; `00:00.7` a deep banking fire-roar + a long trailing flame-whoosh `00:00.7–02.4`; `00:01.6` cloud-vapor rush as she carves the walls; a joyful focused breath `00:02.4` (no word). Master-track eases from the peak, soaring and warm (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4763,7 +4763,7 @@ ENVIRONMENT: The open dawn sky above the cloud-sea, fire resolved. Every zone of
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + VO): wind bed easing to a calmer glide-tone; `00:13.8` a soft settling membrane-flutter + a last fading flame-shimmer; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:14.8–16.6`: "The fall only frightens those... who never learned they had wings." master-track ducks under the VO; a release exhale `00:15.8` (breath only). Aira's mouth stays neutral behind the visor (no lip-sync).
+AUDIO (diegetic + VO): wind bed easing to a calmer glide-tone; `00:00.8` a soft settling membrane-flutter + a last fading flame-shimmer; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.8–03.6`: "The fall only frightens those... who never learned they had wings." master-track ducks under the VO; a release exhale `00:02.8` (breath only). Aira's mouth stays neutral behind the visor (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -4852,7 +4852,7 @@ ENVIRONMENT: The granite spire at sunrise, infinite cloud-sea, distant peaks. Ea
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the vast high-altitude wind bed returns (the Frame 1 bed); `00:17.4` a soft membrane-flutter as she resets; `00:18.0` her slow centering exhale (no word). Master-track resolves on a sustained vast chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the vast high-altitude wind bed returns (the Frame 1 bed); `00:00.4` a soft membrane-flutter as she resets; `00:01.0` her slow centering exhale (no word). Master-track resolves on a sustained vast chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5074,7 +5074,7 @@ ENVIRONMENT: The dune face filling the screen, sand spraying, heat-haze. Each ar
 
 SPEED RAMP: 100% to a slight 90% ease as the bow-wave builds, prepping the parting.
 
-AUDIO (diegetic + reaction): desert bed under; `00:03.1` a rally-engine throttle-bark crescendo + a continuous sand-spray hiss `00:03.1–05.4`; `00:03.9` a deep suspension-thump on the climb; `00:04.8` a sharp focused inhale inside the helmet (no word). Master-track adds a low driving pulse under the surge (present, never full).
+AUDIO (diegetic + reaction): desert bed under; `00:00.1` a rally-engine throttle-bark crescendo + a continuous sand-spray hiss `00:00.1–02.4`; `00:00.9` a deep suspension-thump on the climb; `00:01.8` a sharp focused inhale inside the helmet (no word). Master-track adds a low driving pulse under the surge (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5165,7 +5165,7 @@ ENVIRONMENT: The dune face splitting into the first sand-walls. Every zone of th
 
 SPEED RAMP: Ramp 24→96fps across the parting `00:05.8–06.2` (the sand peels up in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): desert bed low; `00:05.8` a hard engine surge + a deep whooshing sand-roar as the walls rise (heavy, granular, oceanic); `00:06.2` a cascading sand-hiss as the walls climb; a sharp focused breath `00:06.6` (no word). Master-track pad begins a slow upward bend.
+AUDIO (diegetic + reaction): desert bed low; `00:00.8` a hard engine surge + a deep whooshing sand-roar as the walls rise (heavy, granular, oceanic); `00:01.2` a cascading sand-hiss as the walls climb; a sharp focused breath `00:01.6` (no word). Master-track pad begins a slow upward bend.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5256,7 +5256,7 @@ ENVIRONMENT: A corridor of towering liquid-gold sand-walls racing past, collapsi
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as the crest appears.
 
-AUDIO (diegetic + reaction): desert bed low; `00:07.3` a deep oceanic sand-roar as the walls tower + fine granular cascade-hiss `00:07.3–09.0` (heavy, soft tails); a low sub-boom at the peak `00:08.0`; a steady engine thread under; a calm held breath through the charge. No VO yet. Master-track hits its PEAK — a soaring cinematic-and-percussion swell landed on the full parting (under the SFX, never full).
+AUDIO (diegetic + reaction): desert bed low; `00:00.3` a deep oceanic sand-roar as the walls tower + fine granular cascade-hiss `00:00.3–02.0` (heavy, soft tails); a low sub-boom at the peak `00:01.0`; a steady engine thread under; a calm held breath through the charge. No VO yet. Master-track hits its PEAK — a soaring cinematic-and-percussion swell landed on the full parting (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5345,7 +5345,7 @@ ENVIRONMENT: The open desert flat, sand-walls collapsing far behind. Each area o
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + VO): desert bed easing; `00:10.4` a deep collapsing sand-cascade + a settling engine burble; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:11.4–13.0`: "Stand still and it buries you... charge, and it parts." master-track ducks under the VO; a release exhale `00:12.6` (breath only). Aira's mouth stays neutral behind the visor (no lip-sync).
+AUDIO (diegetic + VO): desert bed easing; `00:00.4` a deep collapsing sand-cascade + a settling engine burble; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.4–03.0`: "Stand still and it buries you... charge, and it parts." master-track ducks under the VO; a release exhale `00:02.6` (breath only). Aira's mouth stays neutral behind the visor (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5434,7 +5434,7 @@ ENVIRONMENT: The Saharan dune-sea at golden hour, rolling ridges, burning sun. E
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the vast desert wind and fine sand bed returns (the Frame 1 bed); `00:14.0` a soft glove-creak as she resets; `00:14.6` her slow centering exhale (no word). Master-track resolves on a sustained warm chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the vast desert wind and fine sand bed returns (the Frame 1 bed); `00:00.0` a soft glove-creak as she resets; `00:00.6` her slow centering exhale (no word). Master-track resolves on a sustained warm chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5656,7 +5656,7 @@ ENVIRONMENT: The dive from the cliff, ocean rushing up, sunset sky. Each area of
 
 SPEED RAMP: 100% to a slight 90% ease at full extension, prepping the mercury turn.
 
-AUDIO (diegetic + reaction): wind bed swelling; `00:03.3` a soft committed exhale (breath, no word) as she launches; `00:03.9` a rising wind-rush as she accelerates `00:03.9–05.6`; distant surf-boom under. Master-track adds a low rising swell under the rush (present, never full). SILENT — no VO.
+AUDIO (diegetic + reaction): wind bed swelling; `00:00.3` a soft committed exhale (breath, no word) as she launches; `00:00.9` a rising wind-rush as she accelerates `00:00.9–02.6`; distant surf-boom under. Master-track adds a low rising swell under the rush (present, never full). SILENT — no VO.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5747,7 +5747,7 @@ ENVIRONMENT: The dive-line above the transforming sea, water turning to silver. 
 
 SPEED RAMP: Ramp 24→96fps across the turn `00:06.0–06.5` (the sea mirrors in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): wind-rush bed; `00:06.0` a deep glassy shimmer-tone as the sea turns to mercury + a soft metallic surface-ring (cool, crystalline, musical); `00:06.5` a low resonant hum as the mirror spreads; a held awed breath `00:07.0` (no word). Master-track pad begins a slow upward bend. SILENT — no VO.
+AUDIO (diegetic + reaction): wind-rush bed; `00:00.0` a deep glassy shimmer-tone as the sea turns to mercury + a soft metallic surface-ring (cool, crystalline, musical); `00:00.5` a low resonant hum as the mirror spreads; a held awed breath `00:01.0` (no word). Master-track pad begins a slow upward bend. SILENT — no VO.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5838,7 +5838,7 @@ ENVIRONMENT: A flawless liquid-silver sea under a burning coral sky. Each area o
 
 SPEED RAMP: 96fps deep slow-mo through the mirror peak easing to 48fps as the hands near entry.
 
-AUDIO (diegetic + reaction): wind-rush thinning; `00:07.7` a sustained glassy mirror-resonance + a soft crystalline shimmer `00:07.7–10.0` (cool, ringing, musical); a low sub-swell at the peak `00:08.4`; a calm awed breath through the descent. Master-track hits its PEAK — a soaring orchestral-and-glass-harmonica swell landed on the full mirror (under the SFX, never full). SILENT — no VO.
+AUDIO (diegetic + reaction): wind-rush thinning; `00:00.7` a sustained glassy mirror-resonance + a soft crystalline shimmer `00:00.7–03.0` (cool, ringing, musical); a low sub-swell at the peak `00:01.4`; a calm awed breath through the descent. Master-track hits its PEAK — a soaring orchestral-and-glass-harmonica swell landed on the full mirror (under the SFX, never full). SILENT — no VO.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -5927,7 +5927,7 @@ ENVIRONMENT: The turquoise sea at the entry-point, mirror resolved to water. Eve
 
 SPEED RAMP: 96fps deep slow-mo through the pierce easing to 100% real-time on the glide.
 
-AUDIO (diegetic + reaction): `00:10.7` a crisp water-pierce thwip + a glassy shatter-shimmer as the mercury bursts to droplets; `00:11.0` a deep muffled underwater whoosh + radiating ripple-trickle; a calm bubble-stream as she glides; surf-boom returning above. Master-track eases from the peak, warm and resolving (present, never full). SILENT — no VO.
+AUDIO (diegetic + reaction): `00:00.7` a crisp water-pierce thwip + a glassy shatter-shimmer as the mercury bursts to droplets; `00:01.0` a deep muffled underwater whoosh + radiating ripple-trickle; a calm bubble-stream as she glides; surf-boom returning above. Master-track eases from the peak, warm and resolving (present, never full). SILENT — no VO.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -6016,7 +6016,7 @@ ENVIRONMENT: The basalt sea-cliff at sunset, turquoise ocean below, burning sun.
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the vast coastal wind, surf-boom and gull bed returns (the Frame 1 bed); `00:14.4` a soft spray-hiss as she resets; `00:15.0` her slow centering exhale (no word). Master-track resolves on a sustained warm chord so the reel loops with no audible seam. SILENT — no VO, no words from Aira.
+AUDIO (diegetic + master-track button): the vast coastal wind, surf-boom and gull bed returns (the Frame 1 bed); `00:00.4` a soft spray-hiss as she resets; `00:01.0` her slow centering exhale (no word). Master-track resolves on a sustained warm chord so the reel loops with no audible seam. SILENT — no VO, no words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -6238,7 +6238,7 @@ ENVIRONMENT: The skyway plunging ahead, billboards smearing, mist rippling. Each
 
 SPEED RAMP: 100% to a slight 90% ease as the first after-image flickers, prepping the echo-spawn.
 
-AUDIO (diegetic + reaction): city bed under; `00:03.3` a thruster-surge whoosh + a rising electric-whine `00:03.3–05.6`; `00:03.9` a deep mag-lev hum on the launch; `00:04.8` a sharp focused inhale inside the helmet (no word). Master-track adds a low driving pulse under the surge (present, never full).
+AUDIO (diegetic + reaction): city bed under; `00:00.3` a thruster-surge whoosh + a rising electric-whine `00:00.3–02.6`; `00:00.9` a deep mag-lev hum on the launch; `00:01.8` a sharp focused inhale inside the helmet (no word). Master-track adds a low driving pulse under the surge (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -6329,7 +6329,7 @@ ENVIRONMENT: The skyway with the first echo-clones streaming behind. Each area o
 
 SPEED RAMP: Ramp 24→96fps across the spawn `00:06.0–06.5` (the echoes bloom in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): city bed low; `00:06.0` a deep reverberant time-warble as the echoes spawn + a soft phasing electric-shimmer (cool, glitchy, musical); `00:06.5` a layered thruster-echo as the clones stream; a sharp focused breath `00:07.0` (no word). Master-track pad begins a slow upward bend.
+AUDIO (diegetic + reaction): city bed low; `00:00.0` a deep reverberant time-warble as the echoes spawn + a soft phasing electric-shimmer (cool, glitchy, musical); `00:00.5` a layered thruster-echo as the clones stream; a sharp focused breath `00:01.0` (no word). Master-track pad begins a slow upward bend.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -6420,7 +6420,7 @@ ENVIRONMENT: The neon sky-canyon with a streaming chain of time-echo ghost-rider
 
 SPEED RAMP: 96fps deep slow-mo through the echo peak easing to 48fps on the collapse.
 
-AUDIO (diegetic + reaction): city bed low; `00:07.7` a deep layered time-warble as the chain streams + a phasing multi-thruster shimmer `00:07.7–10.0` (cool, glitchy, musical); a low sub-swell at the peak `00:08.4`; a calm focused breath through the chase. No VO yet. Master-track hits its PEAK — a soaring synth-and-sub swell landed on the full chain (under the SFX, never full).
+AUDIO (diegetic + reaction): city bed low; `00:00.7` a deep layered time-warble as the chain streams + a phasing multi-thruster shimmer `00:00.7–03.0` (cool, glitchy, musical); a low sub-swell at the peak `00:01.4`; a calm focused breath through the chase. No VO yet. Master-track hits its PEAK — a soaring synth-and-sub swell landed on the full chain (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -6509,7 +6509,7 @@ ENVIRONMENT: The neon skyway flowing, last echoes fading. Each area of the frame
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + reaction): city bed; `00:10.7` a reverse-warble whoosh as the echoes snap back into one + a settling thruster-hum; a release exhale `00:11.6` (breath only, no word). Master-track holds its warmth, easing from the peak (present, never full). No VO yet.
+AUDIO (diegetic + reaction): city bed; `00:00.7` a reverse-warble whoosh as the echoes snap back into one + a settling thruster-hum; a release exhale `00:01.6` (breath only, no word). Master-track holds its warmth, easing from the peak (present, never full). No VO yet.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -6598,7 +6598,7 @@ ENVIRONMENT: The cruising skyway, neon billboards flowing past. Every zone of th
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + VO): city bed; a steady cruising thruster-hum; a soft glove-creak `00:13.4`; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:14.0–16.0`: "By the time they see her... she's already gone." master-track ducks under the VO and holds warm; a calm breath `00:16.2` (breath only). Aira's mouth stays neutral behind the visor (no lip-sync).
+AUDIO (diegetic + VO): city bed; a steady cruising thruster-hum; a soft glove-creak `00:00.4`; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.0–03.0`: "By the time they see her... she's already gone." master-track ducks under the VO and holds warm; a calm breath `00:03.2` (breath only). Aira's mouth stays neutral behind the visor (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -6687,7 +6687,7 @@ ENVIRONMENT: The neon megacity sky-canyon at night, billboards, traffic-rivers. 
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the deep night-city ambience and idling thruster bed returns (the Frame 1 bed); `00:17.4` a soft glove-creak as she resets; `00:18.0` her slow centering exhale (no word). Master-track resolves on a sustained warm chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the deep night-city ambience and idling thruster bed returns (the Frame 1 bed); `00:00.4` a soft glove-creak as she resets; `00:01.0` her slow centering exhale (no word). Master-track resolves on a sustained warm chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -6909,7 +6909,7 @@ ENVIRONMENT: The corridor with the laser grid looming, mist parting. Each area o
 
 SPEED RAMP: 100% to a slight 90% ease as the beams begin to flex, prepping the bend.
 
-AUDIO (diegetic + reaction): server bed under; `00:03.1` sharp athletic footfalls on obsidian + a fabric air-cut `00:03.1–05.4`; `00:03.9` a powering controlled grunt-breath (no word); `00:04.8` the laser-whine rising as she nears the grid. Master-track adds a low driving pulse under the sprint (present, never full).
+AUDIO (diegetic + reaction): server bed under; `00:00.1` sharp athletic footfalls on obsidian + a fabric air-cut `00:00.1–02.4`; `00:00.9` a powering controlled grunt-breath (no word); `00:01.8` the laser-whine rising as she nears the grid. Master-track adds a low driving pulse under the sprint (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7000,7 +7000,7 @@ ENVIRONMENT: The grid with the first beams curving open around her. Every zone o
 
 SPEED RAMP: Ramp 24→96fps across the bend `00:05.8–06.2` (the lasers curve in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): server bed low; `00:05.8` a deep resonant warp-tone as the lasers bend + a soft electric-whoosh as the beams curve (cool, taut, musical); `00:06.2` a high singing laser-bend shimmer as they arc; a sharp focused breath `00:06.6` (no word). Master-track pad begins a slow upward bend.
+AUDIO (diegetic + reaction): server bed low; `00:00.8` a deep resonant warp-tone as the lasers bend + a soft electric-whoosh as the beams curve (cool, taut, musical); `00:01.2` a high singing laser-bend shimmer as they arc; a sharp focused breath `00:01.6` (no word). Master-track pad begins a slow upward bend.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7091,7 +7091,7 @@ ENVIRONMENT: A tunnel of bent crimson-cyan laser-light arcing to the vault. Each
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as she clears.
 
-AUDIO (diegetic + reaction): server bed low; `00:07.3` a deep sustained warp-resonance as the grid bends + a high singing laser-arc shimmer `00:07.3–09.0` (cool, taut, musical); a low sub-swell at the peak `00:08.0`; sharp athletic footfalls under; a calm focused breath through the run. No VO yet. Master-track hits its PEAK — a soaring synth-and-sub swell landed on the full bent tunnel (under the SFX, never full).
+AUDIO (diegetic + reaction): server bed low; `00:00.3` a deep sustained warp-resonance as the grid bends + a high singing laser-arc shimmer `00:00.3–02.0` (cool, taut, musical); a low sub-swell at the peak `00:01.0`; sharp athletic footfalls under; a calm focused breath through the run. No VO yet. Master-track hits its PEAK — a soaring synth-and-sub swell landed on the full bent tunnel (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7180,7 +7180,7 @@ ENVIRONMENT: The vault door, the straightened laser grid behind. Every zone of t
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + VO): server bed easing; `00:10.4` a crisp electric snap as the grid resets straight + a settling vault-panel chime; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:11.4–13.0`: "Rules bend... for the ones who don't." master-track ducks under the VO; a release exhale `00:12.6` (breath only). Aira's mouth stays neutral (no lip-sync).
+AUDIO (diegetic + VO): server bed easing; `00:00.4` a crisp electric snap as the grid resets straight + a settling vault-panel chime; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.4–03.0`: "Rules bend... for the ones who don't." master-track ducks under the VO; a release exhale `00:02.6` (breath only). Aira's mouth stays neutral (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7269,7 +7269,7 @@ ENVIRONMENT: The high-security vault corridor at night, laser grid, glowing vaul
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the cold server ambience and laser-grid whine bed returns (the Frame 1 bed); `00:14.0` a soft glove-creak as she resets; `00:14.6` her slow centering exhale (no word). Master-track resolves on a sustained tense chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the cold server ambience and laser-grid whine bed returns (the Frame 1 bed); `00:00.0` a soft glove-creak as she resets; `00:00.6` her slow centering exhale (no word). Master-track resolves on a sustained tense chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7491,7 +7491,7 @@ ENVIRONMENT: The glass face streaming down, the tower soaring, drop falling away
 
 SPEED RAMP: 100% to a slight 90% ease as the tower begins to tilt, prepping the rotation.
 
-AUDIO (diegetic + reaction): wind bed under; `00:03.3` sharp grippy shoe-smears and chalk-puffs on glass + a fabric air-cut `00:03.3–05.6`; `00:04.1` a powering controlled climb-breath (no word); `00:04.8` the wind rising as she accelerates. Master-track adds a low driving pulse under the climb (present, never full). No VO (silent reel).
+AUDIO (diegetic + reaction): wind bed under; `00:00.3` sharp grippy shoe-smears and chalk-puffs on glass + a fabric air-cut `00:00.3–02.6`; `00:01.1` a powering controlled climb-breath (no word); `00:01.8` the wind rising as she accelerates. Master-track adds a low driving pulse under the climb (present, never full). No VO (silent reel).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7582,7 +7582,7 @@ ENVIRONMENT: The skyscraper rotating from vertical toward horizontal around her.
 
 SPEED RAMP: Ramp 24→96fps across the tilt `00:06.0–06.6` (the rotation blooms in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): wind bed low; `00:06.0` a deep groaning low-frequency world-rotation rumble + a sweeping airy whoosh as the tower turns (vast, awed, musical); `00:06.6` a glassy reorienting shimmer as gravity shifts; a sharp wonder-breath `00:07.0` (no word). Master-track pad begins a slow soaring rise. No VO (silent reel).
+AUDIO (diegetic + reaction): wind bed low; `00:00.0` a deep groaning low-frequency world-rotation rumble + a sweeping airy whoosh as the tower turns (vast, awed, musical); `00:00.6` a glassy reorienting shimmer as gravity shifts; a sharp wonder-breath `00:01.0` (no word). Master-track pad begins a slow soaring rise. No VO (silent reel).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7673,7 +7673,7 @@ ENVIRONMENT: The skyscraper as a horizontal glass runway to the open sky. Each a
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as the tower rotates back.
 
-AUDIO (diegetic + reaction): wind bed low; `00:07.9` a vast airy sustained tone as she runs the impossible flat + smooth grippy footfalls on glass `00:07.9–10.0` (awed, weightless, musical); a low sub-swell at the peak `00:08.6`; a calm exhilarated breath through the run. No VO (silent reel). Master-track hits its PEAK — a soaring orchestral-and-synth swell landed on the full horizontal run (under the SFX, never full).
+AUDIO (diegetic + reaction): wind bed low; `00:00.9` a vast airy sustained tone as she runs the impossible flat + smooth grippy footfalls on glass `00:00.9–03.0` (awed, weightless, musical); a low sub-swell at the peak `00:01.6`; a calm exhilarated breath through the run. No VO (silent reel). Master-track hits its PEAK — a soaring orchestral-and-synth swell landed on the full horizontal run (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7762,7 +7762,7 @@ ENVIRONMENT: The restored vertical tower, the city far below. Every zone of the 
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + reaction): wind bed; `00:10.9` a deep reverse-rotation rumble as the world rights itself + a settling glass-creak as she catches the hold; a release exhale `00:11.8` (breath only, no word). Master-track holds its warmth, easing from the peak (present, never full). No VO (silent reel).
+AUDIO (diegetic + reaction): wind bed; `00:00.9` a deep reverse-rotation rumble as the world rights itself + a settling glass-creak as she catches the hold; a release exhale `00:01.8` (breath only, no word). Master-track holds its warmth, easing from the peak (present, never full). No VO (silent reel).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7851,7 +7851,7 @@ ENVIRONMENT: The high hold, golden city below, clouds sliding past. Every zone o
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic, silent reel): wind bed; a steady high wind; a soft glove-creak `00:13.8`; a calm breath `00:16.2` (breath only). Master-track holds warm under the wind (present, never full). No VO of any kind (silent reel).
+AUDIO (diegetic, silent reel): wind bed; a steady high wind; a soft glove-creak `00:00.8`; a calm breath `00:03.2` (breath only). Master-track holds warm under the wind (present, never full). No VO of any kind (silent reel).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -7940,7 +7940,7 @@ ENVIRONMENT: The skyscraper glass face at dusk, megacity drop below, drifting hi
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the high-altitude wind ambience and distant city-hum bed returns (the Frame 1 bed); `00:17.4` a soft glass-creak as she resets; `00:18.0` her slow centering exhale (no word). Master-track resolves on a sustained airy chord so the reel loops with no audible seam. No VO of any kind (silent reel).
+AUDIO (diegetic + master-track button): the high-altitude wind ambience and distant city-hum bed returns (the Frame 1 bed); `00:00.4` a soft glass-creak as she resets; `00:01.0` her slow centering exhale (no word). Master-track resolves on a sustained airy chord so the reel loops with no audible seam. No VO of any kind (silent reel).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -8162,7 +8162,7 @@ ENVIRONMENT: The alley deepening, rain pouring, beginning to slow. Each area of 
 
 SPEED RAMP: 100% to a slight 80% ease as the rain begins to hang, prepping the freeze.
 
-AUDIO (diegetic + reaction): rain bed under; `00:03.3` deliberate wet boot-steps splashing the cobbles `00:03.3–05.6`; `00:03.9` a calm controlled breath (no word); `00:04.8` the rain-drumming beginning to thin and slow as the freeze nears. Master-track adds a low moody pulse under the walk (present, never full).
+AUDIO (diegetic + reaction): rain bed under; `00:00.3` deliberate wet boot-steps splashing the cobbles `00:00.3–02.6`; `00:00.9` a calm controlled breath (no word); `00:01.8` the rain-drumming beginning to thin and slow as the freeze nears. Master-track adds a low moody pulse under the walk (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -8253,7 +8253,7 @@ ENVIRONMENT: The alley with the rain freezing into a suspended field around her.
 
 SPEED RAMP: Ramp 24→96fps across the freeze `00:06.0–06.6` (the suspend blooms in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): rain bed dropping out fast; `00:06.0` a deep sucking time-stop whoomp as the rain freezes + the drumming rain cutting to an eerie crystalline silence + a soft shimmering chime as droplets suspend (cool, awed, musical); a sharp wonder-breath `00:07.0` (no word). Master-track pad begins a slow soaring rise into the silence.
+AUDIO (diegetic + reaction): rain bed dropping out fast; `00:00.0` a deep sucking time-stop whoomp as the rain freezes + the drumming rain cutting to an eerie crystalline silence + a soft shimmering chime as droplets suspend (cool, awed, musical); a sharp wonder-breath `00:01.0` (no word). Master-track pad begins a slow soaring rise into the silence.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -8344,7 +8344,7 @@ ENVIRONMENT: The alley filled with a motionless field of glittering suspended ra
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as time resumes.
 
-AUDIO (diegetic + reaction): eerie crystalline near-silence; `00:07.9` only her soft footfalls and breath in the frozen world + a faint sustained shimmering bead-tone `00:07.9–10.0` (awed, hushed, musical); a low sub-swell at the peak `00:08.6`; a calm wonder breath through the walk. No VO yet. Master-track hits its PEAK — a soaring strings-and-synth swell landed on the frozen storm (under the SFX, never full).
+AUDIO (diegetic + reaction): eerie crystalline near-silence; `00:00.9` only her soft footfalls and breath in the frozen world + a faint sustained shimmering bead-tone `00:00.9–03.0` (awed, hushed, musical); a low sub-swell at the peak `00:01.6`; a calm wonder breath through the walk. No VO yet. Master-track hits its PEAK — a soaring strings-and-synth swell landed on the frozen storm (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -8433,7 +8433,7 @@ ENVIRONMENT: The far end of the alley, rain crashing back down behind. Every zon
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + VO): silence breaking; `00:10.9` a deep whoomp as time resumes + the downpour crashing back in full + puddle re-splashes; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:11.6–13.2`: "Even the rain learns to wait." master-track ducks under the VO; a release exhale `00:12.8` (breath only). Aira's mouth stays neutral (no lip-sync).
+AUDIO (diegetic + VO): silence breaking; `00:00.9` a deep whoomp as time resumes + the downpour crashing back in full + puddle re-splashes; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.6–03.2`: "Even the rain learns to wait." master-track ducks under the VO; a release exhale `00:02.8` (breath only). Aira's mouth stays neutral (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -8522,7 +8522,7 @@ ENVIRONMENT: The rain-soaked neon alley at night, wet cobbles, steam, puddles. E
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the dense rain ambience and neon-buzz bed returns (the Frame 1 bed); `00:14.2` a soft drip from a sign as she resets; `00:14.8` her slow centering exhale (no word). Master-track resolves on a sustained moody chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the dense rain ambience and neon-buzz bed returns (the Frame 1 bed); `00:00.2` a soft drip from a sign as she resets; `00:00.8` her slow centering exhale (no word). Master-track resolves on a sustained moody chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -8744,7 +8744,7 @@ ENVIRONMENT: The moonlit dojo, smoke parting at the blade. Every zone of the fra
 
 SPEED RAMP: 100% to a slight 80% ease as the blade-trail begins to glow, prepping the calligraphy.
 
-AUDIO (diegetic + reaction): dojo silence under; `00:03.3` a clean blade-draw shing and a sharp air-cut whoosh `00:03.3–05.6`; `00:03.9` a controlled focused breath (no word); `00:04.8` a soft singing ring as the blade-trail begins to glow. Master-track adds a low meditative pulse under the form (present, never full).
+AUDIO (diegetic + reaction): dojo silence under; `00:00.3` a clean blade-draw shing and a sharp air-cut whoosh `00:00.3–02.6`; `00:00.9` a controlled focused breath (no word); `00:01.8` a soft singing ring as the blade-trail begins to glow. Master-track adds a low meditative pulse under the form (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -8835,7 +8835,7 @@ ENVIRONMENT: The dojo with the first glowing calligraphy-stroke hanging in the a
 
 SPEED RAMP: Ramp 24→96fps across the first stroke `00:06.0–06.6` (the calligraphy blooms in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): dojo silence; `00:06.0` a clean blade-cut shing + a soft singing ink-shimmer chime as the stroke forms (warm, elegant, musical) + a faint brush-on-paper whisper; a sharp focused breath `00:07.0` (no word). Master-track pad begins a slow soaring rise.
+AUDIO (diegetic + reaction): dojo silence; `00:00.0` a clean blade-cut shing + a soft singing ink-shimmer chime as the stroke forms (warm, elegant, musical) + a faint brush-on-paper whisper; a sharp focused breath `00:01.0` (no word). Master-track pad begins a slow soaring rise.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -8926,7 +8926,7 @@ ENVIRONMENT: The dojo filled with a bloom of glowing ink-light calligraphy. Ever
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as the calligraphy dissolves.
 
-AUDIO (diegetic + reaction): dojo silence; `00:07.9` a flowing series of blade-cut shings + singing ink-shimmer chimes as each stroke forms `00:07.9–10.0` (warm, elegant, musical); a low sub-swell at the peak `00:08.6`; soft footfalls and a calm focused breath through the form. No VO yet. Master-track hits its PEAK — a soaring strings-and-koto swell landed on the full calligraphy (under the SFX, never full).
+AUDIO (diegetic + reaction): dojo silence; `00:00.9` a flowing series of blade-cut shings + singing ink-shimmer chimes as each stroke forms `00:00.9–03.0` (warm, elegant, musical); a low sub-swell at the peak `00:01.6`; soft footfalls and a calm focused breath through the form. No VO yet. Master-track hits its PEAK — a soaring strings-and-koto swell landed on the full calligraphy (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9015,7 +9015,7 @@ ENVIRONMENT: The final stance, last calligraphy-embers drifting. Every zone of t
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + VO): dojo silence; `00:10.9` a soft fading ink-shimmer as the calligraphy dissolves + a clean blade-settle ring; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:11.6–13.2`: "She does not strike. She writes." master-track ducks under the VO; a release exhale `00:12.8` (breath only). Aira's mouth stays neutral (no lip-sync).
+AUDIO (diegetic + VO): dojo silence; `00:00.9` a soft fading ink-shimmer as the calligraphy dissolves + a clean blade-settle ring; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.6–03.2`: "She does not strike. She writes." master-track ducks under the VO; a release exhale `00:02.8` (breath only). Aira's mouth stays neutral (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9104,7 +9104,7 @@ ENVIRONMENT: The moonlit dojo at night, shoji screens, incense, polished floor. 
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the deep dojo silence and distant temple-bell bed returns (the Frame 1 bed); `00:14.2` a soft gi-rustle as she resets; `00:14.8` her slow centering exhale (no word). Master-track resolves on a sustained meditative chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the deep dojo silence and distant temple-bell bed returns (the Frame 1 bed); `00:00.2` a soft gi-rustle as she resets; `00:00.8` her slow centering exhale (no word). Master-track resolves on a sustained meditative chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9326,7 +9326,7 @@ ENVIRONMENT: The canyon sweeping past, asphalt threading the gorge. Every zone o
 
 SPEED RAMP: 100% to a slight 80% ease as the rock begins to glow, prepping the bloom.
 
-AUDIO (diegetic + reaction): canyon wind under; `00:03.3` a throttle roll-on and a building engine-snarl `00:03.3–05.6`; `00:03.9` a controlled focused breath (no word); `00:04.8` a soft rising shimmer-tone as the first glow kindles in the rock. Master-track adds a low wondrous pulse under the ride (present, never full).
+AUDIO (diegetic + reaction): canyon wind under; `00:00.3` a throttle roll-on and a building engine-snarl `00:00.3–02.6`; `00:00.9` a controlled focused breath (no word); `00:01.8` a soft rising shimmer-tone as the first glow kindles in the rock. Master-track adds a low wondrous pulse under the ride (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9417,7 +9417,7 @@ ENVIRONMENT: The canyon with the rock blooming bioluminescent along her line. Ea
 
 SPEED RAMP: Ramp 24→96fps across the ignite `00:06.0–06.6` (the bloom blooms in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): canyon wind; `00:06.0` the engine-snarl carving + a soft rising shimmer-bloom chime as the glow ignites (wondrous, warm, musical) + a faint crystalline-growth tone; a sharp focused breath `00:07.0` (no word). Master-track pad begins a slow soaring rise.
+AUDIO (diegetic + reaction): canyon wind; `00:00.0` the engine-snarl carving + a soft rising shimmer-bloom chime as the glow ignites (wondrous, warm, musical) + a faint crystalline-growth tone; a sharp focused breath `00:01.0` (no word). Master-track pad begins a slow soaring rise.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9508,7 +9508,7 @@ ENVIRONMENT: The canyon alive with blooming bioluminescent light. Every zone of 
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as she exits.
 
-AUDIO (diegetic + reaction): canyon wind low; `00:07.9` the engine-snarl railing + a soaring sustained shimmer-bloom tone as the canyon glows `00:07.9–10.0` (awed, warm, musical); a low sub-swell at the peak `00:08.6`; a calm wonder breath through the carve. No VO (silent reel). Master-track hits its PEAK — a soaring strings-and-synth swell landed on the glowing canyon (under the SFX, never full).
+AUDIO (diegetic + reaction): canyon wind low; `00:00.9` the engine-snarl railing + a soaring sustained shimmer-bloom tone as the canyon glows `00:00.9–03.0` (awed, warm, musical); a low sub-swell at the peak `00:01.6`; a calm wonder breath through the carve. No VO (silent reel). Master-track hits its PEAK — a soaring strings-and-synth swell landed on the glowing canyon (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9597,7 +9597,7 @@ ENVIRONMENT: The exit straight, the bloom fading down the canyon behind. Every z
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic): canyon wind returning; `00:10.9` a soft fading shimmer as the bloom dims + the engine easing to a smooth cruise-note; a release exhale `00:12.8` (breath only). No VO (silent reel). Master-track holds its warmth, easing from the peak (present, never full).
+AUDIO (diegetic): canyon wind returning; `00:00.9` a soft fading shimmer as the bloom dims + the engine easing to a smooth cruise-note; a release exhale `00:02.8` (breath only). No VO (silent reel). Master-track holds its warmth, easing from the peak (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9686,7 +9686,7 @@ ENVIRONMENT: The low rise overlooking the dusk canyon, last bloom far below. Eac
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic): canyon wind soft; `00:14.0` a gentle idle-burble from the bike; `00:14.6` a slow content breath (no word); `00:15.6` a distant faint shimmer from the dying bloom. No VO (silent reel). Master-track holds a warm sustained pad under the pause (present, never full).
+AUDIO (diegetic): canyon wind soft; `00:00.0` a gentle idle-burble from the bike; `00:00.6` a slow content breath (no word); `00:01.6` a distant faint shimmer from the dying bloom. No VO (silent reel). Master-track holds a warm sustained pad under the pause (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9775,7 +9775,7 @@ ENVIRONMENT: The red-rock canyon at twilight, asphalt ribbon, dusk sky, first st
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the wide canyon wind and distant raptor bed returns (the Frame 1 bed); `00:17.2` a soft glove-tap on the tank as she resets; `00:17.8` her slow centering exhale (no word). Master-track resolves on a sustained wondrous chord so the reel loops with no audible seam. No VO (silent reel).
+AUDIO (diegetic + master-track button): the wide canyon wind and distant raptor bed returns (the Frame 1 bed); `00:00.2` a soft glove-tap on the tank as she resets; `00:00.8` her slow centering exhale (no word). Master-track resolves on a sustained wondrous chord so the reel loops with no audible seam. No VO (silent reel).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -9997,7 +9997,7 @@ ENVIRONMENT: The cloud-sea rushing up, peaks rushing past. Each area of the fram
 
 SPEED RAMP: 100% to a slight 80% ease as the edges begin to shimmer, prepping the scatter.
 
-AUDIO (diegetic + reaction): alpine wind under; `00:03.3` a whooshing dive-rush and a building wind-roar `00:03.3–05.6`; `00:03.9` a controlled exhilarated breath (no word); `00:04.8` a soft rising shimmer-tone as the edges begin to lift. Master-track adds a low transcendent pulse under the glide (present, never full).
+AUDIO (diegetic + reaction): alpine wind under; `00:00.3` a whooshing dive-rush and a building wind-roar `00:00.3–02.6`; `00:00.9` a controlled exhilarated breath (no word); `00:01.8` a soft rising shimmer-tone as the edges begin to lift. Master-track adds a low transcendent pulse under the glide (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10088,7 +10088,7 @@ ENVIRONMENT: The sky with the first light-birds scattering from her form. Each a
 
 SPEED RAMP: Ramp 24→96fps across the scatter `00:06.0–06.6` (the peel blooms in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): wind-rush; `00:06.0` a soft swelling whoosh as the birds peel + a shimmering wing-flutter chime as they scatter (warm, awed, musical) + a faint chorus of light-wingbeats; a sharp wonder breath `00:07.0` (no word). Master-track pad begins a slow soaring rise.
+AUDIO (diegetic + reaction): wind-rush; `00:00.0` a soft swelling whoosh as the birds peel + a shimmering wing-flutter chime as they scatter (warm, awed, musical) + a faint chorus of light-wingbeats; a sharp wonder breath `00:01.0` (no word). Master-track pad begins a slow soaring rise.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10179,7 +10179,7 @@ ENVIRONMENT: The golden sky alive with a wheeling murmuration of light over the 
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as the flock reforms.
 
-AUDIO (diegetic + reaction): wind low; `00:07.9` a soaring chorus of shimmering light-wingbeats as the flock wheels `00:07.9–10.0` (awed, warm, musical); a low sub-swell at the peak `00:08.6`; a calm wonder breath suggested. No VO yet. Master-track hits its PEAK — a soaring strings-and-choir swell landed on the murmuration (under the SFX, never full).
+AUDIO (diegetic + reaction): wind low; `00:00.9` a soaring chorus of shimmering light-wingbeats as the flock wheels `00:00.9–03.0` (awed, warm, musical); a low sub-swell at the peak `00:01.6`; a calm wonder breath suggested. No VO yet. Master-track hits its PEAK — a soaring strings-and-choir swell landed on the murmuration (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10268,7 +10268,7 @@ ENVIRONMENT: The reformed glide over the cloud-sea, last birds folding in. Every
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic): wind returning; `00:10.9` a soft folding shimmer as the flock reforms + a clean wing-snap as the suit settles taut; a release exhale `00:12.8` (breath only). No VO yet. Master-track holds its warmth, easing from the peak (present, never full).
+AUDIO (diegetic): wind returning; `00:00.9` a soft folding shimmer as the flock reforms + a clean wing-snap as the suit settles taut; a release exhale `00:02.8` (breath only). No VO yet. Master-track holds its warmth, easing from the peak (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10357,7 +10357,7 @@ ENVIRONMENT: The cruising glide over the golden cloud-sea. Each area of the fram
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + VO): a smooth glide-wind bed; `00:14.0` a soft suit-ripple; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:14.8–16.6`: "To soar, she let herself scatter." master-track ducks under the VO; a content breath `00:16.8` (breath only). Aira's mouth stays neutral (no lip-sync).
+AUDIO (diegetic + VO): a smooth glide-wind bed; `00:00.0` a soft suit-ripple; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:00.8–02.6`: "To soar, she let herself scatter." master-track ducks under the VO; a content breath `00:02.8` (breath only). Aira's mouth stays neutral (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10446,7 +10446,7 @@ ENVIRONMENT: The golden-hour mountain range, cliff-edge, cloud-sea, peaks. Every
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the high alpine wind and distant eagle bed returns (the Frame 1 bed); `00:18.2` a soft glove-flex at the hip as she resets; `00:18.8` her slow centering exhale (no word). Master-track resolves on a sustained transcendent chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the high alpine wind and distant eagle bed returns (the Frame 1 bed); `00:00.2` a soft glove-flex at the hip as she resets; `00:00.8` her slow centering exhale (no word). Master-track resolves on a sustained transcendent chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10668,7 +10668,7 @@ ENVIRONMENT: The dunes sweeping past, sand spraying off the drift. Each area of 
 
 SPEED RAMP: 100% to a slight 80% ease as the sand begins spinning up, prepping the vortex.
 
-AUDIO (diegetic + reaction): desert wind under; `00:03.3` a throttle-bark and a building rally-engine snarl `00:03.3–05.6`; `00:03.9` a controlled focused breath (no word); `00:04.8` a soft rising whoosh as the sprayed sand begins to spin. Master-track adds a low primal pulse under the drift (present, never full).
+AUDIO (diegetic + reaction): desert wind under; `00:00.3` a throttle-bark and a building rally-engine snarl `00:00.3–02.6`; `00:00.9` a controlled focused breath (no word); `00:01.8` a soft rising whoosh as the sprayed sand begins to spin. Master-track adds a low primal pulse under the drift (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10759,7 +10759,7 @@ ENVIRONMENT: The desert with the sand spinning up into a rising vortex off her d
 
 SPEED RAMP: Ramp 24→96fps across the spin-up `00:06.0–06.6` (the vortex rises in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): desert wind; `00:06.0` the engine-snarl drifting + a deep rising vortex-roar as the sand spins up (primal, awed, building) + a faint sand-hiss-shimmer; a sharp focused breath `00:07.0` (no word). Master-track pad begins a slow soaring rise.
+AUDIO (diegetic + reaction): desert wind; `00:00.0` the engine-snarl drifting + a deep rising vortex-roar as the sand spins up (primal, awed, building) + a faint sand-hiss-shimmer; a sharp focused breath `00:01.0` (no word). Master-track pad begins a slow soaring rise.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10850,7 +10850,7 @@ ENVIRONMENT: The desert dominated by a towering wheeling sand-vortex. Every zone
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as she rides out.
 
-AUDIO (diegetic + reaction): desert wind low; `00:07.9` the engine-snarl railing + a thunderous sustained vortex-roar as the storm wheels `00:07.9–10.0` (awed, primal, immense); a low sub-swell at the peak `00:08.6`; a calm awed breath through the carve. No VO yet. Master-track hits its PEAK — a soaring strings-and-taiko swell landed on the towering vortex (under the SFX, never full).
+AUDIO (diegetic + reaction): desert wind low; `00:00.9` the engine-snarl railing + a thunderous sustained vortex-roar as the storm wheels `00:00.9–03.0` (awed, primal, immense); a low sub-swell at the peak `00:01.6`; a calm awed breath through the carve. No VO yet. Master-track hits its PEAK — a soaring strings-and-taiko swell landed on the towering vortex (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -10939,7 +10939,7 @@ ENVIRONMENT: The open sand, the vortex collapsing behind. Every zone of the fram
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + VO): desert wind returning; `00:10.9` a deep collapsing-vortex rumble fading + the engine easing to a smooth cruise-note; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:11.6–13.2`: "She doesn't outrun the storm — she summons it." master-track ducks under the VO; a release exhale `00:12.8` (breath only). Aira's mouth stays neutral (no lip-sync).
+AUDIO (diegetic + VO): desert wind returning; `00:00.9` a deep collapsing-vortex rumble fading + the engine easing to a smooth cruise-note; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.6–03.2`: "She doesn't outrun the storm — she summons it." master-track ducks under the VO; a release exhale `00:02.8` (breath only). Aira's mouth stays neutral (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -11028,7 +11028,7 @@ ENVIRONMENT: The golden-hour desert, dunes, heat-dust, gold sky. Each area of th
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the wide desert wind and distant hawk bed returns (the Frame 1 bed); `00:14.2` a soft glove-tap on the roll-cage as she resets; `00:14.8` her slow centering exhale (no word). Master-track resolves on a sustained primal chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the wide desert wind and distant hawk bed returns (the Frame 1 bed); `00:00.2` a soft glove-tap on the roll-cage as she resets; `00:00.8` her slow centering exhale (no word). Master-track resolves on a sustained primal chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -11250,7 +11250,7 @@ ENVIRONMENT: The rooftop tearing past, the chasm-gap rushing up. Every zone of t
 
 SPEED RAMP: 100% to a slight 80% ease as she launches and the light begins to wrap, prepping the mag-lev.
 
-AUDIO (diegetic + reaction): high wind under; `00:03.3` driving foot-strikes and a building wind-rush `00:03.3–05.6`; `00:03.9` a controlled focused breath (no word); `00:04.8` a soft rising shimmer-tone as the light begins to wrap at the launch. Master-track adds a low electric pulse under the sprint (present, never full).
+AUDIO (diegetic + reaction): high wind under; `00:00.3` driving foot-strikes and a building wind-rush `00:00.3–02.6`; `00:00.9` a controlled focused breath (no word); `00:01.8` a soft rising shimmer-tone as the light begins to wrap at the launch. Master-track adds a low electric pulse under the sprint (present, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -11341,7 +11341,7 @@ ENVIRONMENT: The chasm-gap with the neon light wrapping her at the launch. Every
 
 SPEED RAMP: Ramp 24→96fps across the wrap `00:06.0–06.6` (the wrap blooms in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): wind-rush; `00:06.0` a soft swelling whoosh as the light wraps + a shimmering mag-lev hum as gravity releases (warm, awed, electric) + a faint rising light-tone; a sharp wonder breath `00:07.0` (no word). Master-track pad begins a slow soaring rise.
+AUDIO (diegetic + reaction): wind-rush; `00:00.0` a soft swelling whoosh as the light wraps + a shimmering mag-lev hum as gravity releases (warm, awed, electric) + a faint rising light-tone; a sharp wonder breath `00:01.0` (no word). Master-track pad begins a slow soaring rise.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -11432,7 +11432,7 @@ ENVIRONMENT: The glittering chasm of towers, Aira gliding weightless wrapped in 
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as she nears the landing.
 
-AUDIO (diegetic + reaction): wind low; `00:07.9` a soaring shimmering mag-lev hum as she glides `00:07.9–10.0` (awed, warm, electric); a low sub-swell at the peak `00:08.6`; a calm wonder breath suggested. No VO yet. Master-track hits its PEAK — a soaring synth-and-strings swell landed on the weightless glide (under the SFX, never full).
+AUDIO (diegetic + reaction): wind low; `00:00.9` a soaring shimmering mag-lev hum as she glides `00:00.9–03.0` (awed, warm, electric); a low sub-swell at the peak `00:01.6`; a calm wonder breath suggested. No VO yet. Master-track hits its PEAK — a soaring synth-and-strings swell landed on the weightless glide (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -11521,7 +11521,7 @@ ENVIRONMENT: The far rooftop, the light unspooling behind over the chasm. Every 
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + VO): wind returning; `00:10.9` a soft unspooling shimmer as the light fades + a clean foot-strike as she lands; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:11.6–13.2`: "Gravity was only ever a suggestion." master-track ducks under the VO; a release exhale `00:12.8` (breath only). Aira's mouth stays neutral (no lip-sync).
+AUDIO (diegetic + VO): wind returning; `00:00.9` a soft unspooling shimmer as the light fades + a clean foot-strike as she lands; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:01.6–03.2`: "Gravity was only ever a suggestion." master-track ducks under the VO; a release exhale `00:02.8` (breath only). Aira's mouth stays neutral (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -11610,7 +11610,7 @@ ENVIRONMENT: The neon megacity rooftops at night, wet concrete, drifting haze, g
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the high-rooftop wind and distant city-rumble bed returns (the Frame 1 bed); `00:14.2` a soft glove-press on the parapet as she resets; `00:14.8` her slow centering exhale (no word). Master-track resolves on a sustained electric chord so the reel loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the high-rooftop wind and distant city-rumble bed returns (the Frame 1 bed); `00:00.2` a soft glove-press on the parapet as she resets; `00:00.8` her slow centering exhale (no word). Master-track resolves on a sustained electric chord so the reel loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -11832,7 +11832,7 @@ ENVIRONMENT: Hypercar cockpit, star-field beyond the canopy. Each area of the fr
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + reaction): muffled cabin tone under; `00:03.4` a solid canopy-seal thunk; `00:04.0` a glove-grip creak + a launch-control set click `00:04.4`; a rising drive-spool whine `00:04.4–05.6`; a slow controlled exhale `00:04.8` (breath only). Master-track adds a low pulsing sub under the spool (present, never full). No VO this frame.
+AUDIO (diegetic + reaction): muffled cabin tone under; `00:00.4` a solid canopy-seal thunk; `00:01.0` a glove-grip creak + a launch-control set click `00:01.4`; a rising drive-spool whine `00:01.4–02.6`; a slow controlled exhale `00:01.8` (breath only). Master-track adds a low pulsing sub under the spool (present, never full). No VO this frame.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -11921,7 +11921,7 @@ ENVIRONMENT: The salt-strip tearing past under the smearing star-field. Every zo
 
 SPEED RAMP: 100% to a slight 90% ease as the nose lifts, prepping the orbital climb.
 
-AUDIO (diegetic + reaction): hard salt-rush under; `00:05.7` a launch-bang drive-spool crescendo + a rising doppler whoosh `00:06.0–07.8`; a sharp adrenaline inhale `00:06.4` (no word); a deep building thrust-rumble. Master-track surges a low driving pulse under the rush (present, never full). No VO this frame.
+AUDIO (diegetic + reaction): hard salt-rush under; `00:00.7` a launch-bang drive-spool crescendo + a rising doppler whoosh `00:01.0–02.8`; a sharp adrenaline inhale `00:01.4` (no word); a deep building thrust-rumble. Master-track surges a low driving pulse under the rush (present, never full). No VO this frame.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -12012,7 +12012,7 @@ ENVIRONMENT: The salt-flat falling away as the car climbs into the opening star-
 
 SPEED RAMP: Ramp 24→96fps across the lift `00:08.2–08.8` (the lift-off blooms in slow-mo), back to 48fps.
 
-AUDIO (diegetic + reaction): rush under; `00:08.2` a deep thunderous thrust-ignition + a rising sustained climb-roar `00:08.2–09.8` (immense, awed, building) + a faint celestial shimmer; a sharp wonder breath `00:09.0` (no word). Master-track pad begins a slow soaring rise.
+AUDIO (diegetic + reaction): rush under; `00:00.2` a deep thunderous thrust-ignition + a rising sustained climb-roar `00:00.2–01.8` (immense, awed, building) + a faint celestial shimmer; a sharp wonder breath `00:01.0` (no word). Master-track pad begins a slow soaring rise.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -12103,7 +12103,7 @@ ENVIRONMENT: The climb from atmosphere into space over the curve of Earth. Every
 
 SPEED RAMP: 48fps holding, easing to 96fps as the shimmer begins at the apex.
 
-AUDIO (diegetic + reaction): thrust-roar under; `00:09.9` a sustained climb-roar thinning as the air thins `00:09.9–12.0` (immense, awed) + a deepening celestial drone as space opens; a calm awed breath `00:11.4` (no word); the roar fading to a cosmic hush by `00:12.6`. Master-track swells toward the peak (present, never full). No VO this frame.
+AUDIO (diegetic + reaction): thrust-roar under; `00:00.9` a sustained climb-roar thinning as the air thins `00:00.9–03.0` (immense, awed) + a deepening celestial drone as space opens; a calm awed breath `00:02.4` (no word); the roar fading to a cosmic hush by `00:03.6`. Master-track swells toward the peak (present, never full). No VO this frame.
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -12194,7 +12194,7 @@ ENVIRONMENT: Deep space over the curve of Earth, the Aira-constellation of starl
 
 SPEED RAMP: 96fps deep slow-mo through the peak easing to 48fps as the sweep-back begins.
 
-AUDIO (diegetic + reaction): cosmic hush under; `00:13.1` a vast shimmering starlight-chime as she breaks `00:13.1–15.6` (magical, awed, immense) + a deep celestial sub-swell at the peak `00:13.8`; a soft awed breath-essence. No VO yet. Master-track hits its PEAK — a soaring full orchestral-and-choir swell landed on the starlight-break (under the SFX, never full).
+AUDIO (diegetic + reaction): cosmic hush under; `00:00.1` a vast shimmering starlight-chime as she breaks `00:00.1–02.6` (magical, awed, immense) + a deep celestial sub-swell at the peak `00:00.8`; a soft awed breath-essence. No VO yet. Master-track hits its PEAK — a soaring full orchestral-and-choir swell landed on the starlight-break (under the SFX, never full).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -12283,7 +12283,7 @@ ENVIRONMENT: Deep space over the curve of Earth, Aira soaring whole. Every zone 
 
 SPEED RAMP: 48fps easing to 100% real-time.
 
-AUDIO (diegetic + VO): cosmic hush; `00:16.1` a soft settling starlight-chime as she reforms + a deep warm celestial drone; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:16.8–18.8`: "The sky was never the limit — it was only ever the start line." master-track ducks under the VO; a release exhale `00:18.4` (breath only). Aira's mouth stays neutral (no lip-sync).
+AUDIO (diegetic + VO): cosmic hush; `00:00.1` a soft settling starlight-chime as she reforms + a deep warm celestial drone; NARRATOR VO (AR), warm natural Indian-accented female, NOT Aira's mouth — `00:00.8–02.8`: "The sky was never the limit — it was only ever the start line." master-track ducks under the VO; a release exhale `00:02.4` (breath only). Aira's mouth stays neutral (no lip-sync).
 
 DURATION: 6.0s (one 6-second frame).
 
@@ -12372,7 +12372,7 @@ ENVIRONMENT: The night salt-flat under the Milky Way, cracked salt, thin ground-
 
 SPEED RAMP: 100% real-time.
 
-AUDIO (diegetic + master-track button): the vast cosmic-night wind and celestial-shimmer bed returns (the Frame 1 bed); `00:20.2` a soft glove-tap on the car flank as she resets; `00:20.8` her slow centering exhale (no word). Master-track resolves on a sustained transcendent chord so the reel — and the whole set — loops with no audible seam. No words from Aira.
+AUDIO (diegetic + master-track button): the vast cosmic-night wind and celestial-shimmer bed returns (the Frame 1 bed); `00:00.2` a soft glove-tap on the car flank as she resets; `00:00.8` her slow centering exhale (no word). Master-track resolves on a sustained transcendent chord so the reel — and the whole set — loops with no audible seam. No words from Aira.
 
 DURATION: 6.0s (one 6-second frame).
 
