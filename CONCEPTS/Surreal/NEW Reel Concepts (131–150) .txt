@@ -7855,14 +7855,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): in her open palm a single raindrop has landed and begun to glow faintly, then paused — deniable, the first whisper that the rain will ignite into light.
 
-SPATIAL LOGIC: FOREGROUND — the glass bowl and open palm at ≈20% depth, tack sharp. MIDGROUND — Aira on the rooftop. BACKGROUND — the parapet, soft city-light bokeh, the blue-black sky, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
+SPATIAL LOGIC: FOREGROUND — a near rain-slicked parapet edge and glowing puddle at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the rooftop with Aira small on it, the glass bowl a small glint in her hand. BACKGROUND — the vast city spreading far below in soft light-bokeh under the blue-black rainy sky, receding with true atmospheric perspective (nearer lights sharp, far skyline hazier). Sky richly graded and cinematic with premium light, never flat or empty.
 
 LIGHTING: KEY — cool city-glow as a soft wrapping key from frame-left. FILL — a warm distant city bounce lifting the shadow side. RIM — cool light skimming her crown and one shoulder, wet-edged. PRACTICAL — the city lights and the faint glowing drop. SEPARATION — the city pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint silver kick off the glass bowl. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the bowl, 12% headroom, the bowl entering the lower third, clean negative space above to receive the glowing rain that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the bowl, the bowl entering the lower third, clean negative space above to receive the glowing rain that arrives later. She is standing three-quarter to camera on the rooftop, spine long and easy, weight settled even with a soft 2° lean toward the bowl, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Phosphor Rain Rooftop scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter on the rooftop, the glass catch-bowl held out in the left hand while the right palm begins to turn up to the rain, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame on the rooftop while the vast rainy city spreads far below and the blue-black sky rises above; the night city dwarfs the human, deep negative space holding rain and lights.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing on the night rooftop in gentle rain, the vast city spreading far below and the parapet dropping away so she reads as a lone figure dwarfed by the skyline; she is the scale-anchor that makes the rooftop and city read as truly vast. She stands three-quarter to camera near the parapet, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, the glass catch-bowl a small glint held out in one hand. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Phosphor Rain Rooftop scene while the rainy city is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her near eye and the bowl so both read crisp; the city melting to soft cyan-and-amber bokeh; rain-mist as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the rooftop and the far city crisp for the establishing scale; only the nearest rain-mist softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: cool cinematic establishing hero — keeper of glowing rain, one impossible cue building (BA.3 cause building to effect).
 
@@ -7883,20 +7883,20 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 CLIP SUMMARY: the establishing hush — rain falling soft, one drop glowing in her palm, magic implied not released; energy held at ≈15%, building toward Frame 2's ignition.
 
-SHOT TYPE: medium, chest-up to the bowl; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the bowl on the lower third line.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical 9:16 frame while the vast rainy city and night sky dominate.
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly assist; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve (slow start, gentle mid-accel, soft settle); a foreground parapet edge slips past camera-left at ≈3% screen-width for parallax; zero roll, zero shake, no whip — the move reads as a held breath, not travel.
+CAMERA MOVEMENT (detailed): a slow weighty crane-up-and-back across the full 6.0s, lifting to reveal the rooftop against the vast city below; a foreground parapet edge slips past for parallax, nearer than the far skyline; zero roll, zero shake — the reveal reads as a held breath.
 
-LENS & OPTICS: 35mm full-frame equivalent, T2.2; subtle cyan flare allowed only on the brightest practical; faint natural vignette; clean coatings, no chromatic fringing.
+LENS & OPTICS: 24mm wide full-frame equivalent, T4; subtle cyan flare allowed only on the brightest practical; faint natural vignette; clean coatings, no chromatic fringing.
 
-FOCUS BEHAVIOUR: focus split-held on her near eye and the bowl; no rack this frame; focus-breathing compensated so framing stays locked through the push-in.
+FOCUS BEHAVIOUR: deep focus holding Aira, the rooftop and the far city; no rack this frame; focus-breathing compensated so framing stays locked through the crane.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the bowl; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the bowl on the lower third line: the move is already underway — dead-still tableau, rain streaking soft past her, bowl held level; a single raindrop arrives in her open palm with a believable micro-splash.
-- [00:02–00:04] that drop kindles to a faint cyan glow then steadies (the lone cue); her chest rises on a slow shallow inhale, the coat fold-shadow shifting a hair.
-- [00:04–00:06] her gaze lifts a few degrees from palm toward the falling rain, lashes settling from a quiet blink; she rotates her right palm fully up, the raindrop earring swinging a half-beat late then settling; she opens her fingers to the rain and holds, suspended on the breath before ignition.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% near the parapet: the crane-up-and-back is already underway, lifting to reveal the vast rainy city spreading below her — the city reads vast, she reads human; the near parapet slips past faster than the far skyline in real parallax.
+- [00:02–00:04] the crane drifts on; soft rain streaks through the city-light bokeh, the skyline hazier with atmospheric perspective, a single raindrop arriving with a faint cyan glow in her small upturned palm.
+- [00:04–00:06] the move settles wide and high; her chest rises on a slow shallow inhale as she opens her fingers to the rain — the lone figure poised on the rooftop above the immense city, suspended before ignition.
 
 MICRO-EXPRESSION TRACK: near-neutral calm throughout; 0:01.2 faintest brow-soften as the drop glows; 0:02.6 a 1mm inner-brow lift reading quiet anticipation; lips stay gently closed.
 
@@ -8023,42 +8023,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 3 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked resolution of the ignition — the rain now blooming into luminous rings and tiny light-flowers all around her; face clear and wondering at the centre. This is the hero beat.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the rain blooms in light. The rain around Aira now ignites fully — every drop blooming into a luminous ring or a tiny light-flower, a soft field of glowing rain rising around her; she stands among it, cool and awed, the keeper whose rain blooms into light.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the signature hero beat — the rain blooming into luminous rings and light-flowers all around her, Aira among them with the glass bowl, the city bokeh beyond.
+SCENE NOTE: the rain blooms in light, the rooftop empty of any person. Across the night rooftop the falling rain ignites fully — every drop blooming into a luminous ring or a tiny light-flower, a soft field of glowing rain rising from the puddles and falling from the sky, the glass catch-bowl sitting on the parapet slowly filling with liquid light; no figure present, the rain blooming into light on its own.
 
-WARDROBE: the deep-teal trench coat, continuity-locked, washed in cool cyan with a warm amber edge from the city, fully modest.
+VISUAL-LEAD NOTE: catch the signature hero beat as a world shot — NO figure; the rain blooming into luminous rings and light-flowers across the rooftop, the glass bowl on the parapet catching liquid light, the soft city bokeh beyond.
 
-FOOTWEAR: the concept-locked black rain boots with the silver buckle, planted on the wet floor, established and unchanged.
 
-ACCESSORIES: the brushed-silver cuff on the lifted hand and the raindrop earring, unchanged, both glinting.
 
-HAIR: the sleek high ponytail, continuity-locked, crown catching cool wet rim, color locked.
 
-MAKEUP: the cool dewy glow, continuity-locked, cyan washing across the cheekbones with a warm amber edge, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — phosphor-cyan low, city-amber high — vivid as her eyes move across the glowing rain; the eyes never glitch.
 
-HANDS & NAILS: the glass bowl held aloft in one hand catching glowing rain, the other open among the light-flowers; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: cool awe, eyes moving across the blooming rain, lips parted in a soft breath, a quiet magic, the faintest ease at the outer eye.
 
-BODY POSTURE & WEIGHT: GAZE among the light-flowers; HEAD chin lifted; SHOULDERS opening; RIGHT ARM holding the glass bowl aloft catching glowing rain, the RIGHT HAND raised, RIGHT FINGERS easy; LEFT ARM open among the light-flowers, the LEFT HAND open, LEFT FINGERS softly spread; TORSO lengthening, square-ish; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT centred even; HAIR lifting a touch — radiant and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the rain blooming into luminous rings and light-flowers; (2) the glowing rings rippling outward as they bloom; (3) a temple strand drifting; (4) rain-mist glinting; (5) chest on a slow breath; (6) silver specular fading on the bowl; (7) coat fold-shadow micro-shift; (8) a slow blink.
 
-MICRO-MAGIC (END keyframe): the rain blooming into luminous rings and tiny light-flowers all around her — the single phenomenon at its fullest, a rain blooming into light.
+KINETIC STILLNESS (environmental, 6 layers): (1) the rain blooming into luminous rings and light-flowers; (2) the glowing rings rippling outward as they bloom; (3) rain-mist glinting cyan in the air; (4) puddles glowing and rippling across the rooftop; (5) the glass bowl on the parapet filling with liquid light; (6) the city bokeh twinkling far beyond.
 
-SPATIAL LOGIC: FOREGROUND — a near light-flower at ≈18% depth, soft. MIDGROUND — the glowing rain and her face. BACKGROUND — the parapet and city bokeh. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Greenery lush and healthy with premium landscaping.
+MICRO-MAGIC (END keyframe): the rain blooming into luminous rings and tiny light-flowers across the rooftop — the single phenomenon at its fullest, a rain blooming into light.
+
+SPATIAL LOGIC: FOREGROUND — a near light-flower and glowing puddle at ≈15% depth, tack sharp. MIDGROUND — the rooftop of blooming rain and the glass bowl on the parapet. BACKGROUND — the parapet edge and the soft city lights receding into rain-haze with true atmospheric depth. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Greenery lush and healthy with premium landscaping.
 
 LIGHTING: KEY — cool city-glow plus the glowing rain as a live luminous source. FILL — warm distant city bounce. RIM — cool wet light. SEPARATION — deep rooftop. BOUNCE — silver kick tracking the bowl. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 12% headroom, the glowing rain blooming around her into the negative space, Aira's face centre.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up, the glowing rain blooming around her into the negative space, Aira's face centre. She is standing tall on the rooftop, torso opening toward the glowing rain, chin level, weight even, spine long. The camera holds a mid distance, Aira the sharp central figure of the Phosphor Rain Rooftop scene, with the scene massing around her. She is turned a few degrees into the moment. The glass bowl held aloft in one hand catching glowing rain while the other opens among the light-flowers, the chest opening and weight centred even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the night rooftop blooming with glowing phosphor rain, the glass bowl on the parapet and the soft city lights beyond.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the rooftop reads full and deep, glowing phosphor rain blooming into rings and light-flowers across the wet floor and rising from the puddles, the glass catch-bowl on the parapet filling with liquid light, the soft city bokeh spreading beyond. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.2; moderate DOF keeping her sharp while the glowing rain softens; controlled glow; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the near light-flowers, the rooftop and the city lights crisp across the depth; only the farthest rain-mist softening; controlled glow; gentle roll-off.
 
 COMPOSITION REFERENCE: the signature hero beat — keeper whose rain blooms into light (identity-through-motion).
 
@@ -8066,57 +8059,57 @@ ATMOSPHERE: cool, awed, magical — a rooftop of rain blooming into light. Rich 
 
 COLOR GRADE: deep blue-black with cool phosphor-cyan and warm city-amber accent, rich blacks, clean whites, controlled glow. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-TEXTURE & MICRO-DETAIL: the glowing rain reads as real droplets blooming into luminous rings and fine light-flowers; the wet floor slick and grained; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the glowing rain reads as real droplets blooming into luminous rings and fine light-flowers; the wet rooftop slick and grained; the glass bowl clear and filling with liquid light; rain-mist fine in the air.
 
-STORY BEAT: the blooming rain — the rain blooms into luminous rings and light-flowers around her, cool and awed, a rain made light.
+STORY BEAT: the blooming rain — the rain blooms into luminous rings and light-flowers across the rooftop, the night roof glowing and unpeopled.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, body levitation, smooth featureless glow-blobs.
 
 ## Frame 3 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-CLIP SUMMARY: the hero bloom — every drop blooms into rings and light-flowers around her; energy peaks at ≈85%, the signature image that defines the concept.
+CLIP SUMMARY: the hero bloom — every drop blooms into rings and light-flowers across the empty rooftop; energy peaks at ≈85%, the signature image that defines the concept.
 
-SHOT TYPE: medium, chest-up; subject and glowing rain fill ≈56% of the 9:16 frame; face dead-centre, glowing rain wrapping the negative space.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the night rooftop of blooming phosphor rain, the glass bowl on the parapet and the city beyond; glowing rain wrapping the negative space.
 
 CAMERA BODY & RIG: virtual cinema body on a gimbal, slow lateral arc with a faint vertical float; sub-pixel stabilized.
 
-CAMERA MOVEMENT (detailed): a slow ≈20° drift around her at constant speed, soft-eased both ends, with a barely-there ≈1.5% rise so the blooming rings appear to lift past camera; the city bokeh and foreground light-flowers parallax in opposite directions for depth; locked horizon, no shake.
+CAMERA MOVEMENT (detailed): a slow ≈20° drift across the rooftop at constant speed, soft-eased both ends, with a barely-there ≈1.5% rise so the blooming rings appear to lift past camera; the city bokeh and foreground light-flowers parallax in opposite directions for depth; locked horizon, no shake.
 
-LENS & OPTICS: 50mm, T2.2; controlled glow halation on the brightest rings; faint vignette; clean optics, no fringing.
+LENS & OPTICS: 24mm wide, T4; controlled glow halation on the brightest rings; faint vignette; clean optics, no fringing.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near light-flower for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: deep focus across the rooftop plane; a single soft pull at 0:02.6 to a near light-flower for one beat (≈0.5s) then back to the wide field by 0:03.4; smooth, deliberate.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up; subject and glowing rain fill ≈56% of the 9:16 frame; face dead-centre, glowing rain wrapping the negative space: the move is already underway — opens already mid-bloom, rings expanding around her so the signature lands instantly; the bloom completes, every drop becoming a ring or a tiny light-flower.
-- [00:02–00:04] she lifts the glass bowl a touch and a cluster of light-flowers drifts toward it; her eyes sweep slowly across the glowing field, a soft awed breath, lashes settling.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE; glowing rain wrapping the negative space: the move is already underway — opens already mid-bloom, rings expanding across the rooftop so the signature lands instantly; the bloom completes, every drop becoming a ring or a tiny light-flower.
+- [00:02–00:04] a cluster of light-flowers drifts toward the glass bowl on the parapet; the glowing field ripples slow across the empty roof, near light-flowers parallaxing past.
 - [00:04–00:06] the rings ripple outward and gently fade-and-renew in a living rhythm; the field settles into a steady soft sparkle, holding the hero look.
 
-MICRO-EXPRESSION TRACK: 0:01.0 a slow exhale of wonder; 0:02.0 a soft micro-smile at the corner of the mouth; 0:03.0 eyes glistening with the cyan catchlight, fully alive; no over-expression.
+ENVIRONMENT-MOTION TRACK: 0:01.0 the bloom swelling to full; 0:02.0 rings lifting past camera; 0:03.0 the cyan glow steadying across the puddles; no person, no face.
 
-PHYSICS: each ring expands and thins with believable luminous ripple-decay; light-flowers form, hover a beat, then dissolve into mist; the glow exerts no force on her hair or coat; her body grounded; rain still falls and feeds the bloom.
+PHYSICS: each ring expands and thins with believable luminous ripple-decay; light-flowers form, hover a beat, then dissolve into mist; the glow exerts no force on the rooftop or bowl; the parapet and bowl grounded; rain still falls and feeds the bloom.
 
-MICRO-MAGIC (one beat): the rain blooming into rings and light-flowers all around her — the single phenomenon at full scale, coherent and unified.
+MICRO-MAGIC (one beat): the rain blooming into rings and light-flowers across the rooftop — the single phenomenon at full scale, coherent and unified.
 
-CONTINUITY: boots, cuff, earring, wardrobe, ponytail, makeup, dual catchlight unchanged from Frames 1–2.
+CONTINUITY: the rooftop, parapet, glass bowl and city lights identical to Frames 1–2; the world holds continuity while the subject is simply absent from this shot.
 
-LIGHTING & GRADE (motion): cool city key + the glowing rain as the dominant live source now, wrapping her in soft cyan with a warm amber edge from the city; cool wet rim; the key brightens ≈0.5 stop at peak bloom (0:01.6) then eases; deep blacks, clean whites, controlled bloom — never blown.
+LIGHTING & GRADE (motion): cool city key + the glowing rain as the dominant live source now, wrapping the rooftop in soft cyan with a warm amber edge from the city; cool wet rim; the key brightens ≈0.5 stop at peak bloom (0:01.6) then eases; deep blacks, clean whites, controlled bloom — never blown.
 
 ENVIRONMENT MOTION: puddles fully glowing and rippling, city bokeh twinkling, mist lit cyan, rings drifting upward.
 
-AUDIO (layered, diegetic-led): BED — rain patter + city hum, slightly lowered to feature the bloom. SPOT FX — a soft swelling chorus of glassy chimes as the bloom completes at 0:00.8, a layered ring-ripple shimmer at 0:01.8 and 0:03.8. BREATH — a soft awed exhale at 0:03.0. MASTER — the piano-and-pad bed at a gentle swell (present, never full). NO VO.
+AUDIO (layered, diegetic-led): BED — rain patter + city hum, slightly lowered to feature the bloom. SPOT FX — a soft swelling chorus of glassy chimes as the bloom completes at 0:00.8, a layered ring-ripple shimmer at 0:01.8 and 0:03.8. MASTER — the piano-and-pad bed at a gentle swell (present, never full). NO VO (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — a soft awed breath, lips parted.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the bright bloom so the peak glow never washes or warps the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 4 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
