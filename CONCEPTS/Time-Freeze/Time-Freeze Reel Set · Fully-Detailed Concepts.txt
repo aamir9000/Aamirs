@@ -90,11 +90,11 @@ Eyes: dark-brown almond eyes with warm amber flecks, locked to the reference, ze
 
 Makeup: fresh and luminous — a soft warm-bronze wash on the lid, peach blush high on the cheek, a glossy rose lip, inner-corner brightener; dewy real skin with visible pores.
 
-Accessories: slim gold hoop earrings, a thin gold wristwatch, the camel scarf, and a small tan leather crossbody bag worn across the body.
+Accessories: slim gold hoop earrings, a thin gold wristwatch, the camel scarf, a small tan leather crossbody bag worn across the body, and a shiny gold coin she flips (her lucky coin — the time-freeze trigger prop).
 
 Footwear: clean white leather low-top sneakers (quiet soles for the tiptoe play through the frozen crowd).
 
-Movement: the one impossible move — at the instant a sun-shaft strikes the brass clock, all time freezes except Aira; she moves freely through the suspended commuters, coffee-spills and pigeons. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
+Movement: the one impossible move — Aira flips her gold coin up off her thumb; at the top of its arc the coin FREEZES mid-air and all time freezes WITH it (she alone keeps moving); she moves freely through the suspended commuters, coffee-spills and pigeons while the coin hangs frozen at head-height throughout; at the very end she raises her open palm beneath the coin and it drops into her hand, releasing time. Trigger and release are close-ups that follow the coin, and both land MID-CLIP (never on a cut). Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
 
 Concept Line: "the world held its breath."
 
@@ -135,13 +135,13 @@ ACCESSORIES: slim gold hoops, a thin gold wristwatch on the left wrist, the tan 
 
 FOOTWEAR: clean white leather low-top sneakers, laces neat, soles unscuffed.
 
-HANDS & NAILS: right hand lifting just off her thigh, fingers softly spread as the realization hits; left hand resting light on the crossbody strap; short almond nails in a clean rose-nude gloss, neat cuticles, natural nail-bed color, no white-knuckle tension — five clean fingers per hand.
+HANDS & NAILS: right hand just past the coin-flick — thumb and index having snapped the gold coin upward, fingers now softly spreading open; left hand resting light on the crossbody strap; short almond nails in a clean rose-nude gloss, neat cuticles, natural nail-bed color, no white-knuckle tension — five clean fingers per hand.
 
 FACIAL MICRO-DYNAMICS: lips parting about 2mm on a caught breath, both brows lifting in dawning wonder, the eyes widening and flicking across the suspended crowd, a slow awestruck smile just beginning to form at one corner.
 
 BODY POSTURE & WEIGHT: gaze widening as it sweeps across the frozen hall, lips parting on a caught breath; head turning and tipping a few degrees to take in the suspended crowd; LEFT shoulder dropped and easy, RIGHT shoulder lifting slightly as that arm rises; RIGHT arm lifting just off the thigh, elbow softly bending, fingers spreading open as the realization hits; LEFT arm relaxed across her front, hand resting light on the crossbody strap, fingers loose; torso rotated about 6° toward the hall, ribs lifting on the caught inhale; waist long, hips squared with a faint forward tilt; RIGHT leg forward and weight-bearing as the front white sneaker takes the roll, knee soft; LEFT leg trailing with the back heel lifting off the marble; weight rolling heel-to-toe onto the front foot, balanced and alive (living stillness); ponytail still mid-settle from the turn.
 
-FROZEN-WORLD STATE (exhaustive inventory): everything except Aira holds in absolute stasis — the rush-hour commuters stand pinned mid-stride with coats and ties caught mid-swing, one businessman's dropped coffee hanging as a suspended brown arc with a crown of droplets above the lid, a briefcase caught an inch off the floor, a flock of pigeons frozen mid-flight inside the nearest god-ray with wings spread and individual feathers crisp, a torn newspaper page hanging in the air, a child's balloon stalled on its string, and the four-faced brass clock stopped with its hands locked; the only thing moving anywhere is light.
+FROZEN-WORLD STATE (exhaustive inventory): everything except Aira holds in absolute stasis — the rush-hour commuters stand pinned mid-stride with coats and ties caught mid-swing, one businessman's dropped coffee hanging as a suspended brown arc with a crown of droplets above the lid, a briefcase caught an inch off the floor, a flock of pigeons frozen mid-flight inside the nearest god-ray with wings spread and individual feathers crisp, a torn newspaper page hanging in the air, a child's balloon stalled on its string, the four-faced brass clock stopped with its hands locked, and — the trigger of it all — her tossed gold coin hanging FROZEN at its apex just above her head, caught mid-spin with a bright specular on its milled edge; the only thing moving anywhere is light.
 
 AIRA-VS-WORLD CONTRAST: a soft directional motion-blur trails Aira's stepping foot, her turning torso and her swinging ponytail-tail, while every commuter, the suspended coffee arc, the pigeons and the dust in the beams stay razor-sharp and perfectly still.
 
@@ -173,16 +173,16 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium-wide, full-torso to mid-thigh, Aira filling about 45% of the vertical frame within the frozen crowd.
+SHOT TYPE: opens CLOSE-UP, overhead-slight-front — tight on her upturned face and the tossed gold coin rising toward the lens — then pulls out to a medium-wide within the frozen crowd as the freeze lands.
 
-CAMERA MOVEMENT (rolling/bullet-time): a single slow push-in with a gentle arc that begins to orbit her, the frozen commuters wheeling past in parallax to reveal the impossible stillness — one continuous floating move, no cuts, no whip.
+CAMERA MOVEMENT (rolling/bullet-time): opens as a close-up craning UP to follow the tossed coin to its apex (overhead-slight-front, her upturned face below it); at the freeze the camera settles on the frozen coin, then pulls out and eases into a slow bullet-time orbit that reveals the frozen hall in parallax — one continuous floating move, no cuts, no whip.
 
 LENS: 35mm, f/2.8, smooth creamy fall-off.
 
 SHOT BREAKDOWN (timed, 6s · the subject performs at natural real-time speed while the concept's signature time-effect — freeze / speed-ramp / rewind / echo — plays as its real cinematic phenomenon (truly-still mid-air suspension or a genuine speed-ramp, never a cheap pause or fake cartoon VFX); expression eye-led and identity-safe):
-- [00:00–00:02] medium-wide, full-torso to mid-thigh, Aira filling about 45% of the vertical frame within the frozen crowd: the move is already underway — across 0.0–2.4s Aira completes her caught mid-step — her weight rolls forward onto the front sneaker, the back heel lifting, as her head turns to sweep her widening gaze across the suspended hall and her lips part on a caught breath.
-- [00:02–00:04] through 2.4–4.5s the dawning wonder blooms into a slow awestruck half-smile, her right hand drifting up from her thigh with the fingers softly spreading, the ponytail-tail settling from the turn.
-- [00:04–00:06] over 4.5–6.0s she steadies, a soft blink completing and her chest easing on a slow exhale as she takes it all in. One clean, real-physics subject action throughout; five clean fingers.
+- [00:00–00:02] CLOSE-UP overhead-slight-front, camera craning up following the coin: the move is already underway — the gold coin is already spinning upward off her thumb, her face tipped up tracking it, the hall still live and moving around her.
+- [00:02–00:04] THE TRIGGER (mid-clip): at the coin's apex it FREEZES dead mid-air and in the same instant all time freezes with it — a soft deep sub-boom and a clean coin-ting as the moving hall snaps to absolute stillness; the camera settles on the suspended coin.
+- [00:04–00:06] the camera pulls out to a medium-wide as her gaze lowers from the frozen coin to sweep the now-frozen hall, lips parting on a caught breath and a slow awestruck half-smile beginning. One clean real-physics action; five clean fingers.
 
 
 OBJECT / WORLD ACTION (frozen — strict rule, prose): the one governing rule is that every element except Aira is frozen mid-action and must not move, fall, drift, rotate, twitch or react to her in any way — her turn, her breath and the air she displaces change nothing. The dropped coffee stays a suspended arc with its droplet-crown intact; the commuters stay pinned mid-stride; the pigeons stay locked mid-flight with not a feather stirring; the newspaper page, briefcase and balloon stay exactly as suspended; the brass clock hands stay stopped. The only motion permitted anywhere is light — god-rays glowing steadily with faint glints travelling on brass and glass as the camera arcs.
@@ -197,7 +197,7 @@ ENVIRONMENT: a vast frozen transit hall, marble and brass, volumetric god-rays, 
 
 ATMOSPHERE & PARTICULATE: warm dusty air; only the dust in the beams and her own breath move — the crowd's air is dead still.
 
-AUDIO: diegetic only, no in-clip music bed beyond the master track. Ambient — a vast frozen near-silence with a faint distant held hum and a high ringing stillness. SFX — a single soft sneaker-scuff echo at 0.7s as her step lands, a faint scarf rustle at 2.7s. Reaction — a soft audible caught breath at 2.1s and a slow exhale at 5.1s. Master track — a single sustained string note just kindling under the silence (present, never full). VO — none this frame.
+AUDIO: diegetic only, no in-clip music bed beyond the master track. Ambient — the live hall murmur for the first ~2s, then a vast frozen near-silence with a faint held hum and a high ringing stillness the instant time freezes. SFX — a light metallic coin-flick at 0.5s, then at ~3.0s (mid-clip) THE TRIGGER: a soft deep sub-boom + a clean crystalline coin-ting as the coin freezes and the world snaps silent. Reaction — a soft caught breath at 3.4s and a slow exhale at 5.1s. Master track — a single sustained string note kindling out of the boom (present, never full). VO — none this frame.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
@@ -236,7 +236,7 @@ FACIAL MICRO-DYNAMICS: an enchanted open-mouthed micro-grin, the eyes bright and
 
 BODY POSTURE & WEIGHT: gaze locked on the floating coffee beads, eyes bright with fascination, lips parted; head tipping down and forward toward the suspended arc; RIGHT shoulder reaching forward and down, LEFT shoulder drawing back as counterweight; RIGHT arm unfolding toward the coffee with the wrist leading, index and middle fingers extended to part the droplets while the other fingers softly curl; LEFT arm winged out and back for balance, hand relaxed near her hip; torso leaning in from the hips, spine curving forward in curiosity; waist hinging at the hip-fold, hips tipping forward; RIGHT leg forward bearing the lean over the front sneaker, knee bending; LEFT leg straight behind as the anchor, back heel lifted; weight rolled onto the front foot ball; ponytail swung forward over the shoulder with the lean.
 
-FROZEN-WORLD STATE (exhaustive inventory): all locked — the dropped coffee hangs as a glossy brown arc, its paper cup tumbling just below with the lid half-off and a crown of suspended droplets fanned above it, each bead a perfect sphere; the businessman who dropped it stays pinned mid-recoil, hand still open; the commuters stay mid-stride, the pigeons mid-flight, the newspaper page and balloon suspended, the brass clock stopped. Not one droplet moves as her fingers slip between them. Only light moves.
+FROZEN-WORLD STATE (exhaustive inventory): all locked — the dropped coffee hangs as a glossy brown arc, its paper cup tumbling just below with the lid half-off and a crown of suspended droplets fanned above it, each bead a perfect sphere; the businessman who dropped it stays pinned mid-recoil, hand still open; the commuters stay mid-stride, the pigeons mid-flight, the newspaper page and balloon suspended, the brass clock stopped, and her tossed gold coin still hanging frozen at head-height, glinting. Not one droplet moves as her fingers slip between them. Only light moves.
 
 AIRA-VS-WORLD CONTRAST: soft directional blur trails her reaching hand, leaning torso and forward-swung ponytail, while the coffee arc, every droplet and the frozen businessman stay tack-sharp and still.
 
@@ -331,7 +331,7 @@ FACIAL MICRO-DYNAMICS: a soft tender awe, lips barely parted, the eyes warm and 
 
 BODY POSTURE & WEIGHT: gaze lifting and softening up toward the frozen pigeon, a hushed reverent half-smile forming, eyes shining; head tipping up to follow the lifted hand; both shoulders opening into a soft balletic line, the RIGHT lifting as it reaches up and the LEFT settling as it floats out; RIGHT arm rising overhead with the index finger extended a hair from the pigeon's breast, the touch tenderly withheld; LEFT arm floating out to the side for balance, fingers softly spread; torso stretched tall and lightly arched upward; waist lengthened, hips lifting and squared over the rise; RIGHT leg and LEFT leg both risen onto the toes, calves engaged, knees straight and close; both heels lifted, weight balanced delicately over the balls of both feet; ponytail lifting and settling with the upward stretch.
 
-FROZEN-WORLD STATE (exhaustive inventory): all locked — a flock of pigeons hangs frozen mid-flight inside the god-ray, wings at varied beats, primary feathers fanned and translucent in the light, tiny feet tucked, eyes glassy and still; below them the commuters stay mid-stride, the dropped coffee stays arced, the newspaper page and balloon suspended, the brass clock stopped. Not a single feather stirs as her finger nears. Only light moves.
+FROZEN-WORLD STATE (exhaustive inventory): all locked — a flock of pigeons hangs frozen mid-flight inside the god-ray, wings at varied beats, primary feathers fanned and translucent in the light, tiny feet tucked, eyes glassy and still; below them the commuters stay mid-stride, the dropped coffee stays arced, the newspaper page and balloon suspended, the brass clock stopped, her gold coin still frozen mid-air above. Not a single feather stirs as her finger nears. Only light moves.
 
 AIRA-VS-WORLD CONTRAST: soft blur trails her reaching arm, her rising tiptoe and her ponytail, while every pigeon — each backlit feather — and the whole hall stay razor-sharp and still.
 
@@ -585,7 +585,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC / VOICE: exact lip-sync on "the world held its breath" — clear, warm, unhurried; mouth shapes matched to the words.
 
-TRANSITION / CONTINUITY: no cut — she lifts her hand from the clock and turns to walk off as the hall begins to thaw for Frame 6; ponytail and frozen-hall layout continuous.
+TRANSITION / CONTINUITY: no cut — she lifts her hand from the clock and turns, raising her open palm toward the still-frozen coin for the release in Frame 6; the hall stays frozen; ponytail and frozen-hall layout continuous.
 
 NEGATIVE: per Standard Video Negatives.
 
@@ -610,13 +610,13 @@ ACCESSORIES: slim gold hoops, thin gold wristwatch, tan crossbody bag settling a
 
 FOOTWEAR: clean white leather low-top sneakers, mid-stride walking away, soles unscuffed.
 
-HANDS & NAILS: right hand giving a small relaxed wave-off near her hip, fingers loose; left hand light on the crossbody strap; short almond rose-nude nails — five clean fingers.
+HANDS & NAILS: right hand raised palm-up beneath the descending coin, just catching the gold coin and beginning to close around it; left hand light on the crossbody strap; short almond rose-nude nails — five clean fingers.
 
 FACIAL MICRO-DYNAMICS: a warm contented half-smile with a secret in it, the eyes bright and slightly narrowed in satisfaction, brows relaxed — the look of someone who just had a private miracle.
 
-BODY POSTURE & WEIGHT: gaze thrown back over the shoulder to the lens with a parting knowing smile, eyes warm; head and neck turned a quarter back over the shoulder; LEFT shoulder leading the walk away, RIGHT shoulder rotated back with the glance; RIGHT arm relaxed, the hand giving a small loose wave-off near her hip; LEFT arm easy across her front, hand light on the crossbody strap; torso turned a quarter back for the over-shoulder glance while the hips face the walking direction; waist rotating between the forward hips and turned shoulders; RIGHT leg and LEFT leg in a relaxed confident stride, weight rolling heel-to-toe with each step; feet walking away from camera, weight transferring smoothly stride to stride; ponytail swaying with the departing steps.
+BODY POSTURE & WEIGHT: gaze thrown back over the shoulder to the lens with a parting knowing smile, eyes warm; head and neck turned a quarter back over the shoulder; LEFT shoulder leading the walk away, RIGHT shoulder rotated back with the glance; RIGHT arm relaxed, the hand closing around the just-caught gold coin near her hip; LEFT arm easy across her front, hand light on the crossbody strap; torso turned a quarter back for the over-shoulder glance while the hips face the walking direction; waist rotating between the forward hips and turned shoulders; RIGHT leg and LEFT leg in a relaxed confident stride, weight rolling heel-to-toe with each step; feet walking away from camera, weight transferring smoothly stride to stride; ponytail swaying with the departing steps.
 
-WORLD STATE — THE THAW (exhaustive inventory): this is the single release beat — behind her the world is snapping back to life in a soft motion-blurred burst: the dropped coffee finally splashing across the marble, the pigeons bursting into real flight with blurred wings, the commuters surging back into mid-stride, the newspaper page fluttering down, the balloon drifting up, the brass clock ticking again — all rendered in warm directional motion-blur to read as resumed time, while Aira walks clear of it, calm and sharp. (This is the only frame where the world moves — the freeze has ended.)
+WORLD STATE — THE THAW (exhaustive inventory): this is the single release beat — the instant the gold coin drops into her open palm, time resumes and behind her the world snaps back to life in a soft motion-blurred burst: the dropped coffee finally splashing across the marble, the pigeons bursting into real flight with blurred wings, the commuters surging back into mid-stride, the newspaper page fluttering down, the balloon drifting up, the brass clock ticking again — all rendered in warm directional motion-blur to read as resumed time, while Aira walks clear of it, calm and sharp. (This is the only frame where the world moves — the freeze has ended.)
 
 AIRA-VS-WORLD CONTRAST: here the relationship inverts for the payoff — Aira is the calm tack-sharp anchor walking forward while the whole hall behind her blurs back into motion, the reverse of the frozen frames.
 
@@ -655,9 +655,9 @@ CAMERA MOVEMENT (rolling/bullet-time): the orbit releases into a smooth followin
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · the subject performs at natural real-time speed while the concept's signature time-effect — freeze / speed-ramp / rewind / echo — plays as its real cinematic phenomenon (truly-still mid-air suspension or a genuine speed-ramp, never a cheap pause or fake cartoon VFX); expression eye-led and identity-safe):
-- [00:00–00:02] medium-wide, near full-figure from slightly behind, Aira about 45% of the vertical frame, the thawing hall behind her: the move is already underway — across 0.0–1.7s Aira turns from the clock and steps into a relaxed confident stride away from camera, the ponytail and scarf catching the first real breeze.
-- [00:02–00:04] at exactly 1.7s the freeze releases and the whole hall behind her snaps back into motion in a soft burst; through 1.7–4.3s she glances back over her shoulder toward the lens with a warm contented half-smile and a small relaxed wave-off near her hip, utterly calm amid the resuming rush.
-- [00:04–00:06] over 4.3–6.0s she faces forward again and walks on, the camera easing back as the thawed hall fills with life around her. Real physics on Aira throughout; five clean fingers.
+- [00:00–00:02] CLOSE-UP following the coin, camera craning down with her hand: the move is already underway — Aira raises her open right palm beneath the frozen gold coin, gaze lifting to it.
+- [00:02–00:04] THE RELEASE (mid-clip): at ~1.7s the coin drops and lands in her open palm with a soft clink — and that instant releases time: the whole hall behind her snaps back into motion in a soft burst as she closes her hand around the coin.
+- [00:04–00:06] the camera pulls out as she turns into a relaxed confident stride, glancing back over her shoulder toward the lens with a warm contented half-smile amid the resuming rush, then walks on. Real physics on Aira throughout; five clean fingers.
 
 
 OBJECT / WORLD ACTION (THE THAW — release rule, prose): this is the deliberate exception to the freeze — at 1.7s time resumes for everything: the dropped coffee splashes onto the marble, the pigeons burst into real flight, the commuters surge back into stride, the newspaper flutters down, the balloon drifts up and the brass clock ticks again, all in believable resumed-motion with natural motion-blur. Before 1.7s the world is still frozen; after 1.7s it is fully alive. Aira stays the calm sharp anchor.
@@ -672,7 +672,7 @@ ENVIRONMENT: the transit hall thawing back to life, marble and brass, god-rays, 
 
 ATMOSPHERE & PARTICULATE: the dead-still air breaks into real moving air — splash-mist, fluttering paper, swirling dust all back in motion behind her.
 
-AUDIO: diegetic only. Ambient — the frozen near-silence breaking at 1.7s into the full warm roar of a living transit hall (footsteps, distant announcements, pigeon-wings, chatter). SFX — the coffee splash at 1.7s, the pigeon wing-burst at 1.9s, the resumed clock-tick from 1.7s. Reaction — a soft contented exhale-laugh at 3.1s over her shoulder. Master track — the strings resolve into a warm satisfied final chord that lifts as the hall roars back (present, never overpowering). VO — none.
+AUDIO: diegetic only. Ambient — the frozen near-silence breaking at 1.7s into the full warm roar of a living transit hall (footsteps, distant announcements, pigeon-wings, chatter). SFX — a clean coin-land clink into her palm at 1.7s that triggers the thaw, the coffee splash at 1.75s, the pigeon wing-burst at 1.9s, the resumed clock-tick from 1.7s. Reaction — a soft contented exhale-laugh at 3.1s over her shoulder. Master track — the strings resolve into a warm satisfied final chord that lifts as the hall roars back (present, never overpowering). VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
