@@ -1292,14 +1292,14 @@ KINETIC STILLNESS (8 layers): (1) loose hair drifting slow in the current; (2) a
 
 MICRO-MAGIC (cue only): deep in the pearl at the wand's tip, a single faint cyan pulse has just bloomed and faded — the smallest flicker, deniable, the first whisper that her heartbeat will light the deep.
 
-SPATIAL LOGIC: FOREGROUND — the pearl-wand and her hand at ≈20% depth, tack sharp. MIDGROUND — Aira standing in the nave. BACKGROUND — the vast cathedral arches with drifting jellyfish and faint pearl-gold surface-shafts falling through the dark blue, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
+SPATIAL LOGIC: FOREGROUND — a near coral-crusted column base and drifting plankton at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — Aira small standing in the nave, the pearl-wand a faint point of light. BACKGROUND — the colossal cathedral arches and coral columns rising far above into pale surface-shafts, drifting jellyfish receding with true atmospheric perspective (nearer forms sharp, far ones hazier and bluer to sell the immense depth); leading lines of the columns and shafts draw the eye up through the drowned nave. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
 
 LIGHTING: KEY — the soft bioluminescent jellyfish-glow as a cool wrapping key. FILL — a faint cool ambient water-bounce lifting the shadow side. RIM — the distant pearl-gold surface-shaft skimming her crown and one shoulder. PRACTICAL — the jellyfish and the surface-shafts. SEPARATION — the nave pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint cyan kick off the glass wand. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
-FRAMING: ASPECT 9:16; medium-full, head-to-mid-calf, 12% headroom, the wand entering the lower third, clean deep negative space around her to receive the pulse-blooms that arrive later.
-SUBJECT FRAMING & POSITION: A medium-full framing holds Aira at about 12% headroom, head-to-mid-calf, the wand entering the lower third, clean deep negative space around her to receive the pulse-blooms that arrive later. She is standing three-quarter to camera in the nave, weight settled even on the planted boots with a soft 2° counter-tilt, front shoulder dropped a touch, chin level. The camera holds a mid-wide distance, Aira the sharp central figure of the Bioluminescent Deep-Sea Cathedral scene, with the scene massing around her. She faces front to the lens. Standing three-quarter in the sunken nave, the right hand holding the pearl-wand low and the left drifting soft and open, weight settled even on the planted boots. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and well beyond, Aira small at ≈18% of frame standing on the nave floor while the towering coral columns and vast arched windows rise far above and around her; the drowned cathedral dwarfs the human, drifting jellyfish and pale surface-shafts filling the deep.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing on the floor of the sunken nave, the colossal coral-crusted columns and great arched windows rising far above and around her so she reads as a lone figure dwarfed by the drowned cathedral; she is the scale-anchor that makes the abyssal nave read as truly vast. She stands three-quarter to camera, weight settled even on the planted boots with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, the pearl-wand held low as a faint point of light. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Bioluminescent Deep-Sea Cathedral scene while the drowned world is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus on her with the nave melting to soft blue bokeh; jellyfish rendering as soft glowing forms; plankton-motes as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the coral columns and the vast arches all crisp for the establishing scale; only the nearest plankton softening; jellyfish as soft glowing forms; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: oceanic cinematic establishing hero — lone figure, vast sunken nave, one impossible cue building (BA.3 cause building to effect).
 
@@ -1318,14 +1318,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium-full, head-to-mid-calf, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the towering sunken cathedral and drifting jellyfish dominate.
 
-LENS: 35mm, f/2.2, smooth blue background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the full scale of the drowned nave.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium-full, head-to-mid-calf, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, hair and gown drifting slow, jellyfish pulsing faint through the arches.
-- [00:02–00:04] the pearl at the wand's tip blooms one faint cyan pulse and fades; Aira's chest rises on a slow steady breath, hair lifting a touch in the current.
-- [00:04–00:06] her eyes lift gently to a drifting jellyfish, the pearl-drop earring swaying a half-beat late; she settles, the deep holding still around her.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% on the nave floor: a slow weighty crane-up-and-back is already underway, lifting to reveal the towering coral columns and great arches rising over her — the drowned cathedral reads vast, she reads human; parallax slides the near plankton faster than the far arches for real 3D depth.
+- [00:02–00:04] the crane drifts on through the blue; jellyfish pulse faint through the arches, pale surface-shafts wavering far above, the deep hazier with atmospheric perspective toward the vaults.
+- [00:04–00:06] the move settles wide and high; at the tiny figure the pearl at the wand's tip blooms one faint cyan pulse and fades, her chest rising on a slow steady breath — the lone figure poised in the immense deep.
 
 PHYSICS: full underwater behaviour — hair, gown-hem, and sleeves drift with slow buoyant lag and water-resistance; jellyfish pulse and drift on natural currents; she stays grounded on the weighted boots; plankton-motes hang and drift; nothing snaps or moves dry. The pearl-pulse is light only, casting no force.
 
@@ -1432,42 +1432,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 3 of 8 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked resolution of the heartbeat-bloom establishing — rhythmic cyan rings now pulsing steadily outward through the school in time with her heart; face clear and serene. This is the rhythm beat.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the deep beats with her. Steady cyan rings now pulse outward from Aira's chest in a slow heartbeat rhythm, each one travelling through the drifting school so the whole near nave breathes with light; she stands serene at the centre, the conductor of a living pulse.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the rhythm beat — steady cyan rings pulsing out through the jellyfish school in time, the nave breathing with light, Aira serene and centred.
+SCENE NOTE: the deep breathes, empty of any person. Steady cyan rings pulse outward through the drifting jellyfish school so the whole sunken nave breathes with light, the glowing pearl-tipped wand resting at the centre of the chamber as the quiet source — the drowned cathedral alive with a slow pulse, no figure present, the world holding the rhythm on its own.
 
-WARDROBE: the deep-teal gown, continuity-locked, pulsing soft cyan at the chest with each beat, drifting, fully modest.
+VISUAL-LEAD NOTE: catch the rhythm beat as a world shot — NO figure; steady cyan rings pulsing out through the jellyfish school in time, the vast nave breathing with light, the pearl-wand glowing alone at the centre, coral columns and surface-shafts framing the deep.
 
-FOOTWEAR: the concept-locked pearl-white weighted boots — mostly below this crop but established and unchanged, a cyan glint on the visible buckle.
 
-ACCESSORIES: the abalone-shell cuff pulsing brighter with each ring, and the pearl-drop earring, unchanged.
 
-HAIR: long drifting hair, continuity-locked, fanning slow with each pulse-lit current, color locked.
 
-MAKEUP: the luminous pearl glow, continuity-locked, rhythmic cyan washing the cheekbones, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — jellyfish-cyan low, pearl-gold high — pulsing subtly brighter on each beat; the eyes never glitch.
 
-HANDS & NAILS: the left hand easing from her sternum to drift open, the right hand raising the wand slightly; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: serene focus, eyes softly tracking the spreading rings, lips closed in calm, a centred reverent stillness, the faintest ease at the outer eye.
 
-BODY POSTURE & WEIGHT: GAZE forward and centred; HEAD level, square-ish; SHOULDERS even; RIGHT ARM raising the wand slightly, the RIGHT HAND easy, RIGHT FINGERS relaxed; LEFT ARM easing from the sternum to drift open, the LEFT HAND opening, LEFT FINGERS softly spread; TORSO turned square-ish with a 3-degree open, chin level; WAIST & HIPS even on the boots; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even on the boots; HAIR drifting — composed and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) steady cyan rings pulsing outward in rhythm; (2) the whole near school brightening and easing in time; (3) drifting hair; (4) plankton; (5) chest rising and falling on the visible heartbeat; (6) cyan specular pulsing on the cuff; (7) gown fold-shadow micro-shift; (8) a slow blink.
 
-MICRO-MAGIC (END keyframe): rhythmic heartbeat-rings of cyan light pulsing steadily outward through the jellyfish school — the whole near nave breathing with her pulse, the single phenomenon at full rhythm.
+KINETIC STILLNESS (environmental, 6 layers): (1) steady cyan rings pulsing outward in rhythm; (2) the whole near school brightening and easing in time; (3) drifting bioluminescent plankton; (4) the pearl-wand glowing softly at the centre; (5) faint surface-shafts wavering through the broken roof; (6) slow jellyfish tendrils trailing on the current.
 
-SPATIAL LOGIC: FOREGROUND — a near pulse-lit jellyfish at ≈18% depth, soft. MIDGROUND — Aira centred. BACKGROUND — the pulsing school softening into blue, surface-shafts beyond. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+MICRO-MAGIC (END keyframe): rhythmic heartbeat-rings of cyan light pulsing steadily outward through the jellyfish school from the glowing pearl-wand at the nave's centre — the whole nave breathing with the pulse, the single phenomenon at full rhythm.
+
+SPATIAL LOGIC: FOREGROUND — a near pulse-lit jellyfish at ≈18% depth, soft. MIDGROUND — the glowing pearl-wand at the nave's centre amid the pulsing school. BACKGROUND — ranks of jellyfish and coral columns receding into rich sea-blue with true atmospheric depth, pale surface-shafts falling beyond. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — soft bioluminescent key plus the rhythmic chest-bloom. FILL — cool water-bounce. RIM — pearl-gold surface-shaft. SEPARATION — deep nave. BOUNCE — cyan kicks pulsing on the wand and cuff. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 12% headroom, the pulsing rings filling the field, Aira anchored centre.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up, the pulsing rings filling the field, Aira anchored centre. She is turned square-ish to camera at the centre, torso with a 3° open, chin level, weight even on the boots, spine long and regal against the drift. The camera holds a mid distance, Aira the sharp central figure of the Bioluminescent Deep-Sea Cathedral scene, centred in frame. She faces front to the lens. Turned square-ish at the centre, the right raising the wand slightly while the left eases from the sternum to drift open, weight even on the boots. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the sunken cathedral nave breathing with pulsing cyan light, the drifting jellyfish school filling the space and the coral columns rising to the broken roof, the glowing pearl-wand small at the centre.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the vast drowned nave reads full and deep, heartbeat-rings of cyan light rippling out through the jellyfish school, coral-crusted columns rising into pale surface-shafts, the glowing pearl-wand anchoring the centre. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.2; moderate DOF keeping her sharp while the farthest jellyfish soften; controlled cyan bloom; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the whole nave, the pulsing school and coral columns crisp across the depth; only the nearest jellyfish softening; controlled cyan bloom; gentle roll-off.
 
 COMPOSITION REFERENCE: the rhythm beat — the mechanic at steady pulse, unified (BA.3).
 
@@ -1475,43 +1468,43 @@ ATMOSPHERE: reverent, oceanic, alive — a drowned cathedral breathing with one 
 
 COLOR GRADE: deep abyssal blue with soft cyan and faint pearl-gold, rich blacks, clean whites, controlled bloom. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-TEXTURE & MICRO-DETAIL: the jellyfish translucent and pulsing from within; the coral columns rough behind; the gown silk fluid; skin micro-texture calm and real, cyan-washed.
+TEXTURE & MICRO-DETAIL: the jellyfish translucent and pulsing from within; the coral columns rough and crusted; the pearl-wand glass clean and glowing; the water crystal-clear in rich sea-blue with fine caustics.
 
-STORY BEAT: the living pulse — the cathedral breathes with her heartbeat, the school lighting in rhythm, Aira serene at the centre of a deep that answers her.
+STORY BEAT: the living pulse — the drowned cathedral breathes with a slow rhythm of light through the school, the pearl-wand glowing alone at its heart, the deep alive and unpeopled.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, hair frozen stiff, crushed blacks, garish oversaturation, flat light.
 
 ## Frame 3 of 8 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: medium, chest-up, subject and pulsing rings fill ≈56% of the frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the whole sunken nave, the pulsing jellyfish school and the glowing pearl-wand at its centre.
 
-LENS: 50mm, f/2.2.
+LENS: 24mm wide, f/4, deep focus holding the nave's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up, subject and pulsing rings fill ≈56% of the frame: an almost-static slow drift with faint underwater buoyancy is already underway — opens on steady cyan rings pulsing out through the school so the rhythm reads instantly.
-- [00:02–00:04] three or four heartbeat-rings bloom outward in slow even time, the school breathing with each.
-- [00:04–00:06] Aira raises the wand a touch, her chest visibly rising and falling on the beat; she settles serene, the pulse continuing its calm rhythm.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: an almost-static slow drift with faint underwater buoyancy is already underway across the empty nave, steady cyan rings pulsing out through the school so the rhythm reads instantly, near jellyfish drifting past faster than the far columns in real parallax.
+- [00:02–00:04] three or four heartbeat-rings bloom outward in slow even time from the glowing pearl-wand at the centre, the whole school breathing with each.
+- [00:04–00:06] the pulse continues its calm rhythm through the deserted nave, surface-shafts wavering above; a final gentle settle, the world holding its own heartbeat.
 
-PHYSICS: the heartbeat-rings spread as light-waves at a steady believable cadence, lighting each jellyfish from within with no force on the water; the school and hair drift naturally; she stays grounded; plankton drifts.
+PHYSICS: the heartbeat-rings spread as light-waves at a steady believable cadence from the pearl-wand, lighting each jellyfish from within with no force on the water; the school and tendrils drift naturally on the current; the wand rests weighted; plankton drifts.
 
 MICRO-MAGIC: one sustained beat — the rhythmic heartbeat-rings pulsing through the school.
 
-CONTINUITY: boots, cuff, earring, wardrobe, hair, makeup, dual catchlight unchanged.
+CONTINUITY: the sunken nave, coral columns, jellyfish school and glowing pearl-wand identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — pressure-hush and whale-song under. SFX — a slow steady deep heartbeat-thump with a cyan bloom-chime on each beat at 0:00.6, 0:02.0, 0:03.4. Reaction — a soft slow breath at 0:02.8. Master — the sacred choral pad at gentle swell (present, never full). VO — none this frame.
+AUDIO: diegetic only. Ambient — pressure-hush and whale-song under. SFX — a slow steady deep heartbeat-thump with a cyan bloom-chime on each beat at 0:00.6, 0:02.0, 0:03.4. Master — the sacred choral pad at gentle swell (present, never full). VO — none this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips at rest in calm.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the pulsing light.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 4 of 8 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
