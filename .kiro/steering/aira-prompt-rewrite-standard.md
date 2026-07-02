@@ -1211,3 +1211,50 @@ quality without changing the concept.
   structural markers), enriched fields present, 0 residual dull/faded/washed-out/grey/muddy
   language (except inside NEGATIVE lists where those words belong).
 - STATUS: STARTED. Showcase concept = Travel-Scenic aira_set4 Concept 01 (Sea-Blue Infinity Pool).
+
+
+
+====================================================================
+## P. STRICT RENDER MANDATE + HERO WARDROBE-COLOUR POLICY
+====================================================================
+(Decided with the user. Two additions layered on top of A–O.)
+
+### P.1 — Strict Colour & Render Mandate (in every prompt)
+A single strict, must-follow QUALITY string is inserted at the top of EVERY image prompt and
+EVERY video prompt (tool: _tools/insert_mandate.py, idempotent, auto-detects Image/Video Prompt
+header vs '--- FRAME' modes). It reinforces render QUALITY only — crisp/fresh/clean/vivid colour
+(never dull/faded/washed-out/muddy/grey/flat), deep-but-clean blacks, luminous mid-tones, HDR/no
+blown highlights, richly graded sky, crystal-clear deep sea-blue/turquoise water (dark/ink water
+stays deep+clean), protected true skin tone, immaculately clean image with figure-to-ground so
+the hero reads first, honour the concept's intended dominant surface / full-frame coverage and do
+NOT reveal unwanted structural edges/seams/side-walls/dead space, and no AI artifacts. CRITICAL:
+it is QUALITY-only and must NEVER override the coded composition/camera/lens/wardrobe/action/
+identity — a trailing string reinforces, it does not overwrite a specific coded value. To CHANGE
+a value (e.g. grey water → sea-blue, dull outfit → richer hue) you EDIT THE FIELD itself.
+
+### P.2 — Hero Wardrobe-Colour Upgrade (the subject is the hero)
+Outfit colour is upgraded IN-FIELD (deterministic, consistent across all frames + video/
+continuity locks), NOT by a model-side "recolour if dull" instruction (that would break per-frame
+continuity). Rules:
+  * UPGRADE genuinely dull / creamy / beige / washed / boring hero outfits to a richer, happier,
+    scene-harmonious colour — keeping the exact garment design, cut, fabric, styling and
+    modesty; change ONLY the hue. Keep it consistent across every frame AND every WARDROBE (lock)
+    / CONTINUITY-LOCKS line for that concept, and update the concept Palette summary + index.
+  * PROTECT and LEAVE: (a) premise colours (Holi starts white, glacier/ice/snow scenes, night
+    scenes' dark palettes); (b) deliberate tonal/luxe statements per §I; (c) already-vibrant/
+    happy outfits; (d) accent items that read as intentional (functional aprons, etc.).
+  * Never push saturation onto the face/skin; keep identity fixed; keep scene-palette harmony.
+
+### P.3 — Composition / coverage fixes (case-by-case, in-field)
+Where a concept's hero element should DOMINATE the frame (e.g. an infinity pool should read
+edgeless and fill the frame — only the subject's spot, the sea/horizon and sky visible, NO
+flanking deck / pool side-walls / unwanted rectangle-shot edges), fix it directly in the
+SCENE INTENT / SPATIAL LOGIC / SUBJECT FRAMING / COMPOSITION / ENVIRONMENT fields, preserving
+camera intent, pose and identity. (First applied: aira_set4 Concept 01 Sea-Blue Infinity Pool.)
+
+### P.4 — STATUS
+EXEMPLAR FILE fully treated end-to-end: aira_set4 (Travel-Scenic) — enrichment (§O) + mandate
+(P.1) + pool composition fix (P.3, Concept 01) + hero wardrobe upgrades (P.2): C01 swimwear
+→ coral-and-aqua, C04 cream→marigold, C07 ivory→coral, C08 pale-rose→warm-rose, C15 sage→jade;
+premise/tonal/already-vibrant concepts deliberately left. Remaining files: pending user's go-ahead
+after reviewing exemplar + credit cost.

@@ -22,7 +22,7 @@ SET 4 — MASTER PLAN (Concepts 1–20) · all-new categories (no repeats of Set
 01 | Sea-Blue Infinity Pool | aqua + white + gold | poolside → glide into turquoise water | water-surface mirror bloom | slides→barefoot · oversized shades| 7 | SPOKEN
 02 | Golden-Hour Rooftop Terrace | amber + blush + brass | slide on heels → step to skyline | sun-flare gild sweep | strappy heels · drop earrings | 6 | SPOKEN
 03 | Holi Colour-Powder Festival | white→rainbow burst | toss powder → spin into colour | powder-cloud bloom | canvas sneakers · stacked bangles | 7 | SILENT
-04 | Desert Dunes at Dawn | ochre + rust + cream | wrap scarf → walk the ridge | sand-swirl sculpt | suede boots · gold arm-cuff | 6 | SPOKEN
+04 | Desert Dunes at Dawn | ochre + rust + marigold | wrap scarf → walk the ridge | sand-swirl sculpt | suede boots · gold arm-cuff | 6 | SPOKEN
 05 | Retro '50s Diner Pop | cherry-red + cream + chrome| slide into booth → shades on | jukebox neon flicker | kitten heels · cat-eye sunglasses | 6 | SPOKEN
 06 | Holographic Cyber Runway | iridescent + violet+chrome | stride → turn on the LED floor | holo-glitch shimmer | chrome boots · mirror visor | 7 | SPOKEN
 07 | Tropical Glass Conservatory | emerald + ivory + coral | step through misted vines | vine-bloom growth | woven flats · shell earrings | 6 | SILENT
@@ -111,7 +111,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: She has reached the water's edge and begins to slip the linen robe from one shoulder — a graceful, modest reveal of resortwear beneath, framed full-length against rich rippling turquoise, the pristine travertine lip and glowing resort pool composed cleanly behind her.
-WARDROBE: ivory robe sliding off the left shoulder, caught in the crook of the elbow; modest one-piece-style resort swimwear beneath in soft white-and-aqua.
+WARDROBE: ivory robe sliding off the left shoulder, caught in the crook of the elbow; modest one-piece-style resort swimwear beneath in vivid coral-and-aqua.
 FOOTWEAR: gold slides now kicked off, lying at frame-foreground edge, one upturned — a story-beat prop.
 EYEWEAR: tortoiseshell shades lowered onto the nose now, a glossy reflection of the pool across the lenses.
 ACCESSORIES: gold anklet on the bare ankle, hoops, ring — all catching light.
@@ -1176,7 +1176,7 @@ NEGATIVE: STD-NEG-VID.
 
 
 =====================================================================================================
-CONCEPT 04 — DESERT DUNES AT DAWN · 6 frames · VOICE: SPOKEN · Palette: ochre + rust + cream
+CONCEPT 04 — DESERT DUNES AT DAWN · 6 frames · VOICE: SPOKEN · Palette: ochre + rust + marigold
 Logline: Aira wraps a flowing scarf, pulls on suede boots, and walks a knife-edge dune ridge at first light — wind sculpting sand and fabric into one continuous, cinematic motion.
 Impossible move: wind-lifted sand freezes into sculpted ribbons that echo the curve of her trailing scarf.
 =====================================================================================================
@@ -1188,7 +1188,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A vast dawn establishing wide — Aira a small warm figure on a sweeping dune ridge, endless rippled sand and a peach-gold horizon. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
-WARDROBE: a flowing cream-and-rust desert maxi with a long ochre scarf not yet wrapped, fabric rippling.
+WARDROBE: a flowing warm marigold-and-rust desert maxi with a long ochre scarf not yet wrapped, fabric rippling.
 FOOTWEAR: tan suede ankle boots, sand-dusted (footwear hero — about to be laced in F2 detail).
 EYEWEAR: warm amber aviators hooked on the neckline.
 ACCESSORIES: a wide hammered-gold arm-cuff, layered fine necklaces.
@@ -1203,9 +1203,9 @@ SUBJECT FRAMING & POSITION: A high-angle wide establishing frame reads Aira as a
 LENS + DOF + BOKEH: 24mm, deep focus, crisp sand ripples.
 COMPOSITION REF: epic landscape with small hero figure, S-curve lead.
 ATMOSPHERE: fine wind-blown sand streaming off the crest, dawn haze. Rich atmospheric layering — delicate volumetric light and fine airborne detail, clean and immersive. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
-COLOR GRADE: ochre + rust + cream, cool shadow / warm light split. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
+COLOR GRADE: ochre + rust + marigold, cool shadow / warm light split. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 TEXTURE: rippled sand, flowing fabric, suede, hammered gold. Premium material realism — refined micro-texture, believable surface detail and natural reflections, nothing plastic or synthetic.
-CONTINUITY-LOCKS: cream-rust maxi / ochre scarf / tan suede boots / amber aviators / gold cuff + necklaces / loose waves — carry across.
+CONTINUITY-LOCKS: marigold-rust maxi / ochre scarf / tan suede boots / amber aviators / gold cuff + necklaces / loose waves — carry across.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -1216,7 +1216,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: high wide establishing.
 LENS: 24mm, deep focus.
-WARDROBE (lock): cream-rust maxi, ochre scarf streaming.
+WARDROBE (lock): marigold-rust maxi, ochre scarf streaming.
 FOOTWEAR (lock): tan suede boots, sand-dusted.
 EYEWEAR (lock): amber aviators on neckline.
 ACCESSORIES (lock): gold cuff, necklaces.
@@ -2264,7 +2264,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A lush wide establishing — Aira small at the end of a glass conservatory aisle, dwarfed by tropical foliage, shafts of green-gold light and floating mist. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Greenery lush and healthy with premium landscaping.
-WARDROBE: a breezy ivory cotton-eyelet sundress, modest midi, soft and airy.
+WARDROBE: a breezy coral cotton-eyelet sundress, modest midi, soft and airy.
 FOOTWEAR: woven raffia flats on the mossy stone path (footwear hero).
 EYEWEAR: none — tortoiseshell clip-shades hooked at the dress neckline.
 ACCESSORIES: shell-drop earrings, a thin coral-bead bracelet, a woven straw crossbody.
@@ -2281,7 +2281,7 @@ COMPOSITION REF: lush conservatory one-point perspective.
 ATMOSPHERE: floating mist, drifting pollen-motes, god-rays. Premium atmospheric depth — subtle volumetric haze and fine particulate, clean and immersive.
 COLOR GRADE: emerald + ivory + coral, fresh and luminous. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 TEXTURE: eyelet cotton, raffia weave, glossy leaves, mossy stone. Premium material realism — refined micro-texture, believable surface detail and natural reflections, nothing plastic or synthetic.
-CONTINUITY-LOCKS: ivory eyelet sundress / raffia flats / clip-shades (at neckline) / shell earrings + coral bracelet + straw crossbody / waves with tucked bloom — carry across.
+CONTINUITY-LOCKS: coral eyelet sundress / raffia flats / clip-shades (at neckline) / shell earrings + coral bracelet + straw crossbody / waves with tucked bloom — carry across.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -2292,7 +2292,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: wide front establishing.
 LENS: 24mm, deep focus.
-WARDROBE (lock): ivory eyelet sundress.
+WARDROBE (lock): coral eyelet sundress.
 FOOTWEAR (lock): raffia flats on mossy stone.
 EYEWEAR (lock): clip-shades at neckline.
 ACCESSORIES (lock): shell earrings, coral bracelet, straw crossbody.
@@ -2319,7 +2319,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: Extreme close-up on her fingertips grazing a coral hibiscus — which bursts into accelerated bloom, petals unfurling in a ripple along the vine (impossible-move hero). Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Greenery lush and healthy with premium landscaping.
-WARDROBE: ivory eyelet shoulder soft in background.
+WARDROBE: coral eyelet shoulder soft in background.
 FOOTWEAR: oof — continuity raffia flats.
 EYEWEAR: clip-shades at neckline.
 ACCESSORIES: coral-bead bracelet on the reaching wrist, shell earring catching light.
@@ -2374,7 +2374,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: Full-length side view strolling the mossy aisle, trailing fingertips along the foliage, dress drifting, dappled light playing over her. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Greenery lush and healthy with premium landscaping.
-WARDROBE: ivory eyelet sundress drifting with the walk.
+WARDROBE: coral eyelet sundress drifting with the walk.
 FOOTWEAR: raffia flats mid-stride on mossy stone.
 EYEWEAR: clip-shades at the neckline.
 ACCESSORIES: straw crossbody at the hip, shell earrings, coral bracelet.
@@ -2402,7 +2402,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: full-length side, tracking.
 LENS: 35mm, medium focus.
-WARDROBE (lock): ivory eyelet drifting.
+WARDROBE (lock): coral eyelet drifting.
 FOOTWEAR (lock): raffia flats on moss.
 EYEWEAR (lock): clip-shades at neckline.
 ACCESSORIES (lock): crossbody, earrings, bracelet.
@@ -2429,7 +2429,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A serene close-up as she lifts a coral bloom to her nose, eyes softly closing, breathing in the scent, petals brushing her cheek. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Greenery lush and healthy with premium landscaping.
-WARDROBE: ivory neckline soft.
+WARDROBE: coral neckline soft.
 FOOTWEAR: oof — continuity raffia flats.
 EYEWEAR: clip-shades at neckline.
 ACCESSORIES: coral bracelet on the lifting hand, shell earring.
@@ -2457,7 +2457,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: frontal CU.
 LENS: 100mm, very shallow focus.
-WARDROBE (lock): ivory neckline soft.
+WARDROBE (lock): coral neckline soft.
 FOOTWEAR (lock): raffia flats oof.
 EYEWEAR (lock): clip-shades at neckline.
 ACCESSORIES (lock): bracelet, earring.
@@ -2484,7 +2484,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: Over-the-shoulder MCU as she peeks back through a screen of broad leaves, dappled light freckling her face, a playful natural glance. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Greenery lush and healthy with premium landscaping.
-WARDROBE: ivory shoulder dappled with leaf-shadow.
+WARDROBE: coral shoulder dappled with leaf-shadow.
 FOOTWEAR: oof — continuity raffia flats.
 EYEWEAR: clip-shades at neckline.
 ACCESSORIES: shell earring, coral bracelet on the leaf-parting hand.
@@ -2512,7 +2512,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: over-the-shoulder MCU.
 LENS: 85mm, shallow focus.
-WARDROBE (lock): ivory shoulder dappled.
+WARDROBE (lock): coral shoulder dappled.
 FOOTWEAR (lock): raffia flats oof.
 EYEWEAR (lock): clip-shades at neckline.
 ACCESSORIES (lock): earring, bracelet.
@@ -2539,7 +2539,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A wide high-three-quarter closer — she steps into a clearing beneath the glass dome where a great shaft of green-gold light pours down, arms opening to the warmth. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Architecture in fine premium materials with an immaculate finish.
-WARDROBE: ivory eyelet sundress glowing in the light shaft.
+WARDROBE: coral eyelet sundress glowing in the light shaft.
 FOOTWEAR: raffia flats planted on a sunlit mossy clearing.
 EYEWEAR: clip-shades at the neckline.
 ACCESSORIES: straw crossbody, shell earrings, coral bracelet.
@@ -2567,7 +2567,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: wide high-three-quarter.
 LENS: 24mm, deep focus.
-WARDROBE (lock): ivory eyelet glowing.
+WARDROBE (lock): coral eyelet glowing.
 FOOTWEAR (lock): raffia flats in the clearing.
 EYEWEAR (lock): clip-shades at neckline.
 ACCESSORIES (lock): crossbody, earrings, bracelet.
@@ -2605,7 +2605,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: Seated on the studio floor by the barre, wrapping the satin ribbons of a pointe shoe up the ankle — an intimate preparation beat in soft dawn light. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
-WARDROBE: a modest pale-rose wrap leotard with a long flowing chiffon practice skirt, a soft knit warm-up shrug.
+WARDROBE: a modest warm-rose wrap leotard with a long flowing chiffon practice skirt, a soft knit warm-up shrug.
 FOOTWEAR: pearl-pink satin pointe shoes — ribbons being wound and tied up the ankle (footwear hero).
 EYEWEAR: none — not appropriate to scene (continuity-noted: none).
 ACCESSORIES: a thin ribbon choker, tiny pearl studs, a delicate wrist-ribbon.
@@ -2622,7 +2622,7 @@ COMPOSITION REF: intimate ballet-prep, the extended-leg diagonal.
 ATMOSPHERE: floating dust-motes in the light beams. Rich atmospheric layering — delicate volumetric light and fine airborne detail, clean and immersive.
 COLOR GRADE: rose + pearl + soft grey, gentle pastel. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 TEXTURE: satin ribbon, chiffon, knit, sprung wood floor. Premium material realism — refined micro-texture, believable surface detail and natural reflections, nothing plastic or synthetic.
-CONTINUITY-LOCKS: pale-rose leotard + chiffon skirt + knit shrug / pearl-pink pointe shoes / ribbon choker + pearl studs + wrist-ribbon / classical bun — carry across.
+CONTINUITY-LOCKS: warm-rose leotard + chiffon skirt + knit shrug / pearl-pink pointe shoes / ribbon choker + pearl studs + wrist-ribbon / classical bun — carry across.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -2633,7 +2633,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: medium three-quarter, low.
 LENS: 50mm, medium-shallow focus.
-WARDROBE (lock): pale-rose leotard, chiffon skirt, knit shrug.
+WARDROBE (lock): warm-rose leotard, chiffon skirt, knit shrug.
 FOOTWEAR (lock): pearl-pink pointe shoes, ribbons winding.
 EYEWEAR (lock): none.
 ACCESSORIES (lock): ribbon choker, pearl studs, wrist-ribbon.
@@ -2660,7 +2660,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: Full-length side view at the barre in a deep graceful plie, one hand resting on the barre, chiffon skirt cascading, line elegant. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling.
-WARDROBE: pale-rose leotard, chiffon skirt cascading, shrug now slipped to the elbows.
+WARDROBE: warm-rose leotard, chiffon skirt cascading, shrug now slipped to the elbows.
 FOOTWEAR: pearl-pink pointe shoes, heels lifting into demi-pointe.
 EYEWEAR: none.
 ACCESSORIES: ribbon choker, wrist-ribbon, pearl studs.
@@ -2770,7 +2770,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A serene close-up between phrases — chest rising with breath, a wisp of tendril at the cheek, dust-motes drifting, eyes calm and focused. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth.
-WARDROBE: pale-rose leotard strap on the shoulder, soft.
+WARDROBE: warm-rose leotard strap on the shoulder, soft.
 FOOTWEAR: oof — continuity pointe shoes.
 EYEWEAR: none.
 ACCESSORIES: ribbon choker at the throat, pearl stud.
@@ -2825,7 +2825,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: Over-the-shoulder cowboy framing toward the mirror — we see both her back and her reflected front as she checks an epaulement, a doubled elegant moment. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling.
-WARDROBE: pale-rose leotard back, chiffon skirt at the hip.
+WARDROBE: warm-rose leotard back, chiffon skirt at the hip.
 FOOTWEAR: pointe shoes, weight on one (continuity).
 EYEWEAR: none.
 ACCESSORIES: ribbon choker, wrist-ribbon, reflected too.
@@ -2880,7 +2880,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A tender three-quarter close-up — she turns from the barre to camera and speaks the closing line, dust-lit and luminous. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling.
-WARDROBE: pale-rose leotard shoulder + chiffon, soft.
+WARDROBE: warm-rose leotard shoulder + chiffon, soft.
 FOOTWEAR: oof — continuity pointe shoes.
 EYEWEAR: none.
 ACCESSORIES: ribbon choker, pearl studs.
@@ -4460,8 +4460,8 @@ NEGATIVE: STD-NEG-VID.
 [END CONCEPT 14]
 
 =====================================================================================================
-CONCEPT 15 — CERAMIC POTTERY ATELIER · 6 frames · VOICE: SPOKEN · Palette: terracotta + cream + sage
-Logline: Aira works in a sunlit pottery atelier — leather clogs, a clay-dusted apron, sage linen — a tactile story of tying the apron, centering clay on the wheel, and lifting a finished vessel into the light.
+CONCEPT 15 — CERAMIC POTTERY ATELIER · 6 frames · VOICE: SPOKEN · Palette: terracotta + cream + jade
+Logline: Aira works in a sunlit pottery atelier — leather clogs, a clay-dusted apron, jade linen — a tactile story of tying the apron, centering clay on the wheel, and lifting a finished vessel into the light.
 Impossible move: wet clay spinning on the wheel rises and shapes itself into a perfect vessel under her hovering hands, untouched.
 =====================================================================================================
 
@@ -4472,7 +4472,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A high-three-quarter wide of a sunlit pottery atelier — Aira among shelves of drying terracotta vessels, a potter's wheel centre, big dusty windows pouring warm light. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling.
-WARDROBE: a soft sage-green linen wrap-dress with sleeves rolled, a cream canvas apron over it.
+WARDROBE: a rich jade-green linen wrap-dress with sleeves rolled, a cream canvas apron over it.
 FOOTWEAR: tan leather clogs on the clay-dusted wood floor (footwear hero).
 EYEWEAR: none — a clay-smudge on the cheek instead (continuity-noted: none).
 ACCESSORIES: a clay-dusted apron-tie at the waist (accessory hero), a thin leather cord necklace, a simple ceramic ring, hair-tie on the wrist.
@@ -4487,9 +4487,9 @@ SUBJECT FRAMING & POSITION: A wide high-three-quarter frame centres Aira among s
 LENS + DOF + BOKEH: 24mm, deep focus, pottery-shelf bokeh.
 COMPOSITION REF: warm artisan-studio establishing.
 ATMOSPHERE: floating clay-dust + dust-motes in the light. Rich atmospheric layering — delicate volumetric light and fine airborne detail, clean and immersive.
-COLOR GRADE: terracotta + cream + sage, warm earthy. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
+COLOR GRADE: terracotta + cream + jade, warm earthy. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 TEXTURE: linen, canvas apron, raw terracotta, clay-dusted wood. Elevated micro-texture and true premium material finish — realistic surfaces, natural imperfections, fine reflections, no plastic or noise.
-CONTINUITY-LOCKS: sage linen wrap-dress + cream apron / tan leather clogs / clay-smudge cheek (no eyewear) / apron-tie + leather-cord necklace + ceramic ring / loose low bun — carry across.
+CONTINUITY-LOCKS: jade linen wrap-dress + cream apron / tan leather clogs / clay-smudge cheek (no eyewear) / apron-tie + leather-cord necklace + ceramic ring / loose low bun — carry across.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -4500,7 +4500,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: wide high-three-quarter.
 LENS: 24mm, deep focus.
-WARDROBE (lock): sage linen wrap-dress, cream apron.
+WARDROBE (lock): jade linen wrap-dress, cream apron.
 FOOTWEAR (lock): tan leather clogs.
 EYEWEAR (lock): none (clay-smudge cheek).
 ACCESSORIES (lock): apron-tie, leather-cord necklace, ceramic ring.
@@ -4527,7 +4527,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A tactile detail beat — ECU on her hands tying the clay-dusted apron strings into a bow at the waist, widening to a medium of her seated at the wheel. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth.
-WARDROBE: sage linen dress, sleeves rolled, cream apron.
+WARDROBE: jade linen dress, sleeves rolled, cream apron.
 FOOTWEAR: tan leather clogs, one pressing the wheel-pedal.
 EYEWEAR: none.
 ACCESSORIES: clay-dusted apron-tie being knotted (accessory hero), leather-cord necklace, ceramic ring.
@@ -4555,7 +4555,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: ECU on apron-tie widening to MS three-quarter.
 LENS: 60mm, focus pull hands→face.
-WARDROBE (lock): sage linen, rolled sleeves, cream apron.
+WARDROBE (lock): jade linen, rolled sleeves, cream apron.
 FOOTWEAR (lock): clogs, one on the pedal.
 EYEWEAR (lock): none.
 ACCESSORIES (lock): apron-tie, necklace, ring.
@@ -4582,7 +4582,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A medium-close high shot over the wheel — wet clay spins and rises, shaping itself into a perfect vessel under her hovering hands, untouched (impossible-move hero). Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
-WARDROBE: sage linen, rolled sleeves, cream apron, clay-flecked.
+WARDROBE: jade linen, rolled sleeves, cream apron, clay-flecked.
 FOOTWEAR: clogs on the pedal (lower frame).
 EYEWEAR: none.
 ACCESSORIES: apron-tie, leather-cord necklace swinging forward, ceramic ring.
@@ -4610,7 +4610,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: MCU high over the wheel.
 LENS: 50mm, medium-shallow focus.
-WARDROBE (lock): sage linen, rolled sleeves, cream apron.
+WARDROBE (lock): jade linen, rolled sleeves, cream apron.
 FOOTWEAR (lock): clogs on pedal.
 EYEWEAR (lock): none.
 ACCESSORIES (lock): apron-tie, necklace, ring.
@@ -4637,7 +4637,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A warm close-up as she wipes the back of a wrist across her cheek, adding a fresh clay-streak, and laughs softly to camera, window-light glowing. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth.
-WARDROBE: sage linen shoulder, cream apron strap.
+WARDROBE: jade linen shoulder, cream apron strap.
 FOOTWEAR: oof — continuity clogs.
 EYEWEAR: none.
 ACCESSORIES: leather-cord necklace, ceramic ring.
@@ -4692,7 +4692,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: Full-length side view as she stands and lifts the finished terracotta vessel up toward the window-light, turning it to inspect, apron and linen draping. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth.
-WARDROBE: sage linen dress draping, cream apron, sleeves rolled.
+WARDROBE: jade linen dress draping, cream apron, sleeves rolled.
 FOOTWEAR: tan leather clogs planted, weight shifting.
 EYEWEAR: none.
 ACCESSORIES: apron-tie, leather-cord necklace, ceramic ring.
@@ -4720,7 +4720,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: full-length side.
 LENS: 35mm, medium focus.
-WARDROBE (lock): sage linen draping, cream apron.
+WARDROBE (lock): jade linen draping, cream apron.
 FOOTWEAR (lock): clogs planted.
 EYEWEAR (lock): none.
 ACCESSORIES (lock): apron-tie, necklace, ring.
@@ -4747,7 +4747,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
 SCENE INTENT: A warm three-quarter close-up — holding the finished vessel at her chest, she turns to camera and speaks the closing line, clay-smudged and glowing. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth.
-WARDROBE: sage linen shoulder + cream apron strap soft.
+WARDROBE: jade linen shoulder + cream apron strap soft.
 FOOTWEAR: oof — continuity clogs.
 EYEWEAR: none.
 ACCESSORIES: leather-cord necklace, ceramic ring on the cradling hand.
