@@ -68,7 +68,7 @@ Movement (one impossible move): the steel-to-silk dissolve transform — her liq
 
 Concept Line: "Steel to silk. Same power, softer edge."
 
-Duration: 25 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: POWERFUL → SERENE
 
@@ -644,7 +644,7 @@ Movement: SIX CITIES, ONE HER — each frame is a different world city (Paris, T
 
 Concept Line: “Six cities. One her.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: WORLDLY → ASSURED (kinetic, confident, cosmopolitan)
 
@@ -1220,7 +1220,7 @@ Movement (one impossible move): the drape-unwind to streetwear — the saree pal
 
 Concept Line: “Saree to streetwear. Same roots, new stride.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: HERITAGE → STREET (regal → effortless cool)
 
@@ -1796,7 +1796,7 @@ Movement (one impossible move): the four-season sweep — a single travelling ri
 
 Concept Line: “Seasons change. I don’t.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: ETHEREAL/WONDROUS → SERENE/GROUNDED
 
@@ -2372,7 +2372,7 @@ Movement (one impossible move): the finger-snap wardrobe change — on one crisp
 
 Concept Line: “One snap. New me.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: BOLD/PLAYFUL → SHARP/ASSURED
 
@@ -2948,7 +2948,7 @@ Movement (one impossible move): the night-flower bloom burst — on a soft fragr
 
 Concept Line: “Some nights, you just bloom.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: ROMANTIC/MYSTERIOUS → RADIANT/SERENE
 
@@ -3524,7 +3524,7 @@ Movement (one impossible move): the sunlight-to-gold-dust wrap — on a soft fra
 
 Concept Line: “Some moments just stay golden.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: WARM/DREAMY → RADIANT/SERENE
 
@@ -4100,7 +4100,7 @@ Movement (one impossible move): the ivory-to-colour ink bloom — on one slow br
 
 Concept Line: “Color was always the point.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: PURE/MINIMAL → BOLD/ALIVE
 
@@ -4676,7 +4676,7 @@ Movement (one impossible move): the chrome-pour body wrap — on one beat liquid
 
 Concept Line: “I flow. I don’t break.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: COOL/SCULPTURAL → FLUID/POWERFUL
 
@@ -5252,7 +5252,7 @@ Movement (one impossible move): the paper-fold to petal burst — on one breath 
 
 Concept Line: “Unfold. Then bloom.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: SOFT/CRAFTED → BLOOMING/ALIVE
 
@@ -5828,7 +5828,7 @@ Movement (one impossible move): the GRWM speed-getting-ready wrap — on one bea
 
 Concept Line: “New city. Let’s begin.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: SLEEPY/SOFT → READY/BRIGHT
 
@@ -6404,7 +6404,7 @@ Movement (one impossible move): the fairy-light bloom wrap — on one beat warm 
 
 Concept Line: “Tonight, we light it up.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: WARM/SOFT → FESTIVE/RADIANT
 
@@ -6980,7 +6980,7 @@ Movement (one impossible move): the sunrise-light sweep — on one beat a single
 
 Concept Line: “5 AM. This is my hour.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: PRE-DAWN/STILL → SUNRISE/ALIVE
 
@@ -7556,7 +7556,7 @@ Movement (one impossible move): the serum-glow glass bloom — on one beat a sin
 
 Concept Line: “Glass skin. No filter.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: SOFT/DEWY → LUMINOUS/CLEAR
 
@@ -8132,7 +8132,7 @@ Movement (one impossible move): the winged-liner ink draw — on one beat a sing
 
 Concept Line: “I draw my own line.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: STARK/POISED → BOLD/GRAPHIC
 
@@ -8708,7 +8708,7 @@ Movement (one impossible move): the rain-on-window ripple — on one beat a sing
 
 Concept Line: “Some days are made for rain.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: COZY/SOFT → WARM/DREAMY
 
@@ -9284,7 +9284,7 @@ Movement (one impossible move): the wind-and-light coastal wrap — on one beat 
 
 Concept Line: “Some roads feel like home.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: BREEZY/OPEN → GOLDEN/DREAMY
 
@@ -9860,7 +9860,7 @@ Movement (one impossible move): the page-flutter to glow — on one beat a singl
 
 Concept Line: “Lost in the pages, found myself.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: SOFT/QUIET → WARM/REFINED
 
@@ -10436,7 +10436,7 @@ Movement (one impossible move): the flour-dust morning bloom — on one beat a s
 
 Concept Line: “Home is something you make.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: SLEEPY/SOFT → WARM/HOMEY
 
@@ -11012,7 +11012,7 @@ Movement (one impossible move): the sparkler-to-confetti burst — on one beat a
 
 Concept Line: “New year. Same fire, brighter.”
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: ANTICIPATION/COOL → SPARKLING/CELEBRATORY
 

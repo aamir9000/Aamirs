@@ -30,7 +30,7 @@ Movement: living-vine topiary growth wraps the gown → blossom-bloom burst. Bot
 
 Concept Line: "she grows into bloom" (on-theme, NOT spoken)
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: LUSH · VIBRANT · MIND-BLOWING
 
@@ -530,7 +530,7 @@ Movement: macro rack-focus then a graphic 3D orbit on the levitating compact (be
 
 Concept Line (NOT spoken): "pure colour, pure pop"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ELECTRIC · VIBRANT · MIND-BLOWING
 
@@ -1020,7 +1020,7 @@ Movement: macro rack-focus then a graphic 3D orbit on the levitating bottle (bea
 
 Concept Line (NOT spoken): "bloom in neon"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: TROPICAL · VIBRANT · MIND-BLOWING
 
@@ -1510,7 +1510,7 @@ Movement: macro rack-focus then a graphic 3D orbit on the levitating palette (be
 
 Concept Line (NOT spoken): "drawn in light"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: DREAMY · VIBRANT · MIND-BLOWING
 
@@ -2006,7 +2006,7 @@ Movement: macro rack-focus then a graphic 3D orbit on the levitating bottle (bea
 
 Concept Line (NOT spoken): "switch on the glow"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ELECTRIC · VIBRANT · MIND-BLOWING
 
@@ -2502,7 +2502,7 @@ Movement: macro rack-focus then a graphic 3D orbit on the levitating vial (beaut
 
 Concept Line (NOT spoken): "wet to the touch"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: SLEEK · VIBRANT · MIND-BLOWING
 
@@ -2998,7 +2998,7 @@ Movement: macro rack-focus then a graphic 3D orbit on the levitating compact (be
 
 Concept Line (NOT spoken): "unfold in bloom"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: JOYFUL · VIBRANT · MIND-BLOWING
 
@@ -3494,7 +3494,7 @@ Movement: macro rack-focus then a graphic 3D orbit on the levitating bubble-vial
 
 Concept Line (NOT spoken): "blow it up"
 
-Duration: 30 seconds | 8 frames
+Duration: 48 seconds | 8 frames
 
 Mood: PLAYFUL · VIBRANT · MIND-BLOWING
 
@@ -4136,7 +4136,7 @@ Movement: macro rack-focus then a graphic 3D orbit on the levitating prism bottl
 
 Concept Line (NOT spoken): "split the light"
 
-Duration: 30 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: IRIDESCENT · VIBRANT · MIND-BLOWING
 

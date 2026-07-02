@@ -74,7 +74,7 @@ Movement (one impossible move): she exhales down the blowpipe and a living minia
 
 Concept Line: "I keep a little galaxy where my breath used to be."
 
-Duration: ≈35 seconds | 7 frames
+Duration: ≈42 seconds | 7 frames
 
 Mood: AWED, ORACULAR, COSMIC-INTIMATE
 
@@ -710,7 +710,7 @@ Movement (one impossible move): the poured tea arcs from the spout and, instead 
 
 Concept Line: none (non-talkable) — the story carried purely by the orbiting tea, the steam, light, and her serene attention
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: SERENE, MEDITATIVE, QUIETLY WONDROUS
 
@@ -1258,7 +1258,7 @@ Movement (one impossible move): her heartbeat pulses visible light outward — e
 
 Concept Line (1): "My heartbeat is the only light that reaches this deep." Concept Line (2): "So I'll keep it beating — for all of them."
 
-Duration: ≈40 seconds | 8 frames
+Duration: ≈48 seconds | 8 frames
 
 Mood: REVERENT, OCEANIC, TENDER-MONUMENTAL
 
@@ -1980,7 +1980,7 @@ Movement (one impossible move): she catches ribbons of the living aurora from th
 
 Concept Line: none (non-talkable) — the story carried purely by the aurora-thread, the loom, the cold light, and her absorbed craft
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: SERENE, WONDROUS, QUIETLY MASTERFUL
 
@@ -2528,7 +2528,7 @@ Movement (one impossible move): when she stamps a letter and breathes on it, the
 
 Concept Line (1): "Every letter finds its star — eventually."
 
-Duration: ≈35 seconds | 7 frames
+Duration: ≈42 seconds | 7 frames
 
 Mood: WARM, WHIMSICAL, QUIETLY HOPEFUL
 
@@ -3164,7 +3164,7 @@ Movement (one impossible move): her sustained hum grows crystals in real time �
 
 Concept Line: none (non-talkable; she hums a wordless sustained tone with closed lips) — the story carried purely by the growing crystal, the refracted light, and her absorbed resonance
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: SERENE, MINERAL, QUIETLY POWERFUL
 
@@ -3712,7 +3712,7 @@ Movement (one impossible move): when she whispers a wish into the lantern and re
 
 Concept Line (1): "Every wish just needs a light to carry it."
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: WARM, WISTFUL, GENTLY HOPEFUL
 
@@ -4264,7 +4264,7 @@ Movement (one impossible move): she draws threads of captured sunlight from the 
 
 Concept Line: none (non-talkable) — the story carried purely by the woven light, the billowing sails, and her absorbed craft
 
-Duration: ≈35 seconds | 7 frames
+Duration: ≈42 seconds | 7 frames
 
 Mood: WARM, INDUSTRIOUS, QUIETLY MAJESTIC
 
@@ -4896,7 +4896,7 @@ Movement (one impossible move): when she touches the moon-pool, the reflected st
 
 Concept Line (1): "Even the sky will rise to meet a steady hand."
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: SERENE, AWED, QUIETLY POWERFUL
 
@@ -5448,7 +5448,7 @@ Movement (one impossible move): she gathers the swirling sand into her hands and
 
 Concept Line: none (non-talkable) — the story carried purely by the shaped sand, the holographic oasis, and her absorbed wonder
 
-Duration: ≈40 seconds | 8 frames
+Duration: ≈48 seconds | 8 frames
 
 Mood: WARM, MYSTICAL, QUIETLY WONDROUS
 
@@ -6164,7 +6164,7 @@ Movement (one impossible move): she lifts the lodestone and the iron filings ris
 
 Concept Line (1): "Even the hardest things will bloom, if you call them gently."
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: COOL, TENDER, QUIETLY POWERFUL
 
@@ -6716,7 +6716,7 @@ Movement (one impossible move): where she breathes or touches, frost-flowers blo
 
 Concept Line: none (non-talkable) — the story carried purely by the blooming frost, the cycling seasons, and her quiet wonder
 
-Duration: ≈35 seconds | 7 frames
+Duration: ≈42 seconds | 7 frames
 
 Mood: COOL, HUSHED, QUIETLY MAGICAL
 
@@ -7348,7 +7348,7 @@ Movement (one impossible move): her voice becomes ribbons of visible light that 
 
 Concept Line (1): "Every word you give it, the canyon sings back."
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: WARM, REVERENT, QUIETLY SOARING
 
@@ -7900,7 +7900,7 @@ Movement (one impossible move): where the rain touches her open hand and the roo
 
 Concept Line: none (non-talkable) — the story carried purely by the igniting rain, the blooming light, and her quiet wonder
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: COOL, LUMINOUS, QUIETLY MAGICAL
 
@@ -8532,7 +8532,7 @@ Movement (one impossible move): the small origami star she folds and releases un
 
 Concept Line: "Fold it small enough, and even a galaxy will fit in your hands."
 
-Duration: ≈35 seconds | 7 frames
+Duration: ≈42 seconds | 7 frames
 
 Mood: WONDROUS, INTIMATE, QUIETLY COSMIC
 
@@ -9266,7 +9266,7 @@ Movement (one impossible move): where she touches the dune-rod to the mercury, t
 
 Concept Line: none (non-talkable) — the story carried purely by the rising mirror-mercury, the reflections, and her serene command
 
-Duration: ≈40 seconds | 8 frames
+Duration: ≈48 seconds | 8 frames
 
 Mood: COOL, MONUMENTAL, MIRROR-SERENE
 
@@ -10094,7 +10094,7 @@ Movement (one impossible move): the sparks struck from the anvil do not fade —
 
 Concept Line: "Even the sparks don't want to die — so I give them somewhere to land."
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: WARM, TENDER, QUIETLY MYTHIC
 
@@ -10730,7 +10730,7 @@ Movement (one impossible move): where the watering-can dew falls onto the cloud-
 
 Concept Line: none (non-talkable) — the story carried purely by the blooming cloud-garden, the dawn light, and her serene tending
 
-Duration: ≈35 seconds | 7 frames
+Duration: ≈42 seconds | 7 frames
 
 Mood: WARM, SERENE, GENTLY WONDROUS
 
@@ -11460,7 +11460,7 @@ Movement (one impossible move): where the skylight rain falls it splits through 
 
 Concept Line: "Even underground, the rain remembers how to make a rainbow."
 
-Duration: ≈30 seconds | 6 frames
+Duration: ≈36 seconds | 6 frames
 
 Mood: COOL, LUMINOUS, QUIETLY HOPEFUL
 
@@ -12096,7 +12096,7 @@ Movement (one impossible move): where the driftwood touches a tide-pool, the wat
 
 Concept Line: none (non-talkable) — the story carried purely by the stardust pools, the starlight, and her serene wonder
 
-Duration: ≈40 seconds | 8 frames
+Duration: ≈48 seconds | 8 frames
 
 Mood: COOL, COSMIC, SERENE-WONDROUS
 

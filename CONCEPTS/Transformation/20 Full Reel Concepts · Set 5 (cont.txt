@@ -31,7 +31,7 @@ Movement: macro rack-focus → graphic 3D orbit on the levitating prism bottle (
 
 Concept Line (NOT spoken): "split the light"
 
-Duration: 30 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: ELECTRIC, FUTURISTIC, IRIDESCENT
 
@@ -613,7 +613,7 @@ Movement: macro rack-focus → graphic 3D orbit on the levitating hero bottle (b
 
 Concept Line (NOT spoken): "watch it bloom"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ELECTRIC, BOLD, POP
 

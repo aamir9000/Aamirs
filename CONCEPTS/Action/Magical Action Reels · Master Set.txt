@@ -81,7 +81,7 @@ The Impossible Move (one magic): at launch the tunnel and car smear into ribbons
 
 Concept Line / Twist payoff: "Some doors only open at full throttle."
 
-Duration: 26 seconds · 7 frames.
+Duration: 42 seconds · 7 frames.
 
 Mood: ELECTRIC, controlled, predatory-calm.
 
@@ -704,7 +704,7 @@ The Impossible Move (one magic): mid-drift the billowing tire-smoke ignites into
 
 Concept Line / Twist payoff: (silent — no spoken or narrated line; the cosmic smoke IS the payoff.)
 
-Duration: 24 seconds · 6 frames.
+Duration: 36 seconds · 6 frames.
 
 Mood: FIERCE, molten, cosmic-calm.
 
@@ -1244,7 +1244,7 @@ The Impossible Move (one magic): at the apex of the 180 a time-rewind ripple swe
 
 Concept Line / Twist payoff: "Sometimes you go back to go forward."
 
-Duration: 24 seconds · 6 frames.
+Duration: 36 seconds · 6 frames.
 
 Mood: POISED, mystical, precise.
 
@@ -1784,7 +1784,7 @@ The Impossible Move: As Aira steps out of the car, the entire pit crew, the spin
 
 Concept Line / Twist payoff: "Everyone's chasing the clock. She turned it off."
 
-Duration · frames: ~16s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Held-breath awe, quiet dominance, eerie stillness inside motorsport violence
 
@@ -2372,7 +2372,7 @@ The Impossible Move: At the apex of a rooftop-gap vault, gravity rotates 90° �
 
 Concept Line / Twist payoff: (SILENT — the gravity-turn IS the payoff; no narration, no spoken word.)
 
-Duration · frames: ~28s · 7 frames
+Duration · frames: ~42s · 7 frames
 
 Mood: Vertiginous awe, fierce control, weightless wonder
 
@@ -3049,7 +3049,7 @@ The Impossible Move: Each strike, block and sweep leaves a glowing trail of liqu
 
 Concept Line / Twist payoff: "Some fight to win. She fights to leave a mark."
 
-Duration · frames: ~22s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Serene power, ink-on-silk elegance, fierce control
 
@@ -3637,7 +3637,7 @@ The Impossible Move: As she lane-splits between the gridlocked cars, each vehicl
 
 Concept Line / Twist payoff: "Everyone sees a wall. She sees the gap."
 
-Duration · frames: ~23s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Cool, surgical, electric-calm
 
@@ -4219,7 +4219,7 @@ The Impossible Move: As her wingsuit membranes catch the air, they ignite into b
 
 Concept Line / Twist payoff: "The fall only frightens those who never learned they had wings."
 
-Duration · frames: ~27s · 7 frames
+Duration · frames: ~42s · 7 frames
 
 Mood: Sublime, fearless, soaring-calm
 
@@ -4892,7 +4892,7 @@ The Impossible Move: As the buggy charges the dune face, the sand parts like tow
 
 Concept Line / Twist payoff: "Stand still and it buries you. Charge, and it parts."
 
-Duration · frames: ~23s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Fierce, epic, sun-scorched calm
 
@@ -5474,7 +5474,7 @@ The Impossible Move: As she falls toward the sea, the ocean surface transforms i
 
 Concept Line / Twist payoff: (silent — the mirror-sea and the pierce ARE the payoff; no spoken or narrated line.)
 
-Duration · frames: ~22s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Serene, sublime, weightless-calm
 
@@ -6056,7 +6056,7 @@ The Impossible Move: As she throttles the hoverbike to full speed, she leaves a 
 
 Concept Line / Twist payoff: "By the time they see her... she's already gone."
 
-Duration · frames: ~27s · 7 frames
+Duration · frames: ~42s · 7 frames
 
 Mood: Cool, predatory, electric-calm
 
@@ -6727,7 +6727,7 @@ The Impossible Move: As she runs and slides into the laser grid, the security be
 
 Concept Line / Twist payoff: "Rules bend... for the ones who don't."
 
-Duration · frames: ~23s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Cool, precise, razor-calm
 
@@ -7309,7 +7309,7 @@ The Impossible Move: As she free-runs straight up the vertical glass face, the e
 
 Concept Line / Twist payoff: (silent — no spoken or narrated line; the gravity-flip IS the payoff.)
 
-Duration · frames: ~27s · 7 frames
+Duration · frames: ~42s · 7 frames
 
 Mood: Serene, vertiginous, weightless-calm
 
@@ -7980,7 +7980,7 @@ The Impossible Move: As she strides into the downpour, the pouring rain freezes 
 
 Concept Line / Twist payoff: "Even the rain learns to wait."
 
-Duration · frames: ~22s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Cool, unshakeable, noir-calm
 
@@ -8562,7 +8562,7 @@ The Impossible Move: As she executes each cut of the kata, the blade-trail becom
 
 Concept Line / Twist payoff: "She does not strike. She writes."
 
-Duration · frames: ~22s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Serene, precise, meditative-powerful
 
@@ -9144,7 +9144,7 @@ The Impossible Move: As she leans and carves each turn, the canyon walls and flo
 
 Concept Line / Twist payoff: (SILENT — no spoken or narrated line; the blooming bioluminescent canyon IS the payoff.)
 
-Duration · frames: ~26s · 7 frames
+Duration · frames: ~42s · 7 frames
 
 Mood: Fierce, serene, wondrous
 
@@ -9815,7 +9815,7 @@ The Impossible Move: As she flies, she scatters into a flock of glowing light-bi
 
 Concept Line / Twist payoff: "To soar, she let herself scatter."
 
-Duration · frames: ~26s · 7 frames
+Duration · frames: ~42s · 7 frames
 
 Mood: Exhilarated, serene, transcendent
 
@@ -10486,7 +10486,7 @@ The Impossible Move: As she throws the buggy into a wide drift, the swirling san
 
 Concept Line / Twist payoff: "She doesn't outrun the storm — she summons it."
 
-Duration · frames: ~24s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Fierce, primal, awe-struck
 
@@ -11068,7 +11068,7 @@ The Impossible Move: As she sprints and launches off a rooftop edge into a chasm
 
 Concept Line / Twist payoff: "Gravity was only ever a suggestion."
 
-Duration · frames: ~24s · 6 frames
+Duration · frames: ~36s · 6 frames
 
 Mood: Fierce, weightless, transcendent
 
@@ -11650,7 +11650,7 @@ The Impossible Move: She launches the hypercar at escape velocity, the car lifts
 
 Concept Line / Twist payoff: "The sky was never the limit — it was only ever the start line."
 
-Duration · frames: ~32s · 8 frames
+Duration · frames: ~48s · 8 frames
 
 Mood: Transcendent, triumphant, awe-struck — the grand finale
 

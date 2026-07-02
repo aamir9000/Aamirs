@@ -98,7 +98,7 @@ Movement: the one impossible move — at the instant a sun-shaft strikes the bra
 
 Concept Line: "the world held its breath."
 
-Duration: 21 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: AWESTRUCK / WONDROUS
 
@@ -739,7 +739,7 @@ Movement: the one impossible move — a single thunderclap freezes the entire mo
 
 Concept Line: silent — no spoken line; the storytelling is purely visual and atmospheric.
 
-Duration: 24.5 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: ELECTRIC / DREAMLIKE / COOL-WONDER
 
@@ -1475,7 +1475,7 @@ Movement: the one impossible move — at the instant she claps once for the toas
 
 Concept Line: "some moments deserve to last forever."
 
-Duration: 21 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: JOYOUS / GLAMOROUS / CELEBRATORY
 
@@ -2116,7 +2116,7 @@ Movement: the one impossible move — at the green-flash as the sun touches the 
 
 Concept Line: silent — no spoken line; the storytelling is purely visual and atmospheric.
 
-Duration: 24.5 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: SERENE / RADIANT / FREE
 
@@ -2852,7 +2852,7 @@ Movement: the one impossible move — at the stroke of midnight, all time freeze
 
 Concept Line: "some nights you wish would never end."
 
-Duration: 24.5 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: MAGICAL / JUBILANT / DREAMLIKE
 
@@ -3582,9 +3582,9 @@ Eyes & skin: locked dark-brown amber-flecked almond eyes; honey-caramel skin; ex
 
 Spoken hero line (Frame 5): “fear freezes. I don't.” (English, natural Indian accent, low and steady.)
 
-Frames: 7 · 24.5s.
+Frames: 7 · 42s.
 
-Duration: 7 × 3.5s | 24.5s total.
+Duration: 7 × 6s | 42s total.
 
 Color grade: high-contrast action teal-and-orange — molten orange fireball and sparks against deep teal-blue dusk shadows, a crimson jacket-accent pop, wet-asphalt reflections, rich crushed blacks, gritty high clarity — never dull or washed. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
@@ -4308,9 +4308,9 @@ Eyes & skin: locked dark-brown amber-flecked almond eyes; honey-caramel skin; ne
 
 Spoken line: (silent concept — no spoken line; expression and motion carry the beat.)
 
-Frames: 7 · 24.5s.
+Frames: 7 · 42s.
 
-Duration: 7 × 3.5s | 24.5s total.
+Duration: 7 × 6s | 42s total.
 
 Color grade: high-contrast neon-noir — electric magenta-and-cyan billboard light and molten orange sparks against deep blue-black night, oxblood jacket pop, rain-slick reflections, rich crushed blacks, gritty high clarity — never dull or washed. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
@@ -5034,9 +5034,9 @@ Eyes & skin: locked dark-brown amber-flecked almond eyes; honey-caramel skin; sp
 
 Spoken line: "let it all come down." (English, natural Indian accent, low and defiant.)
 
-Frames: 7 · 24.5s.
+Frames: 7 · 42s.
 
-Duration: 7 × 3.5s | 24.5s total.
+Duration: 7 × 6s | 42s total.
 
 Color grade: high-contrast electric-noir — white-hot sparks and molten-orange fireball against deep blue-black night and crackling blue catenary-arcs, gunmetal-and-reflective wardrobe edge, wet-steel reflections, rich crushed blacks, gritty high clarity — never dull or washed. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
@@ -5777,9 +5777,9 @@ Eyes & skin: locked dark-brown amber-flecked almond eyes; honey-caramel skin; go
 
 Spoken line: "blink and you'll miss me." (English, natural Indian accent, low and cocky.)
 
-Frames: 7 · 24.5s.
+Frames: 7 · 42s.
 
-Duration: 7 × 3.5s | 24.5s total.
+Duration: 7 × 6s | 42s total.
 
 Color grade: warm golden-hour teal-and-orange — molten amber sun and ochre dust against deep teal-blue shadows, sand-toned wardrobe warmth, heat-haze bloom, rich crushed blacks, gritty high clarity — never dull or washed. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
@@ -6489,7 +6489,7 @@ Eyes & skin: dark-brown amber-flecked almond eyes; honey-to-caramel skin; locked
 
 Spoken line: none — silent concept (action, breath and score only).
 
-Frames: 7 | Duration: 24.5s (7 × 3.5s).
+Frames: 7 | Duration: 24.5s (7 × 6s).
 
 Color grade: cool teal night with hot ember-orange fire and electric-blue searchlight accents. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
@@ -7199,7 +7199,7 @@ Eyes & skin: dark-brown amber-flecked almond eyes; honey-to-caramel skin; locked
 
 Spoken line: “you’re chasing a shadow.” (English, natural Indian accent, low and cool) — lands Frame 5.
 
-Frames: 7 | Duration: 24.5s (7 × 3.5s).
+Frames: 7 | Duration: 24.5s (7 × 6s).
 
 Color grade: molten-orange foundry glow against deep steel-teal shadows. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
@@ -7909,7 +7909,7 @@ Eyes & skin: dark-brown amber-flecked almond eyes; honey-to-caramel skin; locked
 
 Spoken line: none — silent concept (action, breath, storm and score only).
 
-Frames: 7 | Duration: 24.5s (7 × 3.5s).
+Frames: 7 | Duration: 24.5s (7 × 6s).
 
 Color grade: stormy steel-blue dusk with sodium-amber bridge lights and cold lightning-white accents. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 

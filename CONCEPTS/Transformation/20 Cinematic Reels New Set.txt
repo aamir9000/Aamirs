@@ -87,7 +87,7 @@ Mood: SERENE-LUXE, fluid, sun-warmed.
 
 Grade: vivid sea-blue & gold — saturated turquoise water, warm gold sun, clean ivory, glossy speculars, uncrushed soft shadows, full mid-tone, zero murk. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 22 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SILENT — no spoken line; diegetic water + a soft cinematic score.
 
@@ -595,7 +595,7 @@ Mood: GLAMOROUS, confident, cinematic.
 
 Grade: jewel-tone night — deep sapphire and emerald, warm gold chandelier highlights, glossy reflections, rich uncrushed blacks, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 4: "every entrance is a new world."
 
@@ -1103,7 +1103,7 @@ Mood: ELECTRIC, cool, confident.
 
 Grade: vivid neon-noir — saturated magenta, cyan and cobalt against wet black asphalt, glossy speculars, rich blacks, full mid-tone, no murk. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 22 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SILENT — diegetic rain + a pulsing cinematic synth score.
 
@@ -1609,7 +1609,7 @@ Mood: PLAYFUL-CHIC, magical, light.
 
 Grade: clean boutique pastel — warm oak, soft ring-light, the room re-tinting blush/ivory/emerald, glossy mirror speculars, gentle uncrushed shadow, full mid-tone. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 5: "why pick one, when I can be all of them?"
 
@@ -2117,7 +2117,7 @@ Mood: ROMANTIC-EPIC, warm, free.
 
 Grade: vivid desert gold — peach-gold sky, warm sand, cream-and-brass train, glossy amber speculars, soft long shadows, full mid-tone. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 4: "some journeys, the desert dresses you itself."
 
@@ -2625,7 +2625,7 @@ Mood: BOLD-EDITORIAL, sleek, powerful.
 
 Grade: vivid saturated monochrome-per-floor — ruby, cobalt, gold against polished chrome, glossy speculars, rich blacks, full mid-tone. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 22 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SILENT — diegetic elevator chimes + a sleek cinematic electronic score.
 
@@ -3131,7 +3131,7 @@ Mood: JOYFUL-POP, bubbly, light.
 
 Grade: vivid candy pastel — bubblegum pink, mint, lemon, peach sky, glossy speculars, bright airy mid-tone, soft shadow. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 4: "some days, you just have to float."
 
@@ -3639,7 +3639,7 @@ Mood: WARM-FESTIVE, lush, enchanted.
 
 Grade: vivid festive jewel — marigold orange, jasmine white, indigo night, warm amber lantern glow, glossy speculars, rich uncrushed shadow, full mid-tone. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 22 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SILENT — diegetic market ambience + a warm cinematic santoor-and-strings score.
 
@@ -4145,7 +4145,7 @@ Mood: SERENE-BEAUTY, soft, luminous.
 
 Grade: vivid soft-pearl — warm ivory, brushed gold, pearlescent whites, soft daylight, glossy speculars, gentle uncrushed shadow, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 5: "glow first — the rest follows."
 
@@ -4653,7 +4653,7 @@ Mood: SUSPENSE-TO-RELEASE, dramatic then radiant.
 
 Grade: dual-world — moody charcoal-amber (World A) flipping to vivid sunlit ivory-gold-blue (World B), glossy speculars, rich blacks, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 4: "every door is a chance to become someone new."
 
@@ -5161,7 +5161,7 @@ Mood: AWE-MYSTERY, weightless, luminous.
 
 Grade: vivid teal-and-gold — deep teal water, glowing artifact gold, caustic shafts, glossy speculars, rich uncrushed shadow, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 22 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SILENT — muffled underwater diegetic + an ethereal cinematic score.
 
@@ -5667,7 +5667,7 @@ Mood: WONDER-FUTURE, weightless, luminous.
 
 Grade: vivid future white-and-cyan — clean whites, cyan LEDs, warm-white accents, blue Earth, glossy speculars, rich star-black, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 22 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SILENT — soft pod hum + an ethereal synth-orchestral score.
 
@@ -6173,7 +6173,7 @@ Mood: WARM-WONDER, joyful, luminous.
 
 Grade: vivid indigo-and-gold — deep indigo night, warm amber-gold lantern glow, marigold accents, glossy speculars, rich uncrushed shadow, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 4: "make a wish — then become it."
 
@@ -6681,7 +6681,7 @@ Mood: PLAYFUL-RETRO, energetic, cool.
 
 Grade: vivid neon-arcade — saturated amber/magenta/cyan/green per decade, CRT glow, glossy speculars, rich blacks, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 5: "every era looks good on me."
 
@@ -7189,7 +7189,7 @@ Mood: DREAM-WINTER, graceful, luminous.
 
 Grade: vivid icy-blue and gold — cool blue-white ice, warm gold gears, crystal speculars, snow-glitter, rich uncrushed shadow, full mid-tone. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 22 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SILENT — delicate music-box chimes + an orchestral winter score.
 
@@ -7695,7 +7695,7 @@ Mood: ENCHANTED-FRESH, alive, radiant.
 
 Grade: vivid botanical — lush saturated greens, blush/coral/gold blossoms, golden dappled light, glossy leaf speculars, rich uncrushed shadow, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 5: "plant a little magic, and watch it bloom."
 
@@ -8203,7 +8203,7 @@ Mood: WARM-ELEGANT, lively, gourmet.
 
 Grade: vivid warm gourmet — saturated copper, cream and saffron, a flash of blue flame, glossy speculars, rich uncrushed shadow, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SPOKEN — line lands Frame 5: "a little heat, and everything transforms."
 
@@ -8711,7 +8711,7 @@ Mood: ASPIRATIONAL-COOL, free, cinematic.
 
 Grade: vivid travel — sky-blue, warm gold and clean white, glossy floor speculars, soft cloud-light, rich uncrushed shadow, full mid-tone. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 24 seconds · 6 frames
+Duration: 36 seconds · 6 frames
 
 Voice: SILENT — diegetic terminal ambience + a soaring cinematic score.
 
@@ -9217,7 +9217,7 @@ Mood: DRAMATIC-ELEGANT, expressive, theatrical.
 
 Grade: vivid theatre — deep crimson, rich gold and hard spotlight-white, glossy speculars, deep uncrushed shadow, full mid-tone. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-Duration: 26 seconds · 7 frames
+Duration: 42 seconds · 7 frames
 
 Voice: SPOKEN — line lands Frame 6: "even my shadow loves to dance."
 
@@ -9803,7 +9803,7 @@ Mood: EPIC-LUMINOUS, free, triumphant.
 
 Grade: vivid future-aquatic — saturated sea-blue, cyan, gold and clean white, glossy speculars, luminous water-light, rich uncrushed shadow, full mid-tone. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-Duration: 30 seconds · 8 frames
+Duration: 48 seconds · 8 frames
 
 Voice: SPOKEN — line lands Frame 7: "the future looks good on me."
 

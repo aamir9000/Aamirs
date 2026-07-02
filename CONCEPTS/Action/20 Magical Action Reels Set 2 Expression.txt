@@ -135,7 +135,7 @@ Movement (the one impossible move): At the climax, as a mountainous wave and the
 
 Concept Line: "Alone on the endless sea, she looked the leviathan in the eye — and split the ocean to live."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
 
 Mood: Awe, terror, nerve, transcendence — the sublime.
 
@@ -277,7 +277,7 @@ Movement (the one impossible move): At the kick's apex the falling petals freeze
 
 Concept Line: "Two masters, one courtyard of falling blossom — and a heartbeat where even the petals held still."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 4).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 4).
 
 Mood: Grace, tension, mutual respect, transcendence.
 
@@ -407,7 +407,7 @@ Movement (the one impossible move): As she leaps the chasms between islands, glo
 
 Concept Line: "She ran out of island and kept running — the sky building a staircase one step ahead of her feet."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Exhilaration, momentum, wonder, nerve.
 
@@ -549,7 +549,7 @@ Movement (the one impossible move): Every crystal she touches or passes blooms w
 
 Concept Line: "The mountain was closing above her — so she went down, and the crystals lit the way like she was playing them."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Urgency, wonder, control, awe.
 
@@ -679,7 +679,7 @@ Movement (the one impossible move): At the rite's peak she throws her arms up an
 
 Concept Line: "In the drowned cathedral she lifted her hands — and the flood rose into a hundred silver moons."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Reverence, wonder, control, transcendence.
 
@@ -821,7 +821,7 @@ Movement (the one impossible move): As she crosses, the floating lanterns lift f
 
 Concept Line: "She ran across the lantern-lake — and ten thousand little flames rose up into a dragon to run beside her."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Festivity, daring, wonder, triumph.
 
@@ -951,7 +951,7 @@ Movement (the one impossible move): At each clean strike the falling rain freeze
 
 Concept Line: "They fought in the monsoon — and every time she landed clean, the rain stopped falling and hung in the air like glass."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
 
 Mood: Tension, power, control, awe, respect.
 
@@ -1093,7 +1093,7 @@ Movement (the one impossible move): As she dances the moonlight gathers into lum
 
 Concept Line: "She danced at the oasis and the moonlight followed her feet — until it laid a silver road across the water."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Serenity, grace, wonder, transcendence.
 
@@ -1223,7 +1223,7 @@ Movement (the one impossible move): When she reaches the great chandelier its th
 
 Concept Line: "They chased her up into the gold and the dark — so she ran across a chandelier that came apart into a galaxy of glass."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Daring, elegance, wonder, triumph.
 
@@ -1365,7 +1365,7 @@ Movement (the one impossible move): Her reflection rises out of the mirror-water
 
 Concept Line: "At dusk the salt flat became a mirror — and her reflection stood up to fight her, until she made peace with it."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
 
 Mood: Tension, introspection, power, awe, peace.
 
@@ -1495,7 +1495,7 @@ Movement (the one impossible move): At her gesture the burning and blank pages g
 
 Concept Line: "The library was burning down around the child — so she called the pages up into a shield and carried her out."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Urgency, courage, tenderness, awe, relief.
 
@@ -1637,7 +1637,7 @@ Movement (the one impossible move): A translucent stag-spirit of soft light bond
 
 Concept Line: "The forest's light was dying — so a stag of starlight knelt for her, and carried her to wake the heart-tree."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Wonder, tenderness, exhilaration, reverence.
 
@@ -1779,7 +1779,7 @@ Movement (the one impossible move): At her pendant's pulse, time itself slows an
 
 Concept Line: "The only way out was through the gears — so she stopped time and ran across the frozen clockwork."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Tension, precision, nerve, awe, triumph.
 
@@ -1909,7 +1909,7 @@ Movement (the one impossible move): At her glide and leap the ice rises into cry
 
 Concept Line: "She skated alone through a palace of ice — and the ice rose into sculptures wherever she danced."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Elegance, wonder, exhilaration, triumph.
 
@@ -2051,7 +2051,7 @@ Movement (the one impossible move): At her gesture the blade-thin sunbeams solid
 
 Concept Line: "The canyon was too wide to cross — so she turned the shafts of sunlight into bridges and ran across the light."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
 
 Mood: Daring, precision, wonder, triumph.
 
@@ -2181,7 +2181,7 @@ Movement (the one impossible move): She catches a falling meteor in her cupped h
 
 Concept Line: "A star was falling — so she leapt off the peak and caught it, just to set it free again."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
 
 Mood: Wonder, serenity, exhilaration, tenderness, triumph.
 
@@ -2323,7 +2323,7 @@ Movement (the one impossible move): At her sweeping gesture the lightning bends 
 
 Concept Line: "Everyone ran from the storm — she ran into it, and opened a calm golden eye in its heart."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
 
 Mood: Nerve, awe, exhilaration, serenity, triumph.
 
@@ -2453,7 +2453,7 @@ Movement (the one impossible move): As she flows the form, threads of golden qi-
 
 Concept Line: "Alone above the clouds at dawn, she moved through the form — and the light and the petals moved with her."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 6).
 
 Mood: Serenity, mastery, power, awe, peace.
 
@@ -2595,7 +2595,7 @@ Movement (the one impossible move): At her touch the temple's glyphs ignite into
 
 Concept Line: "She dove to the drowned temple, woke its light — and let a river of glow carry her back to the sun."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5; the whole reel carries a weightless underwater slowness).
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5; the whole reel carries a weightless underwater slowness).
 
 Mood: Wonder, weightlessness, breath-held nerve, awe, triumph.
 
@@ -2725,7 +2725,7 @@ Movement (the one impossible move): At her summoning the starlight gathers into 
 
 Concept Line: "She climbed to the roof of the world, called a dragon out of the stars, and rode it up into the heart of the galaxy."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on Frame 5).
 
 Mood: Awe, grandeur, power, exhilaration, soaring triumph — the finale.
 

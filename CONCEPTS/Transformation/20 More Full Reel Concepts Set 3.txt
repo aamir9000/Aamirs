@@ -54,7 +54,7 @@ Movement: gold-leaf gilding sweep transform (the one impossible move) — a shim
 
 Concept Line: "worth its weight in gold"
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: OPULENT
 
@@ -534,7 +534,7 @@ Movement: plankton glow bloom transform (the one impossible move) — a cloud of
 
 Concept Line: "light from the deepest dark" (rendered visually — SILENT, no spoken VO)
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: MYSTERIOUS
 
@@ -950,7 +950,7 @@ Movement: time-lapse blossom bloom transform (the one impossible move) — cherr
 
 Concept Line: "spring starts with me"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: FRESH JOYFUL
 
@@ -1368,7 +1368,7 @@ Movement: constellation line-draw transform (the one impossible move) — glowin
 
 Concept Line: "written in the stars"
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: MYSTIC
 
@@ -1846,7 +1846,7 @@ Movement: honey-drip & amber-glaze transform (the one impossible move) — slow 
 
 Concept Line: "golden, inside and out"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: WARM SENSORIAL
 
@@ -2262,7 +2262,7 @@ Movement: rain-on-skin & ripple transform (the one impossible move) — a soft s
 
 Concept Line: "fresh as the first rain"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: REFRESHING
 
@@ -2678,7 +2678,7 @@ Movement: feather-plume burst transform (the one impossible move) — a soft clo
 
 Concept Line: "born to wear the crown"
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: REGAL
 
@@ -3156,7 +3156,7 @@ Movement: soap-film iridescent bloom transform (the one impossible move) — a c
 
 Concept Line: "catch the light, catch the magic"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: WHIMSICAL
 
@@ -3572,7 +3572,7 @@ Movement: kaleidoscope fractal split transform (the one impossible move) — the
 
 Concept Line: "see the world in motion"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: PLAYFUL HYPNOTIC
 
@@ -3988,7 +3988,7 @@ Movement: neon light-trail wrap transform (the one impossible move) — long-exp
 
 Concept Line: "I light up the night"
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: ELECTRIC
 
@@ -4466,7 +4466,7 @@ Movement: coral-growth bloom transform (the one impossible move) — soft corals
 
 Concept Line: "made of seafoam and dreams"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: DREAMY AQUATIC
 
@@ -4882,7 +4882,7 @@ Movement: molten-glass form & cool transform (the one impossible move) — a glo
 
 Concept Line: "shaped by fire, made to last"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ARTISANAL MOLTEN
 
@@ -5298,7 +5298,7 @@ Movement: lightning arc crackle transform (the one impossible move) — electric
 
 Concept Line: "I am the storm"
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: POWERFUL
 
@@ -5776,7 +5776,7 @@ Movement: mirror-ball light-shard scatter transform (the one impossible move) �
 
 Concept Line: "born to shine"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: GROOVY
 
@@ -6192,7 +6192,7 @@ Movement: bubblegum stretch & pop transform (the one impossible move) — a tran
 
 Concept Line: "sweet, but make it iconic"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: PLAYFUL SWEET
 
@@ -6608,7 +6608,7 @@ Movement: eclipse-shadow light sweep transform (the one impossible move) — a s
 
 Concept Line: "glow like the moon"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: SERENE MYSTIC
 
@@ -7024,7 +7024,7 @@ Movement: galaxy paint-pour swirl transform (the one impossible move) — glossy
 
 Concept Line: "I'm a work of art"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: MESMERIZING
 
@@ -7440,7 +7440,7 @@ Movement: firefly swarm gather transform (the one impossible move) — warm gold
 
 Concept Line: "I carry my own light"
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: TENDER NOSTALGIC
 
@@ -7918,7 +7918,7 @@ Movement: snow-globe swirl flurry transform (the one impossible move) — the sc
 
 Concept Line: "the magic's already inside"
 
-Duration: 24 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: MAGICAL COZY
 
@@ -8334,7 +8334,7 @@ Movement: phoenix-ember feather rise transform (the one impossible move) — dri
 
 Concept Line: "I always rise"
 
-Duration: 24 seconds | 8 frames
+Duration: 48 seconds | 8 frames
 
 Mood: TRIUMPHANT
 

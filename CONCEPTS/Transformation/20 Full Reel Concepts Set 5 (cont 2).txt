@@ -31,7 +31,7 @@ Movement: macro rack-focus → graphic 3D orbit on the levitating hero jar (beau
 
 Concept Line (NOT spoken): "good things wobble"
 
-Duration: 30 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: PLAYFUL, SURREAL, CANDY-POP
 
@@ -615,7 +615,7 @@ Movement: macro rack-focus → graphic 3D orbit on the levitating plasma orb (be
 
 Concept Line (NOT spoken): "spark it"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ELECTRIC, CHARGED, HIGH-VOLTAGE POP
 

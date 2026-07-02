@@ -59,7 +59,7 @@ Movement / Transform: macro chrome-droplet → liquid-chrome skin-flow wrap (the
 
 Concept Line: "the future looks like me."
 
-Duration: 21 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: FUTURISTIC SLEEK
 
@@ -499,7 +499,7 @@ Movement / Transform: shawl-flick → shawl-to-ember spark bloom (the one imposs
 
 Concept Line: "born from fire."
 
-Duration: 25 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: FIERY PASSIONATE
 
@@ -1005,7 +1005,7 @@ Movement / Transform: aerial silk → silk-to-aurora ribbon bloom (the one impos
 
 Concept Line: "light, made wearable." (silent reel — conveyed visually, never spoken.)
 
-Duration: 22 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ETHEREAL
 
@@ -1445,7 +1445,7 @@ Movement / Transform: porcelain glaze → porcelain-crack-to-peony bloom (the on
 
 Concept Line: "delicate, never fragile."
 
-Duration: 21 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: DELICATE REGAL
 
@@ -1885,7 +1885,7 @@ Movement / Transform: waack arm-whip → neon light-glove trail wrap (the one im
 
 Concept Line: "turn it up."
 
-Duration: 20 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ELECTRIC RETRO
 
@@ -2325,7 +2325,7 @@ Movement / Transform: veil swirl → sand-to-gold-dust veil (the one impossible 
 
 Concept Line: NONE — silent reel (a serene closed-lip smile lands the reveal beat instead of a spoken line).
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: WARM MYSTIC
 
@@ -2831,7 +2831,7 @@ Movement / Transform: adagio port de bras → frost-bloom crystal gown grow (the
 
 Concept Line: "cool, calm, radiant."
 
-Duration: 21 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: CRYSTALLINE SERENE
 
@@ -3271,7 +3271,7 @@ Movement / Transform: chakkar spin → rain-to-jasmine petal burst (the one impo
 
 Concept Line: "fresh as first rain."
 
-Duration: 24 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: JOYFUL ROMANTIC
 
@@ -3777,7 +3777,7 @@ Movement / Transform: scent-mist → smoke-to-rose petal dissolve (the one impos
 
 Concept Line: "wear the night."
 
-Duration: 21 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: SULTRY NOIR (MODEST)
 
@@ -4223,7 +4223,7 @@ Movement / Transform: hologram-glitch outfit shift (the one impossible move) —
 
 Concept Line: "glitch into the light."
 
-Duration: 18 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: FUTURISTIC FIERCE
 
@@ -4669,7 +4669,7 @@ Movement / Transform: chrysalis-to-wing bloom (the one impossible move) — drif
 
 Concept Line: "unfold, and bloom."
 
-Duration: 21 seconds | 7 frames
+Duration: 42 seconds | 7 frames
 
 Mood: TRANSFORMATIVE TENDER
 
@@ -5183,7 +5183,7 @@ Movement / Transform: liquid-gold pour skin-gild — a ribbon of molten gold pou
 
 Concept Line: "become the masterpiece." (on-screen concept only — NOT spoken; silent reel).
 
-Duration: 18s | 6 frames. Mood: OPULENT REVERENT.
+Duration: 36s | 6 frames. Mood: OPULENT REVERENT.
 
 Composition: single-subject sculptural hero, warm spotlight on black, deep negative space for the gold-pour to travel. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
@@ -5627,7 +5627,7 @@ Movement / Transform: neon-circuit light-up bodysuit — on a hard chest-pop the
 
 Concept Line: "feel the voltage." (lands Frame 5, spoken).
 
-Duration: 18s | 6 frames. Mood: GRITTY ELECTRIC.
+Duration: 36s | 6 frames. Mood: GRITTY ELECTRIC.
 
 Composition: single-subject street hero, neon key on wet black, deep reflective negative space for the circuit-light and rain to read. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
@@ -6065,7 +6065,7 @@ Movement / Transform: petal-storm gown weave — the long satin ribbon she spira
 
 Concept Line: "bloom into spring." (lands Frame 5, spoken).
 
-Duration: 18s | 6 frames. Mood: FRESH AIRY.
+Duration: 36s | 6 frames. Mood: FRESH AIRY.
 
 Composition: single-subject sunlit rooftop hero, low golden key, bright airy negative space for the ribbon and petal-storm to sweep. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
@@ -6503,7 +6503,7 @@ Movement / Transform: geode-crystal growth bloom (AX.5) — at the transform bea
 
 Concept Line: NONE — silent reel.
 
-Duration: 21s | 7 frames (3s each).
+Duration: 42s | 7 frames (6s each).
 
 Mood: MYSTIC GROUNDING — serene, weighty, luminous, otherworldly-calm.
 
@@ -7007,7 +7007,7 @@ Movement / Transform: mayura mudra → feather-eye plume fan-out (the one imposs
 
 Concept Line: "regal by nature."
 
-Duration: 21s | 7 frames (3s each).
+Duration: 42s | 7 frames (6s each).
 
 Mood: REGAL VIVID — opulent, proud, jewel-bright, graceful.
 
@@ -7513,7 +7513,7 @@ Movement / Transform: glow-paint splatter bloom (AX.5) — on a sharp tut-freeze
 
 Concept Line: "glow from within."
 
-Duration: 18s | 6 frames (3s each).
+Duration: 36s | 6 frames (6s each).
 
 Mood: TRIPPY LUMINOUS.
 
@@ -7953,7 +7953,7 @@ Movement / Transform: silk-to-smoke ribbon morph (AX.5) — on a sweeping turn t
 
 Concept Line: NONE — this is a silent reel; the concept lands purely through the dramatic silk-and-smoke morph and the product reveal.
 
-Duration: 18s | 6 frames (3s each).
+Duration: 36s | 6 frames (6s each).
 
 Mood: DRAMATIC EDITORIAL.
 
@@ -8391,7 +8391,7 @@ Movement / Transform: gown-to-galaxy starfield bloom (AX.5) — on a sweeping wa
 
 Concept Line: "dance among the stars."
 
-Duration: 21s | 7 frames (3s each).
+Duration: 42s | 7 frames (6s each).
 
 Mood: DREAMY CELESTIAL.
 
@@ -8901,7 +8901,7 @@ Movement / Transform: ember-gather → ember-to-feather phoenix wing rise (the o
 
 Concept Line: "rise."
 
-Duration: 24 seconds | 8 frames
+Duration: 48 seconds | 8 frames
 
 Mood: TRIUMPHANT FIERY
 

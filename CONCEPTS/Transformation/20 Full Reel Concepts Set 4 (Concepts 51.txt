@@ -29,7 +29,7 @@ Movement: processional light-shaft walk → stained-glass light-fracture transfo
 
 Concept Line: "lit like a cathedral"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: REVERENT → radiant
 
@@ -451,7 +451,7 @@ Movement: graceful turn → liquid-porcelain glaze pour-and-set transform → pr
 
 Concept Line: "smooth as porcelain"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: SERENE → polished
 
@@ -872,7 +872,7 @@ Makeup: Warm Gilded Glow (bronze-lit highlight, soft copper lip)
 Movement: a slow turn → clockwork gear-assembly transform → product golden-light hero. The Look A→Look B change (fitted bronze-silk underdress → ornate gilded couture gown with brass filigree gearwork and clock-hand detailing) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "beauty, like clockwork"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: PRECISE → opulent
 
@@ -1292,7 +1292,7 @@ Makeup: Chrome-Smoke Editorial (cool smoked eye, chrome highlight, soft mauve li
 Movement: a slow turn → ferrofluid spike-sheet transform → product liquid-glass hero. The Look A→Look B change (sleek charcoal column slip → sculptural liquid-obsidian gown with chrome-silver spike detailing) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "power, poured on"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: BOLD → electric
 
@@ -1712,7 +1712,7 @@ Makeup: Soft Rose-Gold Glow (rosy glow, soft glossy rose lip)
 Movement: a slow turn → embroidery thread stitch-form transform → product lip-oil glide hero. The Look A→Look B change (soft ivory silk slip → ornate gold-and-rose embroidered couture gown with floral goldwork) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "spun by hand"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ROMANTIC → radiant
 
@@ -2132,7 +2132,7 @@ Makeup: Prismatic Crystal Glow (cool dewy glow, iridescent highlight, soft mauve
 Movement: a slow turn → crystal-geode growth transform → product mist-spritz hero. The Look A→Look B change (pale lilac silk slip → faceted amethyst-and-quartz crystalline gown with prismatic edges) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "clarity, crystallized"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ETHEREAL → radiant
 
@@ -2552,7 +2552,7 @@ Makeup: Neon Graphic Glow (dewy base, a sharp cyan-to-magenta graphic liner acce
 Movement: a slow turn → liquid-light neon-tube fill transform → product gloss-swipe hero. The Look A→Look B change (sleek matte-black bodysuit with a sheer high-neck panel and tailored trousers → glowing electric couture gown of clear glass-tube channels filled with magenta-and-cyan neon) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "turn it on"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ELECTRIC → euphoric
 
@@ -2972,7 +2972,7 @@ Makeup: Gilded Byzantine Glow (warm gold-leaf inner-eye accent, soft bronze lid,
 Movement: a slow turn → mosaic tessera-assembly transform → product balm-tap hero. The Look A→Look B change (ivory silk slip → shimmering Byzantine mosaic gown of tiny lapis, teal and antique-gold glass tesserae) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "set in gold"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: OPULENT → radiant
 
@@ -3392,7 +3392,7 @@ Makeup: Sculpted Marble Glow (matte-luminous stone base, soft grey-taupe contour
 Movement: a slow turn → liquid-marble sculpt transform → product highlighter brush-sweep hero. The Look A→Look B change (soft draped oatmeal-linen grecian slip → sculpted white-and-grey-veined marble grecian gown with carved drapery folds) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "carved to last"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: SCULPTURAL serene → luminous
 
@@ -3812,7 +3812,7 @@ Makeup: Fresh Petal Glow (dewy skin, soft coral wash, glossy tinted lip, sunlit 
 Movement: a slow turn → pressed-flower resin transform → product liquid-blush dab-and-blend hero. The Look A→Look B change (soft sage-green silk slip → translucent clear-resin gown with real petals and blossoms suspended inside its glassy panels) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "in full bloom"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: FRESH romantic → radiant
 
@@ -4232,7 +4232,7 @@ Makeup: Moonlit Dew Glow (cool luminous skin, soft silver-lilac wash, dewy highl
 Movement: a slow turn → gossamer dew-web spin transform → product essence press-and-pat hero. The Look A→Look B change (soft pale-silver silk slip → intricate dew-jewelled web-lace gown with dewdrops beaded along its fine threads) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "woven by moonlight"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ETHEREAL serene → luminous
 
@@ -4652,7 +4652,7 @@ Makeup: Soft Sugar Glow (cream soft-focus skin, pastel-rose wash, soft glow, glo
 Movement: a slow turn → spun-sugar spin-and-pull transform → product powder puff press-and-roll hero. The Look A→Look B change (soft cream silk slip → delicate spun-sugar gown with translucent pastel caramel-glass panels) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "soft as sugar"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: PLAYFUL sweet → radiant
 
@@ -5072,7 +5072,7 @@ Makeup: Soft Ivory Couture Glow (luminous ivory skin, soft champagne wash, defin
 Movement: a slow turn → floating-needle lace-knit transform → product mascara lash-coat hero. The Look A→Look B change (soft ivory silk slip → intricate Chantilly lace gown) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "every thread in place"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: ELEGANT poised → luminous
 
@@ -5492,7 +5492,7 @@ Makeup: Cool Crystalline Glow (icy luminous skin, cool silver-pearl wash, frost-
 Movement: a slow turn → carved-crystal-ice sculpt transform → product cryo-roller glide hero. The Look A→Look B change (pale silver-grey silk slip → faceted clear-ice gown) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line (on-theme, NOT spoken): "clear as ice"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: COOL composed → luminous
 
@@ -5918,7 +5918,7 @@ Makeup: Hyper-Pop Iridescent Glow (luminous skin, iridescent lid shimmer, graphi
 Movement: a confident turn → voxel pixel-assembly transform → product highlighter-stick draw hero. The Look A→Look B change (matte cobalt slip → structured digital-couture gown of neat luminous facets) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line (on-theme, NOT spoken): "level up"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: PLAYFUL electric → triumphant
 
@@ -6346,7 +6346,7 @@ Makeup: Chrome Metallic Glow (sculpted luminous skin, chrome-silver lid, crisp c
 Movement: a confident reveal → aero panel-assembly transform → product chrome-lipstick swipe hero → a powerful speed-turn → a hero-with-car glamour beat. The Look A→Look B change (sleek gunmetal slip → aerodynamic couture gown of lacquered panels, exposed carbon weave and chrome trim) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line (on-theme, NOT spoken): "engineered to shine"
 
-Duration: 30 seconds | 8 frames
+Duration: 48 seconds | 8 frames
 
 Mood: SLEEK powerful → triumphant
 
@@ -6906,7 +6906,7 @@ Makeup: Warm Gilded Glow (bronzed sculpted skin, soft gold lid, deep rust lip)
 Movement: a composed reveal → wrought-iron filigree transform → product gilded-bronzer sweep hero → a wordless look → molten-gold filigree-light bloom climax → loop close. The Look A→Look B change (fitted black silk slip → ornate couture gown of black iron scrollwork laced with gold-leaf highlights) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line (on-theme, NOT spoken): "wrought by hand"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: WARM crafted → radiant
 
@@ -7336,7 +7336,7 @@ Makeup: Fresh Pastel Glow (dewy skin, soft pastel-pink wash, glossy petal-pink l
 Movement: a soft reveal → paper-quilling transform → product cushion-blush press hero → a wordless look → paper-bloom unfurl climax → loop close. The Look A→Look B change (cream silk slip → intricate couture gown of coiled pastel paper strips) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line (on-theme, NOT spoken): "folded by hand"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: SOFT whimsical → joyful
 
@@ -7766,7 +7766,7 @@ Makeup: Graphic Ink Eye (sharp black winged liner, soft-smoked outer, porcelain 
 Movement: a poised reveal → smoke-calligraphy transform → product liner wing-flick hero → a wordless look → silver ink-bloom climax → loop close. The Look A→Look B change (black silk slip → flowing gown of inky calligraphic strokes and smoke-silk with fine silver-ink edges) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line (on-theme, NOT spoken): "in a single stroke"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: DRAMATIC → elegant
 
@@ -8198,7 +8198,7 @@ Makeup: Luminous Champagne-Glow (lit champagne highlight, soft rose-gold lip)
 Movement: a slow regal turn → crystal-chandelier drop-assembly transform → product crystal-glow hero → wordless grand hero beat. The Look A→Look B change (champagne silk-satin column gown → luminous crystal-drop couture gown of strung faceted cut-crystal droplets over champagne silk) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "lit by a thousand crystals" (on-theme, NOT spoken)
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: REGAL → dazzling
 

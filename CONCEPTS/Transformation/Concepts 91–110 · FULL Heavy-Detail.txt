@@ -32,7 +32,7 @@ Movement: rapid on-beat mercury-pour / chrome-peel / mirror-spin outfit changes,
 
 Concept Line (NOT spoken): "she pours herself into light"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: METALLIC, KINETIC, CHROME-MAXIMAL
 
@@ -569,7 +569,7 @@ Movement: rapid on-beat ink-bloom / paint-pour / colour-wash outfit changes, wit
 
 Concept Line (NOT spoken): "she blooms in colour"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: LUMINOUS, FLUID, COLOUR-MAXIMAL
 
@@ -1106,7 +1106,7 @@ Movement: rapid on-beat holo-shimmer / prism-shift / light-spin outfit changes, 
 
 Concept Line (NOT spoken): "she shifts with the light"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: IRIDESCENT, KINETIC, LIGHT-MAXIMAL
 
@@ -1643,7 +1643,7 @@ Movement: rapid on-beat sky-wash / cloud-bloom / horizon-spin outfit changes, wi
 
 Concept Line (NOT spoken): "she holds the horizon"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: LUMINOUS, GRADIENT, GOLDEN-HOUR-MAXIMAL
 
@@ -2182,7 +2182,7 @@ Movement: rapid on-beat glass-blow / glass-pleat / molten-swirl outfit changes, 
 
 Concept Line (NOT spoken): "she is glass, lit from within"
 
-Duration: 30 seconds | 6 frames
+Duration: 36 seconds | 6 frames
 
 Mood: MOLTEN, LUMINOUS, GLASS-MAXIMAL
 

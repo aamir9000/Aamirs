@@ -97,7 +97,7 @@ Movement (the one impossible move): As the car punches through its own slipstrea
 
 Concept Line: "She doesn't outrun the desert — she rewrites it in gold."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Molten, triumphant, vast, cinematic.
 
@@ -237,7 +237,7 @@ Movement (the one impossible move): As the bike leaps a rooftop chasm, the neon 
 
 Concept Line: "The city's light bends around her — and lets her fly."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Electric, nocturnal, sleek, defiant.
 
@@ -367,7 +367,7 @@ Movement (the one impossible move): At the peak of a tandem drift, the billowing
 
 Concept Line: "She writes her line in smoke — and it takes wing."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Sleek, kinetic, smoky, defiant.
 
@@ -495,7 +495,7 @@ Movement (the one impossible move): As the car blasts through a deep puddle and 
 
 Concept Line: "She runs the dark stage — and the forest lights up to watch."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Wild, organic, headlong, luminous.
 
@@ -637,7 +637,7 @@ Movement (the one impossible move): As the sled carves hard and throws a great f
 
 Concept Line: "She carves the glacier — and the night sky answers in crystal."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Frozen, fierce, vast, luminous.
 
@@ -779,7 +779,7 @@ Movement (the one impossible move): At the peak of the chase, the towering powde
 
 Concept Line: "The mountain comes apart behind her — so she fights, and flies, downhill."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Breathless, vast, heroic, luminous.
 
@@ -909,7 +909,7 @@ Movement (the one impossible move): When a heavy ram cracks the ice, the spreadi
 
 Concept Line: "She fights on breaking ice — and the cracks bloom into light."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Heavy, crystalline, industrial, sublime.
 
@@ -1037,7 +1037,7 @@ Movement (the one impossible move): As the jet-ski carves hard and throws a grea
 
 Concept Line: "She carves the coast — and the sea hangs in the air to watch."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Bright, salt-spray, exhilarant, sublime.
 
@@ -1179,7 +1179,7 @@ Movement (the one impossible move): At the apex of her signature spinning kick, 
 
 Concept Line: "She fights across two boats at speed — and the sea stands up behind her."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Hard, bright, kinetic, sublime.
 
@@ -1309,7 +1309,7 @@ Movement (the one impossible move): At the lip of the great waterfall, the falli
 
 Concept Line: "She runs the falls — and the water builds her a staircase of light."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Lush, thunderous, exhilarant, sublime.
 
@@ -1451,7 +1451,7 @@ Movement (the one impossible move): At the height of a spinning blade-flourish, 
 
 Concept Line: "She duels through the bamboo — and the falling leaves hold their breath."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Serene, precise, breathtaking, sublime.
 
@@ -1581,7 +1581,7 @@ Movement (the one impossible move): At the climax of a spinning spear-sweep, the
 
 Concept Line: "She dances the spear through the storm — and the desert rises to spin with her."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Epic, scouring, elemental, sublime.
 
@@ -1711,7 +1711,7 @@ Movement (the one impossible move): At the apex of her signature spinning kick, 
 
 Concept Line: "She fights over the fire — and the forge itself rises to her fists."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Molten, thunderous, ferocious, sublime.
 
@@ -1853,7 +1853,7 @@ Movement (the one impossible move): As a lightning bolt strikes her raised blade
 
 Concept Line: "She duels in the storm — and catches the lightning on her blade."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Tempestuous, electric, austere, sublime.
 
@@ -1995,7 +1995,7 @@ Movement (the one impossible move): At the apex of her signature spinning kick, 
 
 Concept Line: "She fights the wind at full speed — and the slipstream turns to light around her."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Screaming-fast, kinetic, vertiginous, sublime.
 
@@ -2137,7 +2137,7 @@ Movement (the one impossible move): Mid-drop, when a gust throws her off the car
 
 Concept Line: "She lets go of the sky — and the desert itself catches her onto the car."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Vertiginous, daring, elemental, sublime.
 
@@ -2279,7 +2279,7 @@ Movement (the one impossible move): As she crests a rise at full gallop, the gre
 
 Concept Line: "She rides the plain into the sun — and the dust rises behind her as a phoenix."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Sweeping, free, windswept, sublime.
 
@@ -2409,7 +2409,7 @@ Movement (the one impossible move): At the apex of her signature spinning kick, 
 
 Concept Line: "She runs the skyline — and the whole city turns to mirrors around her strike."
 
-Duration: ~21 seconds · 7 frames · 24fps · 180° shutter.
+Duration: ~42 seconds · 7 frames · 24fps · 180° shutter.
 
 Mood: Electric, vertiginous, sleek, sublime.
 
@@ -2539,7 +2539,7 @@ Movement (the one impossible move): As she threads a cloud-filled gap at full sp
 
 Concept Line: "She falls through the mountains — and paints the canyon with light."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Soaring, vertiginous, crystalline, sublime.
 
@@ -2681,7 +2681,7 @@ Movement (the one impossible move): As her finishing spinning kick lands and a t
 
 Concept Line: "She ends the road in fire — and from the wreck a phoenix rises."
 
-Duration: ~24 seconds · 8 frames · 24fps · 180° shutter.
+Duration: ~48 seconds · 8 frames · 24fps · 180° shutter.
 
 Mood: Epic, blazing, triumphant, sublime — the finale.
 

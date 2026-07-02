@@ -38,7 +38,7 @@ Dialogue: NONE — NON-TALKABLE. No spoken lines anywhere; the story is carried 
 
 Concept Line: "keep what you'd actually use."
 
-Duration: 30 seconds | 6 frames (5s each).
+Duration: 36 seconds | 6 frames (6s each).
 
 Mood: bright-performed → hollow-loud / branded → calm / intentional / real.
 
