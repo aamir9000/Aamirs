@@ -12,7 +12,7 @@ A fresh set of fully-detailed Aira time-freeze reel concepts, written in the Set
 | # | Concept | Setting | Freeze Trigger / Logic | Hair | Frames |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Cathedral of Light | Grand transit hall, mid-morning god-rays | Sun-shaft strikes the brass clock | Sleek high ballerina pony | 6 |
-| 2 | Neon Monsoon | Shibuya-style crossing, neon night rain | A thunderclap stops the rain mid-fall | Glossy wet-look blunt bob | 7 |
+| 2 | Neon Monsoon | Shibuya-style crossing, neon night rain | A snap-boom stops the rain mid-fall | Glossy wet-look blunt bob | 7 |
 | 3 | Celebration Burst | Gala ballroom, confetti + champagne | She claps once | Voluminous old-Hollywood waves | 6 |
 | 4 | Golden-Hour Wave | Beach at sunset, a cresting wave | The green-flash at sundown | Salt-spray fishtail braid | 7 |
 | 5 | Stroke of Midnight | Rooftop NYE party, frozen fireworks | The clock strikes midnight | Sleek jeweled low chignon | 7 |
@@ -699,7 +699,7 @@ Instrumentation (layered): warm analog synth pads; a slow pulsing sub-bass; glas
 
 Tempo, key & meter: ~70 BPM, A minor, 4/4 in a half-time feel.
 
-Background ambience bed (non-musical): the frozen rain-hush and held ring after the thunderclap; a distant muffled city rumble; faint neon-transformer buzz; a high ringing stillness.
+Background ambience bed (non-musical): the frozen rain-hush and held ring after the snap-boom; a distant muffled city rumble; faint neon-transformer buzz; a high ringing stillness.
 
 Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) a single low synth pad kindles under the hush; F2 (0:06) a soft high bell-tone joins; F3 (0:12) a gentle arpeggio swells; F4 (0:18) a light pizzicato-synth pulse adds motion; F5 (0:24) an awed pad swell under the mirrored skateboarder reveal; F6 (0:30) a joyful shimmering arpeggio peak at the spin; F7 (0:36) the pad resolves as the real rain roars back.
 
@@ -735,7 +735,7 @@ Accessories: small silver huggie earrings, a slim steel diver's watch, the clear
 
 Footwear: glossy chrome-silver ankle rain-boots with a low block heel, beaded with water, soles clean.
 
-Movement: the one impossible move — a single thunderclap freezes the entire monsoon mid-fall; Aira alone moves through the suspended rain, the frozen umbrella crowd and the hovering skateboarder, the neon still blazing. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
+Movement: the one impossible move — Aira SNAPS her fingers and a deep boom sends a circular shockwave rippling outward that freezes the entire monsoon mid-fall; Aira alone moves through the suspended rain, the frozen umbrella crowd and the hovering skateboarder, the neon still blazing; at the very end she snaps again and a reverse ripple races back in, releasing time. The snap-trigger and release are close-ups that follow her hand and land MID-CLIP (never on a cut). Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
 
 Concept Line: silent — no spoken line; the storytelling is purely visual and atmospheric.
 
@@ -749,7 +749,7 @@ Grade: vivid saturated neon night — electric magenta, cyan and acid-green pops
 
 Spoken line: none (SILENT concept).
 
-Audio note: per-frame diegetic (a frozen rain-hush, the held ring after the thunderclap, distant muffled city) plus a separate Master Track Brief — cool dreamlike synth pads kept low, pulsing softly, never full.
+Audio note: per-frame diegetic (a frozen rain-hush, the held ring after the snap-boom, distant muffled city) plus a separate Master Track Brief — cool dreamlike synth pads kept low, pulsing softly, never full.
 
 Identity safety: AIRA is an adult; the vinyl raincoat is fully modest; the mood is electric and dreamlike, never sexualized.
 
@@ -838,7 +838,7 @@ ENVIRONMENT: a frozen neon monsoon crossing, glass facades and billboards, a sus
 
 ATMOSPHERE & PARTICULATE: neon-soaked night air; only the neon light and her own breath move — the rain and steam are dead still.
 
-AUDIO: diegetic only, no in-clip music bed beyond the master track. Ambient — the abrupt frozen rain-hush after a thunderclap, a high ringing stillness with a faint distant muffled city hum. SFX — a single soft chrome-boot scuff on wet asphalt at 0.7s, a faint vinyl-coat rustle at 2.7s. Reaction — a soft audible caught breath at 2.1s and a slow exhale at 5.1s. Master track — a single low synth pad just kindling under the silence (present, never full). VO — none (silent concept).
+AUDIO: diegetic only, no in-clip music bed beyond the master track. Ambient — the abrupt frozen rain-hush after a snap-boom, a high ringing stillness with a faint distant muffled city hum. SFX — a single soft chrome-boot scuff on wet asphalt at 0.7s, a faint vinyl-coat rustle at 2.7s. Reaction — a soft audible caught breath at 2.1s and a slow exhale at 5.1s. Master track — a single low synth pad just kindling under the silence (present, never full). VO — none (silent concept).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
@@ -1471,7 +1471,7 @@ Accessories: gold chandelier drop-earrings, a gold cuff bracelet, a slim gold ri
 
 Footwear: gold strappy block-heel sandals (stable for the dance play), soles clean.
 
-Movement: the one impossible move — at the instant she claps once for the toast, all time freezes except Aira; she moves freely through the suspended confetti, the champagne mid-pour and the spinning dancers, the chandeliers still blazing. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
+Movement: the one impossible move — Aira claps once and the sharp clap sends a beat of stillness rippling outward that freezes all time except her; she moves freely through the suspended confetti, the champagne mid-pour and the spinning dancers, the chandeliers still blazing; at the very end she claps again and a reverse ripple snaps time back to life. The clap-trigger and release are close-ups that follow her hands and land MID-CLIP (never on a cut). Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
 
 Concept Line: "some moments deserve to last forever."
 
@@ -2112,7 +2112,7 @@ Accessories: small gold studs, a delicate gold seashell pendant, a thin gold ank
 
 Footwear: barefoot on the wet mirror-sand, a thin gold anklet at one ankle, soles clean (sandals carried in hand).
 
-Movement: the one impossible move — at the green-flash as the sun touches the horizon, all time freezes except Aira; she moves freely through the frozen cresting wave, the suspended sea-spray and the pinned beach game, the sky still glowing. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
+Movement: the one impossible move — Aira flips a gold coin up off her thumb and at the top of its arc the coin FREEZES mid-air, freezing all time with it except Aira; she moves freely through the frozen cresting wave, the suspended sea-spray and the pinned beach game, the coin hanging frozen at head-height and the sky still glowing; at the very end she raises her open palm and the coin drops into her hand, releasing time. Trigger and release are close-ups that follow the coin and land MID-CLIP (never on a cut). Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
 
 Concept Line: silent — no spoken line; the storytelling is purely visual and atmospheric.
 
@@ -2848,7 +2848,7 @@ Accessories: silver chandelier drop earrings, a slim diamond tennis bracelet, a 
 
 Footwear: silver strappy block-heel sandals with a delicate ankle strap, soles clean.
 
-Movement: the one impossible move — at the stroke of midnight, all time freezes except Aira; she moves freely beneath the suspended fireworks, through the frozen toasting crowd and the hanging confetti, the festoon lights and city still glowing. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
+Movement: the one impossible move — as the clock strikes twelve Aira flips a gold coin up off her thumb and at the top of its arc the coin FREEZES mid-air, freezing all time with it except Aira; she moves freely beneath the suspended fireworks, through the frozen toasting crowd and the hanging confetti, the coin hanging frozen at head-height and the festoon lights and city still glowing; at the very end she raises her open palm and the coin drops into her hand, releasing time. Trigger and release are close-ups that follow the coin and land MID-CLIP (never on a cut). Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles. Believability/realism layer (section K): every element is real and clearly described; the one magical beat is surreal yet grounded in real physics and premium execution — no cheap sparkles, no floaty/plasticky CGI; scale and 3D placement stay believable; her single self, face and wardrobe stay continuity-locked; frame joins are hard match-cuts to new angles.
 
 Concept Line: "some nights you wish would never end."
 
