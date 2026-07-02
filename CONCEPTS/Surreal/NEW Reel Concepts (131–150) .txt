@@ -3718,14 +3718,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): deep inside the unlit lantern a faint gold glow has kindled and faded, as if a light were waiting on her breath — deniable, the first whisper that the wish will light it.
 
-SPATIAL LOGIC: FOREGROUND — the unlit lantern in her hands at ≈20% depth, tack sharp. MIDGROUND — Aira at the railing. BACKGROUND — the floating stalls and drifting lanterns, glowing twilight clouds below, first stars above, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — a near railing-post and a hanging lantern at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the wooden railing with Aira small at it, the unlit lantern a faint pale point in her hands. BACKGROUND — the vast floating sky-market of stalls and drifting lanterns receding into glowing twilight with true atmospheric perspective (nearer lanterns sharp, far ones hazier and softer), warm clouds far below and first stars above. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — the warm drifting lanterns as a soft wrapping key from frame-left. FILL — a gentle cool twilight bounce off the clouds lifting the shadow side. RIM — cool dusk light skimming her crown and one shoulder. PRACTICAL — the market lanterns and twilight clouds. SEPARATION — the market pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint gold kick off the paper lantern. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the railing, 12% headroom, the lantern entering the lower third, clean negative space above to receive the wish-script that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the railing, the lantern entering the lower third, clean negative space above to receive the wish-script that arrives later. She is standing three-quarter to camera at the railing, spine long and easy, weight settled even with a soft 2° lean toward the lantern, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Floating Lantern Sky-Market scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter to camera, both hands cradle the unlit lantern at her chest with gently curved fingers, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame at the railing while the vast floating sky-market of drifting lanterns and stalls spreads far above, around and below her; the market dwarfs the human, deep negative space holding the twilight and first stars.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing at the wooden market railing among the floating stalls, the immense drift of lanterns and the glowing twilight clouds spreading far above, around and below her so she reads as a lone figure dwarfed by the sky-market; she is the scale-anchor that makes the market read as truly vast. She stands three-quarter to camera at the railing, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, the unlit lantern a faint pale point cradled in her hands. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Floating Lantern Sky-Market scene while the market is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the lantern so both read crisp; the market melting to soft amber bokeh; warm haze as fine glow; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the railing and the vast drift of market lanterns all crisp for the establishing scale; only the nearest warm haze softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: warm cinematic establishing hero — wish-keeper at the sky-market, one impossible cue building (BA.3 cause building to effect).
 
@@ -3744,14 +3744,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, chest-up to the railing, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the vast floating sky-market dominates.
 
-LENS: 35mm, f/2.2, smooth amber background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the market and twilight sky.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the railing, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, lanterns swaying, the unlit lantern cradled at her chest.
-- [00:02–00:04] a faint gold glow kindles inside the lantern and fades; Aira's chest rises on a slow steady breath, her hold on the lantern settling.
-- [00:04–00:06] she lifts the lantern toward her lips, the lantern-charm earring hanging still; she leans in to whisper, the clip holding just before the wish.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% at the railing: a slow weighty crane-up-and-back is already underway, lifting to reveal the vast drift of lanterns and stalls spreading around her — the sky-market reads vast, she reads human; parallax slides the near lanterns faster than the far market for real 3D depth.
+- [00:02–00:04] the crane drifts on; drifting lanterns sway across the twilight, warm clouds glowing far below and first stars above, the market hazier with atmospheric perspective toward the edges.
+- [00:04–00:06] the move settles wide and high; at the tiny figure a faint gold glow kindles inside the cradled lantern as her chest rises on a slow steady breath — the lone figure poised in the vast market, about to whisper her wish.
 
 PHYSICS: the market air is gentle — haze and a loose strand drift slow; lanterns sway softly; her body, the walkway, the lantern obey normal gravity. The faint inner glow warms but exerts no force.
 
@@ -4112,42 +4112,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 6 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the wish-keeper at rest. Aira stands composed at the market railing, the dusk sky above her now softly dotted with the wish-constellations, facing camera with a warm settled calm — the closing hero shot, a single fresh unlit lantern resting on the railing beside her with a faint glow waking inside to bookend the opening.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the poised closing hero — Aira composed at the railing under a sky of soft wish-constellations, footwear and accessories cleanly legible, the market steady around her.
+SCENE NOTE: the sky-market at rest, empty of any person. The wooden railing stands quiet among the floating stalls, a single fresh unlit lantern resting on it with a faint glow waking inside, the dusk sky above softly dotted with the golden wish-constellations sent up before — the market holding its warm hush, no figure present, ready to loop to the opening.
 
-WARDROBE: the marigold-and-saffron wrap coat with the tied sash, continuity-locked, settled clean in the warm lantern light, fully modest — the wardrobe hero shot.
+VISUAL-LEAD NOTE: catch the serene world-only close — NO figure; the empty market railing, the fresh lantern waking on it, floating stalls and drifting lanterns around, the dusk sky dotted with wish-constellations, warm twilight clouds glowing below.
 
-FOOTWEAR: the concept-locked tan leather buckled ankle boots with the wooden block heel and brass buckle fully and crisply shown, planted firm on the walkway, the burnished leather and brass buckle clean and the wooden heel catching a clear highlight — the footwear hero shot.
 
-ACCESSORIES: the carved-wood bangle stack on the right wrist and the lantern-charm earring at the left ear, both sharply visible and unchanged.
 
-HAIR: the soft braided crown, continuity-locked, neat and settled, color locked.
 
-MAKEUP: the warm sunset glow, continuity-locked, calm and even, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — lantern-amber low, twilight-rose high — calm and clear as she meets lens; the eyes never glitch.
 
-HANDS & NAILS: one hand resting easy on the railing beside the fresh lantern, fingers relaxed; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: warm contentment, composed, lips in a soft closed curve, a steady gentle gaze, the faintest hopeful calm.
 
-BODY POSTURE & WEIGHT: GAZE direct and serene to lens; HEAD level, chin level; SHOULDERS open and square; RIGHT ARM resting, the RIGHT HAND easy on the railing beside the fresh lantern, RIGHT FINGERS relaxed; LEFT ARM easy at her side, the LEFT HAND relaxed, LEFT FINGERS soft; TORSO facing camera squarely; WAIST & HIPS grounded and even; RIGHT LEG and LEFT LEG grounded even and straight; FEET & WEIGHT grounded and even; HAIR settling soft — serene and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) a single fresh unlit lantern on the railing with a faint glow waking inside; (2) the wish-constellations twinkling slow above; (3) market lanterns swaying warm; (4) haze settling; (5) chest on a soft settling breath; (6) a thin warm highlight on the railing; (7) coat fold-shadow micro-settle; (8) a final slow blink.
+
+KINETIC STILLNESS (environmental, 6 layers): (1) a single fresh unlit lantern on the railing with a faint glow waking inside; (2) the wish-constellations twinkling slow above; (3) market lanterns swaying warm on their lines; (4) twilight haze settling over the stalls; (5) a thin warm highlight sliding along the railing; (6) the clouds below glowing slow at dusk.
 
 MICRO-MAGIC (bookend): a single fresh lantern on the railing with a faint glow waking inside — the only remaining trace, deliberately small to bookend Frame 1.
 
-SPATIAL LOGIC: FOREGROUND — the fresh lantern on the railing at ≈20% depth. MIDGROUND — Aira at the railing, the hero. BACKGROUND — the steady market and the soft wish-constellations above. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+SPATIAL LOGIC: FOREGROUND — the fresh lantern on the railing at ≈20% depth. MIDGROUND — the wooden market railing with the fresh lantern and the drifting stalls. BACKGROUND — the floating sky-market receding into twilight haze with true atmospheric depth, the soft wish-constellations dotting the dusk above. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — warm market lanterns. FILL — cool twilight bounce. RIM — cool dusk-light. SEPARATION — deep market. BOUNCE — faint gold kick on the railing. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; clean medium-full, 10% headroom, the boots and the constellated sky both legible.
-SUBJECT FRAMING & POSITION: A clean medium-full framing holds Aira at about 10% headroom, the boots and the constellated sky both legible. She is standing tall at the railing, facing camera squarely, weight grounded and even, chin level, spine long and easy. The camera holds a mid-wide distance, Aira the sharp central figure of the Floating Lantern Sky-Market scene, centred in frame. She faces front to the lens. Facing camera squarely with one hand resting easy on the railing beside the fresh lantern and the other easy at her side, weight grounded and even for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the floating sky-market at dusk, the wooden railing and fresh lantern anchoring the lower third, drifting stalls and lanterns filling the space and the constellated sky above.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the sky-market reads full and deep, floating stalls and drifting lanterns receding into twilight, the wooden railing with its fresh waking lantern anchoring the lower-left, the dusk sky dotted with golden wish-constellations and warm clouds glowing far below. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/3.2; deeper DOF to hold the footwear and the railing in legible focus; gentle roll-off, contrast clean and final.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the railing, the drifting stalls and the constellated sky crisp across the depth; only the nearest lantern-glow softening; gentle roll-off, contrast clean and final.
 
 COMPOSITION REFERENCE: the poised closing hero — the wish-keeper, the wishes sent and the sky alight, calm restored (perfect-loop close).
 
@@ -4155,43 +4148,43 @@ ATMOSPHERE: calm, complete, hopeful — the warm hush after the wishes rise. Pre
 
 COLOR GRADE: deep twilight-blue with warm lantern-amber and saffron accent, rich uncrushed blacks, clean whites, full mid-tone, final contrast. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-TEXTURE & MICRO-DETAIL: the boot leather and brass buckle hero-lit and crisp; the fresh lantern's faint inner glow real; the railing wood grained; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the railing wood grained and worn; the fresh lantern's paper translucent with a faint inner glow; the drifting lanterns warm and real; twilight haze fine over the stalls.
 
-STORY BEAT: the cycle holds — the wishes sent and the dusk alight with constellations, calm restored, a fresh lantern already waking on the railing, ready to carry the next wish.
+STORY BEAT: the cycle holds — the wishes sent and the dusk alight with constellations, the market quiet and unpeopled, a fresh lantern already waking on the railing, ready to carry the next wish.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled readable text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, residual floating lanterns beyond the single fresh one, crushed blacks, garish oversaturation, flat light, body levitation.
 
 ## Frame 6 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: clean medium-full, subject ≈48% of frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the floating sky-market at dusk, the railing with its fresh lantern and the constellated sky.
 
-LENS: 35mm, f/3.2.
+LENS: 24mm wide, f/4, deep focus holding the market's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] clean medium-full, subject ≈48% of frame: an extremely slow push-out is already underway — she rests her hand by the fresh lantern and faces camera, composition immediately calm and complete.
-- [00:02–00:04] the wish-constellations twinkle slow above, market lanterns swaying warm.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: an extremely slow push-out is already underway across the empty market, drifting lanterns easing past at varied depths in real parallax, the constellated dusk holding above.
+- [00:02–00:04] the wish-constellations twinkle slow above, market lanterns swaying warm on their lines, the stalls quiet and unpeopled.
 - [00:04–00:06] the fresh lantern on the railing wakes with a faint inner glow, a soft echo of the opening; a final almost-imperceptible settle as the murmur lowers, ready to loop cleanly to Frame 1.
 
 PHYSICS: the fresh lantern glows faintly without force; constellations twinkle slow; everything weighted; haze drifts.
 
 MICRO-MAGIC: one minimal beat — the fresh lantern's faint inner glow waking.
 
-CONTINUITY: boots, bangles, earring, wardrobe, braided crown, makeup, dual catchlight identical to every prior frame, presented as the clean hero shot.
+CONTINUITY: the sky-market, railing, drifting lanterns and wish-constellations identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — sky-market murmur settling, breeze easing. SFX — a soft paper-crackle at 0:01.0, a faint warming-glow shimmer at 0:03.0. Reaction — a soft settling breath at 0:03.0. Master — the sitar-and-strings bed resolving toward near-silence. VO — none this frame.
+AUDIO: diegetic only. Ambient — sky-market murmur settling, breeze easing. SFX — a soft paper-crackle at 0:01.0, a faint warming-glow shimmer at 0:03.0. Master — the sitar-and-strings bed resolving toward near-silence. VO — none this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips at rest in a composed, warm expression.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the closing shot never warps the face.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ---
 
