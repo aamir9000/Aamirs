@@ -83,9 +83,9 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 Aira stands small against an enormous emerald grotto, rendered strictly from her
 identity-lock reference so only her authentic likeness and quiet confidence
-are carried over. She wears a fluid sage-green slip dress in washed silk-satin whose
+are carried over. She wears a fluid coral slip dress in washed silk-satin whose
 hem drinks the low light and ripples with the grotto's draught, layered under an open,
-gauzy moss-toned kimono wrap whose sleeves lift slightly in the rising mist; the fabric
+gauzy warm-gold kimono wrap whose sleeves lift slightly in the rising mist; the fabric
 reads damp at the edges where spray has kissed it, the weave catching micro-beads of
 water that behave like tiny lenses. She is barefoot on a flat black wet-stone shelf, the
 soles and ankles glistening, a thin braided jade anklet at one ankle catching a green
@@ -107,7 +107,7 @@ detail, with only the farthest spray dissolving into soft bokeh. Atmosphere is t
 volumetric god-rays, drifting vapour, suspended water-dust glittering in the sunbeam.
 Color grade leans into layered greens with a silver-cool shadow and a single warm key,
 textures crisp on wet stone, fern veins, silk sheen and skin dew. Continuity-locks:
-sage slip + moss kimono, barefoot with jade anklet, jade leaf-pendant, gold ear-thread,
+coral slip + gold kimono, barefoot with jade anklet, jade leaf-pendant, gold ear-thread,
 damp loose hair — all carried forward exactly. Negative: STD-NEG; plus no shoes
 appearing, no dry fabric, no harsh studio light.
 SUBJECT FRAMING & POSITION: A wide framing holds Aira — she is barefoot on a flat black wet-stone shelf, the soles and ankles glistening, a thin braided jade anklet at one ankle catching a green highlight. The spatial logic places her on the lowest tier of three descending stone shelves, the waterfall thundering camera-left. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
@@ -151,9 +151,9 @@ robotic limb snap.
 ---- FRAME 2 · Full-length, side profile ----
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
-Aira is shown full-length in clean side profile as she fastens the moss kimono's tie at
+Aira is shown full-length in clean side profile as she fastens the gold kimono's tie at
 her waist — a true wearing-action moment — still rendered only from the identity
-reference. The same sage slip and moss kimono continue, now cinched, the obi-style tie
+reference. The same coral slip and gold kimono continue, now cinched, the obi-style tie
 being drawn by both hands at her midsection, sleeves pooling at her forearms. She remains
 barefoot on the wet shelf, jade anklet visible on the trailing foot which is rolled onto
 its ball as she steps her weight forward; the jade leaf-pendant tips away from her chest
@@ -169,7 +169,7 @@ top of her bare foot. Atmosphere keeps the drifting vapour; color grade emerald-
 the warm accent low on her body. Textures: knotted fabric tie, fern fibre, the satin's
 damp sheen, wet-skin specular on the foot. Continuity-locks identical to Frame 1.
 Negative: STD-NEG; plus no shoes, no flattened hands during the tie-action, no haloing.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is shown full-length in clean side profile as she fastens the moss kimono's tie at her waist. She reads turned back over the shoulder toward the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is shown full-length in clean side profile as she fastens the gold kimono's tie at her waist. She reads turned back over the shoulder toward the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -203,8 +203,8 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 From a low upstream vantage looking back at her, Aira is framed from mid-thigh up as she
 wades ankle-deep into a clear jade pool and bends to cup the water in both hands, rendered
-only from her identity reference. The sage slip is gathered and twisted in one fist
-to keep it from the water, the moss kimono sleeves pushed to the elbows, fabric damp and
+only from her identity reference. The coral slip is gathered and twisted in one fist
+to keep it from the water, the gold kimono sleeves pushed to the elbows, fabric damp and
 clinging along the forearms. Her bare feet are submerged on smooth pebbles, the jade
 anklet refracted by the moving water, and the jade leaf-pendant hangs forward, nearly
 grazing the surface as she stoops. Loose damp hair spills toward the water, a few strands
@@ -249,7 +249,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A medium-close three-quarter portrait catches Aira tucking a wet strand behind her ear,
 the jade leaf-pendant and a small jade ear-stud catching the sun, rendered from her
-identity reference. The moss kimono collar frames her neck, the sage slip strap just
+identity reference. The gold kimono collar frames her neck, the coral slip strap just
 visible at the shoulder, both damp. Bare feet are implied below frame (oof — out-of-frame
 footwear continuity holds the jade anklet). Hair is half-swept, the tucking hand lifted
 with natural fingers and buffed almond nails, a water-droplet poised on her wristbone.
@@ -290,7 +290,7 @@ The signature frame: Aira stands on the wet shelf and tips her face upward as a 
 sheet of waterfall droplets HALTS in mid-air and hangs as a glittering bead-curtain that
 frames her on three sides — thousands of suspended water-beads, each a tiny refracting
 lens scattering the sun-shaft into pinpoint rainbows — with not a single drop touching
-her; rendered only from her identity reference. The sage slip and moss kimono settle
+her; rendered only from her identity reference. The coral slip and gold kimono settle
 around her, hem still, sleeves open as her arms drift slightly out in quiet wonder. Bare
 feet planted, jade anklet glinting, jade pendant resting flat as she arches her neck.
 Hair falls back off her face. Makeup dewy, lids catching the rainbow scatter. Spatial
@@ -338,7 +338,7 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 An extreme close-up holds on Aira's eyes and the jade ear-stud with water-light dancing
 across her skin, rendered from her identity reference. A faint caustic ripple-
 reflection plays over her cheekbone and lower lid; a single water-bead clings to a lash.
-The moss collar edge and a wet hair-strand cross the lower frame. Makeup dewy, eucalyptus
+The gold collar edge and a wet hair-strand cross the lower frame. Makeup dewy, eucalyptus
 shimmer catching the moving light, lips hydrated rose. Framing macro on a 85mm look,
 razor focus on the iris with everything else melting to green bokeh. Lighting: dappled
 water-caustics as a moving gobo over warm key. Atmosphere intimate. Color grade emerald
@@ -372,7 +372,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A high wide pull-back shows Aira stepping onto the topmost stone shelf into the full
 sun-shaft as mist swallows the lower grotto behind her, rendered from her identity
-reference. The sage slip and moss kimono catch a strong backlight that haloes her whole
+reference. The coral slip and gold kimono catch a strong backlight that haloes her whole
 silhouette; one bare foot is planted on the high shelf, the other trailing on the step
 below, jade anklet bright, jade pendant lifted by her forward motion. Arms relaxed,
 hands open, hair lit to a glowing rim. Makeup dewy, face turned into the light. Spatial
@@ -725,7 +725,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 Aira stands at the head of a converging lavender row that runs to a distant stone
 farmhouse, framed in a true wide at golden hour, rendered only from her identity
-reference. She wears a buttercream linen midi-dress with a soft square neck and a long
+reference. She wears a warm-rose linen midi-dress with a soft square neck and a long
 gathered skirt that the breeze presses against her legs, a thin sage cardigan slipping
 off one shoulder; the linen glows semi-translucent where the low sun rakes through it. On
 her feet are tan suede ankle boots with a stacked heel, planted in the dusty path between
@@ -742,7 +742,7 @@ lavender, her figure, and the far farmhouse all hold, only the sun-flare bloomin
 Lighting: warm low-sun key, golden rim on her hair and linen, soft lavender-cool fill in — Premium cinematic lighting quality — soft volumetric light, natural rim separation, elegant shadow gradients, high dynamic range, never flat or dull.
 the shadows. Atmosphere: drifting pollen motes, faint dusk haze. Color grade lavender-and-
 honey. Textures: slubby linen weave, suede nap, straw basket, lavender florets, dust.
-Continuity-locks: buttercream linen dress + sage cardigan, tan suede ankle boots, round
+Continuity-locks: warm-rose linen dress + sage cardigan, tan suede ankle boots, round
 tortoise sunglasses in hair, straw basket with lavender, gold arm-cuff, loose honey hair,
 peach makeup. Negative: STD-NEG; plus no barefoot, no winter light, no flattened sun.
 SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is mid-stride, weight rolling onto the front boot, the skirt and cardigan trailing a beat behind, head turning to look down the row. She reads front to the lens within the Provence Lavender Field At Dusk scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
@@ -779,7 +779,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A medium three-quarter frame catches Aira bent slightly into a row, cutting a lavender
 sprig with small brass shears and laying it into the straw basket — a true wearing/doing-
-action — rendered from her identity reference. The buttercream linen and sage
+action — rendered from her identity reference. The warm-rose linen and sage
 cardigan continue; the basket now fuller, sunglasses still nested in her hair. Tan suede
 boots are planted wide for balance in the dust (visible to mid-calf). The gold arm-cuff
 slides on her wrist as she works; hands are natural and articulate around the shears and
@@ -821,7 +821,7 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 A medium-close portrait turns Aira three-quarter toward lens, the lavender bundle now
 held to her chest, eyes lifting to camera for her spoken line, rendered from her
 identity reference. The sage cardigan has slipped further off one shoulder over the
-buttercream linen; round tortoise sunglasses still in her hair, gold arm-cuff bright, the
+warm-rose linen; round tortoise sunglasses still in her hair, gold arm-cuff bright, the
 basket on her elbow. Hair glows in the low sun; makeup sun-kissed with a soft rosy lip
 mid-word. Spatial logic: lavender rows blow softly behind her into a purple-gold bokeh,
 the sun flaring just past her shoulder. Framing on an 85mm look, shallow focus, her eyes
@@ -864,7 +864,7 @@ and spiralled into an enormous slow-rotating purple DOUBLE-HELIX tower that clim
 hundreds of feet into the rose-gold dusk sky, with the low sun glowing through its
 translucent purple coils and threads of luminous butterflies and pollen-light spiralling
 through the gaps — Aira stands tiny but serene at the calm bare-earth eye of the vortex,
-rendered from her identity reference. Her buttercream linen and sage cardigan billow
+rendered from her identity reference. Her warm-rose linen and sage cardigan billow
 gently in the updraught, the basket still on her elbow, suede boots planted on the
 stripped soil, face tipped up to the colossal helix. Hair lifts around her; makeup sun-
 kissed, eyes wide with wonder. Spatial logic: she is the still axis; the helix corkscrews
@@ -915,7 +915,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A full-length side profile shows Aira walking on as the field has gently settled back to
 earth behind her (post-impossible-move), the rows whole again in the last light, rendered
-from her identity reference. The buttercream linen skirt streams sideways in the
+from her identity reference. The warm-rose linen skirt streams sideways in the
 breeze, sage cardigan trailing, basket of lavender on her elbow, suede boots mid-stride
 on the dust path, gold arm-cuff bright. Sunglasses still in her hair; honey hair streaming.
 Makeup sun-kissed, expression peaceful. Spatial logic: profile against the converging
@@ -4944,7 +4944,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 Aira stands among rows of plump orange pumpkins in a golden autumn patch strung overhead
 with warm festival string-lights, hay bales and a red barn behind, the dusk sky glowing
-violet-and-amber, rendered only from her identity reference. She wears a cozy cream
+violet-and-amber, rendered only from her identity reference. She wears a cozy mustard-gold
 cable-knit oversized sweater tucked into a high-waisted rust-orange corduroy midi skirt
 with a wide belt, modest and warm, plus a plaid wool scarf in amber-and-cream looped at her
 neck, the knit catching golden light. On her feet are brown leather Chelsea boots, planted
@@ -4961,7 +4961,7 @@ Lighting: warm golden string-light key, soft dusk-violet sky-fill, cozy amber bo
 Atmosphere: drifting autumn leaves, faint dusk haze, a wisp of woodsmoke. Color grade — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
 amber and burnt-orange with dusk-violet and golden light. Textures: cable-knit, corduroy,
 plaid wool, pumpkin-skin, brown leather Chelsea boots, woven basket. Continuity-locks:
-cream cable-knit sweater + rust corduroy skirt + amber plaid scarf, brown leather Chelsea
+mustard-gold cable-knit sweater + rust corduroy skirt + amber plaid scarf, brown leather Chelsea
 boots, round tortoiseshell sunglasses in hair, gold-leaf earrings, gold watch, woven
 pumpkin-basket, loose waves, autumn-glam makeup. Negative: STD-NEG; plus no other footwear,
 no summer light, no flat light.
@@ -4995,7 +4995,7 @@ no other footwear, no summer light, no stiff motion.
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A medium three-quarter frame catches Aira lifting a small round pumpkin from her basket to
-admire it, a warm smile on her lips, string-lights glowing bokeh behind, rendered from her identity reference. The cream sweater, plaid scarf, gold-leaf earrings, gold watch
+admire it, a warm smile on her lips, string-lights glowing bokeh behind, rendered from her identity reference. The mustard-gold sweater, plaid scarf, gold-leaf earrings, gold watch
 continue. Chelsea boots implied on the earth below. Hands cradling the pumpkin, almond
 nails clean. Loose waves, dusk-lit. Makeup autumn-glam. Spatial logic: she fills the left,
 the pumpkin the warm focal point, the patch and string-lights a golden bokeh behind.
@@ -5032,7 +5032,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A full-length side profile shows Aira walking down a pumpkin row toward the glowing barn,
 the basket on her arm, corduroy skirt swaying, leaves drifting around her, rendered from
-her identity reference. Cream sweater, plaid scarf, gold watch continue; brown Chelsea
+her identity reference. Mustard-gold sweater, plaid scarf, gold watch continue; brown Chelsea
 boots mid-stride on the strawy path (visible), crunching straw. Loose waves swinging.
 Makeup autumn-glam. Spatial logic: clean profile against the pumpkin rows and string-lit
 barn, dusk sky, leaves falling. Framing full-length on a 35mm look, medium depth, she
@@ -5069,7 +5069,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A medium-close three-quarter frame holds Aira's face warmed by the golden string-lights as
 she lowers the round tortoiseshell sunglasses from her hair, a cozy smile on her lips,
-bokeh-lights glowing behind, rendered from her identity reference. Cream sweater,
+bokeh-lights glowing behind, rendered from her identity reference. Mustard-gold sweater,
 plaid scarf, gold-leaf earrings continue. Chelsea boots implied below (oof). Loose waves
 framing. Makeup autumn-glam, terracotta lip. Spatial logic: she is centred-left, the
 string-lights and pumpkin patch a warm golden bokeh behind. Framing on an 85mm look,
@@ -5154,7 +5154,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A medium three-quarter frame catches Aira with a radiant smile, hand outstretched as the
 last amber leaves drift down around her (post-impossible-move), one leaf landing on her
-palm, rendered from her identity reference. Cream sweater, plaid scarf, tortoiseshell
+palm, rendered from her identity reference. Mustard-gold sweater, plaid scarf, tortoiseshell
 sunglasses back up in her hair. Chelsea boots on the strawy earth (visible). Loose waves
 settling. Makeup autumn-glam, glowing. Spatial logic: she is centred, leaves drifting
 through warm string-light, the pumpkin patch behind. Framing on a 50mm look, medium-shallow
@@ -5189,7 +5189,7 @@ IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 A high wide pull-back shows Aira standing small and warm among the pumpkins as the sky
 deepens to night-violet and the festival string-lights blaze (post-impossible-move), the
-barn glowing, rendered from her identity reference. Cream sweater, Chelsea boots,
+barn glowing, rendered from her identity reference. Mustard-gold sweater, Chelsea boots,
 plaid scarf, basket on arm. Loose waves. Makeup glowing, a cozy smile. Spatial logic: high
 angle frames her within the lantern-lit pumpkin patch, rows radiating, string-lights
 arcing, night sky above. Framing a high wide on a 28mm look, deep focus, haze softening the
