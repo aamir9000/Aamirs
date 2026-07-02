@@ -2548,14 +2548,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): along one edge of the sealed letter a faint gold glow has kindled and faded, as if the paper were warming from within — deniable, the first whisper that the letter will ignite into a comet.
 
-SPATIAL LOGIC: FOREGROUND — the letter and the poised stamp at ≈20% depth, tack sharp. MIDGROUND — Aira at the desk. BACKGROUND — the great arch of galaxy-band and drifting comets, the brass lantern off frame-left, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
+SPATIAL LOGIC: FOREGROUND — a near desk-edge with scattered letters and the brass lantern at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the worn postal desk with Aira small at it on the floating rock. BACKGROUND — the colossal galaxy-band arch filling the upper frame with drifting comets, receding with true atmospheric perspective (nearer stars sharp, far band hazier and softer to sell the cosmic depth); the floating rock's edge as a leading line into the void. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
 
 LIGHTING: KEY — the warm brass lantern as a soft wrapping key from frame-left. FILL — a gentle cool starlit bounce off the arch lifting the shadow side. RIM — cold starlight skimming her crown and one shoulder. PRACTICAL — the lantern and the galaxy-arch. SEPARATION — the arch pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint gold kick off the brass stamp. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. The cosmos rendered richly graded and cinematic with deep, luminous space tones and premium light, never flat or empty. Architecture in fine premium materials with an immaculate finish.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the desk, 12% headroom, the letter entering the lower third, clean negative space above the desk to receive the comet that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the desk, the letter entering the lower third, clean negative space above the desk to receive the comet that arrives later. She is seated three-quarter to camera at the desk, spine long and easy, weight settled even with a soft 2° lean toward the letter, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Comet-Tail Postal Service scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter at the postal desk, the right hand holds the brass stamp poised above the letter and the left lies flat on the sealed envelope, weight settled into the back hip. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame seated at the postal desk on a floating rock among the stars, the colossal galaxy-band arch rising far above and around her so the cosmos dwarfs the human; the desk a small warm island, deep negative space holding the starfield.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — seated at the worn postal desk on a floating rock adrift among the stars, the immense galaxy-band arch rising far above and around her so she reads as a lone figure dwarfed by the cosmos; she is the scale-anchor that makes the star-field read as truly vast. She sits three-quarter to camera at the desk, spine long and easy, weight settled even with a soft 2° lean toward the letter, front shoulder dropped a touch, chin level, the brass stamp poised in her hand above the letter. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Comet-Tail Postal Service scene while the star-field is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the letter so both read crisp; the arch melting to soft starlit bokeh; the faint edge-glow kept just soft; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the desk and the vast galaxy-band arch all crisp for the establishing scale; only the nearest desk-clutter softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: warm cinematic establishing hero — postmaster among the stars, one impossible cue building (BA.3 cause building to effect).
 
@@ -2574,14 +2574,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, chest-up to the desk, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the floating postal rock and the colossal galaxy-band arch dominate.
 
-LENS: 35mm, f/2.2, smooth starlit background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the post and the star-field.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the desk, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, the lantern flickering once, the poised stamp reading instantly above the letter.
-- [00:02–00:04] the faint gold glow kindles along the letter's edge and fades; Aira's chest rises on a slow steady breath, her grip on the stamp settling.
-- [00:04–00:06] her eyes lower further to the letter, the comet-drop earring hanging still; she lowers the stamp the first few centimetres, the clip holding just before she presses it.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% at the desk: a slow weighty crane-up-and-back is already underway, lifting to reveal the floating rock adrift beneath the colossal galaxy-band arch — the cosmos reads vast, she reads human; parallax slides the near lantern faster than the far star-field for real 3D depth.
+- [00:02–00:04] the crane drifts on; the galaxy-band glows slow across the great arch, drifting comets crossing far behind, the star-field hazier with atmospheric perspective toward the edges.
+- [00:04–00:06] the move settles wide and high; at the tiny desk a faint gold glow kindles along the letter's edge as her chest rises on a slow steady breath — the lone postmaster poised in the immense night.
 
 PHYSICS: the desk and air are still — star-dust motes and a loose strand drift slow; the galaxy-band turns at a near-imperceptible cadence; her body, the desk, the letter and stamp obey normal gravity, grounded on the floating rock. The faint edge-glow warms but exerts no force.
 
@@ -2688,42 +2688,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 3 of 7 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked resolution of the comet-ignite — the letter now a small bright comet with a glowing gold tail lifting off toward the galaxy-arch; face clear and delighted watching it rise. This is the hero beat.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the comet takes flight. The letter has become a small bright comet trailing a glowing gold tail, rising from her open hands toward the great galaxy-arch to deliver itself; Aira watches it lift off, delighted and warm, the postmaster sending light into the night.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the signature hero beat — a small comet-letter with a glowing gold tail rising from her hands toward the galaxy-arch, Aira watching it go, the night sky echoing it behind.
+SCENE NOTE: the comet takes flight, the post empty of any person. The stamped letter has become a small bright comet trailing a glowing gold tail, rising on its own from the worn postal desk toward the great galaxy-arch to deliver itself — a self-sent letter climbing into the night, no figure present, the floating post quiet beneath the stars.
 
-WARDROBE: the deep-plum postal coat, continuity-locked, washed in the warm gold of the rising comet, fully modest.
+VISUAL-LEAD NOTE: catch the signature hero beat as a world shot — NO figure; a small comet-letter with a glowing gold tail rising from the empty desk toward the galaxy-arch, the vast starfield and floating rock framing it, the night sky echoing the comet's glow.
 
-FOOTWEAR: the concept-locked oxblood lace-up boots with brass eyelets and star-heel, on the footrest, established and unchanged.
 
-ACCESSORIES: the brass charm bracelet on the open hand and the comet-drop earring, unchanged, both warm-lit.
 
-HAIR: the neat low chignon with the brass pen, continuity-locked, crown catching cool star-rim, color locked.
 
-MAKEUP: the warm glow, continuity-locked, comet-gold washing across the cheekbones, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — comet-gold low, starlight-blue high — vivid as her eyes follow the rising comet; the eyes never glitch.
 
-HANDS & NAILS: both hands open and lifted, palms up, having released the comet, fingers softly spread; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: delighted warmth, eyes lifting to follow the comet, lips parted in a soft smile, a contented wonder, the faintest ease at the outer eye.
 
-BODY POSTURE & WEIGHT: GAZE up after the released comet; HEAD chin lifting; SHOULDERS opening, blades drawing back; RIGHT ARM and LEFT ARM both open and lifted palms-up having released the comet, BOTH HANDS open, RIGHT and LEFT FINGERS softly spread; TORSO lengthening, opening toward the rising comet; WAIST & HIPS easing toward square with a gentle counter-tilt; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT centring even; HAIR lifting a touch — wondering and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the small comet rising with its glowing gold tail; (2) the tail streaming and fading behind it; (3) a temple strand drifting; (4) star-dust brightening near the comet; (5) chest on a slow breath; (6) warm specular fading on her open palms; (7) plum coat fold-shadow micro-shift; (8) a slow blink.
 
-MICRO-MAGIC (END keyframe): a small bright comet-letter trailing a glowing gold tail, rising from her hands toward the galaxy — the single phenomenon at its fullest, the post taking flight.
+KINETIC STILLNESS (environmental, 6 layers): (1) the small comet rising with its glowing gold tail; (2) the tail streaming and fading behind it; (3) star-dust brightening near the comet; (4) a lantern flame breathing warm on the empty desk; (5) the galaxy-band drifting almost imperceptibly through the great arch; (6) a loose letter-corner lifting on the still air.
 
-SPATIAL LOGIC: FOREGROUND — her open lifted hands at ≈18% depth, soft. MIDGROUND — the rising comet and her face. BACKGROUND — the galaxy-arch softened, lantern off left. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
+MICRO-MAGIC (END keyframe): a small bright comet-letter trailing a glowing gold tail, rising on its own from the desk toward the galaxy — the single phenomenon at its fullest, the post taking flight unaided.
+
+SPATIAL LOGIC: FOREGROUND — the worn desk edge with the brass stamp and a loose letter at ≈15% depth, tack sharp. MIDGROUND — the rising comet-letter climbing from the desk. BACKGROUND — the great galaxy-arch and starfield receding with true atmospheric depth, the floating rock's edge falling into the void. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
 
 LIGHTING: KEY — warm lantern plus the rising comet as live travelling light. FILL — cool starlit bounce. RIM — cold star-light. SEPARATION — deep arch. BOUNCE — gold kick tracking up her palms. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping. Architecture in fine premium materials with an immaculate finish.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 12% headroom, the comet rising upper-centre into the negative space, Aira's face just below.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up, the comet rising upper-centre into the negative space, Aira's face just below. She is seated tall, torso opening upward toward the rising comet, chin lifting, weight even, spine long. The camera holds a mid distance, Aira the sharp central figure of the Comet-Tail Postal Service scene, centred in frame. She is turned a few degrees into the moment. Both hands open and lifted palms-up having released the comet, fingers softly spread and the chest opening upward, weight centring even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; the floating postal rock and worn desk small in the lower third while a comet-letter climbs toward the great galaxy-arch that fills the frame, the vast starfield beyond.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the worn postal desk on its floating rock reads in the lower third, a comet-letter rising from it on a gold tail toward the colossal galaxy-arch, the starfield filling the upper frame and the void falling away below. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.2; moderate DOF keeping her sharp while the comet's tail blooms soft; controlled gold bloom; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the desk, the rising comet and the galaxy-arch crisp across the depth; only the nearest desk-clutter softening; controlled gold bloom; gentle roll-off.
 
 COMPOSITION REFERENCE: the signature hero beat — postmaster sending light (identity-through-motion).
 
@@ -2731,43 +2724,43 @@ ATMOSPHERE: wondrous, hopeful, warm — a letter become a comet, carrying its me
 
 COLOR GRADE: cool starlit indigo with warm comet-gold and brass accent, rich blacks, clean whites, controlled glow. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-TEXTURE & MICRO-DETAIL: the comet reads as a small bright core with a real streaming tail of light and fine sparks; the desk wood grained; skin micro-texture calm and real on the upturned palms.
+TEXTURE & MICRO-DETAIL: the comet reads as a small bright core with a real streaming tail of light and fine sparks; the desk wood grained and worn; the brass stamp catching a warm glint; star-dust fine in the dark.
 
-STORY BEAT: the joyful sending — the comet-letter lifts from her hands toward the galaxy, the postmaster watching her light fly off to find its star.
+STORY BEAT: the joyful sending — the comet-letter lifts from the empty desk toward the galaxy, the floating post quiet and unpeopled as its light flies off to find a star.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, body levitation.
 
 ## Frame 3 of 7 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: medium, chest-up, subject and rising comet fill ≈56% of the frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the floating postal rock, the rising comet-letter and the great galaxy-arch.
 
-LENS: 50mm, f/2.2.
+LENS: 24mm wide, f/4, deep focus holding the post and the starfield.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up, subject and rising comet fill ≈56% of the frame: a slow tilt-up following the comet's rise is already underway — opens as the comet-letter lifts from her open hands so the signature image lands instantly.
-- [00:02–00:04] the comet rises with its glowing gold tail streaming, climbing toward the galaxy-arch.
-- [00:04–00:06] Aira's eyes follow it up, hands still open, a soft smile breaking; the comet shrinks toward the stars, its tail fading, she settles delighted.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: a slow tilt-up following the comet's rise is already underway from the empty desk, the comet-letter already lifting so the signature image lands instantly, near desk-clutter sliding past faster than the far stars in real parallax.
+- [00:02–00:04] the comet rises with its glowing gold tail streaming, climbing toward the great galaxy-arch above the deserted post.
+- [00:04–00:06] the comet shrinks toward the stars, its tail fading; a gentle settle, the galaxy-band drifting on through the arch.
 
-PHYSICS: the comet rises with believable accelerating flight and a trailing tail of light and fine sparks that fades behind it, exerting no force on the desk; her grounded body, the desk obey gravity; star-dust drifts and brightens near the comet.
+PHYSICS: the comet rises with believable accelerating flight and a trailing tail of light and fine sparks that fades behind it, exerting no force on the desk; the desk and floating rock stay weighted; star-dust drifts and brightens near the comet.
 
 MICRO-MAGIC: one beat — the comet-letter rising and flying off to deliver itself.
 
-CONTINUITY: boots, bracelet, earring, wardrobe, chignon, makeup, dual catchlight unchanged.
+CONTINUITY: the postal desk, floating rock, galaxy-arch and starfield identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — cosmic hush and lantern-hiss under. SFX — a soft comet-ignite whoosh as it lifts at 0:00.6, a gentle dwindling chime as it climbs at 0:02.6. Reaction — a soft delighted breath at 0:03.0. Master — the celesta-and-strings bed at gentle swell (present, never full). VO — none this frame.
+AUDIO: diegetic only. Ambient — cosmic hush and lantern-hiss under. SFX — a soft comet-ignite whoosh as it lifts at 0:00.6, a gentle dwindling chime as it climbs at 0:02.6. Master — the celesta-and-strings bed at gentle swell (present, never full). VO — none this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — a soft delighted smile.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the travelling gold light.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 4 of 7 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
