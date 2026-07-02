@@ -8482,14 +8482,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): deep within the creases of the half-folded star, a single faint violet shimmer has stirred and faded — deniable, the first whisper that the paper holds a galaxy.
 
-SPATIAL LOGIC: FOREGROUND — the paper star and her hands at ≈20% depth, tack sharp. MIDGROUND — Aira at the table. BACKGROUND — the dark dome, the soft armillary sphere, the warm lamp off-frame, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
+SPATIAL LOGIC: FOREGROUND — a near paper-strewn table-edge and the warm lamp at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the folding-table with Aira small at it, the half-folded paper star a tiny point in her hands. BACKGROUND — the vast dark planetarium dome curving far above and around, the soft armillary sphere and star-fittings receding into deep shadow with true atmospheric depth.
 
 LIGHTING: KEY — the warm desk-lamp as a soft wrapping key from frame-left. FILL — a gentle cool ambient lifting the shadow side. RIM — a faint cool edge from the dome skimming her crown. PRACTICAL — the desk-lamp and the faint paper-shimmer. SEPARATION — the dome pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint warm kick off the table and the brass bracelet. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the table edge, 12% headroom, the paper star entering the lower third, clean dark negative space above to receive the galaxy that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the table edge, the paper star entering the lower third, clean dark negative space above to receive the galaxy that arrives later. She is seated three-quarter to camera at the table, spine long and easy, weight settled even with a soft 2° lean over the paper, front shoulder dropped a touch, chin slightly dipped, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Origami Galaxy Planetarium scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter to camera, both hands cradle the half-folded paper star, fingertips pressing a crease with gentle precision, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame at the folding-table while the vast dark planetarium dome curves far above and around her; the dome dwarfs the human, deep dark negative space holding the coming galaxies.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — seated at the paper-strewn folding-table beneath the great dark planetarium dome, the vast curved ceiling rising far above and around her so she reads as a lone figure dwarfed by the dome; she is the scale-anchor that makes the planetarium read as truly vast. She sits three-quarter to camera at the table, spine long and easy, weight settled even with a soft 2° lean over the paper, front shoulder dropped a touch, chin slightly dipped, the half-folded paper star a tiny point in her hands. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Origami Galaxy Planetarium scene while the dome is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the paper star so both read crisp; the dome melting to soft black depth; dust as fine floating points in the lamp-beam; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the table and the vast dome all crisp for the establishing scale; only the nearest lamp-dust softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: warm cinematic establishing hero — the maker who folds galaxies, one impossible cue building (BA.3 cause building to effect).
 
@@ -8510,20 +8510,20 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 CLIP SUMMARY: the establishing hush — she folds quietly under the dark dome, a single violet shimmer stirring in the paper; energy held at ≈15%, building toward Frame 2's unfolding.
 
-SHOT TYPE: medium, chest-up to the table edge; subject fills ≈52% of the vertical 9:16 frame; eyeline on the upper third, the paper star on the lower third line.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical 9:16 frame while the vast dark planetarium dome dominates.
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve (slow start, gentle mid-accel, soft settle); a foreground paper-edge slips past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a slow weighty crane-up-and-back across the full 6.0s, lifting to reveal the great dome curving over the tiny table; a foreground paper-edge slips past for parallax, nearer than the far dome; zero roll, zero shake — the reveal reads as a held breath.
 
-LENS & OPTICS: 35mm full-frame equivalent, T2.2; a faint warm flare on the lamp only; gentle natural vignette; clean coatings, no chromatic fringing.
+LENS & OPTICS: 24mm wide full-frame equivalent, T4; a faint warm flare on the lamp only; gentle natural vignette; clean coatings, no chromatic fringing.
 
-FOCUS BEHAVIOUR: focus split-held on her near eye and the paper star; no rack this frame; focus-breathing compensated so framing stays locked through the push-in.
+FOCUS BEHAVIOUR: deep focus holding Aira, the table and the vast dome; no rack this frame; focus-breathing compensated so framing stays locked through the crane.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the table edge; subject fills ≈52% of the vertical 9:16 frame; eyeline on the upper third, the paper star on the lower third line: the move is already underway — dead-still tableau, hands cradling the half-folded star, lamp pooling warm; her fingertips press one crisp crease, the paper folding a step closer to a star.
-- [00:02–00:04] a single faint violet shimmer stirs deep in the creases then fades (the lone cue); her chest rises on a slow shallow inhale, the cardigan fold-shadow shifting a hair.
-- [00:04–00:06] her gaze stays low on the star, the brass star earring hanging still, lashes settling from a quiet blink; she turns the small star upright in her palms and holds, suspended just before the unfolding.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% at the table: the crane-up-and-back is already underway, lifting to reveal the great dark dome curving over her — the dome reads vast, she reads human; the near paper-edge slips past faster than the far ceiling in real parallax.
+- [00:02–00:04] the crane drifts on into the dark; the vast dome curves away above, the warm lamp pooling small on the table, a single faint violet shimmer stirring deep in the paper creases.
+- [00:04–00:06] the move settles wide and high; her chest rises on a slow shallow inhale as she turns the small star upright in her palms — the lone maker poised beneath the immense dome, just before the unfolding.
 
 MICRO-EXPRESSION TRACK: near-neutral calm throughout; 0:01.6 the faintest brow-soften as the shimmer stirs; 0:03.4 a 1mm inner-brow lift of quiet anticipation; lips stay gently closed.
 
@@ -9044,42 +9044,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 7 of 7 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the keeper at rest. Aira sets the small galaxy drifting up to join the others and stands full-length and composed beneath her quiet dome of hanging galaxies, facing camera with calm authority — the closing hero shot, calm restored, a single fresh paper star resting on the table with a faint violet shimmer to bookend the opening.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the poised closing hero — Aira full-length and grounded beneath softly hanging galaxies, footwear and accessories cleanly legible, the dark dome steady above.
+SCENE NOTE: the planetarium at rest, empty of any person. Beneath the dark dome a whole cosmos of glowing spiral galaxies hangs turning slow at varied heights, the paper-strewn folding-table quiet below with a single fresh folded star catching a faint violet shimmer under the warm desk-lamp; no figure present, the room of folded galaxies holding its quiet, ready to loop to the opening.
 
-WARDROBE: the midnight-blue wool wrap-cardigan with the cream knit, continuity-locked, settled clean in the warm-cool light, fully modest — the wardrobe hero shot.
+VISUAL-LEAD NOTE: catch the serene world-only close — NO figure; the dark dome hung with softly turning spiral galaxies, the folding-table with its fresh paper star glimmering, the warm desk-lamp pooling light below.
 
-FOOTWEAR: the concept-locked deep-navy suede ankle boots with the cream star-stitched sole, brass eyelets, and navy seam fully and crisply shown, planted firm, the suede nap clean and the brass eyelets catching a clear highlight — the footwear hero shot.
 
-ACCESSORIES: the brass constellation-charm bracelet on the right wrist and the folded-brass star earring at the left ear, both sharply visible and unchanged.
 
-HAIR: the soft side-swept waves, continuity-locked, neat and settled, color locked.
 
-MAKEUP: the warm-cool clean glow, continuity-locked, calm and even, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — lamp-gold low, galaxy-violet high — calm and clear as she meets lens; the eyes never glitch.
 
-HANDS & NAILS: hands easy at her sides, fingers relaxed; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: quiet authority, composed, lips softly closed, a steady direct gaze, the faintest reverent calm.
 
-BODY POSTURE & WEIGHT: GAZE direct and regal to lens; HEAD level, chin level; SHOULDERS open and square; RIGHT ARM and LEFT ARM easy at her sides, BOTH HANDS relaxed, RIGHT and LEFT FINGERS soft; TORSO facing camera squarely; WAIST & HIPS grounded and even; RIGHT LEG and LEFT LEG grounded even and straight; FEET & WEIGHT grounded and even; HAIR settling soft — regal and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the hanging galaxies settling into slow stable turns above her; (2) their arms wheeling gently; (3) a single fresh paper star on the table with a faint violet shimmer; (4) dust settling in the lamp-beam; (5) chest on a soft settling breath; (6) a thin warm highlight on the brass bracelet; (7) cardigan fold-shadow micro-settle; (8) a final slow blink.
+
+KINETIC STILLNESS (environmental, 6 layers): (1) the hanging galaxies settling into slow stable turns beneath the dome; (2) their spiral arms wheeling gently; (3) a single fresh paper star on the table with a faint violet shimmer; (4) dust settling slow in the lamp-beam; (5) a thin warm highlight sliding along the desk-lamp brass; (6) scattered paper-sheets stirring faintly on the table.
 
 MICRO-MAGIC (bookend): a single faint violet shimmer stirring in a fresh folded star on the table — the only remaining trace, deliberately small to bookend Frame 1.
 
-SPATIAL LOGIC: FOREGROUND — the table edge and fresh paper star at ≈20% depth. MIDGROUND — Aira full-length, the hero. BACKGROUND — the settled hanging galaxies and the dark dome. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
+SPATIAL LOGIC: FOREGROUND — the table edge and fresh paper star at ≈20% depth. MIDGROUND — the paper-strewn folding-table with the fresh star under the desk-lamp. BACKGROUND — the dark planetarium dome hung with softly turning spiral galaxies at varied heights, receding into deep shadow with true atmospheric depth. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
 
 LIGHTING: KEY — warm lamp plus the settled galaxies. FILL — cool ambient. RIM — faint cool dome-edge. SEPARATION — deep dome. BOUNCE — faint warm kick on the table. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Architecture in fine premium materials with an immaculate finish.
 
-FRAMING: ASPECT 9:16; clean full-length, 10% headroom, boots and the hanging galaxies both legible.
-SUBJECT FRAMING & POSITION: A clean full-length framing holds Aira at about 10% headroom, boots and the hanging galaxies both legible. She is full-length, facing camera squarely, weight grounded and even, chin level, spine long and easy. The camera holds a mid-wide distance, Aira the sharp central figure of the Origami Galaxy Planetarium scene, centred in frame. She faces front to the lens. Facing camera squarely with hands easy at her sides and the origami galaxy drifting around her, weight grounded and even for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the dark planetarium beneath its dome of hanging spiral galaxies, the folding-table and fresh paper star anchoring the lower third.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the dark planetarium reads full and deep, glowing spiral galaxies hanging and turning at varied heights beneath the great dome, the paper-strewn folding-table with its fresh shimmering star anchoring the lower-left under the warm lamp. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/3.2; deeper DOF to hold boots and the galaxies in legible focus; gentle roll-off, contrast rich and final.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the table, the fresh star and the hanging galaxies crisp across the depth; only the deepest dome softening; gentle roll-off, contrast rich and final.
 
 COMPOSITION REFERENCE: the poised closing hero — the keeper of folded galaxies, calm restored (perfect-loop close).
 
@@ -9087,20 +9080,20 @@ ATMOSPHERE: calm, complete, cosmic — the warm hush of a planetarium of folded 
 
 COLOR GRADE: warm lamp-gold with deep dome-black and cool galaxy-violet accent, rich uncrushed blacks, clean whites, full mid-tone, final contrast. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: the suede boots and brass eyelets hero-lit and crisp; the fresh paper star with crisp creases and a faint shimmer; the hanging galaxies soft and volumetric; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the folding-table strewn with real star-flecked paper; the fresh paper star with crisp creases and a faint shimmer; the hanging galaxies soft and volumetric; dust fine in the lamp-beam.
 
-STORY BEAT: the cycle holds — galaxies folded and kept, calm restored, a single fresh star already shimmering on the table, ready to loop.
+STORY BEAT: the cycle holds — galaxies folded and kept turning beneath the dome, the planetarium quiet and unpeopled, a single fresh star already shimmering on the table, ready to loop.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, residual floating objects beyond the hanging galaxies, body levitation.
 
 ## Frame 7 of 7 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-CLIP SUMMARY: the poised close — she sends the small galaxy up to join the others and stands composed beneath the quiet dome; energy settles to ≈20%, designed to loop seamlessly back to Frame 1.
+CLIP SUMMARY: the poised close — the small galaxy has joined the others and the quiet dome of hanging galaxies breathes above the empty table; energy settles to ≈20%, designed to loop seamlessly back to Frame 1.
 
-SHOT TYPE: clean full-length; subject ≈48% of the 9:16 frame; boots and hanging galaxies legible, face on the upper third.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the dark planetarium dome of hanging spiral galaxies and the folding-table with its fresh star.
 
 CAMERA BODY & RIG: virtual cinema body on a fluid head with a slow motorized pull; sub-pixel stabilized.
 
@@ -9108,12 +9101,12 @@ CAMERA MOVEMENT (detailed): an extremely slow push-out, easing ≈6% back across
 
 LENS & OPTICS: 35mm, T3.2; deeper DOF to keep footwear crisp; gentle roll-off; faint vignette; clean optics, final contrast.
 
-FOCUS BEHAVIOUR: focus pulls gently from the fresh paper star on the table (0:00.0–0:01.0) to a full-figure hold by 0:01.6, keeping boots and face acceptably sharp through the deeper stop; settles, no hunt.
+FOCUS BEHAVIOUR: focus pulls gently from the fresh paper star on the table (0:00.0–0:01.0) to the hanging galaxies by 0:01.6, holding the dome's depth; settles, no hunt.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] clean full-length; subject ≈48% of the 9:16 frame; boots and hanging galaxies legible, face on the upper third: the move is already underway — she sends the small galaxy drifting up and faces camera, composition immediately calm and complete.
-- [00:02–00:04] the hanging galaxies settle into slow stable turns above her; a single fresh paper star on the table catches a faint violet shimmer, a soft echo of the opening.
-- [00:04–00:06] a slow contented blink, the brass bracelet giving a last faint glint; a final almost-imperceptible settle of breath as the room hush lowers, ready to loop cleanly to Frame 1.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: the slow push-out is already underway, the small galaxy already drifting up to join the others so the composition reads calm and complete instantly.
+- [00:02–00:04] the hanging galaxies settle into slow stable turns beneath the dome; on the empty table a single fresh paper star catches a faint violet shimmer, a soft echo of the opening.
+- [00:04–00:06] the dome breathes into perfect stillness; a final almost-imperceptible settle as the room hush lowers, ready to loop cleanly to Frame 1.
 
 MICRO-EXPRESSION TRACK: 0:01.0 a soft proud calm settles; 0:02.4 eyes warm and steady on lens; 0:03.6 the faintest closed-lip smile; serene throughout.
 
@@ -9121,23 +9114,23 @@ PHYSICS: the small galaxy rises and joins the others with believable buoyancy an
 
 MICRO-MAGIC (one minimal beat): the single violet shimmer in the fresh folded star on the table.
 
-CONTINUITY: boots, bracelet, earring, wardrobe, waves, makeup, dual catchlight identical to every prior frame, presented as the clean hero shot.
+CONTINUITY: the planetarium dome, folding-table, hanging galaxies and fresh star identical to every prior frame; the world holds continuity while the subject is simply absent from this shot.
 
 LIGHTING & GRADE (motion): warm lamp settling, cool dome-rim steady, faint warm kick on the table; deep blacks, clean whites, final contrast — matched to Frame 1 for the loop.
 
 ENVIRONMENT MOTION: dust settling in the lamp-beam, the dark dome quiet with slow-turning galaxies, the armillary sphere still.
 
-AUDIO (layered, diegetic-led): BED — low room hush easing toward calm. SPOT FX — a soft fade of the galaxy-hum at 0:01.0, a faint kindling shimmer from the fresh star at 0:03.0. BREATH — a soft settling breath at 0:03.0. MASTER — the felt-piano-and-pad bed resolving toward near-silence, matched to Frame 1's kindling for a seamless loop. NO VO this frame.
+AUDIO (layered, diegetic-led): BED — low room hush easing toward calm. SPOT FX — a soft fade of the galaxy-hum at 0:01.0, a faint kindling shimmer from the fresh star at 0:03.0. MASTER — the felt-piano-and-pad bed resolving toward near-silence, matched to Frame 1's kindling for a seamless loop. NO VO this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips at rest in a composed, content expression.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the closing wide shot never warps the face.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ---
 
