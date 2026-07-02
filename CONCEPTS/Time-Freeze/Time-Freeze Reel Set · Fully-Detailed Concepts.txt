@@ -2401,7 +2401,7 @@ EXPRESSION IN MOTION: intent fascination softens into sublime reverence — the 
 
 LIGHTING: warm golden-hour sun backlighting the wave into a glowing turquoise wall and modelling her upturned face; soft coral fill; gold rim on her arm and braid; barrel held deep. Premium cinematic lighting quality — soft volumetric light, natural rim separation, elegant shadow gradients, high dynamic range, never flat or dull.
 
-ENVIRONMENT: the frozen golden-hour beach, a colossal wave mid-curl arcing overhead, suspended fish and kelp, coral sky, wet mirror-sand. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+ENVIRONMENT: the frozen golden-hour beach, a colossal wave mid-curl arcing overhead, suspended fish and kelp, coral sky, wet mirror-sand. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. The water-light rendered richly graded and luminous with premium caustics, god-rays and depth, never flat or empty.
 
 ATMOSPHERE & PARTICULATE: warm salt air; only the sunlight and her breath move — the wave and spray are dead still.
 
@@ -8548,7 +8548,7 @@ EXPRESSION IN MOTION: recovering breath and adrenaline-shake softening into stea
 
 LIGHTING: cool floodlight key, blue storm fill, repeated lightning rim flashes building to a white flash on the final snap, warm ember glow from the convoy fire. Elevated cinematic lighting — beautiful bounce and rim separation, soft highlight roll-off, elegant shadow gradients and high dynamic range, never flat.
 
-ENVIRONMENT: the storm-peak broken bridge deck over the abyss, stalled convoy behind, full tempest sky. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+ENVIRONMENT: the storm-peak broken bridge deck over the abyss, stalled convoy behind, full tempest sky. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. The water-light rendered richly graded and luminous with premium caustics, god-rays and depth, never flat or empty.
 
 ATMOSPHERE & PARTICULATE: torrential rain, blown spray, drifting smoke, mist halo, lightning flash.
 
