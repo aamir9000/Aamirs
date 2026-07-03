@@ -12009,14 +12009,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): in the dark pool beneath the wand-tip a single faint sparkle has stirred and stilled — deniable, the first whisper that the pools will fill with stars.
 
-SPATIAL LOGIC: FOREGROUND — the wand-tip and the dark pool at ≈20% depth, tack sharp. MIDGROUND — Aira beside the pool. BACKGROUND — the dark shore receding, the vast starry sky, distant surf, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — a near dark tide-pool and wet rock at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the shore with Aira small kneeling beside the pool, the driftwood wand a slim shape. BACKGROUND — the dark shore receding to the surf-line and the vast starry sky, receding with true atmospheric perspective (nearer rock sharp, far shore and horizon hazier), distant surf glinting. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — the starlit sky as a soft cool wrapping key from above. FILL — the faint phosphorescent sand bouncing cool light up under her chin. RIM — a faint violet edge skimming her crown and one shoulder. PRACTICAL — the stars and the phosphor line. SEPARATION — the shore pulled deep so she reads ≈1.5 stops up. BOUNCE — a soft cool kick off the wet rock. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium-full, kneeling with the pool and shore showing, 12% headroom, the wand entering the lower third, clean dark negative space around her to receive the galaxy-light that arrives later.
-SUBJECT FRAMING & POSITION: A medium-full framing holds Aira at about 12% headroom, kneeling with the pool and shore showing, the wand entering the lower third, clean dark negative space around her to receive the galaxy-light that arrives later. She is kneeling lightly three-quarter to camera beside the pool, weight settled even with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, spine long and grounded, alive and breathing. The camera holds a mid-wide distance, Aira the sharp central figure of the Stardust Tide-Pool Shore scene, with the scene massing around her. She faces front to the lens. Three-quarter at the tide-pool, the right hand holds the driftwood wand low above the pool and the left rests soft on the cool rock, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame kneeling on the shore while the vast night beach and colossal starry sky spread far around and above her; the shore and sky dwarf the human, deep dark negative space holding the stars and surf.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — kneeling beside a dark tide-pool on a night shore, the vast beach stretching to the surf-line and the colossal starry sky arching far above so she reads as a lone figure dwarfed by the night; she is the scale-anchor that makes the shore and sky read as truly vast. She kneels lightly three-quarter to camera beside the pool, weight settled even with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, spine long and grounded, the driftwood wand a slim shape held low above the water. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Stardust Tide-Pool Shore scene while the shore and sky are the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.5; focus split between her near eye and the wand-tip so both read crisp; the shore melting to soft dark; stars as fine points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the tide-pool and the far shore and stars all crisp for the establishing scale; only the nearest rock softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: cool cinematic establishing hero — a stargazer of tide-pools, one impossible cue building (BA.3 cause building to effect).
 
@@ -12037,20 +12037,20 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 CLIP SUMMARY: the starlit hush — she kneels at the dark pool, a single sparkle stirring beneath the wand; energy held at ≈15%, building toward Frame 2's first stardust.
 
-SHOT TYPE: medium-full, kneeling with pool and shore; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the wand on the lower third.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical 9:16 frame while the vast night shore and starry sky dominate.
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground rock-edge slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a slow weighty crane-up-and-back across the full 6.0s, lifting to reveal the vast night beach and starry sky around the tiny kneeling figure; a foreground rock-edge slides past for parallax, nearer than the far surf; zero roll, zero shake — the reveal reads as a held breath.
 
-LENS & OPTICS: 35mm full-frame equivalent, T2.5; a faint cool flare on the brightest star only; gentle natural vignette; clean coatings, no chromatic fringing.
+LENS & OPTICS: 24mm wide full-frame equivalent, T4; a faint cool flare on the brightest star only; gentle natural vignette; clean coatings, no chromatic fringing.
 
-FOCUS BEHAVIOUR: focus split-held on her near eye and the wand-tip; no rack this frame; focus-breathing compensated so framing stays locked through the push-in.
+FOCUS BEHAVIOUR: deep focus holding Aira, the tide-pool and the far shore and stars; no rack this frame; focus-breathing compensated so framing stays locked through the crane.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium-full, kneeling with pool and shore; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the wand on the lower third: the move is already underway — dead-still tableau, the dark pool calm, the wand held above it; a single faint sparkle stirs once in the pool then stills (the lone cue).
-- [00:02–00:04] her chest rises on a slow shallow inhale, the gown fold-shadow shifting a hair; her gaze lowers to the pool, the star-cluster earring catching starlight, lashes settling from a quiet blink.
-- [00:04–00:06] she lowers the wand-tip toward the water, a thin cool highlight sliding along it; the wand-tip hovers a hair above the pool and holds, suspended just before contact.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% kneeling by the pool: the crane-up-and-back is already underway, lifting to reveal the vast night beach and starry sky around her — the shore reads vast, she reads human; the near rock-edge slides past faster than the far surf in real parallax.
+- [00:02–00:04] the crane drifts on; the dark shore stretches to the surf-line under the colossal starfield, the far horizon hazier with atmospheric perspective, a single faint sparkle stirring once in the pool.
+- [00:04–00:06] the move settles wide and high; her chest rises on a slow shallow inhale as she lowers the wand-tip toward the water — the lone figure poised on the immense night shore, just before contact.
 
 MICRO-EXPRESSION TRACK: near-neutral cool calm throughout; 0:01.6 the faintest brow-soften as the sparkle stirs; 0:03.4 a 1mm inner-brow lift of quiet anticipation; lips stay gently closed.
 
@@ -12471,42 +12471,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 6 of 8 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the sea becomes the cosmos. Aira sweeps the wand in a slow arc toward the surf and the whole sea rises into a vast mirror of the galaxy — the dark water reflecting and holding swirling stars and nebulae to the horizon, a cosmic tide meeting the doubled sky; she stands at its edge, cool and monumental, the keeper of a sea of stars.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the world-expands beat — the whole sea risen into a vast galaxy-mirror reflecting stars and nebulae to the horizon, Aira at the shore-edge sweeping the wand, the cosmos doubled above and below.
+SCENE NOTE: the sea becomes the cosmos, the shore empty of any person. The whole sea has risen into a vast mirror of the galaxy — the dark water reflecting and holding swirling stars and nebulae to the horizon, a cosmic tide meeting the doubled sky, the slender driftwood wand resting on the wet rock among stardust-lit tide-pools as the source; no figure present, a sea of stars on its own.
 
-WARDROBE: the midnight-blue constellation gown, continuity-locked, lit cool by the cosmic sea, fully modest.
+VISUAL-LEAD NOTE: catch the world-expands beat as a world shot — NO figure; the whole sea risen into a vast galaxy-mirror reflecting stars and nebulae to the horizon, the driftwood wand small on the wet rock, the cosmos doubled above and below.
 
-FOOTWEAR: the concept-locked pewter boots fully visible, planted firm on the wet rock, reflected in the star-sea.
 
-ACCESSORIES: the star-map silver cuff and the star-cluster earring, unchanged, catching the sea's cool light.
 
-HAIR: the loose waves, continuity-locked, color locked.
 
-MAKEUP: the cool starlit glow, continuity-locked, cosmic light across the eyes, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight intact, lit by the vast star-sea; the eyes never glitch.
 
-HANDS & NAILS: the wand sweeping in a slow arc toward the sea, the left hand open and rising; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: cool monumental awe, eyes moving across the cosmic sea, lips softly parted, a composed wonder.
 
-BODY POSTURE & WEIGHT: GAZE following the slow arc to the sea; HEAD turning with the sweep; SHOULDERS opening with the arc; RIGHT ARM sweeping the wand in a slow arc toward the sea, the RIGHT HAND sweeping, RIGHT FINGERS easy; LEFT ARM open and rising, the LEFT HAND open, LEFT FINGERS softly spread; TORSO about 5 degrees open, opening with the arc; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even; HAIR drifting soft — graceful and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the vast star-sea swirling slow to the horizon; (2) nebulae drifting across its surface; (3) a temple strand drifting; (4) the cosmic surf lapping the shore; (5) chest on a lifted breath; (6) cool specular on the cuff; (7) gown fold-shadow micro-shift; (8) a slow blink.
+
+KINETIC STILLNESS (environmental, 6 layers): (1) the vast star-sea swirling slow to the horizon; (2) nebulae drifting across its surface; (3) the cosmic surf lapping the dark shore; (4) the stardust-lit tide-pools glinting across the rock; (5) the driftwood wand resting where it was set down; (6) the real starfield wheeling almost imperceptibly above.
 
 MICRO-MAGIC (unified): the whole sea risen into a vast galaxy-mirror holding swirling stars and nebulae — the single phenomenon at its grandest scale.
 
-SPATIAL LOGIC: FOREGROUND — a near star-pool and the wet rock at ≈20% depth, soft. MIDGROUND — Aira at the shore-edge. BACKGROUND — the cosmic sea drifting to the doubled-sky horizon. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. The cosmos rendered richly graded and cinematic with deep, luminous space tones and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — a near stardust-lit tide-pool and wet rock at ≈15% depth, tack sharp. MIDGROUND — the shore-edge with the resting driftwood wand and lit pools. BACKGROUND — the cosmic sea drifting to the doubled-sky horizon with true atmospheric perspective (nearer surf sharp, far sea hazier and softer). Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. The cosmos rendered richly graded and cinematic with deep, luminous space tones and premium light, never flat or empty.
 
-LIGHTING: KEY — the cosmic sea as a vast cool source plus the starlit sky. FILL — faint phosphor bounce. RIM — violet edge. SEPARATION — the shore-edge between her and the sea. BOUNCE — cool kicks all around. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. The cosmos rendered richly graded and cinematic with deep, luminous space tones and premium light, never flat or empty.
+LIGHTING: KEY — the cosmic sea as a vast cool source plus the starlit sky. FILL — faint phosphor bounce. RIM — violet edge. SEPARATION — the shore-edge between the near rock and the sea. BOUNCE — cool kicks all around. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. The cosmos rendered richly graded and cinematic with deep, luminous space tones and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; wider medium, knees-up, 12% headroom, the cosmic sea filling the field beyond her, Aira anchored centre.
-SUBJECT FRAMING & POSITION: A wider medium framing holds Aira at about 12% headroom, knees-up, the cosmic sea filling the field beyond her, Aira anchored centre. She is standing tall at the shore-edge, weight even and grounded, torso ≈5° open, chin lifting, spine long. The camera holds a wide distance, Aira the sharp central figure of the Stardust Tide-Pool Shore scene, centred in frame. She is turned a few degrees into the moment. The wand sweeps in a slow arc toward the sea in the right hand while the left opens and rises, shoulders opening with the arc and weight grounded. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the night shore where the whole sea has become a vast galaxy-mirror to the horizon, the driftwood wand small on the wet rock among stardust-lit pools.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the night shore reads full and deep, stardust-lit tide-pools scattered across the near rock, the driftwood wand resting where it was set down, and the vast sea risen into a galaxy-mirror holding swirling stars and nebulae to the doubled-sky horizon. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; moderate DOF keeping her sharp while the farthest sea softens into luminous bokeh; controlled glow; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the near tide-pool, the shore-edge and the far cosmic sea crisp across the depth; only the farthest sea softening into luminous bokeh; controlled glow; gentle roll-off.
 
 COMPOSITION REFERENCE: the world-expands beat — the mechanic at full scale, a sea of stars (BA.3).
 
@@ -12514,57 +12507,57 @@ ATMOSPHERE: cool, cosmic, vast — an entire sea become the galaxy. Rich atmosph
 
 COLOR GRADE: cool starlight-silver and galaxy-violet with night-blue shadow, rich blacks, clean whites, controlled glow. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-TEXTURE & MICRO-DETAIL: the cosmic sea reads as real dark water holding a dimensional reflection of swirling stars and nebulae with believable depth; the wand grained; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the cosmic sea reads as real dark water holding a dimensional reflection of swirling stars and nebulae with believable depth; the driftwood wand grained and real; the wet shore-rock slick; the tide-pools clear and star-lit.
 
-STORY BEAT: the sea of stars — she stands before a vast sea become the cosmos, cool and monumental, a shore meeting an ocean of galaxies.
+STORY BEAT: the sea of stars — a vast sea become the cosmos meets the night shore, the driftwood wand resting on the rock, a shore of galaxies quiet and unpeopled.
 
-NEGATIVE: mirrored composition (subject flip), flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, over-crowding that hides her, body levitation, flat printed sea.
+NEGATIVE: mirrored composition (subject flip), flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, over-crowding that flattens the depth, body levitation, flat printed sea.
 
 ## Frame 6 of 8 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
 CLIP SUMMARY: the world-expands crescendo — the whole sea rises into a vast galaxy-mirror to the horizon; energy hits its grandest ≈92% across a longer 6.0s beat.
 
-SHOT TYPE: wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre at the shore-edge.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the night shore, the resting driftwood wand and the vast galaxy-mirror sea spreading to the horizon.
 
 CAMERA BODY & RIG: virtual cinema body on a crane/jib with gimbal head; a smooth rise with a slow orbit; sub-pixel stabilized.
 
-CAMERA MOVEMENT (detailed): a slow crane-rise of ≈8% with a layered ≈12° orbit revealing the cosmic sea's spread, soft-eased start and stop; a gentle ≈4° tilt-down developing to keep her centred; a foreground star-pool slides past for parallax; locked roll, no shake.
+CAMERA MOVEMENT (detailed): a slow crane-rise of ≈8% with a layered ≈12° orbit revealing the cosmic sea's spread, soft-eased start and stop; a gentle ≈4° tilt developing to keep the shore-edge and sea framed; a foreground star-pool slides past for parallax; locked roll, no shake.
 
-LENS & OPTICS: 35mm, T2.8; controlled cool glow on the sea; gentle vignette; a single soft cool flare as the rig peaks; clean optics.
+LENS & OPTICS: 24mm wide, T4; controlled cool glow on the sea; gentle vignette; a single soft cool flare as the rig peaks; clean optics.
 
-FOCUS BEHAVIOUR: deep-ish focus holding her sharp while the farthest sea softens; one slow breathing-compensated hold on her face; no rack mid-rise.
+FOCUS BEHAVIOUR: deep focus holding the near pools and shore-edge sharp while the farthest sea softens; one slow breathing-compensated hold; no rack mid-rise.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre at the shore-edge: the move is already underway — opens as the sea begins to fill with stars so the scale lands instantly.
-- [00:02–00:04] she sweeps the wand toward the surf and the whole sea rises into a galaxy-mirror; swirling stars and nebulae spread across the sea to the horizon.
-- [00:04–00:06] she lifts the wand at the shore-edge, the cosmic sea answering, her face cool and uplifted; the star-sea settles into a slow living swirl as she holds the grounded pose.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: the crane-orbit is already underway as the sea begins to fill with stars so the scale lands instantly, a near star-pool sliding past faster than the far sea in real parallax.
+- [00:02–00:04] the whole sea rises into a galaxy-mirror; swirling stars and nebulae spread across the water to the horizon, the wand resting on the rock.
+- [00:04–00:06] the star-sea settles into a slow living swirl; a gentle settle, the starfield wheeling above the doubled horizon.
 
-MICRO-EXPRESSION TRACK: 0:01.2 lips part on a cool awed breath; 0:02.8 a glow of monumental wonder across the eyes; 0:04.0 the faintest serene calm; never theatrical.
+ENVIRONMENT-MOTION TRACK: 0:01.2 the sea filling with stars; 0:02.8 nebulae spreading to the horizon; 0:04.0 the star-sea settling into a slow swirl; no person, no face.
 
-PHYSICS: the sea holds a believable dimensional cosmic reflection with conserved swirl-motion while real surf laps the shore; the sea exerts no force on her; her feet stay planted — no levitation; the starfield wheels above.
+PHYSICS: the sea holds a believable dimensional cosmic reflection with conserved swirl-motion while real surf laps the shore; the reflection exerts no force on the shore or wand; the rock and wand stay weighted — no levitation; the starfield wheels above.
 
 MICRO-MAGIC (one sustained beat): the sea risen into a vast galaxy-mirror — one phenomenon at maximum scale, not stacked tricks.
 
-CONTINUITY: boots, cuff, earring, wardrobe, loose waves, makeup, dual catchlight unchanged.
+CONTINUITY: the night shore, tide-pools, driftwood wand and galaxy-mirror sea identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
 LIGHTING & GRADE (motion): the cosmic sea as the dominant vast cool source plus starlit key, faint phosphor fill, violet rim; overall level rises ≈0.6 stop to the peak (0:03.4) then eases; deep blacks held, clean whites, glow controlled — never blown.
 
 ENVIRONMENT MOTION: the star-sea swirling, nebulae drifting, cosmic surf lapping, the starfield wheeling above.
 
-AUDIO (layered, diegetic-led): BED — distant surf, soft breeze, swelling subtly. SPOT FX — a deep layered cosmic-swell rising to a gentle peak at 0:03.4, crystalline shimmers across the sea. BREATH — a soft awed breath at 0:02.8. MASTER — the ambient-pad-and-celesta bed at its gentle peak (present, never full). NO VO (non-talkable).
+AUDIO (layered, diegetic-led): BED — distant surf, soft breeze, swelling subtly. SPOT FX — a deep layered cosmic-swell rising to a gentle peak at 0:03.4, crystalline shimmers across the sea. MASTER — the ambient-pad-and-celesta bed at its gentle peak (present, never full). NO VO (non-talkable, no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips parted in cool awe.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the brightest peak so the cosmic-sea light never washes or warps the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 7 of 8 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
