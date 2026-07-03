@@ -10030,14 +10030,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): above the anvil a single struck spark from an earlier blow has refused to fade — it hangs, dimming and brightening once, deniable, the first whisper that her sparks become fireflies.
 
-SPATIAL LOGIC: FOREGROUND — the anvil and the lingering spark at ≈20% depth, tack sharp. MIDGROUND — Aira at the anvil. BACKGROUND — the glowing forge off one side, the dark tool-racks, the cool night-blue window high behind, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+SPATIAL LOGIC: FOREGROUND — a near tool-rack and the anvil-edge at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the anvil with Aira small at it, the raised hammer a dark shape, the coals glowing warm. BACKGROUND — the dim stone forge stretching back into warm dark, the tool-racks and the high cool night-blue window, receding with true atmospheric perspective (nearer stone sharp, far forge hazier). Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — the warm forge as a soft wrapping key from frame-left. FILL — a gentle warm bounce off the stone lifting the shadow side. RIM — the cool night-blue window skimming her crown and one shoulder. PRACTICAL — the forge, the lingering spark, the window. SEPARATION — the smithy depth pulled dark so she reads ≈1.5 stops up. BOUNCE — a faint warm kick off the hammer-head. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the anvil, 12% headroom, the anvil and hammer entering the lower third, clean dark negative space above to receive the firefly swarm that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the anvil, the anvil and hammer entering the lower third, clean dark negative space above to receive the firefly swarm that arrives later. She is standing three-quarter to camera at the anvil, weight settled into the back hip with a 2° counter-tilt, front shoulder dropped over the hammer, chin level, spine long and grounded, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Firefly Forge Smithy scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter at the anvil, the right hand grips the hammer-haft raised and ready while the left rests light on the anvil's edge, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame at the anvil while the dim stone forge stretches far back and up around her; the forge dwarfs the human, deep dark negative space holding the coming swarm.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing at the glowing anvil in the dim stone forge, the vaulted stone walls, tool-racks and high window rising far above and around her so she reads as a lone figure dwarfed by the smithy; she is the scale-anchor that makes the forge read as truly vast. She stands three-quarter to camera at the anvil, weight settled into the back hip with a 2° counter-tilt, front shoulder dropped over the hammer, chin level, spine long and grounded, the cross-peen hammer a small dark shape raised in her hand. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Firefly Forge Smithy scene while the forge is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her near eye and the anvil so both read crisp; the smithy melting to warm shadow bokeh; embers as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the anvil and the deep forge all crisp for the establishing scale; only the nearest embers softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: warm cinematic establishing hero — the smith who keeps her sparks, one impossible cue building (BA.3 cause building to effect).
 
@@ -10058,20 +10058,20 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 CLIP SUMMARY: the establishing hush — she stands ready at the glowing anvil, a single spark refusing to fade; energy held at ≈15%, building toward Frame 2's strike.
 
-SHOT TYPE: medium, chest-up to the anvil; subject fills ≈52% of the vertical 9:16 frame; eyeline on the upper third, the anvil on the lower third.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical 9:16 frame while the dim stone forge dominates.
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground anvil-horn slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a slow weighty crane-up-and-back across the full 6.0s, lifting to reveal the vaulted stone forge around the tiny figure at the anvil; a foreground anvil-horn slides past for parallax, nearer than the far walls; zero roll, zero shake — the reveal reads as a held breath.
 
-LENS & OPTICS: 35mm full-frame equivalent, T2.2; a warm flare on the forge only; gentle natural vignette; clean coatings, no chromatic fringing.
+LENS & OPTICS: 24mm wide full-frame equivalent, T4; a warm flare on the forge only; gentle natural vignette; clean coatings, no chromatic fringing.
 
-FOCUS BEHAVIOUR: focus split-held on her near eye and the anvil; no rack this frame; focus-breathing compensated so framing stays locked through the push-in.
+FOCUS BEHAVIOUR: deep focus holding Aira, the anvil and the deep forge; no rack this frame; focus-breathing compensated so framing stays locked through the crane.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the anvil; subject fills ≈52% of the vertical 9:16 frame; eyeline on the upper third, the anvil on the lower third: the move is already underway — dead-still tableau, the hammer raised, the forge pulsing warm; a single lingering spark over the anvil dims and brightens once then holds (the lone cue).
-- [00:02–00:04] her chest rises on a slow gathering breath, the apron fold-shadow shifting a hair; her gaze steadies on the anvil, the ember earring hanging still, lashes settling from a quiet blink.
-- [00:04–00:06] she sets her stance and lifts the hammer a touch higher; the hammer hangs at the top of its arc and holds, suspended just before the strike.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% at the anvil: the crane-up-and-back is already underway, lifting to reveal the vaulted stone forge around her — the forge reads vast, she reads human; the near anvil-horn slides past faster than the far walls in real parallax.
+- [00:02–00:04] the crane drifts on into the warm dark; the coals pulse warm, the tool-racks and high night window rising far above, a single lingering spark brightening once over the anvil.
+- [00:04–00:06] the move settles wide and high; her chest rises on a slow gathering breath as she lifts the hammer a touch higher — the lone smith poised in the vast forge, just before the strike.
 
 MICRO-EXPRESSION TRACK: near-neutral warm calm throughout; 0:01.6 the faintest brow-soften as the spark lingers; 0:03.4 a 1mm inner-brow lift of quiet resolve; lips stay gently closed.
 
@@ -10198,100 +10198,93 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 3 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked resolution of the spark-to-firefly transform — a full swarm of golden fireflies risen and swirling around her; face clear and wondering at the centre. This is the hero beat.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the swarm rises. The struck sparks have all become a swarm of living golden fireflies that swirl up and around Aira in a slow warm spiral, lighting the dark forge; she stands among them, warm and awed, the smith whose sparks became a living constellation.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the signature hero beat — a full swarm of golden fireflies swirling around her in the dark forge, Aira at the centre with the hammer, warm light on her awed face.
+SCENE NOTE: the swarm rises, the forge empty of any person. The struck sparks have all become a swarm of living golden fireflies that swirl up in a slow warm spiral through the dim stone forge, rising from the glowing anvil where the cross-peen hammer rests; no figure present, the sparks becoming a living constellation on their own.
 
-WARDROBE: the charcoal leather apron, continuity-locked, washed warm-gold by the firefly swarm with a cool night-blue edge, fully modest.
+VISUAL-LEAD NOTE: catch the signature hero beat as a world shot — NO figure; a full swarm of golden fireflies swirling up through the dark forge from the glowing anvil and resting hammer, warm light flickering across the stone walls.
 
-FOOTWEAR: the concept-locked tan work-boots, planted firm, established and unchanged.
 
-ACCESSORIES: the hammered-copper cuff and the ember-glass earring, unchanged, both glinting in the swarm-light.
 
-HAIR: the braided crown, continuity-locked, crown catching cool night-blue rim, color locked.
 
-MAKEUP: the warm ember glow, continuity-locked, gold washing the cheekbones with a cool edge, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — forge-ember low, night-blue high — vivid as her eyes move across the swarm; the eyes never glitch.
 
-HANDS & NAILS: the hammer resting in one hand, the other open and lifted among the fireflies; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: warm awe, eyes moving across the swirling fireflies, lips parted in a soft breath, a quiet magic, the faintest ease at the outer eye.
 
-BODY POSTURE & WEIGHT: GAZE among the fireflies; HEAD chin lifted; SHOULDERS opening; RIGHT ARM holding the hammer in one hand, the RIGHT HAND easy, RIGHT FINGERS relaxed; LEFT ARM open and lifted among the fireflies, the LEFT HAND open, LEFT FINGERS softly spread; TORSO lengthening, square-ish; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT centred even; HAIR lifting a touch — wondering and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the firefly swarm swirling slow around her; (2) individual fireflies blinking on and off; (3) a temple strand drifting; (4) smoke curling; (5) chest on a slow breath; (6) warm specular fading on the cuff; (7) apron fold-shadow micro-shift; (8) a slow blink.
 
-MICRO-MAGIC (END keyframe): the full swarm of golden fireflies swirling around her — the single phenomenon at its fullest, sparks made living light.
+KINETIC STILLNESS (environmental, 6 layers): (1) the firefly swarm swirling slow through the forge; (2) individual fireflies blinking on and off; (3) smoke curling from the coals; (4) the anvil glowing warm with a resting hammer; (5) warm speculars sliding across the stone walls; (6) the high night window steady beyond.
 
-SPATIAL LOGIC: FOREGROUND — a near firefly at ≈18% depth, soft. MIDGROUND — the swarm and her face. BACKGROUND — the dark forge, night window high. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+MICRO-MAGIC (END keyframe): the full swarm of golden fireflies swirling up through the forge from the anvil — the single phenomenon at its fullest, sparks made living light.
+
+SPATIAL LOGIC: FOREGROUND — a near firefly and the anvil-edge at ≈15% depth, tack sharp. MIDGROUND — the glowing anvil and resting hammer amid the rising swarm. BACKGROUND — the dim stone forge receding into warm dark with true atmospheric depth, the high night window far beyond. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — warm forge plus the firefly swarm as a live golden source. FILL — warm stone bounce. RIM — cool night-blue. SEPARATION — deep dark smithy. BOUNCE — warm kicks tracking the fireflies. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 12% headroom, the swarm swirling around her into the negative space, her awed face centre.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up, the swarm swirling around her into the negative space, her awed face centre. She is standing tall at the anvil, torso opening toward the swarm, chin lifted, weight even, spine long. The camera holds a mid distance, Aira the sharp central figure of the Firefly Forge Smithy scene, with the scene massing around her. She is turned a few degrees into the moment. The hammer resting in one hand while the other opens and lifts among the fireflies, the chest opening and weight centred even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the dim stone forge lit by a swirling swarm of golden fireflies rising from the glowing anvil, the high night window beyond.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the dark forge reads full and deep, a swarm of golden fireflies swirling up in a warm spiral from the glowing anvil and resting hammer, the stone walls and tools flickering warm, the high night window far beyond. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.2; moderate DOF keeping her sharp while the farther fireflies soften into warm bokeh; controlled glow; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the anvil, the rising swarm and the forge walls crisp across the depth; only the farthest fireflies softening into warm bokeh; controlled glow; gentle roll-off.
 
-COMPOSITION REFERENCE: the signature hero beat — smith whose sparks became a constellation (identity-through-motion).
+COMPOSITION REFERENCE: the signature world beat — the forge alive with a firefly constellation (world-as-hero).
 
 ATMOSPHERE: warm, awed, mythic — a forge full of living golden light. Premium atmospheric depth — subtle volumetric haze and fine particulate, clean and immersive.
 
 COLOR GRADE: warm forge-ember-gold with deep smithy-shadow and cool night-blue accent, rich blacks, clean whites, controlled glow. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: the fireflies read as real winged insects of warm light with soft blink-cycles, not flat dots; the anvil scarred; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the fireflies read as real winged insects of warm light with soft blink-cycles, not flat dots; the anvil scarred and glowing; the stone walls rough; smoke fine in the warm dark.
 
-STORY BEAT: the living constellation — her sparks swirl around her as a swarm of fireflies, warm and awed, a strike made into living light.
+STORY BEAT: the living constellation — struck sparks swirl up through the forge as a swarm of fireflies from the glowing anvil, the smithy warm and unpeopled.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, body levitation, flat dot-like fireflies.
 
 ## Frame 3 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-CLIP SUMMARY: the hero swarm — the fireflies swirl around her in the dark forge; energy peaks at ≈85%, the signature image that defines the concept.
+CLIP SUMMARY: the hero swarm — the fireflies swirl up through the dark forge from the glowing anvil; energy peaks at ≈85%, the signature image that defines the concept.
 
-SHOT TYPE: medium, chest-up; subject and swarm fill ≈56% of the 9:16 frame; her awed face centre.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the dim stone forge alive with a swirling firefly swarm rising from the glowing anvil.
 
 CAMERA BODY & RIG: virtual cinema body on a gimbal, slow lateral arc with a faint vertical float; sub-pixel stabilized.
 
-CAMERA MOVEMENT (detailed): a slow ≈20° drift around her at constant speed, soft-eased both ends, with a barely-there ≈1.5% rise so the swarm appears to lift; the dark forge parallaxes behind, fireflies streaming foreground-to-background for depth; locked horizon, no shake.
+CAMERA MOVEMENT (detailed): a slow ≈20° drift across the forge at constant speed, soft-eased both ends, with a barely-there ≈1.5% rise so the swarm appears to lift; the dark forge parallaxes behind, fireflies streaming foreground-to-background for depth; locked horizon, no shake.
 
-LENS & OPTICS: 50mm, T2.2; controlled glow halation on the brightest fireflies; faint vignette; clean optics, no fringing.
+LENS & OPTICS: 24mm wide, T4; controlled glow halation on the brightest fireflies; faint vignette; clean optics, no fringing.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near firefly for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: focus held on the anvil plane; a single soft pull at 0:02.6 to a near firefly for one beat (≈0.5s) then back to the wide swarm by 0:03.4; smooth, deliberate.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up; subject and swarm fill ≈56% of the 9:16 frame; her awed face centre: the move is already underway — opens with the swarm already swirling so the signature lands instantly; the fireflies complete their rise into a slow warm spiral around her.
-- [00:02–00:04] she lifts an open hand and a few fireflies orbit it, blinking; her eyes sweep the swarm, a soft awed breath, lashes settling.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: the move is already underway — opens with the swarm already swirling up from the anvil so the signature lands instantly; the fireflies complete their rise into a slow warm spiral through the forge, near fireflies parallaxing past.
+- [00:02–00:04] a few fireflies orbit the glowing anvil, blinking; the swarm drifts slow through the dark forge, the coals pulsing warm.
 - [00:04–00:06] the fireflies pulse a gentle synchronized blink; the swarm settles into a steady slow swirl, holding the hero look.
 
-MICRO-EXPRESSION TRACK: 0:01.0 a slow exhale of wonder; 0:02.0 a soft micro-smile at the mouth corner; 0:03.0 eyes glistening with the warm catchlight, fully alive; no over-expression.
+ENVIRONMENT-MOTION TRACK: 0:01.0 the swarm swelling to full; 0:02.0 fireflies streaming past camera; 0:03.0 the synchronized blink rippling through the swarm; no person, no face.
 
-PHYSICS: the fireflies fly on believable insect-flight paths with tiny wing-flutter and natural blink-cycles, swirling on a loose collective drift; they exert no force on her hair or apron; the forge flickers; her body grounded; only smoke and fireflies move freely.
+PHYSICS: the fireflies fly on believable insect-flight paths with tiny wing-flutter and natural blink-cycles, swirling on a loose collective drift; they exert no force on the anvil or tools; the forge flickers; the anvil and hammer stay weighted; only smoke and fireflies move freely.
 
-MICRO-MAGIC (one beat): the firefly swarm swirling around her — the single phenomenon at full scale, coherent.
+MICRO-MAGIC (one beat): the firefly swarm swirling up through the forge — the single phenomenon at full scale, coherent.
 
-CONTINUITY: boots, cuff, earring, wardrobe, braided crown, makeup, dual catchlight unchanged from Frames 1–2.
+CONTINUITY: the stone forge, glowing anvil, hammer and firefly swarm identical to Frames 1–2; the world holds continuity while the subject is simply absent from this shot.
 
 LIGHTING & GRADE (motion): warm forge key + the swarm as the dominant live golden source, warm stone fill, cool night-rim; the key brightens ≈0.5 stop at the synchronized blink (0:03.6) then eases; deep blacks, clean whites, controlled bloom — never blown.
 
 ENVIRONMENT MOTION: smoke curling, the dark forge alive with golden fireflies, the night window steady.
 
-AUDIO (layered, diegetic-led): BED — low forge-roar, lowered to feature the swarm. SPOT FX — a soft layered firefly-wing flutter swelling as the swarm completes at 0:00.8, a gentle shimmer on the synchronized blink at 0:03.6. BREATH — a soft awed exhale at 0:03.0. MASTER — the strings-and-low-brass bed at a gentle swell (present, never full). NO VO this frame.
+AUDIO (layered, diegetic-led): BED — low forge-roar, lowered to feature the swarm. SPOT FX — a soft layered firefly-wing flutter swelling as the swarm completes at 0:00.8, a gentle shimmer on the synchronized blink at 0:03.6. MASTER — the strings-and-low-brass bed at a gentle swell (present, never full). NO VO this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — a soft awed breath, lips parted.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the bright swarm so the peak glow never washes or warps the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 4 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
