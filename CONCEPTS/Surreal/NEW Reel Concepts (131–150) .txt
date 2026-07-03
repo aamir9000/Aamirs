@@ -10657,14 +10657,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): at the rail a single cloud-wisp has curled up into the shape of a closed bud and stilled — deniable, the first whisper that the clouds will bloom.
 
-SPATIAL LOGIC: FOREGROUND — the parapet edge and the watering-can spout at ≈20% depth, tack sharp. MIDGROUND — Aira at the rail. BACKGROUND — the cloud-sea receding to distant peaks, the soft dawn sky, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — the parapet edge and the watering-can spout at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the balcony rail with Aira small at it, the brass can a small glint. BACKGROUND — the vast dawn cloud-sea spreading to distant peaks and the soft pink-gold sky, receding with true atmospheric perspective (nearer clouds sharp, far peaks hazier). Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — the low dawn sun as a warm wrapping key from frame-right. FILL — the pink cloud-sea bouncing soft light up under her chin. RIM — a soft gold edge skimming her crown and one shoulder. PRACTICAL — the dawn sky and the bright cloud-sea. SEPARATION — the peaks pulled deep so she reads ≈1.5 stops up. BOUNCE — a soft warm kick off the pale stone. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium-full, hips-up with the parapet showing, 12% headroom, the watering can entering the lower third, clean soft negative space at the rail to receive the cloud-flowers that arrive later.
-SUBJECT FRAMING & POSITION: A medium-full framing holds Aira at about 12% headroom, hips-up with the parapet showing, the watering can entering the lower third, clean soft negative space at the rail to receive the cloud-flowers that arrive later. She is standing three-quarter to camera at the parapet, weight settled even with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, spine long and grounded, alive and breathing. The camera holds a mid-wide distance, Aira the sharp central figure of the Cloud-Garden Balcony scene, centred in frame. She faces front to the lens. Three-quarter at the balcony parapet, the right hand holds the brass watering can by its handle and the left rests light on the cool parapet, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame at the parapet while the vast dawn cloud-sea spreads far below and to the horizon; the sky-world dwarfs the human, deep soft negative space holding the clouds and dawn.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing at the low parapet of a balcony floating high above a vast sea of dawn clouds, the cloud-sea spreading far below and out to distant peaks so she reads as a lone figure dwarfed by the sky; she is the scale-anchor that makes the cloud-sea read as truly vast. She stands three-quarter to camera at the parapet, weight settled even with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, spine long and grounded, the brass watering can a small glint held at her side. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Cloud-Garden Balcony scene while the cloud-sea is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.5; focus split between her near eye and the can-spout so both read crisp; the cloud-sea melting to soft pink; distant peaks as gentle shapes; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the parapet and the far cloud-sea all crisp for the establishing scale; only the nearest cloud-wisp softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: warm cinematic establishing hero — gardener above the clouds, one impossible cue building (BA.3 cause building to effect).
 
@@ -10685,20 +10685,20 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 CLIP SUMMARY: the dawn hush — she stands at the parapet above the clouds, a single cloud-bud curling at the rail; energy held at ≈15%, building toward Frame 2's watering.
 
-SHOT TYPE: medium-full, hips-up with parapet; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the can on the lower third.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical 9:16 frame while the vast dawn cloud-sea and sky dominate.
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground parapet-corner slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a slow weighty crane-up-and-back across the full 6.0s, lifting to reveal the vast cloud-sea spreading below the balcony; a foreground parapet-corner slides past for parallax, nearer than the far peaks; zero roll, zero shake — the reveal reads as a held breath.
 
-LENS & OPTICS: 35mm full-frame equivalent, T2.5; a soft warm flare on the dawn sun only; gentle natural vignette; clean coatings, no chromatic fringing.
+LENS & OPTICS: 24mm wide full-frame equivalent, T4; a soft warm flare on the dawn sun only; gentle natural vignette; clean coatings, no chromatic fringing.
 
-FOCUS BEHAVIOUR: focus split-held on her near eye and the can-spout; no rack this frame; focus-breathing compensated so framing stays locked through the push-in.
+FOCUS BEHAVIOUR: deep focus holding Aira, the parapet and the far cloud-sea; no rack this frame; focus-breathing compensated so framing stays locked through the crane.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium-full, hips-up with parapet; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the can on the lower third: the move is already underway — dead-still tableau, the cloud-sea breathing slow, the can held at her side; a single cloud-wisp curls up at the rail like a bud then eases back (the lone cue).
-- [00:02–00:04] her chest rises on a slow easy inhale, the gown fold-shadow shifting a hair; her gaze rests on the cloud-sea, the pearl earring hanging still, lashes settling from a quiet blink.
-- [00:04–00:06] she lifts the watering can a touch toward the rail, a thin warm highlight sliding along the brass; the can hovers near the parapet and holds, suspended just before the pour.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% at the parapet: the crane-up-and-back is already underway, lifting to reveal the vast dawn cloud-sea spreading below her — the sky reads vast, she reads human; the near parapet-corner slides past faster than the far peaks in real parallax.
+- [00:02–00:04] the crane drifts on; the cloud-sea breathes slow to distant peaks under the pink-gold dawn, the far horizon hazier with atmospheric perspective, a single cloud-wisp curling up at the rail like a bud.
+- [00:04–00:06] the move settles wide and high; her chest rises on a slow easy inhale as she lifts the watering can toward the rail — the lone gardener poised above the immense cloud-sea, just before the pour.
 
 MICRO-EXPRESSION TRACK: near-neutral warm calm throughout; 0:01.6 the faintest brow-soften as the wisp curls; 0:03.4 a 1mm inner-brow lift of quiet intent; lips stay gently closed.
 
@@ -11119,42 +11119,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 6 of 7 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the whole sky blooms. Aira sweeps her arm slowly over the parapet and the whole cloud-sea blossoms into a vast floating meadow of cloud-flowers around the balcony — blooms drifting to the horizon under the dawn sky; she stands at its centre, warm and serene, the gardener of an entire sky.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the world-expands beat — the whole cloud-sea blossomed into a vast floating meadow of cloud-flowers around the balcony, Aira at the centre sweeping her arm, the dawn horizon beyond.
+SCENE NOTE: the whole sky blooms, the balcony empty of any person. The whole cloud-sea has blossomed into a vast floating meadow of dawn-lit cloud-flowers drifting to the horizon around the balcony, the small brass watering can resting on the parapet as the source; no figure present, an entire sky brought into bloom on its own.
 
-WARDROBE: the dawn-rose linen wrap gown, continuity-locked, lit warm-gold among the vast meadow, fully modest.
+VISUAL-LEAD NOTE: catch the world-expands beat as a world shot — NO figure; the whole cloud-sea blossomed into a vast floating meadow of cloud-flowers to the horizon, the brass watering can small on the parapet, the pink-gold dawn sky beyond.
 
-FOOTWEAR: the concept-locked cream espadrille boots fully visible, planted firm, on the pale stone.
 
-ACCESSORIES: the woven-gold vine bangle and the dewdrop-pearl earring, unchanged, catching soft garden-light.
 
-HAIR: the low side-braid, continuity-locked, color locked.
 
-MAKEUP: the warm dawn glow, continuity-locked, soft garden-glow across the eyes, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight intact, gently lit by the vast meadow; the eyes never glitch.
 
-HANDS & NAILS: the right arm sweeping slowly over the parapet, the watering can easy in the other hand; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: warm serene awe, eyes moving across the vast meadow, lips softly parted, a composed wonder.
 
-BODY POSTURE & WEIGHT: GAZE following the slow sweep; HEAD turning with it; SHOULDERS opening with the sweep; RIGHT ARM sweeping slowly over the parapet, the RIGHT HAND open, RIGHT FINGERS softly spread; LEFT ARM holding the watering can easy, the LEFT HAND relaxed, LEFT FINGERS easy; TORSO about 5 degrees open, opening with the sweep; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even; HAIR drifting soft — graceful and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the vast meadow of cloud-flowers drifting to the horizon; (2) waves of blooms opening slow across the cloud-sea; (3) a temple strand drifting; (4) petals easing on the breeze; (5) chest on a lifted breath; (6) warm specular on the bangle; (7) gown fold-shadow micro-shift; (8) a slow blink.
+
+KINETIC STILLNESS (environmental, 6 layers): (1) the vast meadow of cloud-flowers drifting to the horizon; (2) waves of blooms opening slow across the cloud-sea; (3) vapor-petals easing on the high breeze; (4) the brass watering can resting on the parapet with a last bright dew-drop; (5) warm dawn light sliding across the blooms; (6) the cloud-sea swelling slow far below.
 
 MICRO-MAGIC (unified): the whole cloud-sea blossomed into a vast floating meadow of cloud-flowers — the single phenomenon at its grandest scale.
 
-SPATIAL LOGIC: FOREGROUND — a near cluster of cloud-flowers at ≈20% depth, soft. MIDGROUND — Aira at the centre. BACKGROUND — the meadow drifting to the dawn horizon. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
+SPATIAL LOGIC: FOREGROUND — a near cluster of cloud-flowers and the parapet rail at ≈15% depth, tack sharp. MIDGROUND — the balcony parapet with the resting watering can amid the near blooms. BACKGROUND — the vast cloud-flower meadow drifting to the dawn horizon with true atmospheric perspective (nearer blooms sharp, far meadow hazier and softer). Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
 
 LIGHTING: KEY — warm dawn plus the vast meadow's soft glow. FILL — pink cloud bounce. RIM — gold edge. SEPARATION — deep horizon. BOUNCE — warm kicks all around. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
 
-FRAMING: ASPECT 9:16; wider medium, knees-up, 12% headroom, the cloud-meadow filling the field, Aira anchored centre.
-SUBJECT FRAMING & POSITION: A wider medium framing holds Aira at about 12% headroom, knees-up, the cloud-meadow filling the field, Aira anchored centre. She is standing tall at the centre, weight even and grounded, torso ≈5° open, chin lifting, spine long. The camera holds a wide distance, Aira the sharp central figure of the Cloud-Garden Balcony scene, centred in frame. She is turned a few degrees into the moment. The right arm sweeps slowly over the parapet while the watering can stays easy in the other hand, shoulders opening with the sweep and weight grounded. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the balcony parapet opening onto a vast floating meadow of cloud-flowers spreading to the dawn horizon, the watering can small on the rail.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the balcony reads full and deep, the low parapet with its resting brass watering can anchoring the lower-left and the vast cloud-flower meadow blossoming out over the cloud-sea to the pink-gold horizon. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; moderate DOF keeping her sharp while the farthest meadow softens into luminous bokeh; controlled glow; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the near blooms, the parapet and the far meadow crisp across the depth; only the farthest meadow softening into luminous bokeh; controlled glow; gentle roll-off.
 
 COMPOSITION REFERENCE: the world-expands beat — the mechanic at full scale, a sky-wide meadow (BA.3).
 
@@ -11162,57 +11155,57 @@ ATMOSPHERE: warm, serene, vast — an entire sky in bloom. Premium atmospheric d
 
 COLOR GRADE: warm dawn-gold and cloud-pink with sky-blue shadow, rich blacks, clean whites, controlled glow. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: the vast meadow reads as countless soft volumetric vapor-blooms with believable depth and layering; the can real; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the vast meadow reads as countless soft volumetric vapor-blooms with believable depth and layering; the brass watering can real and dewed; the parapet stone real; petals fine on the breeze.
 
-STORY BEAT: the sky-wide meadow — she stands amid a vast floating garden of cloud-flowers, warm and serene, an entire sky brought into bloom.
+STORY BEAT: the sky-wide meadow — a vast floating garden of cloud-flowers blossoms to the horizon from the can on the parapet, an entire sky in bloom and unpeopled.
 
-NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, over-crowding that hides her, body levitation, flat cartoon flowers.
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, over-crowding that flattens the depth, body levitation, flat cartoon flowers.
 
 ## Frame 6 of 7 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-CLIP SUMMARY: the world-expands crescendo — the whole cloud-sea blossoms into a vast meadow of cloud-flowers around her; energy hits its grandest ≈92% across a longer 6.0s beat.
+CLIP SUMMARY: the world-expands crescendo — the whole cloud-sea blossoms into a vast meadow of cloud-flowers around the balcony; energy hits its grandest ≈92% across a longer 6.0s beat.
 
-SHOT TYPE: wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre amid the meadow.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the balcony parapet and the vast cloud-flower meadow spreading to the dawn horizon.
 
 CAMERA BODY & RIG: virtual cinema body on a crane/jib with gimbal head; a smooth rise with a slow orbit; sub-pixel stabilized.
 
-CAMERA MOVEMENT (detailed): a slow crane-rise of ≈8% with a layered ≈12° orbit revealing the meadow's spread, soft-eased start and stop; a gentle ≈4° tilt-down developing to keep her centred; a foreground bloom-cluster slides past for parallax; locked roll, no shake.
+CAMERA MOVEMENT (detailed): a slow crane-rise of ≈8% with a layered ≈12° orbit revealing the meadow's spread, soft-eased start and stop; a gentle ≈4° tilt developing to keep the parapet and meadow framed; a foreground bloom-cluster slides past for parallax; locked roll, no shake.
 
-LENS & OPTICS: 35mm, T2.8; soft glow on the many blooms; gentle vignette; a single soft warm flare as the rig peaks; clean optics.
+LENS & OPTICS: 24mm wide, T4; soft glow on the many blooms; gentle vignette; a single soft warm flare as the rig peaks; clean optics.
 
-FOCUS BEHAVIOUR: deep-ish focus holding her sharp while the farthest meadow softens; one slow breathing-compensated hold on her face; no rack mid-bloom.
+FOCUS BEHAVIOUR: deep focus holding the near blooms and parapet sharp while the farthest meadow softens; one slow breathing-compensated hold; no rack mid-bloom.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre amid the meadow: the move is already underway — opens as the meadow begins to spread to the horizon so the scale lands instantly.
-- [00:02–00:04] she sweeps her arm over the parapet and the whole cloud-sea blossoms into a meadow; waves of blooms open outward to the dawn horizon.
-- [00:04–00:06] she rests her hand among the nearest blooms, her face warm and uplifted; the meadow settles into a slow living drift as she holds the grounded pose.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: the crane-orbit is already underway as the meadow begins to spread to the horizon so the scale lands instantly, a near bloom-cluster sliding past faster than the far meadow in real parallax.
+- [00:02–00:04] the whole cloud-sea blossoms into a meadow around the balcony; waves of blooms open outward to the dawn horizon, the watering can resting on the parapet.
+- [00:04–00:06] the meadow settles into a slow living drift; a gentle settle, the dawn warming across the sky-wide garden.
 
-MICRO-EXPRESSION TRACK: 0:01.2 lips part on a soft awed breath; 0:02.8 a glow of serene wonder across the eyes; 0:04.0 the faintest content calm; never theatrical.
+ENVIRONMENT-MOTION TRACK: 0:01.2 the meadow spreading to full; 0:02.8 waves of blooms opening to the horizon; 0:04.0 the cloud-sea settling into a slow drift; no person, no face.
 
-PHYSICS: each bloom opens with believable volumetric vapor-motion and conserved soft mass across the meadow, drifting on the high breeze; the blooms exert no force on her; her feet stay planted — no levitation; the cloud-sea swells slow.
+PHYSICS: each bloom opens with believable volumetric vapor-motion and conserved soft mass across the meadow, drifting on the high breeze; the blooms exert no force on the parapet or can; the balcony and can stay weighted — no levitation; the cloud-sea swells slow.
 
 MICRO-MAGIC (one sustained beat): the cloud-sea blossomed into a vast meadow — one phenomenon at maximum scale, not stacked tricks.
 
-CONTINUITY: boots, bangle, earring, wardrobe, side-braid, makeup, dual catchlight unchanged.
+CONTINUITY: the balcony, parapet, watering can and cloud-flower meadow identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
 LIGHTING & GRADE (motion): warm dawn key + the meadow's soft self-glow as a gentle wrap, pink cloud fill, gold rim; overall level rises ≈0.6 stop to the peak (0:03.4) then eases; deep blacks held, clean whites, glow controlled — never blown.
 
 ENVIRONMENT MOTION: waves of blooms opening to the horizon, petals easing, the cloud-sea swelling, the dawn warming.
 
-AUDIO (layered, diegetic-led): BED — soft high-altitude breeze, swelling subtly. SPOT FX — a soft layered petal-unfurl wave rising to a gentle peak at 0:03.4, faint birdsong across. BREATH — a soft awed breath at 0:02.8. MASTER — the harp-and-strings bed at its gentle peak (present, never full). NO VO (non-talkable).
+AUDIO (layered, diegetic-led): BED — soft high-altitude breeze, swelling subtly. SPOT FX — a soft layered petal-unfurl wave rising to a gentle peak at 0:03.4, faint birdsong across. MASTER — the harp-and-strings bed at its gentle peak (present, never full). NO VO (non-talkable, no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips parted in soft awe.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the brightest peak so the meadow-light never washes or warps the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 7 of 7 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
