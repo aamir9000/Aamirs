@@ -11382,14 +11382,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): a single falling raindrop has caught the prism's edge and thrown a tiny spectrum across her hand before vanishing — deniable, the first whisper that the rain will become rainbows.
 
-SPATIAL LOGIC: FOREGROUND — the prism and the wet floor at ≈20% depth, tack sharp with a crisp reflection. MIDGROUND — Aira on the platform. BACKGROUND — the rain-curtain, the tiled walls, the glowing tunnel-mouth, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
+SPATIAL LOGIC: FOREGROUND — a near stretch of the mirror-wet platform floor with a crisp reflection at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the platform with Aira small on it, the crystal prism a small glint held low. BACKGROUND — the long tiled subway platform receding to the glowing tunnel-mouth, the rain-curtain falling, receding with true atmospheric perspective (nearer tiles sharp, far tunnel hazier and glowing). Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
 LIGHTING: KEY — the cool blue-white platform lights as a soft wrapping key from above. FILL — the wet floor bouncing cool light up under her chin. RIM — a faint spectrum edge skimming her crown and one shoulder. PRACTICAL — the platform lights, the skylight, the tunnel-glow. SEPARATION — the platform depth pulled dark so she reads ≈1.5 stops up. BOUNCE — a cool kick off the wet floor. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
-FRAMING: ASPECT 9:16; medium-full, hips-up with the wet floor showing, 12% headroom, the prism entering the lower third, clean cool negative space around her to receive the light-ribbons that arrive later.
-SUBJECT FRAMING & POSITION: A medium-full framing holds Aira at about 12% headroom, hips-up with the wet floor showing, the prism entering the lower third, clean cool negative space around her to receive the light-ribbons that arrive later. She is standing three-quarter to camera on the wet platform, weight settled even with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, spine long and grounded, alive and breathing. The camera holds a mid-wide distance, Aira the sharp central figure of the Prism-Rain Subway of Light scene, with the scene massing around her. She faces front to the lens. Three-quarter to camera, the right hand holds the crystal prism low and the left rests soft at her trench pocket, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame on the wet platform while the long tiled subway and glowing tunnel-mouth stretch far around her; the station dwarfs the human, deep cool negative space holding the rain and tunnel.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing on the mirror-wet platform beneath the rain-skylight, the long tiled subway stretching away to the glowing tunnel-mouth and the rain falling in a thin curtain so she reads as a lone figure dwarfed by the station; she is the scale-anchor that makes the platform read as truly vast. She stands three-quarter to camera on the wet floor, weight settled even with a soft 2° counter-tilt, front shoulder dropped a touch, chin level, spine long and grounded, the crystal prism a small glint held low. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Prism-Rain Subway of Light scene while the station is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.5; focus split between her near eye and the prism so both read crisp; the rain-curtain melting to soft cool streaks; platform lights as gentle points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the wet platform and the far tunnel-mouth all crisp for the establishing scale; only the nearest rain softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: cool cinematic establishing hero — the rain-conductor underground, one impossible cue building (BA.3 cause building to effect).
 
@@ -11410,20 +11410,20 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 CLIP SUMMARY: the wet hush — she stands under the rain-skylight, a single drop splitting on the prism; energy held at ≈15%, building toward Frame 2's first ribbon.
 
-SHOT TYPE: medium-full, hips-up with wet floor; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the prism on the lower third.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical 9:16 frame while the long wet subway platform dominates.
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground reflection on the wet floor slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a slow weighty crane-up-and-back across the full 6.0s, lifting to reveal the long tiled platform stretching to the tunnel-mouth around the tiny figure; a foreground floor-reflection slides past for parallax, nearer than the far tunnel; zero roll, zero shake — the reveal reads as a held breath.
 
-LENS & OPTICS: 35mm full-frame equivalent, T2.5; a faint cool flare on the brightest platform light only; gentle natural vignette; clean coatings, no chromatic fringing (except the deliberate prism-spectrum).
+LENS & OPTICS: 24mm wide full-frame equivalent, T4; a faint cool flare on the brightest platform light only; gentle natural vignette; clean coatings, no chromatic fringing (except the deliberate prism-spectrum).
 
-FOCUS BEHAVIOUR: focus split-held on her near eye and the prism; no rack this frame; focus-breathing compensated so framing stays locked through the push-in.
+FOCUS BEHAVIOUR: deep focus holding Aira, the wet platform and the far tunnel-mouth; no rack this frame; focus-breathing compensated so framing stays locked through the crane.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium-full, hips-up with wet floor; subject fills ≈50% of the vertical 9:16 frame; eyeline on the upper third, the prism on the lower third: the move is already underway — dead-still tableau, the rain-curtain falling steady, the prism held low; a single raindrop catches the prism and throws a tiny spectrum across her hand then vanishes (the lone cue).
-- [00:02–00:04] her chest rises on a slow shallow inhale, the trench fold-shadow shifting a hair; her gaze lifts toward the rain, the prism-shard earring hanging still, lashes settling from a quiet blink.
-- [00:04–00:06] she lifts the prism a touch toward the falling rain, a thin cool highlight sliding along it; the prism hovers just below the rain-curtain and holds, suspended just before she raises it.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% on the wet platform: the crane-up-and-back is already underway, lifting to reveal the long tiled subway stretching to the glowing tunnel-mouth around her — the station reads vast, she reads human; the near floor-reflection slides past faster than the far tunnel in real parallax.
+- [00:02–00:04] the crane drifts on down the platform; the rain-curtain falls steady, the tiled walls and tunnel-mouth glowing far off, the far platform hazier with atmospheric perspective.
+- [00:04–00:06] the move settles wide and high; her chest rises on a slow shallow inhale as she lifts the prism toward the falling rain — the lone figure poised on the vast platform, just before she raises it.
 
 MICRO-EXPRESSION TRACK: near-neutral cool calm throughout; 0:01.6 the faintest brow-soften as the spectrum flickers; 0:03.4 a 1mm inner-brow lift of quiet hope; lips stay gently closed.
 
@@ -11452,42 +11452,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 2 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked START of the prism transform — face fully recognizable, the prism raised into the rain-curtain and the first ribbon of prismatic rainbow light splitting out and arcing away. Lock this START so Frame 3 interpolates cleanly to the full light-ribbon display.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: she raises the prism, and the rain splits. Aira lifts the crystal prism into the falling rain-curtain and the first ribbon of prismatic rainbow light splits out, arcing away across the wet platform. Quiet wonder warms her composed focus.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the first-split beat — the prism raised into the rain, the first ribbon of rainbow light arcing out across the platform, cool light and spectrum on her face.
+SCENE NOTE: the rain splits, the platform empty of any person. The clear crystal prism rests on the platform rail beneath the rain-skylight, and where the falling rain-curtain strikes it the first ribbon of prismatic rainbow light splits out, arcing away across the mirror-wet platform; no figure present, the rain becoming light at the prism on its own.
 
-WARDROBE: the deep-teal trench, continuity-locked, the front catching the first ribbon's spectrum, fully modest, pristine.
+VISUAL-LEAD NOTE: catch the first-split beat as a world shot — NO figure; the prism catching the falling rain-curtain, the first ribbon of rainbow light arcing out across the wet platform, cool blue-white light and spectrum on the tiled walls.
 
-FOOTWEAR: the concept-locked iridescent chelsea boots, planted and unchanged, their reflection painted with the first rainbow.
 
-ACCESSORIES: the faceted crystal-bar bracelet (throwing bright spectra as she raises the prism) and the prism-shard earring, unchanged, the earring beginning to swing.
 
-HAIR: the high ponytail, continuity-locked, a temple strand drifting, deep sheen, color locked.
 
-MAKEUP: the cool dewy glow, continuity-locked, the iridescent highlight catching the spectrum, soft rose-nude lip, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — platform-white low, prism-spectrum high — brightened by the first ribbon; the eyes never glitch.
 
-HANDS & NAILS: the right hand raising the prism into the rain with controlled precision, the left hand lifting a touch from the pocket; short almond neutral-gloss nails, neat cuticles, no tension.
 
-FACIAL MICRO-DYNAMICS: cool wonder warmed by focus, brows level with a faint 1mm lift, lips just parted, eyes following the first arcing ribbon, a held composed delight.
 
-BODY POSTURE & WEIGHT: GAZE up to the prism in the rain; HEAD chin lifting; SHOULDERS lifting with the raise; RIGHT ARM raising the prism into the rain with controlled precision, the RIGHT HAND raised, RIGHT FINGERS easy; LEFT ARM lifting a touch from the pocket, the LEFT HAND opening, LEFT FINGERS soft; TORSO rotated about 4 degrees, lifting; WAIST & HIPS even; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even; HAIR drifting — awed and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the first ribbon of rainbow light arcing out across the platform; (2) the rain-curtain splitting brighter where the prism meets it; (3) a temple strand drifting; (4) rain falling steady; (5) chest easing on a slow breath; (6) cool specular travelling along the prism; (7) the trench breathing with a fold-shadow micro-shift; (8) a slow eyelash settle as the ribbon arcs.
 
-MICRO-MAGIC (START keyframe): the raised prism splitting the rain into the first ribbon of prismatic rainbow light arcing across the platform — the rain clearly becoming light, the transform begun.
+KINETIC STILLNESS (environmental, 6 layers): (1) the first ribbon of rainbow light arcing out across the platform; (2) the rain-curtain splitting brighter where it meets the prism; (3) rain falling steady through the skylight; (4) the crystal prism glinting where it rests on the rail; (5) reflections shivering across the mirror-wet floor; (6) the tunnel-glow steady down the platform.
 
-SPATIAL LOGIC: FOREGROUND — the prism and the first ribbon at ≈18% depth, tack sharp. MIDGROUND — her face. BACKGROUND — the rain-curtain and tiled walls in soft defocus, tunnel-glow, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
+MICRO-MAGIC (START keyframe): the prism splitting the falling rain into the first ribbon of prismatic rainbow light arcing across the platform — the rain clearly becoming light, the transform begun of its own accord.
+
+SPATIAL LOGIC: FOREGROUND — the prism on the rail and the first ribbon at ≈15% depth, tack sharp. MIDGROUND — the mirror-wet platform with the arcing ribbon. BACKGROUND — the rain-curtain and tiled subway walls receding down the platform into tunnel-glow with true atmospheric depth. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
 LIGHTING: KEY — cool platform key plus the first ribbon's spectrum glow. FILL — cool wet-floor bounce. RIM — spectrum edge on crown. PRACTICAL — platform lights and the split light. SEPARATION — platform dark, ≈1.5 stops up. BOUNCE — cool kick on the bracelet. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the first ribbon arcing into frame, cool negative space around her.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, chest-up, the first ribbon arcing into frame, cool negative space around her. She is weight settling toward the raised prism, torso rotated ≈3°, chin lifting, spine long, feet planted on the wet floor. The camera holds a mid distance, Aira the sharp central figure of the Prism-Rain Subway of Light scene, with the scene massing around her. She is turned a few degrees into the moment. The right hand raises the prism into the rain with controlled precision while the left lifts a touch from the pocket, chin lifting and weight even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide down the mirror-wet subway platform, the prism on the rail splitting a rainbow ribbon that arcs across the floor, the rain-curtain and tiled walls beyond.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the subway platform reads full and deep, the crystal prism resting on the rail beneath the rain-skylight, the first ribbon of rainbow light arcing across the mirror-wet floor, the tiled walls and rain-curtain receding down the platform into tunnel-glow. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.2; focus split between her near eye and the prism so both read crisp; the platform to creamy cool; soft glow on the arcing ribbon; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the prism, the arcing ribbon and the far platform crisp down the tunnel; only the farthest rain softening; soft glow on the ribbon; gentle roll-off.
 
 COMPOSITION REFERENCE: the first-split beat — rain becomes rainbow (AT.5 transform logic).
 
@@ -11495,57 +11488,57 @@ ATMOSPHERE: cool, composed, charged — the instant rain becomes light. Premium 
 
 COLOR GRADE: cool blue-white platform shadow with vivid clean prism-spectrum, rich blacks, clean whites, full mid-tone, no murk. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: the rainbow ribbon reads as a real refracted band of clean spectrum with soft volumetric glow, not a flat stripe; the prism faceted and real; skin micro-texture with peach-fuzz at the jaw catching the spectrum; rain falling fine.
+TEXTURE & MICRO-DETAIL: the rainbow ribbon reads as a real refracted band of clean spectrum with soft volumetric glow, not a flat stripe; the prism faceted and real on the rail; the wet tiled floor mirror-slick; rain falling fine.
 
-STORY BEAT: the split — her raised prism turns the rain into the first ribbon of rainbow, wonder warming her focus.
+STORY BEAT: the split — the prism turns the falling rain into the first ribbon of rainbow across the platform, the wet subway glowing and unpeopled.
 
 NEGATIVE: mirrored composition (subject flip), flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, malformed teeth, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue-frozen energy, glitching or colour-shifting eyes, crushed muddy blacks, garish oversaturation, flat dull light, flat stripe rainbow.
 
 ## Frame 2 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-CLIP SUMMARY: the first split — she raises the prism and the first rainbow ribbon arcs out; energy lifts from ≈15% to ≈50%, the hook landing in the first half-second.
+CLIP SUMMARY: the first split — the prism catches the rain and the first rainbow ribbon arcs out; energy lifts from ≈15% to ≈50%, the hook landing in the first half-second.
 
-SHOT TYPE: medium, chest-up; subject and first ribbon fill ≈56% of the 9:16 frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the mirror-wet subway platform, the prism on the rail and the first rainbow ribbon arcing across the floor.
 
 CAMERA BODY & RIG: virtual cinema body on a 3-axis gimbal, slow controlled push with a faint lateral drift; sub-pixel stabilized, no jitter.
 
-CAMERA MOVEMENT (detailed): a slow ≈12% push-in with a ≈5° lateral drift to camera-right over the full clip, constant speed with soft ease at both ends; the first ribbon parallaxes across behind her; level horizon, no roll, no shake.
+CAMERA MOVEMENT (detailed): a slow ≈12% push-in with a ≈5° lateral drift to camera-right over the full clip, constant speed with soft ease at both ends; the first ribbon parallaxes across the platform; level horizon, no roll, no shake.
 
-LENS & OPTICS: 50mm full-frame equivalent, T2.2; cool spectrum-glints allowed to bloom gently; faint vignette; clean optics with deliberate prism dispersion only.
+LENS & OPTICS: 24mm wide full-frame equivalent, T4; cool spectrum-glints allowed to bloom gently; faint vignette; clean optics with deliberate prism dispersion only.
 
-FOCUS BEHAVIOUR: a slow micro-rack from her near eye (0:00.0–0:01.0) to the prism and first ribbon (0:01.0–0:02.2), then settling so both read crisp by 0:03.0; smooth, no hunting.
+FOCUS BEHAVIOUR: a slow micro-rack from the near platform (0:00.0–0:01.0) to the prism and first ribbon (0:01.0–0:02.2), then settling so both read crisp by 0:03.0; smooth, no hunting.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up; subject and first ribbon fill ≈56% of the 9:16 frame: the move is already underway — opens as she raises the prism into the rain and the first ribbon splits so the hook lands instantly; the ribbon of rainbow light arcs out across the wet platform, reflections painting the floor.
-- [00:02–00:04] the rain-curtain brightens where the prism meets it, the earring swinging late; she steadies the prism, watching the ribbon arc, spectrum on her face.
-- [00:04–00:06] her eyes follow the ribbon's curve, lips parting on a soft breath; the first ribbon holds its arc, primed for the full display.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: the move is already underway — opens as the prism on the rail catches the rain and the first ribbon splits so the hook lands instantly; the ribbon of rainbow light arcs out across the wet platform, reflections painting the floor.
+- [00:02–00:04] the rain-curtain brightens where it meets the prism; the ribbon arcs on across the empty platform, spectrum painting the tiled walls.
+- [00:04–00:06] the first ribbon holds its arc down the platform; a gentle settle, primed for the full display.
 
-MICRO-EXPRESSION TRACK: 0:00.6 a flicker of cool focus softening to wonder; 0:01.8 brows lift ≈1mm; 0:03.4 the faintest parted-lip awe; eyes cool and alive.
+ENVIRONMENT-MOTION TRACK: 0:00.6 the prism catching the rain; 0:01.8 the ribbon arcing to full; 0:03.4 spectrum steadying across the wet floor; no person, no face.
 
-PHYSICS: the prism refracts the falling rain into a believable arcing band of dispersed spectrum that bends with real optical logic; the rain falls and splashes true; reflections paint the wet floor correctly; her body, prism, and platform stay weighted; only rain and light move freely.
+PHYSICS: the prism refracts the falling rain into a believable arcing band of dispersed spectrum that bends with real optical logic; the rain falls and splashes true; reflections paint the wet floor correctly; the prism and platform stay weighted; only rain and light move freely.
 
 MICRO-MAGIC (one beat): the rain splitting into the first rainbow ribbon — a single coherent transform.
 
-CONTINUITY: boots, bracelet, earring, wardrobe, ponytail, makeup, dual catchlight identical to Frame 1.
+CONTINUITY: the subway platform, rain-skylight, prism and tiled walls identical to Frame 1; the world holds continuity while the subject is simply absent from this shot.
 
 LIGHTING & GRADE (motion): cool platform key + the first ribbon as a live spectrum source; cool wet-floor fill; spectrum rim; the under-jaw cool kick strengthens 0:00.5–0:02.6 then holds; cool platform-shadow grade, clean whites.
 
 ENVIRONMENT MOTION: the first ribbon arcing, the rain-curtain brightening, reflections painting the floor, the tunnel-glow steady.
 
-AUDIO (layered, diegetic-led): BED — soft rain-patter and tunnel hum. SPOT FX — a clear crystalline prism-chime as the prism meets the rain at 0:00.6, a soft rising shimmer as the ribbon arcs from 0:01.6. BREATH — a soft absorbed inhale at 0:03.4. MASTER — the piano-and-pad bed rising a step (present, never full). NO VO this frame.
+AUDIO (layered, diegetic-led): BED — soft rain-patter and tunnel hum. SPOT FX — a clear crystalline prism-chime as the prism meets the rain at 0:00.6, a soft rising shimmer as the ribbon arcs from 0:01.6. MASTER — the piano-and-pad bed rising a step (present, never full). NO VO this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips parted in wonder, no words.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked platform-white / prism-spectrum catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the spectrum glow never melts the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 3 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
