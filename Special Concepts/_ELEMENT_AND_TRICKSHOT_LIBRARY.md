@@ -180,3 +180,73 @@ angle so Veo carries the travel) · ELEMENT@frame (once) · TRICK(S)@frame(s) ·
 > **Exceptions noted:** SC-16 (wardrobe transform), SC-17 (seasonal re-skin of one path), SC-18 (worlds beyond the
 > arch), SC-19 (product builds the set) keep their transform/world-swap premise — for these "one place travelled
 > through" means the same set/path evolving, and the element/trick/hero/negative-space rules still apply.
+
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+## ⭐ SECTION L — CINEMATOGRAPHY STANDARD (lighting · composition · scale · depth)
+*Canonical for **all** concepts — the ingredient-mode SC volumes AND the SS Sheet Set. Applies the real
+craft of cinematography to make scale / depth / light read strikingly real, WITHOUT breaking the reference model.*
+
+**Why it lives in the ENVIRONMENT still, not the sheets/refs:** `@subject` and `@object` (sheet-set: SUBJECT SHEET /
+OBJECT-CREATURE SHEET) MUST stay **clean, neutral, evenly-lit references on a plain blank background** — that is what
+lets Veo re-light and composite her into any scene without breaking identity. So we do **NOT** bake scene lighting,
+scale or dramatic shadow into them. **ALL cinematography lives in the ENVIRONMENT still** (the base plate Veo animates
+into) plus the **VIDEO PROMPT** (everything that moves); mood/palette may live in a `@look` / look-swatch.
+
+**Refs stay reference-grade only:** even soft wrap-around light, full shadow detail, true neutral colour, plain
+seamless background, consistent identity/material across the ref; object refs also state accurate **physical material
+properties** (iridescence, subsurface scatter, wet specular, metal/skin finish) + a **scale-reference cue** — these
+help Veo light it later without locking a scene in. No mood, no atmosphere, no scene, no text.
+
+### L1 · ENVIRONMENT-STILL BASE-PLATE FORMULA (write every environment still in this order)
+1. **LENS & ANGLE first** — name the shot: *ultra-wide 18–24mm low/worm's-eye* (stretches depth, exaggerates scale) ·
+   *wide 35mm establishing* · *normal 50mm* · *short-tele 85–135mm* (compresses planes, intimate); + height
+   (worm's-eye / low / eye-level / high / crane / overhead) and tilt. (Spatial terms early — the model prioritises
+   layout before texture.)
+2. **COMPOSITION + RESERVED SUBJECT SPACE** — rule-of-thirds / leading lines / framing; and explicitly **reserve the
+   empty compositional space, ground-contact spot, eyeline and horizon where the subject/object will be composited**,
+   plus the **dominant light DIRECTION relative to that space** so the composited figure is lit consistently.
+3. **FOREGROUND plane** — a named near element (rock, flora, rail, spray, petals) for entry + parallax + overlap.
+4. **MIDGROUND plane** — where the action/subject sits; the readable middle.
+5. **BACKGROUND + ATMOSPHERE** — distant forms rendered **hazier, lower-contrast, cooler** (atmospheric/aerial
+   perspective = depth = size); god-rays / mist / dust / spray / depth-haze gradient; overlapping planes.
+6. **LIGHT** — named source + **direction + quality (hard/soft) + colour temperature + key-to-fill contrast** + time
+   of day; use **rim/backlight for figure-to-ground separation**, warm-near/cool-far, sun-occlusion + long cast
+   shadows for scale.
+7. **PALETTE / GRADE** — the vivid-but-skin-safe colour intent (per the concept; SC volumes keep their controlled
+   vibrancy, the SS set keeps its vivid grade).
+8. **TECHNICALS** — "one single cohesive photographed scene, not a panel/grid/collage; scene only, no subject; no
+   text; realistic textures + natural imperfections (real haze, dust, wear), not over-clean CGI."
+
+### L2 · VIDEO-PROMPT CINEMATOGRAPHY (what no still can hold — direct it here; must AGREE with the plate)
+Because the subject is composited and the shot MOVES, write these into the video prompt (same lens, same light
+direction, same scale logic as the plate): **camera** (echo the plate's lens + the ONE move + speed + height/angle) ·
+**subject-in-scene scale & placement** (where she sits, size vs. world/object, ground-contact + eyeline on the
+reserved mark, how forms tower over/dwarf her) · **light on the moving subject** (key/rim direction matching the
+plate) · **depth in motion** (rack/pull focus, DoF, parallax between planes as the camera travels) · **atmosphere
+interaction** (downdraft/spray/petal-lift/dust, hair & fabric in wind) · **POV frames** (built wholly here — eyeline,
+her hands in the near foreground, world rushing to camera, identity via hands/reflection). ADD this on top of the
+existing per-limb articulation + identity-safe expression + physics + audio — never replace them.
+
+### L3 · COMPOSITIONAL VARIETY (placement · angle · crop — NEVER centred-and-full every frame)
+Across a reel, rotate all three so **no two frames repeat placement + facing + crop** (in both the plate's reserved
+mark and the video prompt's framing): **PLACEMENT** — left-third / right-third / edge / centre, balanced against the
+world's negative space, plus at least one deliberately **subject-less / world-only frame** per reel where the beat
+allows. **FACING** — front / 45° three-quarter (L or R) / side profile / over-the-shoulder / back (back = ref-backed,
+use freely). **CROP** — vary ECU / to-chest / half / to-waist / cowboy / full / tiny-in-wide, and **on near shots use
+the tighter crops deliberately — never default to full-body**; ECU/CU stay the minority (intimacy/hero/transform),
+wides honour the world. The plate reserves empty space to suit the intended crop.
+
+### L4 · SCALE ENGINEERING (for any colossal / miniature / vista beat)
+Low or worm's-eye angle + ultra-wide lens; a built-in **size-reference** (known object/flora/silhouette scaled
+tiny); forms that **exceed the frame**; **sun-occlusion into a corona** + a scene-wide cast shadow where the giant
+stands; **strong atmospheric depth-haze** on the far plane; deep FG→MG→BG separation for parallax; the reserved
+subject-mark placed so surrounding forms **tower over** (or, for miniatures, **dwarf**) the composited figure. The SS
+sheet set's colossal/inverted concepts lean hard on this; the SC volumes apply it to their vista/aerial/summit beats.
+
+*Grounded in standard cinematography/photography practice — three-point/key-fill lighting (StudioBinder), low-angle &
+forced-perspective scale (PremiumBeat / NoFilmSchool), foreground-midground-background layering (Icon Photography
+School), atmospheric/aerial perspective for depth (Nature Photographers Network), and Nano Banana Pro scene-first
+prompting (Google's subject-composition-action-location-style anatomy). Content rephrased for licensing compliance.*
