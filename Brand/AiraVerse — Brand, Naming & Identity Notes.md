@@ -6,20 +6,21 @@
 
 ## ⏯️ RESUME HERE (next session, start with this)
 
-**Where we are:** Brand name is decided — **AiraVerse** (written "Aira Verse"). We were finalizing the **social handle** and about to confirm cross-platform availability.
+**Where we are:** Identity is now locked. Brand / display (ID) name = **"Aira's Verse"** (an evolution of "AiraVerse" — the possessive reads warmer and still means *"the verse that belongs to Aira"*). Social handle = **`hey.aira`**. The earlier `aira.verse` target was dropped (taken on Instagram), and a proposed pivot to **Aira Nova** was **rejected** (too close to an existing "Aria Nova" AI persona — see §5).
 
-**Immediate next step:** Confirm `aira.verse` (or `airaverse`) availability on **TikTok** and **YouTube** — Instagram and the domain are roughly scoped, TikTok is the missing check. Then secure the same handle everywhere and set display name + bio.
+**Immediate next step:** Confirm `hey.aira` is claimable on **Instagram + TikTok + YouTube** (in-app check — web search showed no exact `@hey.aira`, but many `aira.*` handles are taken, so verify directly), then secure it everywhere and set display name = "Aira's Verse" + bio.
 
 **Still open / to do:**
-1. ✅ Brand name chosen: **AiraVerse**.
-2. ⬜ Confirm TikTok handle availability (`aira.verse` preferred).
-3. ⬜ Secure `@aira.verse` on Instagram + TikTok + YouTube simultaneously (+ `airaverse.com` domain if wanted).
-4. ⬜ Set **display name = "AiraVerse"** on all platforms (handle can carry the dot; display name stays clean).
-5. ⬜ Write bio with pronunciation + AI-radiance hint (draft below).
-6. ⬜ Change brand email (set up a dedicated brand inbox first, then attach all accounts).
-7. ⬜ Change Facebook name + email.
-8. ⬜ Design the logo bug (radiant spark / soft sun-glow) — also doubles as the watermark-cover bug.
-9. ⬜ (Later, once growing) consider a trademark in the beauty/media category.
+1. ✅ Brand / ID name chosen: **"Aira's Verse"**.
+2. ✅ Handle chosen: **`hey.aira`** (cute, clean single dot, on-voice; "hey aira" also carries into the bio).
+3. ⬜ Confirm `hey.aira` availability in-app on Instagram + TikTok + YouTube.
+4. ⬜ Secure `@hey.aira` on Instagram + TikTok + YouTube simultaneously (+ domain if wanted, e.g. `airasverse.com` / `heyaira.com`).
+5. ⬜ Set **display name = "Aira's Verse"** on all platforms (the "hey" lives only in the @handle; display name stays the brand).
+6. ⬜ Write bio with pronunciation + AI-radiance hint + "hey aira" warmth (draft below).
+7. ⬜ Change brand email (set up a dedicated brand inbox first, then attach all accounts).
+8. ⬜ Change Facebook name + email.
+9. ⬜ Design the logo bug (radiant spark / soft sun-glow) — also doubles as the watermark-cover bug.
+10. ⬜ (Later, once growing) consider a trademark in the beauty/media category.
 
 ---
 
@@ -36,14 +37,15 @@
 
 ## 2. Brand Name — Final Decision
 
-- **FINAL: AiraVerse** (styled "Aira Verse").
-- **Meaning/logic:** "the universe of Aira" — literally what the reels are: a whole world she moves through (fantasy worlds, transformations, celestial/elemental realms, travel, beauty). The name *describes the project*.
+- **FINAL (display / ID name): "Aira's Verse"** — an evolution of the earlier "AiraVerse." The possessive **'s** reads warmer, more personal, and still means *"the verse that belongs to Aira."*
+- **Handle: `hey.aira`** (see §6). The "hey" lives only in the @handle and the voice/bio; the brand still *reads* as "Aira's Verse."
+- **Meaning/logic:** "the verse/universe of Aira" — literally what the reels are: a whole world she moves through (fantasy worlds, transformations, celestial/elemental realms, travel, beauty). The name *describes the project*.
 - **Why it won the user's criteria:**
   1. Her name **"Aira" is written in full** and instantly readable (a hard requirement — see §3).
-  2. **Catchy and easy to say:** "eye-ra-verse," one smooth breath.
-  3. **Distinct + ownable** → protects against the "someone else takes the name" fear (see §4).
+  2. **Catchy and easy to say:** "eye-ra's verse," one smooth breath.
+  3. **Distinct + ownable** → protects against the "someone else takes the name" fear (see §4). "Verse" is far less contested than "Nova" (see §5).
   4. **Descriptive** of the content itself.
-- **Close runner-up:** **Aira Nova** (nova = bursting star; celestial/glam; "eye-ra no-va"). Kept on record in case of a future pivot.
+- **Rejected pivot:** **Aira Nova** — dropped because it collides with an existing **"Aria Nova"** AI-persona brand (one transposed letter, same niche). See §5.
 
 ---
 
@@ -73,25 +75,29 @@
 | **minilux** (the old ID, kept late 2025, researched for days) | Dropped | "**lux**" is on-brand (luxury + light), but "**mini**" undercuts the grand/cinematic *scale* the content sells; also collides with **Leica "Minilux"** camera. |
 | **Airalux / Auralux / any "lux" name** | Dropped | User wants a **distinct** name, not another "lux." Also **Auralux breaks the "Eye-Ra" sound** (reads "AURA-lux"). "Lux" direction retired entirely. |
 | **Oneira / Aethera / Reverie / coined blends** | Dropped | Too distinctive at the cost of **hiding "Aira"** — her full name isn't readable. Fails criterion #1. |
-| **Studio Aira / Aira House / Aira Atelier** | Backup only | Fine and safe, but less catchy than AiraVerse. |
+| **Studio Aira / Aira House / Aira Atelier** | Backup only | Fine and safe, but less catchy than Aira's Verse. |
+| **Aira Nova** (was the runner-up) | Dropped | Collides with an active **"Aria Nova"** AI-persona brand in the *same niche* (`arianova.ai`, `aria.nova`, Fanvue pages) — only a single transposed letter apart (ai**ra** vs a**ri**a), indistinguishable when spoken/skimmed. Also "Nova" is broadly crowded (AirNova DJ, AirNova Inc., ÆRA NOVA luxury). Fails criterion #3 (distinct/ownable) and triggers the exact §4 clash fear. If the *sound* is ever wanted again, use a collision-free light-word instead (e.g. **Aira Sol** — sol = sun, ties to the "Ra" DNA). |
+| **`aira_verse` (underscore handle)** | Dropped | Underscore looks dated / "leftover handle," not premium enough for a cute-luxe light-being. Dot or no-punctuation preferred. |
+| **`aira.hq` (handle)** | Dropped | Short & clean, but "HQ" reads corporate/team-base — tonally off for a cute radiant AI persona, and loses the "-verse" world meaning. |
+| **`airaverse.studio` (handle)** | Dropped | Good and on-brand, but the `.studio` suffix makes it too long. |
 
 ---
 
 ## 6. Handle & Platform Plan
 
-- **Handle target:** `@aira.verse` (with the dot).
-  - Plain `airaverse` is **occupied but dead** (empty IG profiles; a YouTube channel with **21 subs, no content, no DP, created 2024**; dead FB — no serious branding anywhere). Reclaiming inactive handles is **not reliable**, so don't stall for it — use `aira.verse`.
-- **Display name = "AiraVerse"** on every platform. The dot lives **only in the @handle**; the brand still *reads* clean as "AiraVerse."
-- **Consistency rule:** lock the **same handle across Instagram + TikTok + YouTube** (even if that means `aira.verse` over `airaverse`). Consistency beats a "perfect" handle on one platform. Domain (`airaverse.com`/`.co`/`.studio`) is a bonus, not a dealbreaker.
-- **Handle priority order to check:** `airaverse` → `aira.verse` → `theairaverse` → `airaverse.studio` / `airaverse.co`.
+- **Handle target: `@hey.aira`** (single clean dot — cute, premium, on-voice). The `aira.verse` target was **dropped: it's taken on Instagram**, which broke the "same handle everywhere" rule.
+- **Display name = "Aira's Verse"** on every platform. The "hey" lives **only in the @handle** (and the voice/bio); the brand still *reads* as "Aira's Verse."
+- **Consistency rule:** lock the **same handle across Instagram + TikTok + YouTube**. Consistency beats a "perfect" handle on one platform. Domain (`airasverse.com` / `heyaira.com` / `.co`) is a bonus, not a dealbreaker.
+- **Handle priority order to check:** `hey.aira` → `heyaira` → `hey.aira.` → `iam.aira`.
 - **Caution:** don't release the current username until the new one is confirmed claimable.
 
 ### Availability findings (as of this session)
-- **Instagram:** some "aira verse" profiles exist but **dead / no serious branding**; `aira.verse` looks likely available.
-- **YouTube:** `airaverse` = dead channel (21 subs, no content/DP, 2024) → use `@aira.verse`.
-- **Facebook:** dead, no serious branding association.
-- **TikTok:** ⬜ **NOT YET CHECKED** — do this next.
-- **Username changes:** user's accounts are past any rate-limit window ("several months"), so switching is free/clean. (Note IG display-Name limit: twice per 14 days — set it right.)
+- **Instagram:** `aira.verse` is **taken** (the reason we moved off it). `hey.aira` — no exact match surfaced in web search, but many `aira.*` handles are taken (`aira.cc`, `aira.cxdr`, etc.), so **confirm `hey.aira` in-app**.
+- **TikTok:** no exact `@hey.aira` found in search (closest: `@heyitsau_ra`, unrelated). **Confirm in-app.**
+- **YouTube:** confirm `@hey.aira` in-app.
+- **Facebook:** dead, no serious branding association (still needs name/email update).
+- **Web-search caveat:** live handle availability can't be fully trusted from outside the apps — the searches give a shortlist, the final claim happens in-app.
+- **Username changes:** user's accounts are past any rate-limit window ("several months"), so switching is free/clean. (Note IG display-name limit: twice per 14 days — set it right.)
 
 ---
 
@@ -100,7 +106,8 @@
 - **Signature = the glow.** "Ra" = light → make a **warm radiant glow** Aira's visual signature: a soft halo / light-bloom around her, a signature luminous accent color (**warm gold** or **soft rose-gold aura**). Recognizable across every reel.
 - **Logo bug:** a small **radiant spark / soft sun-glow** motif. Doubles as the **corner bug that covers the (static) Veo watermark** (see §8). Must read at tiny size.
 - **Tone of voice:** **cute + premium** — warm, approachable, never cold-tech, even though she's AI.
-- **Bio draft:** `Aira /eye-ra/ · a little AI light ✨` (cues pronunciation + the AI-radiance meaning + the cute).
+- **Bio draft:** `hey, I'm Aira /eye-ra/ · a little AI light ✨` (leads with the "hey aira" warmth from the handle, cues pronunciation + the AI-radiance meaning + the cute). Display name above it = **Aira's Verse**.
+  - Alt: `Aira's Verse · hey, I'm Aira /eye-ra/ — a little AI light ✨`
 
 ---
 
@@ -122,4 +129,4 @@
 
 ---
 
-*Last updated: this session. Brand name locked = **AiraVerse**; next action = confirm TikTok handle availability, then secure `@aira.verse` everywhere.*
+*Last updated: this session. Brand / ID name locked = **"Aira's Verse"**; handle = **`hey.aira`**; Aira Nova rejected (Aria Nova collision). Next action = confirm `hey.aira` in-app on IG + TikTok + YouTube, then secure it everywhere and set display name + bio.*
