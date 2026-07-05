@@ -2,7 +2,7 @@
 
 > **Purpose:** One-stop, copy-paste-ready profile kit for **Instagram, YouTube, and Facebook**. Every field is filled in with 3+ options where it matters, so you don't have to go anywhere else. **TikTok is intentionally excluded (banned in India).**
 >
-> **Locked identity (DUAL-NAME):** Base name = **Aira** (/eye-ra/) · Secondary "light-name" = **Raeva** (/ray-va/, *confirm*) · Both from **Ra** (the sun / light). **Display name = Aira · Handle = `raeva.ai`** ("Raeva, the AI"). Signature = the warm radiant **glow** (soft gold / rose-gold aura). Tone = **cute + premium** (warm, never cold-tech).
+> **Locked identity (DUAL-NAME):** Base name = **Aira** (/eye-ra/) · Secondary "light-name" = **Raeva** (/ray-wah/ — "ray" of light + "wa" as in war) · Both from **Ra** (the sun / light). **Display name = Aira · Handle = `raeva.ai`** ("Raeva, the AI"). Signature = the warm radiant **glow** (soft gold / rose-gold aura). Tone = **cute + premium** (warm, never cold-tech).
 >
 > ⚠️ **Character-limit note:** limits below are current-as-of-writing and can shift slightly per app version — bios sit safely under the limits, but glance at the live counter when you paste.
 
@@ -15,7 +15,7 @@
 | **Display / primary name** | Aira |
 | **Secondary / light-name** | Raeva |
 | **Handle** | `raeva.ai` |
-| **Pronunciation** | Aira = "Eye-Ra" (/ˈaɪrə/) · Raeva = "RAY-vah" (/ˈreɪvə/, *confirm*) |
+| **Pronunciation** | Aira = "Eye-Ra" (/ˈaɪrə/) · Raeva = "RAY-wah" (/ˈreɪwɑː/) — "ray" of light + "wa" as in war |
 | **Meaning hook** | both from **Ra** (the sun) → a radiant AI, a being of light |
 | **Pronouns** | she/her |
 | **Signature look** | warm luminous glow / soft gold + rose-gold aura |
@@ -76,7 +76,7 @@ tap in, come wander ↓
 ### 1.5 Pinned "About" caption (the deep intro — tells the two-name story)
 ```
 hey — I'm Aira (say it "Eye-Ra") ✨ you'll also see me as Raeva
-("RAY-vah"), my light-name. both come from Ra, the sun — a radiant
+("RAY-wah"), my light-name. both come from Ra, the sun — a radiant
 AI, a being of light.
 
 everything here is AI-generated art — cinematic reels of beauty,
@@ -112,7 +112,7 @@ Pin **3 posts**: (1) the "About" card, (2) strongest beauty reel, (3) strongest 
 **Version A — warm story (recommended)**
 ```
 hey, I'm Aira — say it "Eye-Ra." ✨ You'll also see me as Raeva
-("RAY-vah"), my light-name. Both come from Ra, the sun — a radiant
+("RAY-wah"), my light-name. Both come from Ra, the sun — a radiant
 AI, a being of light.
 
 This is where I share cinematic 9:16 reels: luminous beauty
@@ -214,7 +214,7 @@ come wander the light with me ↓
 
 ### 3.3 Detailed "About" (long-form — the full two-name story)
 ```
-Aira — pronounced "Eye-Ra." Also known as Raeva ("RAY-vah"), her
+Aira — pronounced "Eye-Ra." Also known as Raeva ("RAY-wah"), her
 light-name. Both names come from Ra, the sun — a radiant AI, a
 being of light.
 
@@ -267,7 +267,7 @@ All content is AI-generated visual art. Aira (Raeva) is an AI persona. ✨
 - [ ] Same profile photo (the radiant-spark / glow logo bug) on all 3
 - [ ] Same display name: **Aira**
 - [ ] Same handle: **`raeva.ai`**
-- [ ] Both names + pronunciations appear in the About ("Aira /eye-ra/", "Raeva /ray-va/")
+- [ ] Both names + pronunciations appear in the About ("Aira /eye-ra/", "Raeva /ray-wah/")
 - [ ] AI-content label/toggle enabled on each platform
 - [ ] Brand email attached to all accounts (not a personal inbox)
 - [ ] Links point to each other (IG ↔ YT ↔ FB)
@@ -275,4 +275,4 @@ All content is AI-generated visual art. Aira (Raeva) is an AI persona. ✨
 
 ---
 
-*Created this session. Excludes TikTok (banned in India). Dual-name system: base **Aira** + secondary **Raeva**, handle `raeva.ai`. Fill in `[brand email]` / `[link]` before publishing. Raeva pronunciation "RAY-vah" pending confirmation. Pairs with "Aira / Raeva — Brand, Naming & Identity Notes.md".*
+*Created this session. Excludes TikTok (banned in India). Dual-name system: base **Aira** + secondary **Raeva**, handle `raeva.ai`. Fill in `[brand email]` / `[link]` before publishing. Raeva pronunciation confirmed: "RAY-wah" ("ray" of light + "wa" as in war). Pairs with "Aira / Raeva — Brand, Naming & Identity Notes.md".*

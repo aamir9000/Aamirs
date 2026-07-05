@@ -4,7 +4,7 @@
 >
 > **⚡ Headline — DUAL-NAME SYSTEM:** She keeps **two names**, both born from **Ra** (the sun / light):
 > - **Base name = Aira** (/eye-ra/) — her primary name & character identity (AI + Ra). Used in content + the prompt corpus.
-> - **Secondary name = Raeva** (/ray-va/) — her "light-name" and the **brand + handle** `raeva.ai` ("Raeva, the AI"), which is **confirmed available**.
+> - **Secondary name = Raeva** (/ray-wah/) — her "light-name" and the **brand + handle** `raeva.ai` ("Raeva, the AI"), which is **confirmed available**.
 > Display name = **Aira**; handle = **`@raeva.ai`**.
 
 ---
@@ -13,7 +13,7 @@
 
 **Where we are:** Locked a **dual-name system**. **Aira** stays the base/primary name (the character; used across the corpus). **Raeva** is the secondary "light-name" and the **brand + handle** — `raeva.ai` is **confirmed available on Instagram**. Both names come from **Ra** (the sun), so they're two faces of the same light. This ended a long search: every `aira.*` / `*.aira` handle and every pretty light/verse dictionary-word was taken or collided in this crowded AI-persona niche, so the *handle* went coined (`raeva.ai`) while the *character* stays Aira.
 
-**One small confirmation still needed:** pronunciation of Raeva — proposed **"RAY-vah"** (/ˈreɪvə/). (Aira = "Eye-Ra", already locked.)
+**Pronunciations (both confirmed):** Aira = **"Eye-Ra"** (/ˈaɪrə/) · Raeva = **"RAY-wah"** (/ˈreɪwɑː/) — **"ray"** as in *a ray of light*, **"wa"** as in *war*. (The "ray of light" reading ties Raeva right back to the Ra/radiance DNA.)
 
 **Immediate next steps:**
 1. ✅ Base name: **Aira** (kept). Secondary name + handle: **Raeva / `raeva.ai`**.
@@ -22,7 +22,7 @@
 4. ⬜ **Rename the existing `minilux.hq` account → `raeva.ai`** (rename, don't recreate — keeps account age/history). No gap risk: same account, instant switch.
 5. ⬜ Set **display name = "Aira"** on all platforms (handle carries "Raeva").
 6. ⬜ Set bio (drafts in §7 — leads with Aira, nods to Raeva).
-7. ⬜ Confirm Raeva pronunciation ("RAY-vah"?).
+7. ✅ Raeva pronunciation confirmed: **"RAY-wah"** ("ray" of light + "wa" as in war).
 8. ⬜ Set up a dedicated brand email (e.g. `raeva.studio@gmail.com` / `aira...`), then attach all accounts.
 9. ⬜ Change Facebook name + email.
 10. ⬜ Design the logo bug (radiant spark / soft sun-glow) — doubles as the watermark-cover bug.
@@ -38,7 +38,7 @@ She has **two names**, both born from **Ra** (the sun / light) — two faces of 
   - Her **primary name and character identity**; used across the prompt corpus and in content.
   - **AI + Ra** → the name begins with **AI** (she is an AI persona) and **"Ra"** = the sun god = radiance / light → **a radiant AI, a being of light.**
   - Short, soft, two clean syllables, cute — **cute on the surface, radiant underneath.**
-- **Secondary name: Raeva** — pron. **"RAY-vah"** (/ˈreɪvə/) *(confirm)*.
+- **Secondary name: Raeva** — pron. **"RAY-wah"** (/ˈreɪwɑː/): **"ray"** as in *a ray of light* + **"wa"** as in *war*.
   - Her **"light-name"** and the **brand + handle**: `raeva.ai` = "Raeva, the AI."
   - Leads with **Ra** (the sun) → same radiance DNA as Aira, but **coined + distinctive + ownable**, which is why it wins as the handle where every "Aira" form failed (§5–§6).
   - Has personality (that "v" gives it bite — not passive), feminine and premium.
@@ -119,7 +119,7 @@ The AI-persona / beauty niche is saturated. Every `aira.*` / `*.aira` handle, ev
   - `hey, I'm Aira /eye-ra/ ✨ a little AI light 🌙 — also Raeva`
   - `Aira ⋆˙⟡ /eye-ra/ · a radiant AI, being of light ✧ cinematic dreamworlds`
   - `hey, it's Aira 🌙 your fav little AI light — dreamy cinematic reels`
-- **Two-name story (for the About):** "I'm Aira (say it 'Eye-Ra') — you'll also see me as **Raeva** ('RAY-vah'), my light-name. Both come from **Ra**, the sun."
+- **Two-name story (for the About):** "I'm Aira (say it 'Eye-Ra') — you'll also see me as **Raeva** ('RAY-wah', like a *ray of light*), my light-name. Both come from **Ra**, the sun."
 
 ---
 
@@ -141,4 +141,4 @@ The AI-persona / beauty niche is saturated. Every `aira.*` / `*.aira` handle, ev
 
 ---
 
-*Last updated: this session. **Dual-name system LOCKED** — base name **Aira** (/eye-ra/), secondary name **Raeva** (/ray-va/, confirm), both from **Ra**. Handle = **`raeva.ai`** (IG-confirmed). Display name = **Aira**. Next: confirm `raeva.ai` on YouTube + Facebook, rename `minilux.hq` → `raeva.ai`, set display "Aira" + bio.*
+*Last updated: this session. **Dual-name system LOCKED** — base name **Aira** (/eye-ra/), secondary name **Raeva** (/ray-wah/ — "ray" of light + "wa" as in war), both from **Ra**. Handle = **`raeva.ai`** (IG-confirmed). Display name = **Aira**. Next: confirm `raeva.ai` on YouTube + Facebook, rename `minilux.hq` → `raeva.ai`, set display "Aira" + bio.*
