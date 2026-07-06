@@ -30,6 +30,14 @@ shape & colour, nose, lips, skin, hairline — that NEVER changes. Animate
 only soft expression muscles, gaze and head. No reshaping, no age
 change, no plastic/CGI skin. One smooth eye-led beat per clip.
 
+[FACE-REVEAL CONTINUITY — per clip]  Within a single clip: if it STARTS
+faceless (full back-to-camera / POV / top-down crown / deep profile-away), it
+MUST END faceless — never whip round to reveal the face mid-clip (prevents
+identity drift and awkward reveals). If it STARTS with the face shown
+(full-frontal / ¾-front / profile), it may END either face-shown OR turned
+away — your choice. So: faceless clips stay faceless and carry the journey;
+face-shown clips own the eye-led beat and can resolve either way.
+
 [RENDER MANDATE — CONTROLLED VIBRANCY]  Cinematic, filmic, ultra-
 detailed, high dynamic range. Vibrancy comes from LIGHT & CONTRAST
 (rim-light, speculars, bloom, bright subject vs. deeper/cooler ground) —
@@ -364,6 +372,8 @@ IMAGE (start-frame):
   ORIENTATION = THREE-QUARTER REAR (135°) with a head-turn glance to camera
   (reads ¾-front, ~45°, on the glance). CAMERA DISTANCE = NEAR-MID, over her
   right shoulder.
+  FACE-REVEAL: FACE-SHOWN START — the opening start-frame already shows her
+  mid-glance (face visible), so holding or turning the face away is compliant.
 • HEAD & GAZE: she glances back over her RIGHT shoulder toward the lens (the
   final eye-led beat) — warm, self-aware, a soft smile; then implied return
   forward.
