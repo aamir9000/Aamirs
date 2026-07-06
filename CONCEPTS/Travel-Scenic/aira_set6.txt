@@ -126,8 +126,11 @@ No.  Title                        Ratio  Hero gear / motion        Trail tint   
 10   Rooftop Sky-Garden Sunset    9:16   stride/ride rooftop garden gold→coral        3–4
 
 Palette per concept = one dominant hue family + the trail tint as accent,
-anchored by deep/cool ground. Concepts 01–03 are FULLY DETAILED below;
-04–10 will be expanded on the next pass in the same depth.
+anchored by deep/cool ground. ALL 10 concepts (01–10) are FULLY DETAILED
+below — each with 4 shots (start-frame IMAGE + Veo VIDEO), explicit
+placement/orientation/distance, face-reveal continuity, a unique image
+angle + unique video move per shot, and motion hand-offs for the one-
+continuous-shot feel.
 
 ========================================================================
 
@@ -2536,4 +2539,264 @@ VIDEO (unique move → SIDE-TRACK that CRANES OUT over the glowing surf):
   seamless loop.
 • NEGATIVES: [STD-NEG — VIDEO].
 
+========================================================================
+
+
+========================================================================
+CONCEPT 10 — "ROOFTOP SKY-GARDEN SUNSET"          ORIENTATION: 9:16
+========================================================================
+LOGLINE: . strides in a confident editorial walk through a lush rooftop
+sky-garden at sunset, high above a glowing megacity, a long coat streaming,
+trailing a gold→coral iridescent wake. Radiant, aspirational, warm.
+CLIPS: 4 (cut together = one continuous walk). NOTE: motion here is a poised
+editorial STRIDE on foot (a deliberate contrast to the rides & bounds).
+GRADE PERSONALITY: WARM SUNSET HDR — gold + coral + soft magenta, golden-hour
+glow, lush greenery, glass reflections, warm bloom. Controlled: warm gold is
+the CEILING, balanced by green foliage & deep glass shadow.
+TRAIL TINT: gold → coral.
+GROUNDED-MAGICAL BEAT: real walking physics — believable weight, heel-to-toe,
+coat & hair dynamics; the ONE surreal touch = the gold→coral wake blooming from
+her steps & trailing coat. No floaty/cartoon light.
+FACE PLAN: Shot 1 faceless (far/back) · Shot 2 face-shown · Shot 3 faceless
+(back) · Shot 4 face-shown (profile). (2 journey, 2 beat.)
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: a fluid iridescent slip-dress in warm coral shifting to gold, worn
+under a long sheer duster coat that streams behind like liquid sunset; a fine
+gold-chain belt.
+HAIR: dark-brown chin-length side-parted bob, styled sleek, wind-caught at the edges,
+sun-gilded.
+HEADWEAR: slim gold-framed sunglasses pushed UP into the hair (never over the eyes
+in face shots).
+ACCESSORIES: slim gold hoop earrings; a fine gold cuff on the RIGHT wrist; a
+delicate layered necklace catching the sun.
+FOOTWEAR: sleek nude strappy block-heel sandals (stable editorial stride).
+HANDS & NAILS: almond nails, warm gold-sheen polish.
+KEY MOTION (deep): a poised, confident runway-style stride — long even steps, hips
+leading, coat & dress streaming, real heel-to-toe weight and arm swing.
+WORLD ANCHOR: a lush rooftop sky-garden atop a skyscraper — planters of greenery &
+warm-toned flowers, a glass-balustrade infinity edge, a still reflecting pool,
+a pergola strung with warm string-lights; beyond & far below, a vast glowing
+megacity at sunset, towers catching gold, haze layers. Keep constant.
+TIME/LIGHT: golden-hour sunset; low warm gold KEY from the sun ahead camera-right;
+soft coral FILL; long warm shadows; the city glow just beginning below. Keep constant.
+
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: high wide, far — establishing the sky-garden & city
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: high wide across the rooftop sky-garden toward the infinity
+  edge; . is SMALL, mid-stride along a garden path, the lush greenery + glowing
+  megacity + huge sunset sky filling the frame (establishing / figure-to-ground far beat).
+• PLACEMENT & ORIENTATION: SUBJECT = lower-CENTRE, small, on the path toward the edge.
+  OBJECT (her long shadow + coat-trail) = trailing behind her on the path. ORIENTATION
+  = ¾-REAR / near back (≈150°), walking away toward the view. CAMERA DISTANCE = FAR
+  (subject small). FACE-REVEAL: FACELESS START — stays faceless.
+• HEAD & GAZE: (tiny) head up toward the sunset & city skyline ahead; poised, lifted.
+• TORSO/HIPS/WEIGHT: elegant upright stride, hips leading, weight rolling heel-to-toe.
+• ARMS: RIGHT arm mid-swing forward, LEFT arm back — a measured runway swing.
+• LEGS/FEET: RIGHT leg forward mid-step, heel about to strike; LEFT leg pushing off — a
+  long even stride.
+• HAIR (frame): a small dark comma, sun-gilded; the coat a streaming ribbon behind.
+• FABRIC (frame): the sheer duster coat & dress stream back like liquid sunset.
+• ENVIRONMENT — FG (near lens, high): a flowering planter & pergola string-lights framing
+  the top, a corner of the reflecting pool mirroring sky. MG: the garden path threading
+  greenery, loungers, the glass balustrade at the infinity edge. BG: a vast glowing
+  megacity — towers catching gold, deepening city-glow, haze layers to the horizon.
+• SKY: golden-hour — molten gold at the sun low camera-right, coral midsky, soft magenta &
+  lilac above; gold-rimmed clouds; the sun a warm bloom.
+• LIGHT-TRAIL: a gold→coral wake blooming from her steps & trailing coat along the path,
+  the brightest ribbon in the garden, guiding the eye to the edge.
+• LIGHTING: low warm gold sun from ahead-right, long warm shadows across the deck, coral
+  fill, soft bloom; string-lights just warming.
+• LENS & DOF: 24 mm-equiv, deep-ish focus, warm airy clarity, soft bokeh on far city lights.
+• PALETTE/GRADE: warm sunset HDR, controlled vibrancy (gold + coral + green), skin natural;
+  world reads first.
+• NEGATIVES: [STD-NEG — IMAGE] + real stride & weight, no floaty coat.
+
+VIDEO (unique move → CRANE-UP + push revealing the city beyond the edge):
+• 9:16 · ~5 s · 24 fps. Already walking.
+• CAMERA: cranes UP and pushes forward behind her along the path, lifting to reveal the
+  megacity glowing beyond the infinity edge — one flowing lift-and-advance. No cut.
+• HEAD & GAZE ARC: (tiny) head holds toward the sunset skyline; no reveal (faceless).
+• LIMB MOTION: full measured arm swing; legs stride heel-to-toe with real cadence.
+• HIP/TORSO: hips lead each step; torso upright and poised with a subtle sway.
+• HAIR/FABRIC: bob wind-catches; the coat & dress stream and settle with each step.
+• GROUND PHYSICS: real heel-strikes, her long shadow tracking, a faint ripple in the pool.
+• LIGHT-TRAIL: lengthens along the path toward the edge, blooming from her steps.
+• ENVIRONMENT PARALLAX: fg planter & pergola sweep as the crane lifts, garden unrolls, city
+  beyond holds — deep rooftop parallax; foliage sways; string-lights sparkle.
+• SKY MOTION: sun-bloom breathes; clouds drift slowly; city-glow deepens below.
+• ATMOSPHERE/FX: warm haze, pollen motes in sunbeams, soft bloom, gentle flare.
+• LIGHTING IN MOTION: gold warms across the garden as the crane rises toward the sun.
+• GRADE: warm sunset HDR. AUDIO: soft rooftop breeze + distant city hum + a warm swelling pad.
+• HAND-OFF → SHOT 2: the push descends ahead of her — arriving low & front for the stride-
+  toward-camera hero, walk cadence & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: low ¾-front hero, striding toward camera (deck-level)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: low hero from ahead-below as she strides toward the lens, the
+  coat billowing, the sunset sun flaring behind her shoulder.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, NEAR. OBJECT (her coat-train +
+  shadow) = streaming behind, gold-lit. ORIENTATION = near FULL-FRONTAL easing to ¾-front
+  (0–45°). CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN START — owns the eye-led beat.
+• HEAD & GAZE: head level to camera, chin poised, a subtle turn; eyes warm & confident,
+  a slow radiant smile, sunset gold on her skin, sunglasses up in the hair.
+• TORSO/HIPS/WEIGHT: powerful upright stride toward camera, hips leading, weight rolling
+  onto the front heel, shoulders open.
+• ARMS: RIGHT arm swinging back, hand relaxed; LEFT arm forward mid-swing, gold cuff & 
+  necklace catching the sun.
+• LEGS/FEET: RIGHT leg forward, heel striking, knee long; LEFT leg pushing off behind, the
+  strappy heel lifting — a confident long step.
+• HAIR (frame): sleek bob wind-caught off the face, sun-gilded edges.
+• FABRIC (frame): the sheer duster coat billows wide behind her like sunset wings; the
+  slip-dress ripples along the body; gold-chain belt glinting.
+• ENVIRONMENT — FG: a flowering planter & a pool-edge reflection near the low lens, warm
+  string-lights bokeh. MG: the garden path, loungers, the glass balustrade. BG: the glowing
+  megacity beyond the edge, towers gold-tipped, the low sun & flare.
+• SKY: molten gold at the sun behind her shoulder, coral-to-magenta gradient, gold clouds.
+• LIGHT-TRAIL: a gold→coral arc blooming from her steps & coat-train, streaming toward
+  camera — the signature payoff.
+• LIGHTING: warm gold rim from behind haloing her hair & coat (contre-jour), soft coral
+  fill on the front, warm halation, string-light glow.
+• LENS & DOF: 35 mm-equiv low, shallow; . crisp, city & sun softly bloomed.
+• PALETTE/GRADE: warm sunset HDR, controlled vibrancy, skin natural (sunset-warm).
+• NEGATIVES: [STD-NEG — IMAGE] + real stride, no floaty coat, protect the backlit highlights.
+
+VIDEO (unique move → REVERSE-DOLLY retreating ahead of her, coat billowing):
+• 9:16 · ~5 s · 24 fps. Already walking.
+• CAMERA: a low reverse-dolly retreating ahead of her as she strides toward camera, the
+  coat billowing between backlight and lens — smooth, no cut.
+• HEAD & GAZE ARC: level to camera, chin poised, a slow radiant smile blooming (eye-led
+  beat) — face shown throughout.
+• LIMB MOTION: full runway arm swing; legs stride heel-to-toe with strong even cadence.
+• HIP/TORSO: hips lead each step with a confident sway; shoulders open, torso tall.
+• HAIR/FABRIC: bob wind-catches; the coat billows wide and settles; dress ripples; belt glints.
+• GROUND PHYSICS: real heel-strikes on the deck, shadow tracking, a pool ripple as she passes.
+• LIGHT-TRAIL: blooms from her steps & coat toward camera, warm and luminous.
+• ENVIRONMENT PARALLAX: fg planter & pool-edge rush the low lens, garden slides past, city
+  beyond holds — deep rooftop parallax; foliage & string-lights shimmer.
+• SKY MOTION: sun-flare breathes behind her; clouds drift; city-glow deepens.
+• ATMOSPHERE/FX: warm haze, pollen motes, soft bloom, a gentle contre-jour flare.
+• LIGHTING IN MOTION: gold rim flares around her hair & coat as she nears camera.
+• GRADE: warm sunset HDR. AUDIO: breeze + city hum + a warm confident pulse.
+• HAND-OFF → SHOT 3: as she passes the lens, we fall in BEHIND her toward the infinity edge
+  — walk cadence & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: mid from directly behind — toward the infinity edge (back)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: eye-level from directly behind, following her toward the glass
+  infinity edge, the megacity glowing beyond and below.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, MID (near-to-mid). OBJECT
+  (coat-train + shadow) = streaming toward the lens, gold-lit. ORIENTATION = FULL BACK-
+  TO-CAMERA (180°). CAMERA DISTANCE = MID. FACE-REVEAL: FACELESS START — stays faceless.
+• HEAD & GAZE: back of the sleek bob; head lifted toward the sunset skyline ahead.
+• TORSO/HIPS/WEIGHT: upright confident stride, hips leading, weight rolling heel-to-toe.
+• ARMS: RIGHT arm forward mid-swing, LEFT arm back — measured runway swing; cuff glinting.
+• LEGS/FEET: RIGHT leg forward striking, LEFT leg pushing off — a long even step toward the edge.
+• HAIR (frame): bob streaming back toward the lens, sun-gilded.
+• FABRIC (frame): the sheer coat billows back toward camera like sunset wings, filling the
+  mid-frame; dress rippling; belt glinting.
+• ENVIRONMENT — FG: the garden path & a flowering planter, warm string-lights, her long
+  shadow leading. MG: the glass balustrade at the infinity edge, the reflecting pool
+  mirroring sky, loungers. BG: the vast glowing megacity beyond & below, towers gold-tipped,
+  the low sun, haze layers.
+• SKY: molten gold at the sun ahead, coral-to-magenta gradient, gold clouds; the widest sky beat.
+• LIGHT-TRAIL: streams from her steps & coat straight toward the edge & sun, gold→coral,
+  converging with the path & balustrade lines — a corridor toward the city.
+• LIGHTING: warm gold sun ahead haloing her silhouette & coat, coral fill, long warm shadow,
+  string-light glow.
+• LENS & DOF: 40 mm-equiv, mid, deep-ish focus; . crisp, city softly atmospheric.
+• PALETTE/GRADE: warm sunset HDR, controlled vibrancy, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + real stride, no floaty coat.
+
+VIDEO (unique move → FOLLOWING PUSH behind, toward the infinity edge):
+• 9:16 · ~5 s · 24 fps. Arrives already walking from Shot 2's pass.
+• CAMERA: a following push locked behind her, riding the stride toward the glass edge as
+  the megacity opens ahead — steady advance, no cut.
+• HEAD & GAZE ARC: back-of-head throughout; head lifts toward the skyline; no reveal (faceless).
+• LIMB MOTION: full measured arm swing; legs stride heel-to-toe with real cadence toward the edge.
+• HIP/TORSO: hips lead each step; torso tall with a confident sway.
+• HAIR/FABRIC: bob wind-catches; the coat billows back toward camera and settles each step.
+• GROUND PHYSICS: real heel-strikes, shadow tracking, a pool ripple as she passes the water.
+• LIGHT-TRAIL: elongates toward the edge & sun, converging with the path lines — a corridor
+  toward the glowing city.
+• ENVIRONMENT PARALLAX: fg planters & string-lights rush, balustrade nears, city beyond holds
+  — strong forward parallax; foliage sways; pool shimmers.
+• SKY MOTION: sun-bloom breathes ahead; clouds drift; city-glow deepens below.
+• ATMOSPHERE/FX: warm haze, pollen motes, soft bloom, gentle flare.
+• LIGHTING IN MOTION: gold intensifies around her silhouette as she nears the sunlit edge.
+• GRADE: warm sunset HDR. AUDIO: breeze + city hum + pulse building.
+• HAND-OFF → SHOT 4: the push slides around to her flank at the edge — arriving at the
+  profile side-track, walk cadence & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: profile side-track at the edge (broadside, camera-left)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: broadside profile as she strides left-to-right along the glass
+  infinity edge, the glowing megacity & sunset filling the frame beyond her.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, MEDIUM-FULL. OBJECT (coat-train)
+  = streaming behind her, broadside, gold-lit. ORIENTATION = PROFILE / side-on (90°),
+  gaze turning OUT to the sunset city. CAMERA DISTANCE = MID, tracking left-to-right.
+  FACE-REVEAL: FACE-SHOWN (profile) — may resolve either way.
+• HEAD & GAZE: clean profile, head turning to gaze out over the glowing city; serene pride,
+  a soft radiant smile, sunset gold across her face, wind in her hair.
+• TORSO/HIPS/WEIGHT: poised mid-stride, hips leading, spine long, weight rolling heel-to-toe.
+• ARMS: RIGHT (far) arm swinging forward, LEFT (near) arm back, hand relaxed — measured swing;
+  necklace & cuff catching gold.
+• LEGS/FEET: RIGHT (near) leg forward mid-step, heel striking, knee long; LEFT leg pushing off,
+  strappy heel lifting.
+• HAIR (frame): sleek bob streaming horizontally back off the profile, sun-gilded.
+• FABRIC (frame): the sheer coat lifts into a long horizontal banner of sunset light; the
+  slip-dress ripples; belt glints.
+• ENVIRONMENT — FG: the glass balustrade & a flowering planter skating past the lens, string-
+  lights. MG: the garden edge, the reflecting pool mirroring the sky. BG: the vast glowing
+  megacity, towers gold-tipped, the low sun & flare, haze layers.
+• SKY: golden-hour — warm sun screen-right, coral-to-magenta gradient, gold clouds.
+• LIGHT-TRAIL: a long gold→coral arc trailing behind the profile, doubled by the coat's glow,
+  blooming toward the city — the payoff.
+• LIGHTING: warm sun rim from screen-right raking her profile & hair, coral fill, warm halation,
+  string-light glow.
+• LENS & DOF: 50 mm-equiv, shallow-ish; . crisp, fg balustrade & bg city softly blurred, light bokeh.
+• PALETTE/GRADE: warm sunset HDR, warmest; controlled vibrancy; skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + real stride, no floaty coat, protect highlights.
+
+VIDEO (unique move → SIDE-TRACK that CRANES OUT over the city edge):
+• 9:16 · ~5 s · 24 fps. Arrives already striding from Shot 3's slide-around.
+• CAMERA: a parallel side-track gliding with her along the edge, then a CRANE-OUT swinging
+  over the balustrade to reveal the glowing megacity below at sunset (the lift = the loop
+  cut). No hard cut mid-clip.
+• HEAD & GAZE ARC: profile → gaze turns out over the city (eye-led beat: serene pride, soft
+  radiant smile); face shown throughout (compliant).
+• LIMB MOTION: full measured arm swing; legs stride heel-to-toe; a graceful head-turn to the view.
+• HIP/TORSO: hips lead with a confident sway; torso opens toward the city as she crests the edge.
+• HAIR/FABRIC: bob & coat stream horizontally, the coat lifting into a banner as the crane rises.
+• GROUND PHYSICS: real heel-strikes along the edge, shadow tracking, pool shimmer.
+• LIGHT-TRAIL: arcs behind, blooming toward the city as the crane lifts over the edge.
+• ENVIRONMENT PARALLAX: fg balustrade & planter sweep, garden drifts, megacity holds & opens
+  below as the crane rises over the edge; foliage sways; city-glow deepens.
+• SKY MOTION: sun flares warmer as the crane turns toward it; clouds drift; city lights bloom below.
+• ATMOSPHERE/FX: warm haze, pollen motes, bloom, contre-jour flare.
+• LIGHTING IN MOTION: gold rim wraps her, then the glowing city & sunset fill the frame on the lift.
+• GRADE: warm sunset HDR, warmest. AUDIO: breeze + city hum + pad resolving to a warm radiant swell.
+• LOOP / HAND-OFF → SHOT 1: the crane-out over the sunset city resolves back to the high wide
+  establishing of the sky-garden — walk cadence & gold→coral trail matched to Shot 1 for a
+  seamless loop.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
+END OF SET 6 — 10 CONCEPTS COMPLETE
 ========================================================================
