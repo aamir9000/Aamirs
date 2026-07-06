@@ -704,3 +704,273 @@ VIDEO (unique move → ARC / ORBIT from ¾-front sweeping to profile as she pass
 • NEGATIVES: [STD-NEG — VIDEO].
 
 ========================================================================
+
+
+========================================================================
+CONCEPT 03 — "NEON RAIN METROPOLIS"               ORIENTATION: 9:16
+========================================================================
+LOGLINE: . rides her e-scooter through a rain-slick neon downtown at
+night, mirror-wet streets doubling every light, trailing a magenta→cyan
+iridescent wake that ripples in the puddles. Electric, cool-glam, alive.
+CLIPS: 4 (cut together = one continuous ride).
+GRADE PERSONALITY: NEON-NOIR HDR — magenta + cyan on a deep near-black wet
+ground, mirror reflections, signage bokeh, subtle blue anamorphic flares,
+rain streaks. Controlled vibrancy: neon is the CEILING, balanced by black.
+TRAIL TINT: magenta → cyan.
+GROUNDED-MAGICAL BEAT: the light-trail reflected & refracted in real rain
+puddles and wet asphalt — a genuine long-exposure streak, not sparkles.
+FACE PLAN: Shot 1 face-shown · Shot 2 faceless (back) · Shot 3 faceless
+(far) · Shot 4 face-shown. (2 journey, 2 beat.)
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: a sleek translucent iridescent rain-shell (clear, oil-sheen)
+worn open over a fitted charcoal top; dark slim tailored trousers; the
+shell beads rain and catches neon.
+HAIR: dark-brown chin-length side-parted bob, slightly damp, a few wet
+strands, neon rim on the edges.
+HEADWEAR: rain-shell hood worn DOWN on the shoulders (face clear).
+ACCESSORIES: iridescent teardrop earrings; a slim reflective choker; thin
+smart-watch on the LEFT wrist; silver band on the RIGHT middle finger.
+FOOTWEAR: sleek black chunky-sole boots, wet & reflective.
+HANDS & NAILS: short almond nails, deep near-black iridescent polish.
+VEHICLE (deep): the same sleek matte-charcoal e-scooter, now WET — the
+hairline under-glow strip reads bright in the dark, the front LED cuts a
+cone through the rain, tires throw fine spray, chrome stem catches neon.
+TIME/LIGHT: night, steady rain; KEY = magenta & cyan neon signage wrapping
+her; deep near-black ambient; mirror-wet reflections as fill. Keep constant.
+
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: low frontal over a puddle (with reflection)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: lens low over a wide puddle catching her AND her
+  mirrored reflection as she rides toward camera down the neon canyon.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, NEAR-to-mid, her
+  reflection filling the lower third. OBJECT (scooter) = centred, front LED
+  toward lens. ORIENTATION = near FULL-FRONTAL easing to ¾-front (0–45°).
+  CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN START — may resolve either way.
+• HEAD & GAZE: head level to camera, a subtle right micro-turn; eyes bright
+  under neon, cool-confident, lips softly closed with the hint of a smile.
+• TORSO/HIPS/WEIGHT: slight forward lean into speed; hips centred low over the
+  deck; weight even, poised.
+• ARMS: RIGHT hand on the near grip, wrist angled, fingers wrapped, choker &
+  wet shell catching cyan; LEFT hand on the far grip, elbow soft, watch glinting.
+• LEGS/FEET: RIGHT boot forward on the deck, knee flexed; LEFT boot back, heel
+  light; wet soles reflecting neon.
+• HAIR (frame): damp bob framing the face, edges rimmed magenta, a wet strand
+  at the cheek.
+• FABRIC (frame): the clear rain-shell shivers with speed, beads streaking off;
+  trouser cuffs flick spray.
+• ENVIRONMENT — FG: the rippling puddle mirror + fine rain streaks crossing the
+  lens. MG: glowing signage (magenta/cyan), a steaming vent, umbrella-carrying
+  pedestrians as soft bokeh. BG: towering skyscrapers, lit windows, a holo-
+  billboard glow.
+• SKY: narrow strip of dark violet rainy sky between towers, city-glow underlit,
+  rain falling through the neon.
+• LIGHT-TRAIL: magenta→cyan wake curling off the rear wheel, doubled in the wet
+  road and the puddle mirror.
+• LIGHTING: neon key wrapping her (magenta camera-left, cyan camera-right), the
+  front LED underlighting the rain, deep black fill.
+• LENS & DOF: 35 mm-equiv low, shallow; . crisp, signage a creamy neon bokeh.
+• PALETTE/GRADE: neon-noir HDR, controlled vibrancy on black, natural skin.
+• NEGATIVES: [STD-NEG — IMAGE] + no neon-mud, keep blacks deep.
+
+VIDEO (unique move → REVERSE-DOLLY retreating ahead of her, puddle ripple):
+• 9:16 · ~5 s · 24 fps. Already in motion.
+• CAMERA: a low reverse-dolly retreating ahead of her as she approaches, the
+  puddle reflection rippling with the tyre wake — smooth, no cut.
+• HEAD & GAZE ARC: level to camera, a small confident lift (the eye-led beat) —
+  face shown throughout (compliant).
+• LIMB MOTION: forearms micro-steer over the wet seams; knees absorb bumps.
+• HIP/TORSO: gentle counter-sway holding the line into camera.
+• HAIR/FABRIC: damp bob flutters; rain-shell shivers; beads streak off.
+• VEHICLE PHYSICS: tyres hiss on wet tarmac, fine spray fans, LED cone flickers
+  through rain, believable traction.
+• LIGHT-TRAIL: brightens and lengthens toward camera, its puddle reflection
+  rippling and smearing.
+• ENVIRONMENT PARALLAX: signage streaks past on both sides, pedestrians drift,
+  towers hold — deep neon canyon parallax; rain falls at real speed.
+• SKY MOTION: near-static violet strip; billboard glow flickers.
+• ATMOSPHERE/FX: rain streaks, vent steam, blue anamorphic flare off a sign.
+• LIGHTING IN MOTION: magenta/cyan rake across her as she nears camera.
+• GRADE: neon-noir HDR. AUDIO: rain hiss + low synth pulse.
+• HAND-OFF → SHOT 2: as she passes the lens, we swing BEHIND her onto the
+  canyon — motion vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: low from behind, into the neon canyon (back)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: low behind her, lens near the wet deck, looking down
+  the neon canyon as she rides away into it.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, lower-to-middle third, NEAR-mid.
+  OBJECT (scooter) = CENTRE foreground, rear wheel & under-glow nearest lens.
+  ORIENTATION = FULL BACK-TO-CAMERA (180°). CAMERA DISTANCE = NEAR (deck-level).
+  FACE-REVEAL: FACELESS START — stays faceless to the end.
+• HEAD & GAZE: back of the damp bob; head steady down the canyon.
+• TORSO/HIPS/WEIGHT: pitched forward into speed; hips low & centred over the deck.
+• ARMS: RIGHT arm to the grip, elbow soft; LEFT arm to the far grip; shell
+  shoulders beaded with rain, choker clasp glinting at the nape.
+• LEGS/FEET: staggered boots on the deck, both knees soft, wet soles reflecting
+  the under-glow.
+• HAIR (frame): damp bob streaming back toward the lens, neon-rimmed tips.
+• FABRIC (frame): the clear rain-shell ripples and snaps back; a fan of spray
+  off the rear tyre lit magenta.
+• ENVIRONMENT — FG: the glowing rear wheel, under-glow strip & wet deck; rain
+  streaking the lens. MG: the neon canyon — signage walls magenta/cyan sliding
+  past, steam, reflections on wet shopfronts. BG: the canyon narrowing to a
+  bright neon vanishing point, holo-billboards, tower lights.
+• SKY: a thin dark strip far ahead between the towers, rain-veiled, city-glow underlit.
+• LIGHT-TRAIL: streams straight down the canyon from the wheel toward the neon
+  vanishing point, reflected in every wet surface — a corridor of light.
+• LIGHTING: neon walls wrapping her silhouette (magenta left, cyan right), the
+  under-glow lighting the spray, deep black fill.
+• LENS & DOF: 28 mm-equiv low; deck crisp, canyon a deep neon bokeh tunnel.
+• PALETTE/GRADE: neon-noir HDR, controlled vibrancy on black, natural skin.
+• NEGATIVES: [STD-NEG — IMAGE] + keep blacks deep, no mud.
+
+VIDEO (unique move → LOW TRACKING PUSH behind, through the canyon):
+• 9:16 · ~5 s · 24 fps. Arrives already moving from Shot 1's pass.
+• CAMERA: a low tracking push locked behind the wheel, chasing her down the
+  neon canyon as wet road rushes beneath — steady advance, no cut.
+• HEAD & GAZE ARC: back-of-head throughout; no reveal (faceless, compliant).
+• LIMB MOTION: forearms micro-steer; knees/ankles absorb the wet seams.
+• HIP/TORSO: subtle counter-sway; forward pitch held.
+• HAIR/FABRIC: damp bob & rain-shell stream and ripple toward camera.
+• VEHICLE PHYSICS: tyres hiss and fan spray, under-glow reflecting on the wet
+  road, LED cone slicing rain, believable traction.
+• LIGHT-TRAIL: elongates into a bright corridor down the canyon, doubled in wet
+  reflections converging at the vanishing point.
+• ENVIRONMENT PARALLAX: signage walls rush past, steam swirls, towers hold —
+  fast neon-tunnel parallax; rain at real speed.
+• SKY MOTION: distant strip near-static; billboard glow flickers.
+• ATMOSPHERE/FX: rain, spray, vent steam, blue anamorphic streaks off signs.
+• LIGHTING IN MOTION: magenta/cyan pulse across her back as she passes signs.
+• GRADE: neon-noir HDR. AUDIO: rain + rising synth pulse.
+• HAND-OFF → SHOT 3: the push lifts sharply UP into the high wide — as if the
+  camera cranes to the rooftops; trail & vector preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: high wide establishing (environment-dominant, far)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: high wide from a rooftop corner looking down at the
+  glistening neon intersection; . is SMALL on the wet street below (the
+  establishing / figure-to-ground far beat).
+• PLACEMENT & ORIENTATION: SUBJECT = lower third, small, drifting left-of-centre
+  across the intersection. OBJECT (scooter) = under her, a bright under-glow
+  dot. ORIENTATION = ¾-REAR / back-ish from above (≈150°). CAMERA DISTANCE =
+  FAR (subject small). FACE-REVEAL: FACELESS START — stays faceless.
+• HEAD & GAZE: (tiny) crown & damp bob; head angled along her turn.
+• TORSO/HIPS/WEIGHT: a gentle S-line through the body following the street's curve.
+• ARMS: both to the bars, symmetric small T from above; LEGS: staggered stance,
+  knees soft.
+• HAIR (frame): a small dark comma, neon-rimmed.
+• FABRIC (frame): the clear shell a faint iridescent patch; a thin spray-fan behind.
+• ENVIRONMENT — FG (top): rain-blurred rooftop edge, a glowing sign rig near the
+  lens, dripping cables. MG: the crossing — zebra stripes mirrored in wet
+  asphalt, magenta/cyan signage walls, tiny umbrellas, a steaming grate, a bus
+  glow. BG: the tower canyon receding, holo-billboards, distant rain-haze.
+• SKY: a dark violet rain-sky above the towers, underlit by the city's neon glow,
+  low cloud catching magenta, veils of rain.
+• LIGHT-TRAIL: the hero graphic — a magenta→cyan curve carving across the wet
+  intersection behind her, mirrored perfectly in the sheet of water, the single
+  brightest line, guiding the eye.
+• LIGHTING: soft top rain-ambient, neon pooling up from the street; the trail &
+  under-glow are the key accents against deep black wet ground.
+• LENS & DOF: 35 mm-equiv from altitude, deep focus, everything legible.
+• PALETTE/GRADE: neon-noir HDR, controlled vibrancy; world reads first, . via
+  the trail & under-glow.
+• NEGATIVES: [STD-NEG — IMAGE] + keep blacks deep, no rainbow-mud.
+
+VIDEO (unique move → CRANE-UP + slow PUSH revealing the neon grid, then descend):
+• 9:16 · ~5 s · 24 fps. The lift from Shot 2 flings us up here already moving.
+• CAMERA: continues craning UP and pushing out over the intersection, unveiling
+  the glowing neon grid & tower canyon; at the end it begins to DESCEND back
+  toward her (setting up Shot 4). One flowing move.
+• HEAD & GAZE ARC: (tiny from height) head follows her curve; no reveal (faceless).
+• LIMB MOTION: minimal at scale — a subtle body S following the turn.
+• HIP/TORSO: gentle lean tracking the street curve.
+• HAIR/FABRIC: bob & shell flag behind, tiny but legible.
+• VEHICLE PHYSICS: smooth wet cruise, a clean line & spray across the crossing.
+• LIGHT-TRAIL: the curve lengthens & glows, its mirror-reflection shimmering on
+  the water — the emotional focal line.
+• ENVIRONMENT PARALLAX: strong — foreground rooftop rig sweeps, midground street
+  rotates with the push, distant towers hold; real depth; rain falls.
+• SKY MOTION: rain-cloud drifts, neon under-glow pulses on the cloud-belly.
+• ATMOSPHERE/FX: rain veils, rising steam, billboard flicker, faint haze layering.
+• LIGHTING IN MOTION: neon glow breathes across the wet grid as we rise.
+• GRADE: neon-noir HDR, wide. AUDIO: rain wash + synth swell (peak).
+• HAND-OFF → SHOT 4: the descent drops us to street level ahead-left of her —
+  arriving at the Dutch ¾-front hero, vector & trail matched.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: Dutch ¾-front hero (camera ahead-left, near)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: low Dutch-tilt (~12°) hero, camera ahead & left as she
+  leans through a curve past a towering magenta sign; . near, the wet street
+  glowing beneath.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE-LEFT, middle third, NEAR. OBJECT
+  (scooter) = under her, leaning into the curve toward the lens. ORIENTATION =
+  THREE-QUARTER FRONT (45°). CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN
+  START — owns the eye-led beat, may resolve either way.
+• HEAD & GAZE: face ¾ to camera, a bright glance toward the lens then ahead —
+  cool exhilaration, a real smile catching neon on her damp skin.
+• TORSO/HIPS/WEIGHT: leaning into the right-hand curve, hips angled in, weight
+  over the front boot; spine long, shoulders open.
+• ARMS: RIGHT (near) hand firm on the grip, wrist rolled into the lean, fingers
+  wrapped, choker & wet shell flashing cyan; LEFT arm counter-balancing, hand loose.
+• LEGS/FEET: RIGHT (near) boot forward, knee deeply flexed into the carve; LEFT
+  boot back, heel lifted; wet soles mirroring neon.
+• HAIR (frame): damp bob swung by the carve, front strands lit magenta across
+  the cheek, tips flicking spray.
+• FABRIC (frame): the clear rain-shell flares open along the lean, beads
+  streaking; trouser cuff pressed to the shin.
+• ENVIRONMENT — FG: the base of a glowing magenta sign & a mirror-wet kerb near
+  the lens. MG: neon shopfronts, a cyan crosswalk glow, steam, drifting bokeh
+  umbrellas. BG: the tower canyon & a holo-billboard, rain-haze.
+• SKY: a sliver of violet rain-sky top-right between signs, city-glow underlit.
+• LIGHT-TRAIL: arcs behind her through the carve toward camera-right, mirrored
+  in the wet street & the sign's reflection — the signature payoff.
+• LIGHTING: strong magenta key from the sign camera-left, cyan rim camera-right,
+  under-glow bouncing up, deep black fill; a blue anamorphic flare.
+• LENS & DOF: 40 mm-equiv Dutch, shallow; . & her glance crisp, neon a rich bokeh.
+• PALETTE/GRADE: neon-noir HDR at its most electric; controlled vibrancy on
+  black; skin natural (no magenta cast on the face).
+• NEGATIVES: [STD-NEG — IMAGE] + skin stays true, blacks deep.
+
+VIDEO (unique move → SIDE-ARC to ¾-front with RACK-FOCUS sign→her):
+• 9:16 · ~5 s · 24 fps. Arrives already carving from Shot 3's descent.
+• CAMERA: a side-arc that swings from her flank around to ¾-front as she leans
+  through the curve, with a rack-focus pulling from the foreground neon sign
+  onto her face — one continuous arc. No cut.
+• HEAD & GAZE ARC: profile-ish → face ¾-front, a bright glance to camera then
+  ahead (the eye-led beat: cool exhilaration, a real smile); face shown → flexible.
+• LIMB MOTION: near hand rolls into the lean; counter-arm balances; front knee
+  deepens then eases as the curve straightens.
+• HIP/TORSO: lean deepens into the carve then rises as she exits — real weight shift.
+• HAIR/FABRIC: damp bob swings and settles; rain-shell flares then streams behind.
+• VEHICLE PHYSICS: believable lean angle, tyre grip on wet tarmac, spray arc, LED sweep.
+• LIGHT-TRAIL: carves through the turn toward camera-right, blooming, mirrored on
+  the wet street — the electric payoff.
+• ENVIRONMENT PARALLAX: fg sign & kerb sweep with the arc, shopfronts rotate,
+  towers hold; rain falls; steam curls.
+• SKY MOTION: the violet strip & billboard glow shift with the arc.
+• ATMOSPHERE/FX: rain, spray, steam, anamorphic flare across frame.
+• LIGHTING IN MOTION: magenta/cyan rake and swap across her as the camera arcs.
+• GRADE: neon-noir HDR, electric. AUDIO: rain + synth pulse resolving on a beat.
+• LOOP / HAND-OFF → SHOT 1: she exits the curve riding toward a fresh puddle and
+  into the lens — vector & magenta→cyan trail matched to Shot 1's frontal
+  approach for a seamless loop.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
