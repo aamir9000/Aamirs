@@ -974,3 +974,268 @@ VIDEO (unique move → SIDE-ARC to ¾-front with RACK-FOCUS sign→her):
 • NEGATIVES: [STD-NEG — VIDEO].
 
 ========================================================================
+
+
+========================================================================
+CONCEPT 04 — "EMERALD VALLEY GLIDE"               ORIENTATION: 16:9
+========================================================================
+LOGLINE: . bounds in long wind-borne strides down a vast emerald alpine
+valley under a towering-cumulus blue sky, trailing a mint→white iridescent
+wake — euphoric, free, painterly.
+CLIPS: 4 (cut together = one continuous descent).
+GRADE PERSONALITY: PAINTERLY-NATURAL HDR (Ghibli/Shinkai) — lush emerald
+greens, deep-blue sky, big white cumulus, warm sun; soft painterly render,
+gentle bloom. Vivid but NATURAL (no neon). A clean bright daylight contrast.
+TRAIL TINT: mint → white.
+GROUNDED-MAGICAL BEAT: real running/bounding physics with believable weight
+& contact; the ONE surreal touch = the iridescent wake + a hair's-breadth
+extra float at the top of each leap (like a long-jump hang) — grounded,
+never weightless/cartoon.
+FACE PLAN: Shot 1 faceless (far/back) · Shot 2 face-shown · Shot 3 faceless
+(back) · Shot 4 face-shown (profile). (2 journey, 2 beat.)
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: an airy knee-length sundress in soft white with mint piping, light
+and gauzy, billowing in the wind; a fine mint gauze scarf that streams.
+HAIR: dark-brown chin-length side-parted bob, wind-tossed, sunlit edges.
+HEADWEAR: none.
+ACCESSORIES: small iridescent stud earrings; a fine woven bracelet on the LEFT
+wrist; a thin anklet on the RIGHT ankle.
+FOOTWEAR: light cream canvas plimsolls, flexing with each stride.
+HANDS & NAILS: short soft nails, bare/natural sheen.
+KEY MOTION (deep): long wind-borne bounding strides / leaps down the slope —
+arms swinging freely, dress and scarf billowing, believable ground contact &
+push-off, a brief hang at each leap's apex.
+WORLD ANCHOR: a vast emerald alpine valley — grassy slopes, a winding dirt
+trail, scattered boulders & wildflowers, pine stands, distant peaks; huge blue
+sky with towering cumulus. Keep constant.
+TIME/LIGHT: bright late-morning; warm sun KEY high camera-back-right; cool sky
+FILL; crisp cast shadows on the grass. Keep constant.
+
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: very high wide, aerial-ish — establishing (env-dominant)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING: very high wide looking down the sweeping valley; . is
+  TINY, bounding down the winding trail, the emerald slopes + huge sky filling
+  the frame (the establishing / figure-to-ground far beat).
+• PLACEMENT & ORIENTATION: SUBJECT = lower-CENTRE, small, on the trail. OBJECT
+  (her cast shadow) = beneath her on the grass, grounding the leap. ORIENTATION
+  = ¾-REAR / near back (≈150°), bounding away downhill. CAMERA DISTANCE = FAR
+  (subject small). FACE-REVEAL: FACELESS START — stays faceless.
+• HEAD & GAZE: (tiny) head up toward the valley opening ahead; joyful lift.
+• TORSO/HIPS/WEIGHT: mid-bound, torso lifted, hips extended in the stride, weight
+  airborne between foot-strikes.
+• ARMS: RIGHT arm swung forward-up, hand open; LEFT arm swung back, fingers spread
+  — a free running swing.
+• LEGS/FEET: RIGHT leg extended forward reaching for the next strike, knee leading;
+  LEFT leg trailing back in push-off, toe pointed; mid-air hang.
+• HAIR (frame): a small dark comma lifted off the crown.
+• FABRIC (frame): the sundress & scarf billow up and back — a bright ribbon behind.
+• ENVIRONMENT — FG (near lens, high): a pine crown & a boulder edge framing the top.
+  MG: the winding dirt trail threading emerald slopes, wildflower patches, scattered
+  boulders, a glinting stream. BG: distant blue-grey peaks, forest bands, valley haze.
+• SKY: deep-blue dome with towering white cumulus catching the sun on their crowns,
+  soft haze at the horizon, a lone high cirrus wisp.
+• LIGHT-TRAIL: a mint→white wake streaming behind her down the trail, the brightest
+  ribbon on the green, guiding the eye into the valley.
+• LIGHTING: high warm sun from back-right, crisp cast shadows on the grass, gentle
+  bloom on the cumulus.
+• LENS & DOF: 24 mm-equiv from altitude, deep focus, painterly clarity.
+• PALETTE/GRADE: painterly-natural HDR, controlled vibrancy (emerald + sky-blue,
+  mint accent), skin natural; world reads first.
+• NEGATIVES: [STD-NEG — IMAGE] + no weightless float; keep real ground logic.
+
+VIDEO (unique move → CRANE-UP + slow forward PUSH revealing the valley):
+• 16:9 · ~5 s · 24 fps. Already bounding.
+• CAMERA: cranes gently UP while pushing forward down the valley behind her,
+  unveiling the sweep of slopes toward the distant peaks — one flowing ascend-
+  advance. No cut.
+• HEAD & GAZE ARC: (tiny) head stays lifted ahead; no reveal (faceless).
+• LIMB MOTION: full running-swing of the arms; legs cycle through bound → strike →
+  push-off with believable rhythm; a brief hang each leap.
+• HIP/TORSO: hips drive the stride, torso rides tall.
+• HAIR/FABRIC: bob, dress & scarf billow and settle with each bound.
+• GROUND PHYSICS: real foot-strikes puff faint dust/grass flecks, shadow tracking her.
+• LIGHT-TRAIL: lengthens & brightens down the trail as she descends.
+• ENVIRONMENT PARALLAX: fg pine & boulder sweep, midground slopes unroll, distant
+  peaks hold — deep layered parallax; grass ripples in wind.
+• SKY MOTION: cumulus drift slowly, sun-bloom breathes on their crowns.
+• ATMOSPHERE/FX: pollen/seed motes drifting in sun, faint valley haze, soft bloom.
+• LIGHTING IN MOTION: warm sun rakes the slopes as the push advances.
+• GRADE: painterly-natural HDR. AUDIO: wind + birdsong + a warm rising string pad.
+• HAND-OFF → SHOT 2: the push drops down ahead of her — arriving low & front for
+  the leap hero, bound rhythm & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: low ¾-front hero, mid-leap (camera ahead-below)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING: low hero from ahead & below as she leaps toward/over the
+  lens, sky filling behind her — a heroic airborne beat.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, NEAR, airborne. OBJECT
+  (cast shadow) = on the grass below & behind, grounding the jump. ORIENTATION =
+  THREE-QUARTER FRONT (45°). CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN START
+  — owns the eye-led beat, may resolve either way.
+• HEAD & GAZE: face ¾ to camera, chin up, gaze bright toward the sky/valley — pure
+  joy, wide radiant smile, eyes alight.
+• TORSO/HIPS/WEIGHT: fully extended at the leap's apex, chest open to the sky, hips
+  driven forward, weightless hang (grounded like a long-jump peak).
+• ARMS: RIGHT arm thrown up-open, fingers spread to the sky; LEFT arm sweeping back,
+  hand relaxed — expansive.
+• LEGS/FEET: RIGHT leg reaching forward, knee high, plimsoll flexed; LEFT leg
+  trailing in push-off, toe pointed — a big open stride mid-air.
+• HAIR (frame): bob lifted fully off the face by the leap, sunlit.
+• FABRIC (frame): the sundress balloons up and out, hem lifting; scarf whips overhead
+  — maximum billow.
+• ENVIRONMENT — FG: grass blades & a wildflower head near the low lens, a boulder edge.
+  MG: the slope dropping away behind her, the trail, a pine cluster. BG: towering
+  cumulus & deep-blue sky filling most of the frame.
+• SKY: dominant — big sunlit cumulus, deep blue, a sun-flare glancing the frame edge.
+• LIGHT-TRAIL: a mint→white arc curving up from her push-off foot, blooming against
+  the blue — the signature payoff, framing the leap.
+• LIGHTING: warm sun rim from back-right haloing her hair & dress, cool sky fill on
+  the front, soft bloom.
+• LENS & DOF: 28 mm-equiv low & wide, deep-ish; . crisp, cumulus softly bloomed.
+• PALETTE/GRADE: painterly-natural HDR, controlled vibrancy, skin natural (warm sunlit).
+• NEGATIVES: [STD-NEG — IMAGE] + no rubbery/weightless limbs; real leap arc.
+
+VIDEO (unique move → LOW REVERSE-DOLLY rising WITH the leap, then settle):
+• 16:9 · ~5 s · 24 fps. Arrives already bounding from Shot 1.
+• CAMERA: a low reverse-dolly retreating ahead of her that RISES with the leap and
+  settles as she lands and pushes off again — one buoyant continuous move. No cut.
+• HEAD & GAZE ARC: face ¾-front, gaze lifting to the sky at the apex (eye-led beat:
+  radiant joy, wide smile), settling forward on landing; face shown throughout.
+• LIMB MOTION: arms fling open at apex then swing down to running-rhythm on landing;
+  legs extend mid-air, absorb the strike, drive the next push-off.
+• HIP/TORSO: full extension at apex → flex on landing → drive up again; real spring.
+• HAIR/FABRIC: bob & dress balloon at apex, settle on landing, billow again.
+• GROUND PHYSICS: believable foot-strike with grass-puff and a real shadow snapping under her.
+• LIGHT-TRAIL: arcs up with the leap, blooms at apex, streaks down on landing.
+• ENVIRONMENT PARALLAX: fg grass & flowers rush the low lens, slope falls behind,
+  peaks hold; grass ripples.
+• SKY MOTION: cumulus drift, sun-flare breathes as the camera rises.
+• ATMOSPHERE/FX: pollen motes, dust puffs, soft bloom, warm haze.
+• LIGHTING IN MOTION: sun rim flares at the apex as she peaks against the sky.
+• GRADE: painterly-natural HDR. AUDIO: wind swell + joyful string lift on the leap.
+• HAND-OFF → SHOT 3: on landing she bounds past the lens; we fall in BEHIND her for
+  the following shot — bound rhythm & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: mid, from directly behind — following down the slope (back)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING: eye-level-ish from directly behind, following her down the
+  trail into the valley; the descent opens ahead.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, MID (near-to-mid). OBJECT
+  (trail + her shadow) = leading down-frame ahead of her. ORIENTATION = FULL BACK-
+  TO-CAMERA (180°). CAMERA DISTANCE = MID. FACE-REVEAL: FACELESS START — stays faceless.
+• HEAD & GAZE: back of the wind-tossed bob; head up toward the valley opening.
+• TORSO/HIPS/WEIGHT: mid-stride, torso tall, hips driving the bound, weight shifting
+  foot to foot.
+• ARMS: RIGHT arm swung back (fingers open), LEFT arm forward — natural running swing,
+  bracelet catching sun on the left wrist.
+• LEGS/FEET: RIGHT leg pushing off behind (heel up), LEFT leg reaching down-slope,
+  plimsoll about to strike; dynamic gait.
+• HAIR (frame): bob streaming back toward the lens, sunlit tips.
+• FABRIC (frame): the sundress & scarf billow back toward camera — bright ribbons
+  filling the mid frame.
+• ENVIRONMENT — FG: the dirt trail & grass rushing beneath, her cast shadow leading
+  down. MG: emerald slopes, wildflowers, a boulder, a glinting stream crossing the
+  trail. BG: the valley opening to distant peaks, forest bands, drifting cumulus.
+• SKY: deep blue with big cumulus ahead, sun high back-right, valley haze at the far peaks.
+• LIGHT-TRAIL: streams from her feet straight down the trail ahead-of-frame direction,
+  mint→white, converging with the trail's perspective — a ribbon into the valley.
+• LIGHTING: warm sun from back-right haloing her silhouette & hair, cool sky fill,
+  crisp shadow leading the eye.
+• LENS & DOF: 40 mm-equiv, mid, deep-ish focus; . crisp, valley softly atmospheric.
+• PALETTE/GRADE: painterly-natural HDR, controlled vibrancy, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + no weightless float.
+
+VIDEO (unique move → FOLLOWING STEADICAM PUSH behind, down the slope):
+• 16:9 · ~5 s · 24 fps. Arrives already bounding from Shot 2's landing.
+• CAMERA: a following steadicam push locked behind her, riding the bound down the
+  trail as the valley opens ahead — buoyant, continuous, no cut.
+• HEAD & GAZE ARC: back-of-head throughout; head lifts toward the valley; no reveal
+  (faceless, compliant).
+• LIMB MOTION: full running swing of the arms; legs cycle bound→strike→push-off with
+  a brief hang; believable rhythm.
+• HIP/TORSO: hips drive each stride; torso rides tall with a gentle bob.
+• HAIR/FABRIC: bob, dress & scarf billow and settle with each bound toward camera.
+• GROUND PHYSICS: real foot-strikes puff grass/dust, shadow tracking, a splash at the
+  stream crossing.
+• LIGHT-TRAIL: elongates down the trail ahead, converging with the path lines toward
+  the valley — a corridor into the green.
+• ENVIRONMENT PARALLAX: fg trail & grass rush, midground slopes unroll, peaks hold —
+  strong forward parallax; wind ripples the grass.
+• SKY MOTION: cumulus drift slowly ahead; sun-bloom breathes.
+• ATMOSPHERE/FX: pollen motes, dust puffs, stream sparkle, soft bloom.
+• LIGHTING IN MOTION: sun rims her outline as she descends into the valley light.
+• GRADE: painterly-natural HDR. AUDIO: wind + birdsong + strings building.
+• HAND-OFF → SHOT 4: the push slides around to her flank — arriving at the profile
+  side-track, bound rhythm & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: profile side-track, mid-bound (broadside, camera-left)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING: broadside profile at grass height as she bounds left-to-
+  right across the slope, valley falling away behind, sky above.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, MEDIUM-FULL. OBJECT
+  (cast shadow) = skimming the grass beneath, broadside. ORIENTATION = PROFILE /
+  side-on (90°), gaze lifting to the sky ahead-up. CAMERA DISTANCE = MID, tracking
+  left-to-right. FACE-REVEAL: FACE-SHOWN (profile) — may resolve either way.
+• HEAD & GAZE: clean profile, chin lifting as she gazes up to the sky mid-bound;
+  blissful, lips parted in a breath of laughter.
+• TORSO/HIPS/WEIGHT: extended mid-stride, torso lifted and slightly arched to the
+  sky, hips open in the bound, weightless hang.
+• ARMS: RIGHT (far) arm swung high-forward, hand open to the light; LEFT (near) arm
+  swept back, fingers spread — full expansive swing.
+• LEGS/FEET: RIGHT (near) leg reaching forward, knee high, plimsoll flexed; LEFT leg
+  trailing in push-off, toe pointed — big open profile stride.
+• HAIR (frame): bob streaming horizontally back off the profile, sunlit.
+• FABRIC (frame): the sundress lifts and streams into long horizontal ribbons; scarf
+  a bright banner behind; hem fluttering.
+• ENVIRONMENT — FG: tall grass heads & a wildflower spray skimming past the lens.
+  MG: the emerald slope, a lone pine, a boulder, the winding trail below. BG: the
+  valley opening to peaks, forest, drifting cumulus.
+• SKY: bright blue with a big sunlit cumulus screen-right, sun-flare glancing the frame.
+• LIGHT-TRAIL: a long mint→white arc trailing behind the profile through the bound,
+  doubled faintly by the scarf's own glow — the payoff.
+• LIGHTING: warm sun rim from screen-right raking her profile & hair, cool sky fill,
+  bloom on the cumulus.
+• LENS & DOF: 50 mm-equiv, shallow-ish; . crisp, fg grass & bg valley softly blurred.
+• PALETTE/GRADE: painterly-natural HDR, warm; controlled vibrancy; skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + real bound arc, no rubbery limbs.
+
+VIDEO (unique move → PARALLEL SIDE-TRACK with a WHIP-PAN up to the sky):
+• 16:9 · ~5 s · 24 fps. Arrives already bounding from Shot 3's slide-around.
+• CAMERA: a locked parallel side-track gliding with her left-to-right, then a fast
+  WHIP-PAN UP to the sky at the end (the whip = the loop cut). No hard cut mid-clip.
+• HEAD & GAZE ARC: profile → gaze lifts to the sky (eye-led beat: blissful, a breath
+  of laughter); face shown throughout (compliant).
+• LIMB MOTION: full expansive arm swing; legs cycle the big profile bound with a hang;
+  believable spring and landing.
+• HIP/TORSO: torso arches to the sky at apex, flexes on landing, drives up again.
+• HAIR/FABRIC: bob & dress stream horizontally, ballooning at apex, settling on strike.
+• GROUND PHYSICS: real foot-strikes with grass-puff, shadow skimming beside her.
+• LIGHT-TRAIL: arcs through the bound, brightening as the whip-pan lifts to the sky.
+• ENVIRONMENT PARALLAX: fg grass rushes, slope mid-drifts, peaks hold — strong depth;
+  wind ripples the meadow.
+• SKY MOTION: cumulus drift; the whip-pan sweeps the sun-flare across frame.
+• ATMOSPHERE/FX: pollen motes, dust puffs, bloom, warm haze.
+• LIGHTING IN MOTION: sun rim rakes her profile then floods the sky on the whip.
+• GRADE: painterly-natural HDR, warm. AUDIO: wind + strings peaking into the whip.
+• LOOP / HAND-OFF → SHOT 1: the whip-pan's sky resolves back down to the high wide
+  establishing — bound rhythm & mint→white trail matched to Shot 1 for a seamless loop.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
