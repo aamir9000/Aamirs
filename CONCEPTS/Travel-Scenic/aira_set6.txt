@@ -1770,3 +1770,262 @@ VIDEO (unique move → SIDE-TRACK that CRANES UP over the crest into the sunrise
 • NEGATIVES: [STD-NEG — VIDEO].
 
 ========================================================================
+
+
+========================================================================
+CONCEPT 07 — "MIDNIGHT HIGHWAY STAR-STREAK"       ORIENTATION: 9:16
+========================================================================
+LOGLINE: . rides her e-scooter down an open, empty midnight highway under
+a vast Milky-Way sky, distant city glow on the horizon, trailing a
+violet→white iridescent wake among long-exposure light-streaks. Free,
+dreamy, nocturnal.
+CLIPS: 4 (cut together = one continuous night ride).
+GRADE PERSONALITY: NOCTURNAL HDR — deep indigo/violet, a dense star-field,
+cool ambient, warm distant city glow, subtle motion-blur light-streaks.
+Controlled: violet + white on near-black; keep blacks deep, stars crisp.
+TRAIL TINT: violet → white.
+GROUNDED-MAGICAL BEAT: real night-riding physics + real motion-blur light-
+streaks; the ONE surreal touch = her violet→white wake threading among them,
+like a living long-exposure. No cartoon streaks, no floaty light.
+FACE PLAN: Shot 1 faceless (far/back) · Shot 2 face-shown · Shot 3 faceless
+(back) · Shot 4 face-shown (profile). (2 journey, 2 beat.)
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: a fitted dark iridescent moto-jacket (violet/indigo sheen) over a
+charcoal top; slim dark trousers with a fine reflective seam that catches
+passing light; a light iridescent scarf.
+HAIR: dark-brown chin-length side-parted bob, wind-tossed, cool rim-light on edges.
+HEADWEAR: none.
+ACCESSORIES: iridescent teardrop earrings; a slim reflective choker; smart-watch
+on the LEFT wrist; silver band on the RIGHT middle finger.
+FOOTWEAR: sleek matte-black ankle boots.
+HANDS & NAILS: short almond nails, deep violet-iridescent polish.
+VEHICLE (deep): the same sleek matte-charcoal e-scooter, the under-glow strip &
+front LED now the brightest warm points on the dark road; tyres humming; chrome
+catching starlight & distant glow.
+WORLD ANCHOR: an open empty highway across a dark coastal plain — asphalt with
+crisp lane-lines & reflective road-studs, power-lines, a lone road sign, distant
+city glow on the horizon. Vast star-field & Milky-Way band, a low crescent moon.
+Keep constant.
+TIME/LIGHT: midnight; KEY = crescent moon + the scooter's under-glow/LED + warm
+distant city glow; deep indigo FILL; crisp stars. Keep constant.
+
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: low wide, far — establishing under the Milky Way
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: low wide from the roadside; . is SMALL on the ribbon of
+  highway receding to the horizon glow, the vast Milky-Way sky filling the upper
+  two-thirds (establishing / figure-to-ground far beat).
+• PLACEMENT & ORIENTATION: SUBJECT = lower-CENTRE, small, on the road ribbon;
+  lane-lines & light-trail leading to her. OBJECT (scooter) = under her, the LED
+  & under-glow a bright warm point. ORIENTATION = ¾-REAR / near back (≈150°),
+  riding away. CAMERA DISTANCE = FAR (subject small). FACE-REVEAL: FACELESS START.
+• HEAD & GAZE: (tiny) head up toward the horizon glow & stars ahead.
+• TORSO/HIPS/WEIGHT: relaxed cruise, weight centred over the deck, easy forward incline.
+• ARMS: RIGHT arm to the grip, LEFT arm to the far grip, both eased.
+• LEGS/FEET: staggered stance on the deck, knees soft.
+• HAIR (frame): a tiny dark comma; scarf a faint ribbon.
+• FABRIC (frame): jacket & scarf stream back subtly.
+• ENVIRONMENT — FG: the near asphalt with reflective road-studs catching the trail,
+  a roadside grass verge, a leaning road sign. MG: the highway receding, power-lines
+  striping the sky, a lone streetlight pooling amber. BG: the warm city glow low on
+  the horizon, dark hills.
+• SKY: the dominant element — a dense star-field, the Milky-Way band arcing overhead,
+  a low crescent moon, deep indigo-to-violet gradient, a few thin clouds catching
+  city-glow underlight.
+• LIGHT-TRAIL: a violet→white wake streaming behind her along the highway, the
+  brightest ribbon on the dark road, echoed by faint motion-blur light-streaks of a
+  distant car.
+• LIGHTING: soft moon key, warm horizon city-glow, the scooter's warm under-glow;
+  deep indigo ambient; crisp starlight.
+• LENS & DOF: 24 mm-equiv low & wide, deep focus, stars crisp, horizon glow bloomed.
+• PALETTE/GRADE: nocturnal HDR, controlled vibrancy (violet + white on near-black),
+  skin natural; sky & world read first.
+• NEGATIVES: [STD-NEG — IMAGE] + keep blacks deep, stars crisp, no cartoon streaks.
+
+VIDEO (unique move → SLOW CRANE-UP tilting to the star-field, pushing forward):
+• 9:16 · ~5 s · 24 fps. Already riding.
+• CAMERA: cranes gently UP and tilts to sweep more Milky-Way into frame while pushing
+  forward along the highway behind her — one flowing lift-and-advance. No cut.
+• HEAD & GAZE ARC: (tiny) head holds toward the horizon; no reveal (faceless).
+• LIMB MOTION: forearms micro-steer; knees absorb the road; minimal at scale.
+• HIP/TORSO: gentle counter-sway holding the lane.
+• HAIR/FABRIC: bob & scarf stream subtly in the slipstream.
+• VEHICLE PHYSICS: tyres hum, LED cone faint on the road, believable cruise.
+• LIGHT-TRAIL: lengthens & glows along the highway toward the horizon glow.
+• ENVIRONMENT PARALLAX: fg road-studs & verge slide past, power-lines sweep, distant
+  city-glow holds — deep parallax; a distant car light-streak drifts.
+• SKY MOTION: near-still; stars twinkle faintly; the Milky-Way band creeps as the crane
+  tilts; a thin cloud drifts.
+• ATMOSPHERE/FX: cool night haze low, faint bloom on the city-glow, subtle light-streaks.
+• LIGHTING IN MOTION: horizon glow warms as the push advances toward it.
+• GRADE: nocturnal HDR. AUDIO: low night wind + distant hum + a dreamy synth pad.
+• HAND-OFF → SHOT 2: the push descends ahead of her — arriving low & front for the
+  ride-toward-camera hero, cruise vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: low ¾-front hero, riding toward camera (road-level)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: road-level low hero from ahead-below as she rides toward the
+  lens, the LED cone & violet trail leading her, star-field behind.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, NEAR. OBJECT (scooter) =
+  centred, LED toward lens. ORIENTATION = near FULL-FRONTAL easing to ¾-front (0–45°).
+  CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN START — owns the eye-led beat.
+• HEAD & GAZE: head level to camera, a subtle turn; eyes bright under the cool light,
+  calm-dreamy, a faint smile; starlight catchlights in her eyes.
+• TORSO/HIPS/WEIGHT: easy forward lean into the cruise; hips centred low; weight poised.
+• ARMS: RIGHT hand on the near grip, wrist angled, fingers wrapped, choker & reflective
+  seam catching the LED; LEFT hand on the far grip, watch glinting.
+• LEGS/FEET: RIGHT boot forward on the deck, knee flexed; LEFT boot back, heel light.
+• HAIR (frame): bob framing the face, cool-rimmed, a strand lifting.
+• FABRIC (frame): the iridescent jacket shivers with speed, scarf lifting; trouser seam
+  catching a violet reflection.
+• ENVIRONMENT — FG: the near asphalt with reflective studs & the trail rushing under,
+  fine road grain. MG: lane-lines converging, a streetlight pool, power-lines. BG: the
+  star-field & Milky-Way, the crescent moon, distant city glow.
+• SKY: dense stars & the Milky-Way band framing her head, deep indigo-violet, the moon
+  a cool bloom.
+• LIGHT-TRAIL: a violet→white arc curling off the rear wheel, echoed by a distant car's
+  light-streak — the signature payoff.
+• LIGHTING: cool moon rim & the warm LED under-lighting her; deep indigo fill; a faint
+  warm kiss from the horizon city-glow.
+• LENS & DOF: 35 mm-equiv low, shallow; . crisp, stars & glow softly bloomed.
+• PALETTE/GRADE: nocturnal HDR, controlled vibrancy on near-black, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + keep blacks deep, stars crisp, no neon-mud.
+
+VIDEO (unique move → REVERSE-DOLLY retreating ahead of her under the stars):
+• 9:16 · ~5 s · 24 fps. Already riding.
+• CAMERA: a low reverse-dolly retreating ahead of her as she approaches, the star-field
+  wheeling gently behind — smooth, no cut.
+• HEAD & GAZE ARC: level to camera, a soft dreamy lift (eye-led beat) — face shown throughout.
+• LIMB MOTION: forearms micro-steer over the road; knees absorb seams.
+• HIP/TORSO: gentle counter-sway holding the lane into camera.
+• HAIR/FABRIC: bob flutters; jacket shivers; scarf lifts.
+• VEHICLE PHYSICS: tyres hum, LED cone sweeps the asphalt, believable cruise.
+• LIGHT-TRAIL: brightens & lengthens toward camera, its road-stud reflections blinking.
+• ENVIRONMENT PARALLAX: lane-lines & studs rush past, a streetlight swings by, power-
+  lines sweep, distant glow holds — deep night parallax; a car light-streak drifts.
+• SKY MOTION: stars wheel almost imperceptibly; the Milky-Way holds; moon glow breathes.
+• ATMOSPHERE/FX: cool haze, faint bloom, subtle motion-blur light-streaks.
+• LIGHTING IN MOTION: cool moon & warm LED rake across her as she nears camera.
+• GRADE: nocturnal HDR. AUDIO: night wind + hum + dreamy synth pulse.
+• HAND-OFF → SHOT 3: as she passes the lens, we swing BEHIND her down the dark highway —
+  cruise vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: low from directly behind — into the dark highway (back)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: low behind her, lens near the wet-dark asphalt, looking down
+  the empty highway toward the horizon glow as she rides away.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, lower-to-middle third, NEAR-mid. OBJECT
+  (scooter tail + under-glow) = CENTRE foreground nearest lens. ORIENTATION = FULL
+  BACK-TO-CAMERA (180°). CAMERA DISTANCE = NEAR (deck-level). FACE-REVEAL: FACELESS.
+• HEAD & GAZE: back of the wind-tossed bob; head toward the horizon glow.
+• TORSO/HIPS/WEIGHT: eased forward into the cruise; hips low & centred.
+• ARMS: RIGHT arm to the grip, LEFT arm to the far grip; scarf tail streaming to lens.
+• LEGS/FEET: staggered boots on the deck, knees soft, under-glow lighting the heels.
+• HAIR (frame): bob streaming back toward the lens, cool-rimmed tips.
+• FABRIC (frame): jacket & scarf snap back toward camera; the violet trail flares low
+  off the rear wheel.
+• ENVIRONMENT — FG: the glowing rear wheel & under-glow strip, reflective road-studs
+  blinking violet. MG: the highway receding, lane-lines converging, power-lines striping
+  the star-sky, a streetlight ahead. BG: the warm city glow at the vanishing point,
+  dark hills, stars.
+• SKY: dense stars & the Milky-Way arc above the road, crescent moon high-left, deep
+  indigo-violet.
+• LIGHT-TRAIL: streams straight down the highway from the wheel toward the horizon glow,
+  violet→white, converging with the lane-lines — a corridor of light under the stars,
+  faint car light-streaks crossing far ahead.
+• LIGHTING: the under-glow lighting the near road, cool moon on her shoulders, warm
+  distant glow at the vanishing point; deep indigo fill.
+• LENS & DOF: 28 mm-equiv low; wheel & studs crisp, highway a deep starlit bloom.
+• PALETTE/GRADE: nocturnal HDR, controlled vibrancy, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + keep blacks deep, no cartoon streaks.
+
+VIDEO (unique move → LOW TRACKING PUSH behind, down the corridor of light):
+• 9:16 · ~5 s · 24 fps. Arrives already riding from Shot 2's pass.
+• CAMERA: a low tracking push locked behind the wheel, chasing her down the empty
+  highway as the studs blink past and the trail streaks ahead — steady advance, no cut.
+• HEAD & GAZE ARC: back-of-head throughout; no reveal (faceless, compliant).
+• LIMB MOTION: forearms micro-steer; knees/ankles absorb the road.
+• HIP/TORSO: subtle counter-sway; forward incline held.
+• HAIR/FABRIC: bob & scarf stream and ripple toward camera.
+• VEHICLE PHYSICS: tyres hum, LED cone splitting the dark, under-glow reflecting on
+  studs, believable cruise.
+• LIGHT-TRAIL: elongates into a bright corridor toward the horizon glow, lane-lines &
+  trail converging at the vanishing point; distant car light-streaks drift across.
+• ENVIRONMENT PARALLAX: studs & lane-lines rush, a streetlight swings past, power-lines
+  sweep, city-glow holds — fast night-corridor parallax.
+• SKY MOTION: stars near-static, twinkling; Milky-Way holds; moon glow breathes.
+• ATMOSPHERE/FX: cool haze, faint bloom, subtle motion-blur streaks.
+• LIGHTING IN MOTION: warm glow grows at the vanishing point as she rides toward it.
+• GRADE: nocturnal HDR. AUDIO: wind + hum + synth pulse building.
+• HAND-OFF → SHOT 4: the push slides around to her flank — arriving at the profile
+  side-track, cruise vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: profile side-track (broadside, camera-left)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: broadside profile at deck height as she cruises left-to-right
+  down the highway, the star-field & Milky-Way arcing above, city glow low behind.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, MEDIUM-FULL. OBJECT (scooter)
+  = beneath her, broadside, under-glow toward camera. ORIENTATION = PROFILE / side-on
+  (90°), gaze lifting UP to the Milky-Way. CAMERA DISTANCE = MID, tracking left-to-right.
+  FACE-REVEAL: FACE-SHOWN (profile) — may resolve either way.
+• HEAD & GAZE: clean profile, chin lifting as she gazes up to the stars; quiet wonder,
+  lips softly parted, a dreamy half-smile.
+• TORSO/HIPS/WEIGHT: easy glide-lean, hips level, weight centred, spine long & lifted.
+• ARMS: RIGHT (far) hand on the grip; LEFT (near) hand eased on the near grip, wrist
+  relaxed, watch glinting.
+• LEGS/FEET: RIGHT (near) boot forward on the deck, knee soft; LEFT boot back, heel light.
+• HAIR (frame): bob streaming horizontally back off the profile, cool-rimmed.
+• FABRIC (frame): the iridescent jacket & scarf lift into long horizontal ribbons; a
+  violet trail arcing behind.
+• ENVIRONMENT — FG: a roadside reflector-post & guard-rail streaking past. MG: the
+  highway, lane-lines, a streetlight pool, power-lines. BG: the star-field, Milky-Way,
+  crescent moon, the warm city glow low behind.
+• SKY: dominant — dense stars, the Milky-Way band overhead, deep indigo-violet, moon glow.
+• LIGHT-TRAIL: a long violet→white arc trailing behind the profile, doubled by the scarf
+  glow, echoed by distant car light-streaks — the payoff.
+• LIGHTING: cool moon rim raking her profile & hair, warm under-glow from below, deep
+  indigo fill; a faint warm horizon kiss.
+• LENS & DOF: 50 mm-equiv, shallow-ish; . crisp, fg post & bg stars softly blurred.
+• PALETTE/GRADE: nocturnal HDR; controlled vibrancy on black; skin natural (no violet
+  cast on the face).
+• NEGATIVES: [STD-NEG — IMAGE] + skin stays true, blacks deep, stars crisp.
+
+VIDEO (unique move → SIDE-TRACK that CRANES UP to the Milky-Way):
+• 9:16 · ~5 s · 24 fps. Arrives already cruising from Shot 3's slide-around.
+• CAMERA: a parallel side-track gliding with her, then a CRANE-UP tilting to the Milky-
+  Way at the end (the lift = the loop cut). No hard cut mid-clip.
+• HEAD & GAZE ARC: profile → gaze lifts to the stars (eye-led beat: quiet wonder, dreamy
+  half-smile); face shown throughout (compliant).
+• LIMB MOTION: hands steady on the grips; a soft chin-lift; legs easy.
+• HIP/TORSO: gentle glide-lean holding the lane; torso lifts slightly to the sky.
+• HAIR/FABRIC: bob & scarf stream horizontally, lifting as the crane rises.
+• VEHICLE PHYSICS: tyres hum, under-glow steady, believable cruise.
+• LIGHT-TRAIL: arcs behind, brightening as the crane lifts toward the stars.
+• ENVIRONMENT PARALLAX: fg post & rail rush, highway mid-drifts, city-glow holds as the
+  crane rises; a car light-streak sweeps far off.
+• SKY MOTION: stars wheel gently into frame as the crane tilts up; Milky-Way fills; moon
+  glow breathes.
+• ATMOSPHERE/FX: cool haze, bloom on the glow, subtle light-streaks, faint star-shimmer.
+• LIGHTING IN MOTION: cool moon rakes her, then the star-field fills the frame on the lift.
+• GRADE: nocturnal HDR, dreamy. AUDIO: wind + hum + pad resolving to a soft starlit swell.
+• LOOP / HAND-OFF → SHOT 1: the crane's Milky-Way resolves back to the wide establishing
+  under the stars — cruise vector & violet→white trail matched to Shot 1 for a seamless loop.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
