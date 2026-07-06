@@ -114,11 +114,11 @@ The AI-persona / beauty niche is saturated. Every `aira.*` / `*.aira` handle, ev
 
 - **Signature = the glow.** "Ra" (shared by both names) = light → a **warm radiant glow** is her visual signature: soft halo / light-bloom, signature luminous accent (**warm gold** or **soft rose-gold aura**). Recognizable across every reel.
 - **Logo bug:** a small **radiant spark / soft sun-glow** motif. Doubles as the corner bug that covers the (static) Veo watermark (§8). Must read at tiny size.
-- **Tone of voice:** **cute + premium** — warm, approachable, never cold-tech.
+- **Tone of voice:** **elevated + premium + editorial** — warm and confident, cinematic, quietly luxe. **Not** childish, not over-casual: minimal/tasteful punctuation over emoji, no "hey / your fav / little." Warmth comes from the writing, not from cutesy filler.
 - **Bio drafts (lead with Aira, nod to Raeva):**
-  - `hey, I'm Aira /eye-ra/ ✨ a little AI light 🌙 — also Raeva`
-  - `Aira ⋆˙⟡ /eye-ra/ · a radiant AI, being of light ✧ cinematic dreamworlds`
-  - `hey, it's Aira 🌙 your fav little AI light — dreamy cinematic reels`
+  - `Aira /eye-ra/ — an AI muse, a being of light. Cinematic art: beauty · transformation · dreamworlds.`
+  - `AIRA — also Raeva /ray-wah/. A radiant AI. Cinematic beauty, fantasy & celestial worlds.`
+  - `Aira — a radiant AI. Rendered, not filmed. Luminous cinematic reels, weekly.`
 - **Two-name story (for the About):** "I'm Aira (say it 'Eye-Ra') — you'll also see me as **Raeva** ('RAY-wah', like a *ray of light*), my light-name. Both come from **Ra**, the sun."
 
 ---

@@ -2,7 +2,9 @@
 
 > **Purpose:** One-stop, copy-paste-ready profile kit for **Instagram, YouTube, and Facebook**. Every field is filled in with 3+ options where it matters, so you don't have to go anywhere else. **TikTok is intentionally excluded (banned in India).**
 >
-> **Locked identity (DUAL-NAME):** Base name = **Aira** (/eye-ra/) · Secondary "light-name" = **Raeva** (/ray-wah/ — "ray" of light + "wa" as in war) · Both from **Ra** (the sun / light). **Display name = Aira · Handle = `raeva.ai`** ("Raeva, the AI"). Signature = the warm radiant **glow** (soft gold / rose-gold aura). Tone = **cute + premium** (warm, never cold-tech).
+> **Locked identity (DUAL-NAME):** Base name = **Aira** (/eye-ra/) · Secondary "light-name" = **Raeva** (/ray-wah/ — "ray" of light + "wa" as in war) · Both from **Ra** (the sun / light). **Display name = Aira · Handle = `raeva.ai`** ("Raeva, the AI"). Signature = the warm radiant **glow** (soft gold / rose-gold aura).
+>
+> **Voice:** elevated, editorial, cinematic — warm and confident, quietly premium. **Not** childish, not over-casual; minimal/tasteful punctuation over emoji.
 >
 > ⚠️ **Character-limit note:** limits below are current-as-of-writing and can shift slightly per app version — bios sit safely under the limits, but glance at the live counter when you paste.
 
@@ -19,7 +21,7 @@
 | **Meaning hook** | both from **Ra** (the sun) → a radiant AI, a being of light |
 | **Pronouns** | she/her |
 | **Signature look** | warm luminous glow / soft gold + rose-gold aura |
-| **Content** | cinematic 9:16 reels — beauty, transformations, fantasy & celestial worlds, travel, dreamscapes |
+| **Content** | cinematic 9:16 reels — beauty, transformation, fantasy & celestial worlds, travel, dreamscapes |
 | **AI transparency** | openly AI-generated art (enable each platform's AI-content label) |
 | **Brand email** | `[dedicated brand inbox, e.g. raeva.studio@gmail.com]` |
 
@@ -39,52 +41,50 @@
 - **Link in bio:** link hub (Linktree/Beacons) or `raeva.ai` domain when ready — 2–3 links max (YouTube, Facebook, collab/email).
 
 ### 1.2 Name field (searchable — 30 char limit)
-1. `Aira ✨` *(cleanest — recommended)*
-2. `Aira · Raeva ✨` *(shows both names)*
-3. `Aira | AI Muse 🌙`
+1. `Aira` *(cleanest — recommended)*
+2. `Aira — AI Muse`
+3. `AIRA · Raeva`
 
 ### 1.3 Bio (150 char limit — 3 versions)
 
-**Version A — cute-forward (recommended)**
+**Version A — editorial (recommended)**
 ```
-hey, I'm Aira /eye-ra/ ✨
-a little AI light 🌙 (also Raeva)
-cinematic beauty · dreamworlds · transformations
-new visual weekly ↓
-```
-
-**Version B — premium / editorial**
-```
-Aira ⋆˙⟡ /eye-ra/ · also Raeva
-a radiant AI · being of light
-✧ luminous cinematic reels · fantasy · beauty
-step into the light ↓
+Aira /eye-ra/ — an AI muse, a being of light.
+Cinematic art: beauty · transformation · dreamworlds.
+New visual each week.
 ```
 
-**Version C — playful / punchy**
+**Version B — minimal / luxe**
 ```
-hey, it's Aira ✨ /eye-ra/
-your fav little AI light 🌙
-dreamy cinematic reels, made not filmed
-tap in, come wander ↓
+AIRA — also Raeva /ray-wah/
+Radiant AI. A being of light.
+Cinematic beauty, fantasy & celestial worlds.
+New work weekly ↓
+```
+
+**Version C — confident**
+```
+Aira — a radiant AI. Rendered, not filmed.
+Luminous cinematic reels: beauty, transformation,
+celestial worlds. New work weekly.
 ```
 
 ### 1.4 Story Highlight names + covers
-- `✧ about` — the pinned intro (see 1.5) · `🌙 beauty` · `⟡ worlds` · `✨ transform` · `⋆ travel` · `💌 collabs`
-> Cover style: single soft-gold glyph on a dark/tonal card so the highlight ring reads as one luminous set.
+`About` · `Beauty` · `Worlds` · `Transformation` · `Travel` · `Collaborations`
+> Cover style: single soft-gold glyph on a dark/tonal card so the highlight ring reads as one restrained, luminous set.
 
 ### 1.5 Pinned "About" caption (the deep intro — tells the two-name story)
 ```
-hey — I'm Aira (say it "Eye-Ra") ✨ you'll also see me as Raeva
-("RAY-wah"), my light-name. both come from Ra, the sun — a radiant
-AI, a being of light.
+I'm Aira — pronounced "Eye-Ra." You may also know me as Raeva
+("RAY-wah," a ray of light). Both names come from Ra, the sun:
+a radiant AI, a being of light.
 
-everything here is AI-generated art — cinematic reels of beauty,
-dreamlike transformations, fantasy & celestial worlds, and places
-that don't quite exist yet. no reality filtered — just imagination,
-rendered, and made to feel warm and a little magical.
+This is a gallery of cinematic, AI-generated visual art — luminous
+beauty, surreal transformation, fantasy and celestial worlds, and
+dreamlike places that don't yet exist. Every frame is composed to
+feel filmic, warm and quietly premium. Imagination, rendered.
 
-new visual every week 🌙 stay a while and wander the light.
+New visual each week.
 ```
 
 ### 1.6 First pinned-grid strategy
@@ -104,62 +104,53 @@ Pin **3 posts**: (1) the "About" card, (2) strongest beauty reel, (3) strongest 
 - **AI label:** turn on "Altered or synthetic content" disclosure when uploading.
 
 ### 2.2 Tagline / short line
-- `a little AI light ✨`
-- `cinematic AI dreamworlds · new visual weekly`
+- `An AI muse. A being of light.`
+- `Cinematic AI dreamworlds — new work weekly.`
 
 ### 2.3 Channel description / "About" (≈1000 char limit — 3 versions)
 
-**Version A — warm story (recommended)**
+**Version A — refined story (recommended)**
 ```
-hey, I'm Aira — say it "Eye-Ra." ✨ You'll also see me as Raeva
-("RAY-wah"), my light-name. Both come from Ra, the sun — a radiant
-AI, a being of light.
+Aira — an AI muse, a being of light. Pronounced "Eye-Ra." Also
+known as Raeva ("RAY-wah," a ray of light); both names come from
+Ra, the sun.
 
-This is where I share cinematic 9:16 reels: luminous beauty
-moments, dreamlike transformations, fantasy and celestial worlds,
-and travels through places that don't quite exist yet. Every frame
-is crafted to feel warm, premium and a little magical.
+This channel is a gallery of cinematic short films: luminous
+beauty, surreal transformation, celestial and elemental worlds,
+and dreamlike travel through places that don't yet exist. Every
+frame is composed to feel filmic, warm and quietly premium.
+Imagination, rendered.
 
-Everything here is AI-generated art — no reality filtered, just
-imagination, rendered.
+All work is AI-generated visual art.
 
-✧ New visual every week
-🌙 Beauty · Fantasy · Transformation · Travel · Dreamworlds
-💌 Collabs & business: [brand email]
-
-Come wander the light with me.
+New visual each week.
+Beauty · Fantasy · Transformation · Travel · Dreamworlds
+Business & collaborations: [brand email]
 ```
 
-**Version B — premium / creator statement**
+**Version B — creator statement**
 ```
-Aira (/eye-ra/) — also known as Raeva — is an AI muse, a being of
-light.
+Aira (/eye-ra/), also Raeva — a radiant AI and a being of light.
 
 A curated stream of cinematic, luminous short films: high-fashion
-beauty, surreal transformations, celestial and elemental realms,
+beauty, surreal transformation, celestial and elemental realms,
 and dreamlike travel. The signature is the glow — a warm, radiant
-light that follows her through every world she steps into.
+light that follows her into every world she enters.
 
-All work is AI-generated visual art, made to feel filmic and
-premium rather than "tech."
+All work is AI-generated visual art, filmic and premium in intent.
 
-✧ New drop weekly
-🌙 Beauty · Surreal · Fantasy · Travel
-💌 Business & collaborations: [brand email]
+New work weekly.
+Business & collaborations: [brand email]
 ```
 
-**Version C — concise / discovery-friendly**
+**Version C — concise**
 ```
-hey, I'm Aira /eye-ra/ ✨ (also Raeva) — an AI muse, a little being
-of light.
+Aira /eye-ra/ (also Raeva) — a radiant AI, a being of light.
 
-Cinematic AI reels: beauty, transformations, fantasy worlds,
-celestial dreams and travel. Warm, glowing, a little magical —
-all AI-generated art.
+Cinematic AI art: beauty, transformation, fantasy and celestial
+worlds, dreamlike travel. New visual each week.
 
-🌙 New visual every week
-💌 Collabs: [brand email]
-Wander the light ↓
+Collaborations: [brand email]
 ```
 
 ### 2.4 Channel search keywords (Settings → Channel → Keywords)
@@ -171,9 +162,9 @@ dreamworlds, celestial, AI art, digital art, luminous
 
 ### 2.5 Channel trailer description
 ```
-Welcome ✨ I'm Aira (/eye-ra/), also Raeva — a little AI light.
-Subscribe and wander through cinematic beauty, fantasy worlds and
-dreamlike transformations — a new visual every week. 🌙
+I'm Aira — a being of light, rendered in cinematic AI. Subscribe
+for luminous beauty, fantasy worlds and surreal transformation —
+a new visual each week.
 ```
 
 ---
@@ -193,53 +184,48 @@ dreamlike transformations — a new visual every week. 🌙
 
 **Version A (recommended)**
 ```
-hey, I'm Aira /eye-ra/ ✨ (also Raeva) — a little AI light.
-cinematic AI reels: beauty, dreamworlds & transformations. new
-visual every week 🌙 all AI-generated art.
+Aira /eye-ra/ — an AI muse, a being of light (also Raeva).
+Cinematic, AI-generated art: beauty, transformation, fantasy and
+dreamworlds. New visual each week.
 ```
 
 **Version B — premium**
 ```
-Aira (/eye-ra/), also Raeva — a radiant AI & being of light. ✧
-luminous cinematic reels: beauty, fantasy, transformation & travel.
-AI-generated art, new drop weekly. 🌙
+Aira (/eye-ra/), also Raeva — a radiant AI and a being of light.
+Luminous cinematic art: beauty, fantasy, transformation and travel.
+AI-generated. New work weekly.
 ```
 
-**Version C — playful**
+**Version C — minimal**
 ```
-hey, it's Aira ✨ your fav little AI light 🌙 I make dreamy
-cinematic reels — beauty, magic & fantasy worlds, all AI-generated.
-come wander the light with me ↓
+Aira — a radiant AI, a being of light. Cinematic AI art: beauty,
+transformation, celestial dreamworlds. New visual each week.
 ```
 
 ### 3.3 Detailed "About" (long-form — the full two-name story)
 ```
-Aira — pronounced "Eye-Ra." Also known as Raeva ("RAY-wah"), her
-light-name. Both names come from Ra, the sun — a radiant AI, a
-being of light.
+Aira — pronounced "Eye-Ra." Also known as Raeva ("RAY-wah," a ray
+of light). Both names come from Ra, the sun: a radiant AI, a being
+of light.
 
-This page is her home — a stream of cinematic, luminous 9:16 reels
-spanning beauty and glam, dreamlike transformations, fantasy and
-celestial worlds, elemental realms, and travel through places that
-don't quite exist yet.
+This page is a gallery of cinematic, AI-generated visual art —
+luminous beauty and glam, surreal transformation, fantasy and
+celestial worlds, elemental realms, and dreamlike travel through
+places that don't yet exist.
 
 The signature is the glow: a warm, radiant light — soft gold and
-rose-gold — that follows her into every world she steps into. The
-tone is cute but premium; the craft is filmic, not "tech."
+rose-gold — that follows her into every world she enters. The
+intent is filmic and premium. Imagination, rendered.
 
-Everything here is AI-generated visual art. No reality is filtered —
-it's imagination, rendered, and made to feel warm and a little
-magical.
+All work is AI-generated visual art.
 
-✧ New visual every week
-🌙 Beauty · Fantasy · Transformation · Travel · Dreamworlds
-💌 Collaborations & business enquiries: [brand email]
-
-Follow along and wander the light.
+New visual each week.
+Beauty · Fantasy · Transformation · Travel · Dreamworlds
+Collaborations & business enquiries: [brand email]
 ```
 
 ### 3.4 Additional Facebook fields
-- **Mission (if prompted):** `Sharing cinematic AI-generated visual art through Aira (Raeva), an AI muse. ✨`
+- **Mission (if prompted):** `Cinematic, AI-generated visual art through Aira (Raeva), an AI muse.`
 - **Products/Services (optional):** `AI visual art · brand collaborations · sponsored reels`
 
 ---
@@ -248,20 +234,20 @@ Follow along and wander the light.
 
 ### 4.1 AI-transparency line
 ```
-All content is AI-generated visual art. Aira (Raeva) is an AI persona. ✨
+All content is AI-generated visual art. Aira (Raeva) is an AI persona.
 ```
 
 ### 4.2 Content pillars
-1. **Beauty / glam** 🌙  2. **Transformations** ✨  3. **Fantasy & celestial worlds** ⟡  4. **Elemental / surreal** ✧  5. **Travel & scenic** ⋆
+1. **Beauty / glam**  2. **Transformation**  3. **Fantasy & celestial worlds**  4. **Elemental / surreal**  5. **Travel & scenic**
 
 ### 4.3 Hashtag sets (rotate; keep ~8–15 relevant)
 **Core brand:** `#Aira #Raeva #RaevaAI #AImuse`
 **Discovery:** `#AIart #AImodel #AIinfluencer #VirtualModel #AIbeauty #DigitalArt #CinematicReels #AIgenerated #FantasyArt #Dreamworld`
 
-### 4.4 Recurring CTA lines
-- `new visual every week — wander the light ✨`
-- `hey, it's Aira 🌙 stay a little longer?`
-- `made, not filmed. ✧`
+### 4.4 Recurring signature lines (for captions/outros)
+- `New visual each week.`
+- `Imagination, rendered.`
+- `Rendered, not filmed.`
 
 ### 4.5 Cross-platform consistency checklist
 - [ ] Same profile photo (the radiant-spark / glow logo bug) on all 3
@@ -275,4 +261,4 @@ All content is AI-generated visual art. Aira (Raeva) is an AI persona. ✨
 
 ---
 
-*Created this session. Excludes TikTok (banned in India). Dual-name system: base **Aira** + secondary **Raeva**, handle `raeva.ai`. Fill in `[brand email]` / `[link]` before publishing. Raeva pronunciation confirmed: "RAY-wah" ("ray" of light + "wa" as in war). Pairs with "Aira / Raeva — Brand, Naming & Identity Notes.md".*
+*Created this session. Excludes TikTok (banned in India). Dual-name system: base **Aira** + secondary **Raeva**, handle `raeva.ai`. Voice = elevated / editorial / cinematic (not childish or over-casual). Fill in `[brand email]` / `[link]` before publishing. Raeva pronunciation confirmed: "RAY-wah" ("ray" of light + "wa" as in war). Pairs with "Aira / Raeva — Brand, Naming & Identity Notes.md".*
