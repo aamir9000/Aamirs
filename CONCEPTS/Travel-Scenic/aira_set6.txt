@@ -2279,3 +2279,261 @@ VIDEO (unique move → SIDE-TRACK with petal-swirl, WHIP-PAN up into the canopy)
 • NEGATIVES: [STD-NEG — VIDEO].
 
 ========================================================================
+
+
+========================================================================
+CONCEPT 09 — "BIOLUMINESCENT SHORE"               ORIENTATION: 16:9
+========================================================================
+LOGLINE: . rides her e-scooter along a low shoreline boardwalk beside a
+sea glowing with bioluminescence, tyres skimming the glowing wet sand,
+trailing a teal→lilac iridescent wake under a star-field. Magical, serene,
+nocturnal.
+CLIPS: 4 (cut together = one continuous shoreline glide).
+GRADE PERSONALITY: NOCTURNAL-COASTAL HDR — deep teal + lilac + midnight-
+blue, bioluminescent glow, crisp star-field, cool & luminous. Controlled:
+teal/lilac glow on near-black sea & sand; keep blacks deep.
+TRAIL TINT: teal → lilac.
+GROUNDED-MAGICAL BEAT: real bioluminescence physics — the surf & wet sand
+spark blue-teal where disturbed (a real phenomenon); the ONE surreal touch =
+her teal→lilac wake weaving into the glowing surf. No cartoon glow, no floaty CGI.
+FACE PLAN: Shot 1 faceless (far/back) · Shot 2 face-shown · Shot 3 faceless
+(back) · Shot 4 face-shown (profile). (2 journey, 2 beat.)
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: a flowing iridescent wrap top in deep teal shifting to lilac, over a
+fitted dark base; a light gauzy midi skirt that streams; a fine iridescent scarf.
+HAIR: dark-brown chin-length side-parted bob, wind-tossed, cool glow-rim on edges.
+HEADWEAR: none.
+ACCESSORIES: iridescent teardrop earrings; a fine anklet on the RIGHT ankle;
+a slim bracelet on the LEFT wrist.
+FOOTWEAR: sleek low sneakers in dark iridescent, occasionally skimming the wet sand.
+HANDS & NAILS: short almond nails, teal-iridescent polish.
+VEHICLE (deep): the same sleek matte e-scooter, under-glow now a bright teal, front
+LED cool; tyres skim the glowing wet sand kicking a fine bioluminescent spray;
+chrome catching starlight.
+WORLD ANCHOR: a low wooden boardwalk beside a dark beach at night — planks with
+gaps, dune grass & driftwood, wet sand mirroring stars, the sea breaking in glowing
+teal bioluminescent lines; distant coastal lights on a headland. Star-field, low moon.
+Keep constant.
+TIME/LIGHT: night; KEY = bioluminescent glow from below + low moon + the scooter's
+teal under-glow; deep midnight-blue FILL; crisp stars. Keep constant.
+
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: high wide, far — establishing the glowing coastline
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING: high wide along the shoreline; . is SMALL on the boardwalk,
+  the glowing bioluminescent surf + wet sand + star-field filling the frame
+  (establishing / figure-to-ground far beat).
+• PLACEMENT & ORIENTATION: SUBJECT = lower-LEFT third, small, on the boardwalk beside
+  the glowing waterline. OBJECT (scooter) = under her, a teal point. ORIENTATION =
+  ¾-REAR / near back (≈150°), gliding along the shore. CAMERA DISTANCE = FAR (subject
+  small). FACE-REVEAL: FACELESS START — stays faceless.
+• HEAD & GAZE: (tiny) head turned toward the glowing sea; a relaxed, wonder-filled posture.
+• TORSO/HIPS/WEIGHT: easy cruise, weight centred over the deck, soft incline.
+• ARMS: RIGHT arm to the grip, LEFT arm eased toward the sea.
+• LEGS/FEET: staggered stance, knees soft, a foot near the glowing wet sand.
+• HAIR (frame): a tiny dark comma, glow-rimmed; scarf a faint ribbon.
+• FABRIC (frame): the teal wrap & skirt stream back gently.
+• ENVIRONMENT — FG (near lens, high): dune grass & a driftwood log framing, wet sand
+  mirroring stars. MG: the boardwalk running the shore, the surf breaking in glowing
+  teal bioluminescent lines, foam sparking blue. BG: the dark sea to the horizon, a
+  headland with distant warm coastal lights.
+• SKY: dense star-field, Milky-Way arc, a low crescent moon, deep midnight-blue-to-teal
+  gradient near the horizon; a few thin clouds.
+• LIGHT-TRAIL: a teal→lilac wake threading along the boardwalk behind her, weaving toward
+  the glowing surf — the brightest ribbon in the scene, guiding the eye.
+• LIGHTING: cool moon key, bioluminescent glow rising from the surf & wet sand, the teal
+  under-glow; deep midnight fill; crisp starlight.
+• LENS & DOF: 24 mm-equiv, deep focus, stars crisp, glow & horizon softly bloomed.
+• PALETTE/GRADE: nocturnal-coastal HDR, controlled vibrancy (teal + lilac on near-black),
+  skin natural; sea & sky read first.
+• NEGATIVES: [STD-NEG — IMAGE] + keep blacks deep, stars crisp, no cartoon glow.
+
+VIDEO (unique move → DRONE CRANE-UP + reveal along the glowing coast):
+• 16:9 · ~5 s · 24 fps. Already gliding.
+• CAMERA: a drone crane-up that lifts and sweeps along the coastline revealing the glowing
+  surf & star-field, while advancing with her — one flowing lift-and-track. No cut.
+• HEAD & GAZE ARC: (tiny) head holds toward the sea; no reveal (faceless).
+• LIMB MOTION: a hand eases toward the sea; forearms micro-steer; minimal at scale.
+• HIP/TORSO: gentle counter-sway holding the boardwalk line.
+• HAIR/FABRIC: bob, wrap & skirt stream subtly.
+• VEHICLE PHYSICS: tyres hum on planks, an occasional skim of glowing wet sand sparking spray.
+• LIGHT-TRAIL: lengthens along the shore, weaving toward the glowing surf.
+• ENVIRONMENT PARALLAX: fg dune grass & driftwood sweep as the drone lifts, boardwalk &
+  surf unroll, headland holds — deep coastal parallax; bioluminescent lines pulse with the waves.
+• SKY MOTION: stars near-static, twinkling; Milky-Way holds; a thin cloud drifts; moon glow breathes.
+• ATMOSPHERE/FX: cool sea-mist, spray sparks, faint bloom on the coastal lights, star-shimmer.
+• LIGHTING IN MOTION: the surf's glow pulses brighter as bigger waves break.
+• GRADE: nocturnal-coastal HDR. AUDIO: soft surf + night breeze + a dreamy shimmering pad.
+• HAND-OFF → SHOT 2: the drone descends ahead of her at the waterline — arriving low & front
+  for the ride-toward-camera hero, glide vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: low ¾-front hero, riding toward camera (waterline)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING: low hero from ahead-below at the waterline as she rides toward
+  the lens, tyres sparking bioluminescent spray, glowing surf & stars behind.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, NEAR. OBJECT (scooter) =
+  centred, teal LED & under-glow toward lens. ORIENTATION = near FULL-FRONTAL easing to
+  ¾-front (0–45°). CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN START — owns the beat.
+• HEAD & GAZE: head level to camera, a soft turn toward the glowing sea; eyes bright with
+  the blue glow, serene wonder, a gentle smile; glow catchlights in her eyes.
+• TORSO/HIPS/WEIGHT: easy forward lean into the glide; hips centred low; weight poised.
+• ARMS: RIGHT hand on the near grip, fingers wrapped, teal under-glow lighting her skin;
+  LEFT hand eased out toward the surf, bracelet glinting.
+• LEGS/FEET: RIGHT sneaker forward on the deck, knee soft; LEFT foot back, occasionally
+  skimming the glowing wet sand.
+• HAIR (frame): bob framing the face, glow-rimmed, a wind-lifted strand.
+• FABRIC (frame): the teal wrap shivers, skirt lifting, scarf streaming; a fine spark of
+  bioluminescent spray beading the fabric.
+• ENVIRONMENT — FG: glowing wet sand & bioluminescent spray arcing across the low lens,
+  a rippling reflection of stars. MG: the surf breaking in teal glow-lines, foam sparking,
+  the boardwalk. BG: the dark sea & star-field, the crescent moon, distant coastal lights.
+• SKY: dense stars & Milky-Way framing her head, deep midnight-teal, moon bloom.
+• LIGHT-TRAIL: a teal→lilac arc curling off the rear wheel, weaving into the glowing surf —
+  the signature payoff.
+• LIGHTING: cool moon rim, bioluminescent underglow from the sand & spray lighting her from
+  below, the teal LED; deep midnight fill.
+• LENS & DOF: 35 mm-equiv low, shallow; . crisp, surf-glow & stars softly bloomed.
+• PALETTE/GRADE: nocturnal-coastal HDR, controlled vibrancy on near-black, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + keep blacks deep, stars crisp, real glow (no cartoon).
+
+VIDEO (unique move → REVERSE-DOLLY retreating ahead at the waterline):
+• 16:9 · ~5 s · 24 fps. Already gliding.
+• CAMERA: a low reverse-dolly retreating ahead of her along the waterline as she approaches,
+  glowing spray streaming between lens and subject — smooth, no cut.
+• HEAD & GAZE ARC: level to camera, a serene glance toward the glowing sea then back (eye-led
+  beat, gentle smile) — face shown throughout.
+• LIMB MOTION: LEFT hand reaches toward the surf then eases back; forearms micro-steer; a
+  foot skims the wet sand sparking glow.
+• HIP/TORSO: gentle counter-sway holding the line into camera.
+• HAIR/FABRIC: bob flutters, wrap & skirt lift, scarf streams; spray beads.
+• VEHICLE PHYSICS: tyres hum & skim the glowing sand, kicking a real bioluminescent spray,
+  believable traction.
+• LIGHT-TRAIL: brightens toward camera, weaving into the surf-glow, its sand-reflection rippling.
+• ENVIRONMENT PARALLAX: glowing sand & spray rush the low lens, surf-lines pulse past, headland
+  holds — deep coastal parallax; waves break and glow in real time.
+• SKY MOTION: stars near-static, twinkling; Milky-Way holds; moon glow breathes.
+• ATMOSPHERE/FX: sea-mist, glowing spray, bloom, star-shimmer.
+• LIGHTING IN MOTION: the surf's glow pulses over her as waves break beside her.
+• GRADE: nocturnal-coastal HDR. AUDIO: surf + breeze + shimmering pad.
+• HAND-OFF → SHOT 3: as she passes the lens, we swing BEHIND her along the surf — glide
+  vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: low from directly behind — along the glowing surf (back)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING: low behind her, lens near the glowing wet sand, looking down the
+  shoreline as she glides away, the surf breaking in teal light on the right.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, lower-to-middle third, NEAR-mid. OBJECT
+  (scooter tail + teal under-glow) = CENTRE foreground nearest lens. ORIENTATION = FULL
+  BACK-TO-CAMERA (180°). CAMERA DISTANCE = NEAR (sand-level). FACE-REVEAL: FACELESS.
+• HEAD & GAZE: back of the wind-tossed bob; head toward the glowing shoreline ahead.
+• TORSO/HIPS/WEIGHT: eased forward into the glide; hips low & centred.
+• ARMS: RIGHT arm to the grip, LEFT arm eased toward the surf; scarf tail streaming to lens.
+• LEGS/FEET: staggered sneakers, a foot occasionally skimming the sparking sand, under-glow teal.
+• HAIR (frame): bob streaming back toward the lens, glow-rimmed tips.
+• FABRIC (frame): wrap & skirt snap back toward camera; the teal trail flares low off the
+  rear wheel, sparking the wet sand.
+• ENVIRONMENT — FG: the rear wheel & teal under-glow, glowing wet sand mirroring stars,
+  a spark of bioluminescent spray. MG: the shoreline receding, the surf breaking in teal
+  glow-lines on the right, foam sparking, the boardwalk on the left. BG: the dark sea &
+  star-field, the headland with distant coastal lights.
+• SKY: dense stars & Milky-Way above the shore, crescent moon high, deep midnight-teal.
+• LIGHT-TRAIL: streams down the shoreline from the wheel, teal→lilac, weaving with the
+  glowing surf-lines, converging toward the headland — a corridor of glow under the stars.
+• LIGHTING: bioluminescent glow from the sand & surf lighting the near scene, cool moon on
+  her shoulders, distant warm coastal glow ahead; deep midnight fill.
+• LENS & DOF: 28 mm-equiv low; wheel & near sand crisp, shoreline a deep glowing bloom.
+• PALETTE/GRADE: nocturnal-coastal HDR, controlled vibrancy, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + keep blacks deep, real glow, no cartoon CGI.
+
+VIDEO (unique move → LOW TRACKING PUSH behind, along the glowing waterline):
+• 16:9 · ~5 s · 24 fps. Arrives already gliding from Shot 2's pass.
+• CAMERA: a low tracking push locked behind the wheel, chasing her along the shoreline as
+  the glowing sand rushes beneath and the surf breaks teal beside — steady advance, no cut.
+• HEAD & GAZE ARC: back-of-head throughout; no reveal (faceless, compliant).
+• LIMB MOTION: LEFT hand drifts toward the surf; forearms micro-steer; a foot skims sparking sand.
+• HIP/TORSO: subtle counter-sway; forward incline held.
+• HAIR/FABRIC: bob, wrap & scarf stream toward camera; skirt lifting.
+• VEHICLE PHYSICS: tyres hum & skim the glowing sand, kicking real bioluminescent spray, LED
+  cool on the beach, believable glide.
+• LIGHT-TRAIL: elongates down the shoreline, weaving with the surf-glow, converging toward
+  the headland lights — a corridor of glow.
+• ENVIRONMENT PARALLAX: glowing sand rushes, surf-lines pulse past on the right, boardwalk
+  slides on the left, headland holds — fast coastal parallax; waves break in real time.
+• SKY MOTION: stars near-static, twinkling; Milky-Way holds; moon glow breathes.
+• ATMOSPHERE/FX: sea-mist, glowing spray, bloom, star-shimmer.
+• LIGHTING IN MOTION: surf-glow pulses along her as waves break; warm coastal glow grows ahead.
+• GRADE: nocturnal-coastal HDR. AUDIO: surf + breeze + shimmering pad building.
+• HAND-OFF → SHOT 4: the push slides around to her flank — arriving at the profile side-track,
+  glide vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: profile side-track (broadside, camera facing the sea)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING: broadside profile at deck height as she glides left-to-right along
+  the shore, the glowing teal surf filling the lower-right, star-field above.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, MEDIUM-FULL. OBJECT (scooter) =
+  beneath her, broadside, teal under-glow toward camera. ORIENTATION = PROFILE / side-on
+  (90°), gaze turning OUT to the glowing sea. CAMERA DISTANCE = MID, tracking left-to-right.
+  FACE-REVEAL: FACE-SHOWN (profile) — may resolve either way.
+• HEAD & GAZE: clean profile, head turning to gaze out at the glowing surf; quiet awe, lips
+  softly parted, a wondering half-smile, glow lighting her face.
+• TORSO/HIPS/WEIGHT: easy glide-lean, hips level, weight centred, spine long & lifted.
+• ARMS: RIGHT (far) hand on the grip; LEFT (near) hand reaching out toward the glowing sea,
+  fingers open, bracelet glinting.
+• LEGS/FEET: RIGHT (near) sneaker forward on the deck, knee soft; LEFT foot back, heel light.
+• HAIR (frame): bob streaming horizontally back off the profile, glow-rimmed.
+• FABRIC (frame): the teal wrap & skirt lift into long horizontal ribbons; scarf banner;
+  a spark of glowing spray.
+• ENVIRONMENT — FG: glowing wet sand & a driftwood log skating past the lens, star-reflections.
+  MG: the surf breaking in teal glow-lines, foam sparking, the boardwalk. BG: the dark sea,
+  star-field, Milky-Way, crescent moon, distant coastal lights.
+• SKY: dense stars & Milky-Way overhead, deep midnight-teal, moon glow.
+• LIGHT-TRAIL: a long teal→lilac arc trailing behind the profile, doubled by the scarf glow,
+  weaving into the surf — the payoff.
+• LIGHTING: bioluminescent glow lighting her seaward side, cool moon rim on her hair, deep
+  midnight fill; distant warm coastal kiss.
+• LENS & DOF: 50 mm-equiv, shallow-ish; . crisp, fg sand & bg surf/stars softly blurred.
+• PALETTE/GRADE: nocturnal-coastal HDR; controlled vibrancy on black; skin natural (no teal
+  cast on the face).
+• NEGATIVES: [STD-NEG — IMAGE] + skin stays true, blacks deep, stars crisp.
+
+VIDEO (unique move → SIDE-TRACK that CRANES OUT over the glowing surf):
+• 16:9 · ~5 s · 24 fps. Arrives already gliding from Shot 3's slide-around.
+• CAMERA: a parallel side-track gliding with her, then a CRANE-OUT swinging over the glowing
+  surf at the end, lifting to reveal the luminous coastline & stars (the lift = the loop cut).
+  No hard cut mid-clip.
+• HEAD & GAZE ARC: profile → gaze turns out to the glowing sea (eye-led beat: quiet awe,
+  wondering half-smile); face shown throughout (compliant).
+• LIMB MOTION: LEFT hand reaches toward the surf & eases; hands steady on the glide; a soft
+  head-turn.
+• HIP/TORSO: gentle glide-lean holding the line; torso opens toward the sea.
+• HAIR/FABRIC: bob & wrap stream horizontally, lifting as the crane rises; scarf banners.
+• VEHICLE PHYSICS: tyres hum & skim glowing sand, teal spray, believable glide.
+• LIGHT-TRAIL: arcs behind, weaving into the surf-glow, brightening as the crane lifts over the sea.
+• ENVIRONMENT PARALLAX: fg sand & driftwood rush, surf pulses, boardwalk drifts, coastline
+  holds as the crane rises over the water; waves break in real time.
+• SKY MOTION: stars wheel gently into frame as the crane lifts; Milky-Way fills; moon glow breathes.
+• ATMOSPHERE/FX: sea-mist, glowing spray, bloom, star-shimmer.
+• LIGHTING IN MOTION: bioluminescent glow lights her, then the luminous coastline fills the frame.
+• GRADE: nocturnal-coastal HDR, luminous. AUDIO: surf + breeze + pad resolving to a shimmering swell.
+• LOOP / HAND-OFF → SHOT 1: the crane-out over the glowing coast resolves back to the wide
+  establishing under the stars — glide vector & teal→lilac trail matched to Shot 1 for a
+  seamless loop.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
