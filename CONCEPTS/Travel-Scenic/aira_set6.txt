@@ -1,0 +1,390 @@
+========================================================================
+AIRA — CINEMATIC JOURNEY / LIGHT-RIDE REELS · SET 6
+========================================================================
+Built for: Nano Banana Pro (start-frame stills) → Veo 3.1 (normal /
+frames-to-video mode). Each reel = 3–5 SEPARATE shot-clips; the CUTS
+between clips serve as the angle changes. Cut them together in the edit.
+
+Inspiration lineage (elevated beyond, never copied): epic cinematic
+skies + lens-flare rides (photoreal travel reels) · crane-reveal scale
+(anime valley leaps) · dynamic angle variety + a glowing motion wake
+(anime commute). Our ownable upgrade = the IRIDESCENT LIGHT-TRAIL: a
+being of light leaving a luminous wake, grounded in real light physics.
+
+------------------------------------------------------------------------
+SUBJECT PLACEHOLDER
+------------------------------------------------------------------------
+The subject is written throughout as the single-dot placeholder:  .
+The dot ( . ) = the identity-locked persona, supplied ONLY by the
+reference image. Never describe her body/measurements or re-invent her
+face. After "SUBJECT: ." use pronouns (she/her). Likeness comes 100%
+from the reference sheet; text describes ONLY styling, pose, motion,
+expression, and light.
+
+------------------------------------------------------------------------
+GLOBAL RULES (apply to every shot in this set)
+------------------------------------------------------------------------
+[IDENTITY LOCK]  SUBJECT = .  Copy face/likeness from the reference
+image ONLY. Treat identity as a FIXED skeleton — bone structure, eye
+shape & colour, nose, lips, skin, hairline — that NEVER changes. Animate
+only soft expression muscles, gaze and head. No reshaping, no age
+change, no plastic/CGI skin. One smooth eye-led beat per clip.
+
+[RENDER MANDATE — CONTROLLED VIBRANCY]  Cinematic, filmic, ultra-
+detailed, high dynamic range. Vibrancy comes from LIGHT & CONTRAST
+(rim-light, speculars, bloom, bright subject vs. deeper/cooler ground) —
+NOT from blanket saturation. Curated palette per concept: one dominant
+hue family + 1–2 accents, anchored by neutrals/negative space. Protect
+natural skin tone — never push saturation onto the face. No neon-on-neon
+mud, no rainbow-everything, no blown highlights.
+
+[THE LIGHT-TRAIL SIGNATURE]  A luminous iridescent wake (pink · lilac ·
+aqua, per-concept tinted) ribbons off her motion — wheel, feet, or
+trailing fabric. Grounded like a real long-exposure light-streak +
+volumetric bloom + wet-ground reflection. NEVER cheap sparkles, cartoon
+VFX, floaty weightless nonsense, or plastic CGI. It obeys real light:
+it fades with distance, reflects on surfaces, and bends with her path.
+
+[FIGURE-TO-GROUND]  The WORLD is a co-star. Per reel guarantee a spread:
+at least ONE true establishing WIDE and ONE environment-dominant/FAR
+placement (world = the larger area, subject smaller), plus balanced
+mediums. Tight CU crops are the MINORITY. Build real foreground /
+midground / background depth, leading lines, parallax. Never a floating
+subject on an empty backdrop.
+
+[MOTION]  Real-time natural speed. NO slow motion. Every clip starts
+"already in motion" (continue an existing motion vector — no static cold
+start). One continuous camera move per clip. Real physics: vehicle
+dynamics, wind, weight, cast shadows, believable everything.
+
+[ANGLE COVERAGE across the 3–5 clips]  Never repeat a framing. Rotate
+through: worm's-eye low-hero · Dutch-tilt side-track · first-person POV ·
+over-the-shoulder · high overhead / crane reveal · profile track · wide
+establishing. Vary crop (ECU/CU/half/cowboy/full/wide), angle, and
+placement (left/right/centre/near/far) every clip.
+
+[ORIENTATION]  Each concept is tagged 9:16 (vertical reel) or 16:9
+(cinematic landscape). Keep the tagged ratio for all clips in that
+concept unless a shot says otherwise.
+
+[PER-SHOT FIELD TEMPLATE]  Every IMAGE (start-frame) block specifies:
+Aspect · Framing & subject position · Head & gaze · Torso/hips/weight ·
+Arms→hands→fingers (R & L named) · Legs & feet (R & L named) · Hair ·
+Wardrobe · Headwear (if any) · Accessories · Footwear · Hands & nails ·
+Vehicle/key object (deep) · Light-trail · Environment fg/mg/bg (deep) ·
+Sky (deep) · Lighting · Lens & DoF · Palette/grade · Realism · Negatives.
+Every VIDEO block specifies: Aspect/Duration/FPS · Shot type/angle/camera
+move · Head & gaze arc + micro-expression · Limb movement (arms/legs) ·
+Hip/torso/weight motion · Hair & fabric dynamics · Wardrobe/accessory
+continuity · Vehicle motion & physics · Light-trail behaviour ·
+Environment motion & parallax · Sky motion · Atmosphere/FX · Lighting in
+motion · Color grade · Audio · Continuity/loop · Negatives.
+
+[STD-NEG — IMAGE]  reshaped/warped face; wrong eye colour; plastic CGI
+skin; extra/melted fingers; body-shape invention; blown highlights;
+blanket oversaturation; neon mud; cheap sparkles/cartoon VFX; empty or
+ignored background; subject filling the whole frame; text artifacts;
+watermark; distorted vehicle.
+
+[STD-NEG — VIDEO]  slow motion; static cold-start; face warp/identity
+drift; rubbery limbs; weightless floaty motion; teleporting objects;
+flickering; morphing wardrobe; cartoon speed-lines; blown highlights;
+duplicated subject; jelly/parallax errors.
+
+========================================================================
+MASTER PLAN — 10 CONCEPTS
+========================================================================
+No.  Title                        Ratio  Hero gear / motion        Trail tint         Clips
+01   Coastal Blue-Hour Light Ride 9:16   sleek e-scooter, coast    pearl-lilac→aqua   4
+02   Celestial Cloud Highway      16:9   road of light, cloud sea  aqua→gold          4
+03   Neon Rain Metropolis         9:16   ride thru rain-neon city  magenta→cyan       4
+04   Emerald Valley Glide         16:9   gliding run, Ghibli vale  mint→white         3–4
+05   Golden Dune Sprint           9:16   sand-board / stride       amber→rose         3–4
+06   Alpine Dawn Ridge            16:9   glide across snow ridge   ice-blue→gold      3–4
+07   Midnight Highway Star-Streak 9:16   open night highway        violet→white       3–4
+08   Sakura Tunnel (Spring)       9:16   ride thru blossom tunnel  blush-pink→pearl   3–4
+09   Bioluminescent Shore         16:9   boardwalk by glowing sea  teal→lilac         3–4
+10   Rooftop Sky-Garden Sunset    9:16   stride/ride rooftop garden gold→coral        3–4
+
+Palette per concept = one dominant hue family + the trail tint as accent,
+anchored by deep/cool ground. Concepts 01–03 are FULLY DETAILED below;
+04–10 will be expanded on the next pass in the same depth.
+
+========================================================================
+
+
+========================================================================
+CONCEPT 01 — "COASTAL BLUE-HOUR LIGHT RIDE"        ORIENTATION: 9:16
+========================================================================
+LOGLINE: . rides a sleek e-scooter along a clifftop coastal boulevard as
+blue hour tips into a molten-gold horizon, trailing a luminous iridescent
+wake toward the sun-star. Serene, exhilarated, cinematic.
+CLIPS: 4 (cut together = one continuous ride). 
+GRADE PERSONALITY: anamorphic TEAL-&-GOLD blue-hour HDR — horizontal lens-
+flares, soft halation, deep cool indigo shadows, warm gold speculars.
+TRAIL TINT: pearl-lilac → aqua.
+GROUNDED-MAGICAL BEAT: the light-trail = a real long-exposure light-streak
++ volumetric bloom reflecting on wet tarmac (never sparkles/cartoon VFX).
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: fitted cropped iridescent moto-jacket (pearl-lilac shifting to
+aqua sheen) worn open over a fine white ribbed tee; high-waist wide-leg
+trousers in pale dove-grey with a soft drape; a long (≈2 m) gauzy
+iridescent scarf that streams behind her.
+HAIR: dark-brown chin-length side-parted bob, swept back by wind.
+HEADWEAR: none (slim reflective sunglasses optionally pushed up into the
+hair — face must stay clear).
+ACCESSORIES: compact iridescent teardrop earrings; slim silver band on the
+RIGHT middle finger; thin matte smart-watch on the LEFT wrist.
+FOOTWEAR: pearl-white low leather sneakers, gum soles.
+HANDS & NAILS: short soft almond nails, pale-pearl polish.
+VEHICLE (deep): sleek matte-charcoal modern e-scooter — minimalist alloy
+deck with a hairline under-glow strip, slim tapered handlebar with a small
+centred mono display, single crisp front LED, matte fat tubeless tires,
+subtle chrome stem. Believable real dynamics.
+TIME/LIGHT: dusk blue hour; warm gold KEY from the low horizon sun-star
+(ahead, camera-left); cool indigo FILL from the sky behind. Keep constant.
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: worm's-eye low-hero behind the rear wheel
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING/POSITION: extreme low worm's-eye, lens ~15 cm off
+  the wet asphalt directly behind the rear wheel; . in upper-centre seen
+  from behind & slightly below, small-to-medium; tarmac + sky dominate
+  (heavy near foreground, deep sky background).
+• HEAD & GAZE: head forward down the boulevard, chin lifted into the wind,
+  a whisper of turn right; eyeline to the distant horizon sun-star;
+  expression calm, quietly exhilarated, lips softly closed.
+• TORSO/HIPS/WEIGHT: torso pitched ~15° forward; hips shifted back & low
+  over the deck, weight centred-rear for balance; subtle left-lean to the
+  road camber.
+• ARMS: RIGHT arm to the near grip, elbow soft, wrist angled down, fingers
+  wrapped, thumb hooked over. LEFT arm to the far grip, elbow a touch more
+  bent, fingers relaxed around the bar.
+• LEGS/FEET: RIGHT leg forward on the deck, knee softly flexed absorbing
+  vibration, foot flat. LEFT leg staggered behind, knee bent more, heel
+  lifted a few mm; ankles springy, weight low.
+• HAIR (this frame): bob lifted & streaming back toward camera, strands
+  fanned by the slipstream, gold rim-light on the trailing tips.
+• FABRIC (this frame): scarf snaps straight back over the shoulder toward
+  the lens; jacket hem & trouser legs flutter with speed.
+• ENVIRONMENT — FG: glossy wet tarmac with a mirrored lane-line & light
+  streaks, the matte rear tire kicking faint mist, scattered agapanthus
+  petals. MG: palm trunks & glowing shopfront signage sliding past both
+  sides, a lamp-post, low glass cliff-railing to the right. BG: the sea &
+  a long causeway of twinkling lights curving to a headland.
+• SKY: blue-hour gradient — indigo zenith → teal → warm amber-gold band at
+  the horizon where a low bloomed sun-star sits; soft mackerel clouds
+  underlit gold; first stars pricking the upper sky; two thin power-lines
+  crossing for realism.
+• LIGHT-TRAIL: pearl-lilac→aqua wake just igniting off the rear wheel,
+  bright & low near the tire, reflecting on the wet tarmac.
+• LIGHTING: warm gold key from ahead, cool indigo ambient behind, a
+  horizontal anamorphic flare off the sun-star, soft halation on highlights.
+• LENS & DOF: 24 mm-equiv wide & low; wheel crisp, horizon softly bloomed;
+  slight barrel character.
+• PALETTE/GRADE: anamorphic teal-&-gold blue-hour HDR, controlled vibrancy,
+  deep cool shadows, warm gold speculars, natural skin.
+• NEGATIVES: [STD-NEG — IMAGE].
+
+VIDEO (unique move → UNDER-WHEEL DOLLY-PUSH rising into a low crane-follow):
+• 9:16 · ~5 s · 24 fps. Already in motion.
+• CAMERA: starts as an under-wheel low dolly-push chasing the rear tire,
+  then smoothly rises & cranes up ~1 m into a low tracking follow behind
+  her — one continuous rising push (no cut).
+• HEAD & GAZE ARC: head steady forward, a small confident chin-lift as
+  speed builds (mostly back-of-head).
+• LIMB MOTION: forearms micro-adjust on the grips over bumps; knees &
+  ankles subtly absorb road vibration.
+• HIP/TORSO: gentle counter-sway holding a straight line; torso stays
+  pitched forward.
+• HAIR/FABRIC: bob & scarf stream & ripple continuously; jacket hem flutters.
+• VEHICLE PHYSICS: tire spins with believable motion-blur, faint spray off
+  wet tarmac, slight suspension bob over a seam.
+• LIGHT-TRAIL: brightens & lengthens as speed builds, ribboning off the
+  wheel, smearing & reflecting on the wet ground.
+• ENVIRONMENT PARALLAX: tarmac rushes under the lens, palms/signs streak
+  past with edge speed-blur, the sea nearly static far off.
+• SKY MOTION: near-still; clouds drift imperceptibly; sun-star flare breathes.
+• ATMOSPHERE/FX: fine road mist, anamorphic flare, soft bloom.
+• LIGHTING IN MOTION: gold key strengthens as she nears the horizon glow.
+• GRADE: teal-gold HDR, controlled vibrancy. AUDIO: low wind + soft synth pad.
+• HAND-OFF → SHOT 2: end on her back with the trail streaking forward-left;
+  motion vector = forward, carrying speed into the side-track (match light
+  direction + trail continuity).
+• NEGATIVES: [STD-NEG — VIDEO] (esp. no slow-mo, no cold start).
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: Dutch-tilted profile (broadside, camera-left)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING/POSITION: full profile broadside, camera canted ~12°
+  Dutch; . centred-right in a medium-full framing, gliding left-to-right;
+  boulevard depth behind, sea band above the railing.
+• HEAD & GAZE: head in clean profile then micro-turned toward the horizon
+  ahead (screen-right), chin level; eyes bright, a faint closed-lip smile
+  of enjoyment.
+• TORSO/HIPS/WEIGHT: elegant forward lean into a gentle right-hand curve;
+  hips angled into the turn, weight over the front foot; spine long.
+• ARMS: RIGHT (near) arm to the grip, elbow softly bent, wrist neutral,
+  fingers curled with the smart-watch catching light on the LEFT wrist as
+  that arm reaches the far grip, elbow relaxed, fingers loose.
+• LEGS/FEET: RIGHT (near) leg forward on the deck, knee flexed, foot flat &
+  angled into the curve; LEFT leg trailing, knee soft, heel just lifted.
+• HAIR (this frame): bob streaming horizontally back off the profile,
+  layered strands catching the gold rim.
+• FABRIC (this frame): scarf lifts into a long horizontal ribbon trailing
+  behind; jacket ripples along the flank; trouser legs press to the shin.
+• ENVIRONMENT — FG: the low glass cliff-railing streaking past with mirrored
+  highlights, a blur of coastal wildflowers. MG: palm row & glowing signage,
+  a parked vintage car, another distant rider small on the road. BG: sea,
+  causeway lights, headland silhouette.
+• SKY: same blue-hour gradient; the gold horizon band now fills more of the
+  upper frame; clouds streaked; sun-star just off screen-right casting the flare.
+• LIGHT-TRAIL: a long pearl-lilac→aqua arc curving behind her through the
+  turn, reflecting in the railing glass & wet road.
+• LIGHTING: strong gold rim from screen-right kissing her profile & hair,
+  cool indigo on the shadow side; horizontal flare across frame.
+• LENS & DOF: 50 mm-equiv, shallow-ish; . crisp, foreground railing & bg
+  softly blurred with bokeh from signage lights.
+• PALETTE/GRADE: teal-gold HDR, controlled vibrancy, natural skin.
+• NEGATIVES: [STD-NEG — IMAGE].
+
+VIDEO (unique move → PARALLEL SIDE-TRACK that WHIP-PANS forward):
+• 9:16 · ~5 s · 24 fps. Continues her forward motion from Shot 1.
+• CAMERA: locked parallel side-track gliding with her left-to-right, then a
+  fast WHIP-PAN forward at the very end (the whip = the cut into Shot 3).
+• HEAD & GAZE ARC: profile → she turns her gaze toward the horizon ahead,
+  the single eye-led beat: soft warm confidence, faint smile blooming.
+• LIMB MOTION: near arm holds the grip steady; far hand adjusts; legs hold
+  the carve, weight shifting subtly through the curve.
+• HIP/TORSO: lean deepens into the turn then eases as the road straightens.
+• HAIR/FABRIC: bob & scarf stream horizontally, rippling; jacket flank flutters.
+• VEHICLE PHYSICS: believable lean angle, tire contact, faint wet hiss.
+• LIGHT-TRAIL: arcs through the carve, its reflection sweeping across the
+  railing glass; brightens as the whip-pan begins.
+• ENVIRONMENT PARALLAX: railing & wildflowers rush in the foreground, palms
+  mid-blur, sea near-static — strong depth separation.
+• SKY MOTION: gold band glows warmer as the flare sweeps with the whip.
+• ATMOSPHERE/FX: flare streak, halation, faint spray.
+• LIGHTING IN MOTION: rim-light rakes along her profile as the angle changes.
+• GRADE: teal-gold HDR. AUDIO: wind swell + a rising pad into the whip.
+• HAND-OFF → SHOT 3: the whip-pan's motion blur resolves UP into the
+  overhead — as if the camera flung skyward; trail direction preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: high overhead / bird's-eye (environment-dominant WIDE)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING/POSITION: near-top-down bird's-eye looking down the
+  coastline; . is SMALL, lower-third, riding along the ribbon of road; the
+  WORLD is the larger area (this is the establishing / figure-to-ground far
+  beat).
+• HEAD & GAZE: from above, crown & shoulders read; head tips slightly toward
+  the sea; posture relaxed into the cruise.
+• TORSO/HIPS/WEIGHT: centred over the deck, a gentle S-line through the body
+  following the road's curve.
+• ARMS: both arms to the bars, symmetric, elbows soft (read as a small T
+  from above). LEGS/FEET: staggered stance on the deck, both knees soft.
+• HAIR (this frame): bob a small dark comma streaming behind the crown.
+• FABRIC (this frame): scarf a long thin ribbon trailing, catching a glint;
+  jacket a small iridescent patch of colour.
+• ENVIRONMENT — FG (top of frame): palm crowns & rooftop edges near the lens.
+  MG: the sinuous coastal boulevard with lane-lines, tiny cars, lamp glows,
+  the glass railing edge. BG (bottom/far): the vast sea plane, the causeway
+  of lights arcing to the headland, foam lines on dark water.
+• SKY: from this height the gold horizon band & sun-star sit at the far edge;
+  indigo dome above with early stars; mackerel clouds mapped in gold underlight.
+• LIGHT-TRAIL: the hero graphic — a luminous pearl-lilac→aqua S carving down
+  the road behind her, the single brightest line in the frame, guiding the eye.
+• LIGHTING: soft top ambient, warm glow pooling toward the horizon edge; the
+  trail is the key light-source accent.
+• LENS & DOF: 35 mm-equiv from altitude, deep focus, everything legible.
+• PALETTE/GRADE: teal-gold HDR, controlled vibrancy; world reads first, . reads
+  via the trail & her iridescent glint.
+• NEGATIVES: [STD-NEG — IMAGE].
+
+VIDEO (unique move → CRANE-UP + slow ORBIT reveal, then descend):
+• 9:16 · ~5 s · 24 fps. The whip from Shot 2 flings us up to here already moving.
+• CAMERA: continues craning UP while slowly orbiting ~20° around the
+  coastline, unveiling the full bay; at the end it begins to DESCEND toward
+  her (setting up Shot 4). One flowing move.
+• HEAD & GAZE ARC: (tiny from height) head eases toward the sea then forward.
+• LIMB MOTION: minimal at this scale — a subtle body S following the road.
+• HIP/TORSO: gentle lean tracking the curve.
+• HAIR/FABRIC: the scarf ribbon & bob flag behind, tiny but legible.
+• VEHICLE PHYSICS: smooth cruise, believable line down the road.
+• LIGHT-TRAIL: the S-curve lengthens & glows as she advances; its reflection
+  shimmers on wet patches; it is the emotional focal line of the reel.
+• ENVIRONMENT PARALLAX: strong — foreground palm crowns sweep, midground road
+  rotates with the orbit, distant sea holds; real depth & parallax.
+• SKY MOTION: the gold band & flare rotate into frame as we orbit.
+• ATMOSPHERE/FX: faint haze layering depth, soft bloom on the causeway lights.
+• LIGHTING IN MOTION: warm horizon glow grows as the orbit faces the sun.
+• GRADE: teal-gold HDR, airy. AUDIO: wide ambient wind + swelling pad (peak).
+• HAND-OFF → SHOT 4: the descent drops us behind her shoulder — we arrive at
+  the over-the-shoulder framing with matched motion & trail.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: over-the-shoulder from behind (three-quarter)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING/POSITION: over-the-shoulder from behind & slightly
+  above, three-quarter; . in the lower-left third, the glowing horizon &
+  sun-star filling the upper-right — she rides INTO the light.
+• HEAD & GAZE: she glances back over her RIGHT shoulder toward the lens (the
+  final eye-led beat) — warm, self-aware, a soft smile; then implied return
+  forward.
+• TORSO/HIPS/WEIGHT: torso rotated slightly for the glance, hips square to
+  the road, weight easy & centred.
+• ARMS: RIGHT hand on the grip, wrist relaxed, fingers curled; LEFT hand on
+  the far grip, forearm catching gold light, smart-watch glinting.
+• LEGS/FEET: relaxed staggered stance, RIGHT foot forward flat, LEFT heel a
+  touch lifted; knees soft.
+• HAIR (this frame): bob swings with the shoulder-glance, front strands lit
+  gold across her cheek, back strands streaming.
+• FABRIC (this frame): scarf trails ahead-left toward the horizon; jacket
+  shoulder catches a bright iridescent rim.
+• ENVIRONMENT — FG: her shoulder & the handlebar display softly out of focus.
+  MG: the boulevard narrowing toward the horizon, palms as gold-edged
+  silhouettes, signage bokeh. BG: the molten sun-star, causeway lights, sea.
+• SKY: dominated by the warm gold horizon band & bloomed sun-star; indigo
+  above with stars; clouds streaked with gold — the richest sky beat.
+• LIGHT-TRAIL: streams ahead-left from her wheel toward the sun-star, as if
+  she is drawing the light into the horizon; reflects on the wet road.
+• LIGHTING: full gold rim & key wrapping her from the horizon, cool fill on
+  the camera side; strong horizontal flare & warm halation.
+• LENS & DOF: 40 mm-equiv, shallow; . & her glance crisp, horizon a soft
+  luminous bloom.
+• PALETTE/GRADE: teal-gold HDR at its warmest; controlled vibrancy; skin natural.
+• NEGATIVES: [STD-NEG — IMAGE].
+
+VIDEO (unique move → DOLLY-PUSH toward horizon + RACK-FOCUS her→sun-star):
+• 9:16 · ~5 s · 24 fps. Arrives already moving from Shot 3's descent.
+• CAMERA: steady dolly-push forward behind her toward the horizon, with a
+  slow RACK-FOCUS shifting from her shoulder-glance to the bloomed sun-star
+  ahead. One continuous push.
+• HEAD & GAZE ARC: she completes the over-shoulder glance to camera (soft
+  warm smile — the payoff), then turns back forward toward the light.
+• LIMB MOTION: hands settle on the grips; a small shoulder rotation as she
+  faces front again; legs steady.
+• HIP/TORSO: torso un-rotates smoothly back to square with the road.
+• HAIR/FABRIC: bob settles from the swing; scarf streams long toward the sun.
+• VEHICLE PHYSICS: smooth continued cruise, believable speed.
+• LIGHT-TRAIL: elongates toward the sun-star, blooming, as if merging with
+  the horizon light — the signature payoff.
+• ENVIRONMENT PARALLAX: palms & signage glide past, road narrows to the glow.
+• SKY MOTION: sun-star flares warmer as focus lands on it; clouds barely drift.
+• ATMOSPHERE/FX: rising halation & flare, soft bloom envelops the far frame.
+• LIGHTING IN MOTION: gold engulfs the frame edges as she rides in.
+• GRADE: teal-gold HDR, warmest. AUDIO: wind + pad resolve to a soft glow tone.
+• LOOP / HAND-OFF → SHOT 1: she rides away into light with the trail streaking
+  — framing & forward motion vector matched to Shot 1's opening for a seamless
+  loop back to the ignition.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
