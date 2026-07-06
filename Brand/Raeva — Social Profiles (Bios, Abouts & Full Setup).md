@@ -1,12 +1,13 @@
-# Aira Raeva — Social Profiles: Bios, Abouts & Full Setup
+# Aira's Verse — Social Profiles: Bios, Abouts & Full Setup
 
 > **Purpose:** One-stop, copy-paste-ready profile kit for **Instagram, YouTube, and Facebook**. Every field is filled in with 3+ options where it matters, so you don't have to go anywhere else. **TikTok is intentionally excluded (banned in India).**
 >
 > **Locked identity:**
-> - **Display name = `Aira Raeva`** (first name **Aira** /eye-ra/, "surname" **Raeva** /ray-wah/ — a ray of light). No punctuation needed; a space works in every field type.
+> - **Display name (all 3 platforms) = `Aira's Verse`** — the world/brand title.
+> - **Her name (used in bio/About) = `Aira Raeva`** — Aira ("Eye-Ra") is her first name; Raeva ("RAY-wah," a ray of light) is her light-name. Both from **Ra** (the sun).
 > - **Handle = `@raeva.ai`** ("Raeva, the AI").
-> - **Her world / series = `Aira's Verse`** — used in bios + branding + series/watermark, NOT as the profile name field.
-> - Both names come from **Ra** (the sun / light). Signature = the warm radiant **glow** (soft gold / rose-gold aura).
+> - **Email = `raeva.studios@gmail.com`** (sender/"From" name = **Aira's Verse**).
+> - Signature = the warm radiant **glow** (soft gold / rose-gold aura).
 >
 > **Voice:** elevated, editorial, cinematic — warm and confident, quietly premium. **Not** childish or over-casual; minimal/tasteful punctuation over emoji.
 >
@@ -18,18 +19,18 @@
 
 | Field | Value |
 |---|---|
-| **Display name** | Aira Raeva *(First: Aira · Last: Raeva if a field splits)* |
+| **Display name** | Aira's Verse |
+| **Her name (persona)** | Aira Raeva |
 | **Handle** | `raeva.ai` |
-| **World / series** | Aira's Verse |
 | **Pronunciation** | Aira = "Eye-Ra" (/ˈaɪrə/) · Raeva = "RAY-wah" (/ˈreɪwɑː/) — "ray" of light + "wa" as in war |
-| **Meaning hook** | both from **Ra** (the sun) → a radiant AI, a being of light |
+| **Meaning hook** | both names from **Ra** (the sun) → a radiant AI, a being of light |
 | **Pronouns** | she/her |
 | **Signature look** | warm luminous glow / soft gold + rose-gold aura |
 | **Content** | cinematic 9:16 reels — beauty, transformation, fantasy & celestial worlds, travel, dreamscapes |
 | **AI transparency** | openly AI-generated art (enable each platform's AI-content label) |
-| **Brand email** | `raeva.studios@gmail.com` (sender / "From" name = **Aira Raeva**) |
+| **Brand email** | `raeva.studios@gmail.com` (sender/"From" name = **Aira's Verse**) |
 
-> `[link]` / `[email]` = drop in your real value before saving.
+> `[link]` = drop in your real value before saving.
 > **Account reuse:** rename your existing **`minilux.hq` → `raeva.ai`** (don't recreate — keep the history).
 
 ---
@@ -38,37 +39,35 @@
 
 ### 1.1 Account setup values
 - **Account type:** Professional → **Creator**.
-- **Name (display):** `Aira Raeva`
+- **Name (display):** `Aira's Verse`
 - **Username / handle:** `raeva.ai`
 - **Pronouns:** she/her
 - **Category (pick one):** `Digital creator` *(recommended)* · `Video creator` · `Artist`
 - **Contact button:** brand email; skip phone/address.
 - **Link in bio:** link hub (Linktree/Beacons) or `raeva.ai` domain when ready — 2–3 links max (YouTube, Facebook, collab/email).
 
-### 1.2 Bio (150 char limit — 3 versions)
+### 1.2 Bio (150 char limit — 3 versions; lead with her name, since the display shows the world)
 
 **Version A — editorial (recommended)**
 ```
-An AI muse, a being of light. /eye-ra/
-Welcome to Aira's Verse —
-cinematic beauty · transformation · dreamworlds.
+Aira Raeva /eye-ra · ray-wah/
+An AI muse, a being of light.
+Cinematic beauty · transformation · dreamworlds.
 New visual each week.
 ```
 
 **Version B — minimal / luxe**
 ```
-Aira's Verse
-A radiant AI. A being of light.
-Cinematic beauty, fantasy & celestial worlds.
-New work weekly ↓
+I'm Aira — also Raeva, a ray of light.
+A radiant AI. Cinematic beauty, fantasy
+& celestial worlds. New work weekly ↓
 ```
 
 **Version C — confident**
 ```
-Rendered, not filmed. /eye-ra/
-Luminous cinematic reels from Aira's Verse:
-beauty · transformation · celestial worlds.
-New work weekly.
+Aira Raeva — a radiant AI.
+Rendered, not filmed.
+Luminous cinematic reels, weekly.
 ```
 
 ### 1.3 Story Highlight names + covers
@@ -81,11 +80,11 @@ I'm Aira — pronounced "Eye-Ra." You may also know me as Raeva
 ("RAY-wah," a ray of light). Both names come from Ra, the sun:
 a radiant AI, a being of light.
 
-This is Aira's Verse — a gallery of cinematic, AI-generated visual
-art. Luminous beauty, surreal transformation, fantasy and celestial
-worlds, and dreamlike places that don't yet exist. Every frame is
-composed to feel filmic, warm and quietly premium. Imagination,
-rendered.
+Welcome to Aira's Verse — a gallery of cinematic, AI-generated
+visual art. Luminous beauty, surreal transformation, fantasy and
+celestial worlds, and dreamlike places that don't yet exist. Every
+frame is composed to feel filmic, warm and quietly premium.
+Imagination, rendered.
 
 New visual each week.
 ```
@@ -98,7 +97,7 @@ Pin **3 posts**: (1) the "About" card, (2) strongest beauty reel, (3) strongest 
 ## 2. YOUTUBE
 
 ### 2.1 Channel setup values
-- **Channel name (display):** `Aira Raeva`
+- **Channel name (display):** `Aira's Verse`
 - **Handle:** `@raeva.ai` (fallback `@raeva`)
 - **Country:** India
 - **Links:** Instagram, Facebook, website (when live).
@@ -107,15 +106,15 @@ Pin **3 posts**: (1) the "About" card, (2) strongest beauty reel, (3) strongest 
 - **AI label:** turn on "Altered or synthetic content" disclosure when uploading.
 
 ### 2.2 Tagline / short line
-- `Welcome to Aira's Verse.`
-- `An AI muse. A being of light. New work weekly.`
+- `An AI muse. A being of light.`
+- `Cinematic AI dreamworlds — new work weekly.`
 
 ### 2.3 Channel description / "About" (≈1000 char limit — 3 versions)
 
 **Version A — refined story (recommended)**
 ```
-Aira Raeva — an AI muse, a being of light. (Aira, "Eye-Ra"; Raeva,
-"RAY-wah," a ray of light. Both names come from Ra, the sun.)
+I'm Aira Raeva — an AI muse, a being of light. (Aira, "Eye-Ra";
+Raeva, "RAY-wah," a ray of light. Both names come from Ra, the sun.)
 
 Welcome to Aira's Verse: a gallery of cinematic short films —
 luminous beauty, surreal transformation, celestial and elemental
@@ -157,7 +156,7 @@ Collaborations: raeva.studios@gmail.com
 
 ### 2.4 Channel search keywords (Settings → Channel → Keywords)
 ```
-Aira, Raeva, Aira Raeva, Aira's Verse, AI muse, AI model, virtual
+Aira's Verse, Aira, Raeva, Aira Raeva, AI muse, AI model, virtual
 model, AI influencer, cinematic AI reels, AI beauty, AI shorts,
 fantasy, transformation, dreamworlds, celestial, AI art, luminous
 ```
@@ -174,7 +173,7 @@ worlds and surreal transformation. A new visual each week.
 ## 3. FACEBOOK (Page)
 
 ### 3.1 Page setup values
-- **Page name (display):** `Aira Raeva`
+- **Page name (display):** `Aira's Verse`
 - **Username:** `@raeva.ai` (fallback `@raeva`)
 - **Category (pick 1–3):** `Digital creator` · `Video creator` · `Artist`
 - **Contact:** brand email; leave phone/address blank.
@@ -186,9 +185,9 @@ worlds and surreal transformation. A new visual each week.
 
 **Version A (recommended)**
 ```
-Aira Raeva — an AI muse, a being of light. Welcome to Aira's Verse:
-cinematic, AI-generated art — beauty, transformation, fantasy and
-dreamworlds. New visual each week.
+I'm Aira Raeva — an AI muse, a being of light. Welcome to Aira's
+Verse: cinematic, AI-generated art — beauty, transformation,
+fantasy and dreamworlds. New visual each week.
 ```
 
 **Version B — premium**
@@ -211,7 +210,7 @@ Aira Raeva — pronounced "Eye-Ra RAY-wah." Aira is her name; Raeva
 ("a ray of light") is her light-name. Both come from Ra, the sun:
 a radiant AI, a being of light.
 
-This page is Aira's Verse — a gallery of cinematic, AI-generated
+Welcome to Aira's Verse — a gallery of cinematic, AI-generated
 visual art. Luminous beauty and glam, surreal transformation,
 fantasy and celestial worlds, elemental realms, and dreamlike
 travel through places that don't yet exist.
@@ -228,7 +227,7 @@ Collaborations & business enquiries: raeva.studios@gmail.com
 ```
 
 ### 3.4 Additional Facebook fields
-- **Mission (if prompted):** `Aira's Verse — cinematic, AI-generated visual art through Aira Raeva, an AI muse.`
+- **Mission (if prompted):** `Aira's Verse — cinematic, AI-generated visual art by Aira Raeva, an AI muse.`
 - **Products/Services (optional):** `AI visual art · brand collaborations · sponsored reels`
 
 ---
@@ -244,7 +243,7 @@ All content is AI-generated visual art. Aira Raeva is an AI persona.
 1. **Beauty / glam**  2. **Transformation**  3. **Fantasy & celestial worlds**  4. **Elemental / surreal**  5. **Travel & scenic**
 
 ### 4.3 Hashtag sets (rotate; keep ~8–15 relevant)
-**Core brand:** `#AiraRaeva #Raeva #AirasVerse #AImuse`
+**Core brand:** `#AirasVerse #AiraRaeva #Raeva #AImuse`
 **Discovery:** `#AIart #AImodel #AIinfluencer #VirtualModel #AIbeauty #DigitalArt #CinematicReels #AIgenerated #FantasyArt #Dreamworld`
 
 ### 4.4 Recurring signature lines (for captions/outros)
@@ -252,17 +251,18 @@ All content is AI-generated visual art. Aira Raeva is an AI persona.
 - `Imagination, rendered.`
 - `Rendered, not filmed.`
 - `Inside Aira's Verse.`
+- Optional film-house credit: `Aira's Verse — a Raeva Studios production.`
 
 ### 4.5 Cross-platform consistency checklist
 - [ ] Same profile photo (the radiant-spark / glow logo bug) on all 3
-- [ ] Same display name: **Aira Raeva**
+- [ ] Same display name: **Aira's Verse**
 - [ ] Same handle: **`raeva.ai`**
-- [ ] "Aira's Verse" appears as the world/tagline; both pronunciations appear in the About
+- [ ] Her name (Aira Raeva) + both pronunciations appear in the About
 - [ ] AI-content label/toggle enabled on each platform
-- [ ] Brand email attached to all accounts (not a personal inbox)
+- [ ] Email `raeva.studios@gmail.com` attached to all accounts (From name = Aira's Verse)
 - [ ] Links point to each other (IG ↔ YT ↔ FB)
 - [ ] Renamed `minilux.hq` → `raeva.ai` (reused the account, kept history)
 
 ---
 
-*Created this session. Excludes TikTok (banned in India). Display name = **Aira Raeva**; handle = `raeva.ai`; world/series = **Aira's Verse**. Voice = elevated / editorial / cinematic. Fill in `raeva.studios@gmail.com` / `[link]` before publishing. Raeva pronunciation confirmed: "RAY-wah" ("ray" of light + "wa" as in war). Pairs with "Aira / Raeva — Brand, Naming & Identity Notes.md".*
+*Created this session. Excludes TikTok (banned in India). Display name = **Aira's Verse** (all 3); her name = **Aira Raeva**; handle = `raeva.ai`; email = `raeva.studios@gmail.com`. Voice = elevated / editorial / cinematic. Raeva pronunciation confirmed: "RAY-wah" ("ray" of light + "wa" as in war). Pairs with "Aira / Raeva — Brand, Naming & Identity Notes.md".*
