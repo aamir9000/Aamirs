@@ -1239,3 +1239,268 @@ VIDEO (unique move → PARALLEL SIDE-TRACK with a WHIP-PAN up to the sky):
 • NEGATIVES: [STD-NEG — VIDEO].
 
 ========================================================================
+
+
+========================================================================
+CONCEPT 05 — "GOLDEN DUNE SPRINT"                 ORIENTATION: 9:16
+========================================================================
+LOGLINE: . carves a sandboard down rolling ochre dunes at golden hour,
+wind-sculpted ripples and long shadows, trailing an amber→rose iridescent
+wake through a plume of sunlit sand. Warm, free, cinematic.
+CLIPS: 4 (cut together = one continuous descent).
+GRADE PERSONALITY: WARM FILM-EMULATION HDR — amber/ochre + rose, golden-
+hour, soft grain, gentle halation, warm highlights, long cool shadows.
+TRAIL TINT: amber → rose.
+GROUNDED-MAGICAL BEAT: real sandboarding physics — believable carve, edge
+spray, weight & balance; the ONE surreal touch = the iridescent wake woven
+into a real, sunlit sand-plume. No floaty/cartoon sand.
+FACE PLAN: Shot 1 faceless (far/back) · Shot 2 face-shown · Shot 3 faceless
+(back) · Shot 4 face-shown (profile). (2 journey, 2 beat.)
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: a light cream linen wrap top with soft ochre piping, and flowing
+wide-leg linen trousers in warm sand-beige that billow in the wind.
+HAIR: dark-brown chin-length side-parted bob, wind-tossed, warm sun on the edges.
+HEADWEAR: a long sheer amber scarf worn loose at the neck, streaming behind
+like a banner (can lift and drape across the lower face on gusts — never over
+the eyes).
+ACCESSORIES: small gold-toned hoop earrings; two thin gold bangles on the RIGHT
+wrist; a fine gold ring on the LEFT hand.
+FOOTWEAR: light tan strapped desert boots locked to the sandboard bindings.
+HANDS & NAILS: short nails, warm natural sheen.
+KEY OBJECT (deep): a slim wooden sandboard, warm-waxed underside, twin bindings,
+a subtle amber grain; edges throw fine sunlit spray on the carve; real contact.
+WORLD ANCHOR: an endless sea of rolling ochre dunes, wind-sculpted ripple
+patterns, sharp sinuous crest-lines, long cool shadows in the troughs; a lone
+distant caravan/oasis on the horizon. Keep constant.
+TIME/LIGHT: golden hour; low warm sun KEY from ahead camera-left; long cool
+blue shadows; warm dust-haze softening the far dunes. Keep constant.
+
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: high aerial wide — establishing (environment-dominant)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: high aerial looking down a colossal dune face; . is
+  TINY, carving a curved line down the slope, the ocean of dunes + golden sky
+  filling the frame (establishing / figure-to-ground far beat).
+• PLACEMENT & ORIENTATION: SUBJECT = upper-CENTRE on the dune face, small; her
+  carve-line & shadow trailing below her. OBJECT (sandboard) = under her, a
+  bright fleck. ORIENTATION = ¾-REAR / near back (≈150°), carving away downhill.
+  CAMERA DISTANCE = FAR (subject small). FACE-REVEAL: FACELESS START — stays faceless.
+• HEAD & GAZE: (tiny) head angled down the fall-line into the carve.
+• TORSO/HIPS/WEIGHT: athletic crouch, weight over the board, hips angled into the
+  turn.
+• ARMS: RIGHT arm out for balance, LEFT arm trailing — a low carving stance.
+• LEGS/FEET: both knees deeply flexed, feet strapped, edge biting the sand.
+• HAIR (frame): a tiny dark comma, scarf a thin amber ribbon behind.
+• FABRIC (frame): linen trousers & scarf stream back; a fine sand-plume rooster-tails
+  off the board's edge.
+• ENVIRONMENT — FG (near lens, high): a knife-edge crest-line & rippled sand nearest
+  the lens, casting a long shadow. MG: the vast dune face with wind-ripple texture,
+  her carve-line cutting a fresh arc. BG: ranges of dunes to the hazy horizon, a
+  distant caravan silhouette, the low sun.
+• SKY: golden-hour gradient — warm amber at the horizon sun, peach midsky, soft
+  lilac-blue above; thin gold-edged cloud streaks; the sun a warm bloom.
+• LIGHT-TRAIL: an amber→rose wake woven into the sunlit sand-plume, the brightest
+  line on the ochre, tracing her arc.
+• LIGHTING: low warm sun from ahead-left, long cool trough-shadows, warm rim on the
+  crest-lines, gentle haze bloom.
+• LENS & DOF: 24 mm-equiv from altitude, deep focus, warm painterly clarity.
+• PALETTE/GRADE: warm film-emulation HDR, controlled vibrancy (ochre + rose accent
+  on cool shadow), skin natural; world reads first.
+• NEGATIVES: [STD-NEG — IMAGE] + no cartoon/floaty sand; real carve physics.
+
+VIDEO (unique move → AERIAL DRONE DESCEND + follow the carve):
+• 9:16 · ~5 s · 24 fps. Already carving.
+• CAMERA: a high drone shot that descends and swings to follow her carve down the
+  dune face, closing distance smoothly — one continuous descend-and-follow. No cut.
+• HEAD & GAZE ARC: (tiny) head tracks the fall-line; no reveal (faceless).
+• LIMB MOTION: arms counter-balance the carve; knees pump to absorb the ripples.
+• HIP/TORSO: hips roll edge-to-edge through linked carves; torso stays stacked.
+• HAIR/FABRIC: bob, scarf & trousers stream and snap with each turn.
+• KEY-OBJECT PHYSICS: the board edge bites and releases, throwing a real sunlit
+  sand-plume that arcs and falls under gravity; believable speed.
+• LIGHT-TRAIL: lengthens and glows through the sand-plume as she descends.
+• ENVIRONMENT PARALLAX: fg crest sweeps as the drone drops, dune face rotates,
+  distant ranges hold — strong descending parallax; sand grains catch light.
+• SKY MOTION: near-still; sun-bloom breathes; haze shifts subtly.
+• ATMOSPHERE/FX: drifting sand-mist, sun-lit dust motes, soft grain, halation.
+• LIGHTING IN MOTION: warm rim rakes the crest-lines as the angle lowers.
+• GRADE: warm film HDR. AUDIO: wind hiss + sand rush + a warm swelling pad.
+• HAND-OFF → SHOT 2: the descent drops ahead & below her — arriving low & front for
+  the carve-toward-camera hero, carve rhythm & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: low ¾-front hero, carving toward camera (sand-level)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: sand-level low hero from ahead-below as she carves toward
+  the lens, throwing a sunlit spray-plume across the frame.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, NEAR. OBJECT (sandboard)
+  = under her, edge toward the lens throwing spray. ORIENTATION = THREE-QUARTER
+  FRONT (45°). CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN START — owns the
+  eye-led beat, may resolve either way.
+• HEAD & GAZE: face ¾ to camera, chin slightly down into the carve then a bright
+  lift; sun-warmed skin, exhilarated half-smile, eyes squinting softly against the light.
+• TORSO/HIPS/WEIGHT: athletic crouch, torso stacked and leaning into the turn, hips
+  rolled edge-ward, weight driving through the front foot.
+• ARMS: RIGHT (lead) arm reaching forward-low toward the carve line, fingers open;
+  LEFT arm swept back and up for balance, bangles catching gold.
+• LEGS/FEET: RIGHT (front) knee deeply flexed over the strapped foot, LEFT knee
+  driving the edge; both boots locked to the board.
+• HAIR (frame): bob blown back off the face, warm-lit; a few strands crossing the brow.
+• FABRIC (frame): the sheer amber scarf whips up and across behind her; linen trousers
+  press to the shins, cuffs snapping.
+• ENVIRONMENT — FG: the sunlit sand-plume arcing across the low lens, individual grains
+  glinting, rippled sand nearest. MG: the dune face she's carving, her fresh arc-line.
+  BG: dune ranges, the low sun & warm haze, distant caravan.
+• SKY: warm golden-hour band low, peach above; the sun a soft bloom camera-left; gold
+  cloud streaks.
+• LIGHT-TRAIL: an amber→rose arc curling up from the board edge through the sand-plume,
+  blooming toward camera — the signature payoff.
+• LIGHTING: low warm sun rim from camera-left haloing her hair & the spray, cool fill
+  on the shadow side, warm halation.
+• LENS & DOF: 28 mm-equiv low & wide, shallow-ish; . crisp, plume & bg softly bloomed.
+• PALETTE/GRADE: warm film-emulation HDR, controlled vibrancy, skin natural (sun-warm).
+• NEGATIVES: [STD-NEG — IMAGE] + real sand spray, no cartoon particles.
+
+VIDEO (unique move → LOW SWOOP-UP as she carves past/over the lens):
+• 9:16 · ~5 s · 24 fps. Arrives already carving from Shot 1.
+• CAMERA: starts sand-level ahead of her, then SWOOPS UP and slightly back as she
+  carves toward and past the lens, spray arcing over camera — one continuous rising
+  swoop. No cut.
+• HEAD & GAZE ARC: face ¾-front, a bright glance up to camera at the pass (eye-led
+  beat: sun-lit exhilaration, half-smile), then back to the carve; face shown throughout.
+• LIMB MOTION: lead arm reaches through the carve, rear arm balances; knees pump edge-
+  to-edge; a real weight drive.
+• HIP/TORSO: hips roll the board onto its edge, torso stacks and leans — believable carve.
+• HAIR/FABRIC: bob streams, scarf whips overhead, trousers snap with the turn.
+• KEY-OBJECT PHYSICS: board edge bites, releasing a sunlit spray-plume that arcs over
+  the lens and falls under gravity; real speed & contact.
+• LIGHT-TRAIL: arcs up through the plume, blooms at the pass, streaks behind on release.
+• ENVIRONMENT PARALLAX: fg spray & sand rush the low lens, dune face drops behind,
+  ranges hold; grains glint mid-air.
+• SKY MOTION: sun-bloom flares as the swoop rises into it; haze breathes.
+• ATMOSPHERE/FX: sand-mist, sunlit dust, grain, halation, a soft lens flare.
+• LIGHTING IN MOTION: warm rim flares over her as the camera swoops toward the sun.
+• GRADE: warm film HDR. AUDIO: sand rush + wind + a warm rhythmic pulse.
+• HAND-OFF → SHOT 3: as she carves past, we fall in BEHIND her onto the board — carve
+  rhythm, plume & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: low from directly behind — down the fall-line (back)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: low behind her, lens near the board's tail, looking down
+  the dune fall-line as she carves away, a rooster-tail of sand fanning up behind.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, lower-to-middle third, NEAR-mid. OBJECT
+  (sandboard tail + spray) = CENTRE foreground nearest lens. ORIENTATION = FULL BACK-
+  TO-CAMERA (180°). CAMERA DISTANCE = NEAR (board-level). FACE-REVEAL: FACELESS START
+  — stays faceless.
+• HEAD & GAZE: back of the wind-tossed bob; head down the fall-line.
+• TORSO/HIPS/WEIGHT: crouched, torso stacked forward, hips edge-rolled, weight low.
+• ARMS: RIGHT arm out for balance, LEFT arm trailing; scarf tail streaming from the
+  neck toward the lens.
+• LEGS/FEET: both knees deeply flexed, strapped boots, edge biting; a dynamic carving stance.
+• HAIR (frame): bob streaming back toward camera, warm-lit tips.
+• FABRIC (frame): the amber scarf & linen trousers snap back toward the lens; the
+  sand-plume fans up behind, lit gold.
+• ENVIRONMENT — FG: the board tail, edge-spray & rippled sand nearest lens, long
+  shadow trailing. MG: the dune fall-line dropping away, her fresh carve-arc, ripple
+  texture. BG: the trough below, next dune rising, the low sun & haze ahead.
+• SKY: warm band far ahead beyond the dune crest, peach above, gold cloud streaks.
+• LIGHT-TRAIL: streams from the board straight down the fall-line ahead, amber→rose,
+  woven through the rooster-tail, converging with the carve-line — a corridor of sand-light.
+• LIGHTING: warm sun ahead haloing her silhouette & the spray, cool trough-shadow fill.
+• LENS & DOF: 28 mm-equiv low; board & spray crisp, fall-line a warm bloom.
+• PALETTE/GRADE: warm film-emulation HDR, controlled vibrancy, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + real sand physics, no cartoon plume.
+
+VIDEO (unique move → TRAILING DOLLY PUSH behind, through the rooster-tail):
+• 9:16 · ~5 s · 24 fps. Arrives already carving from Shot 2's pass.
+• CAMERA: a low trailing dolly push locked behind the board, riding the fall-line as
+  the sand rushes beneath and the rooster-tail fans past the lens — steady advance, no cut.
+• HEAD & GAZE ARC: back-of-head throughout; no reveal (faceless, compliant).
+• LIMB MOTION: arms counter-balance the linked carves; knees pump the ripples.
+• HIP/TORSO: hips roll edge-to-edge; forward crouch held.
+• HAIR/FABRIC: bob, scarf & trousers stream and snap toward camera with each turn.
+• KEY-OBJECT PHYSICS: board edge carves and releases, the rooster-tail arcing up and
+  falling under gravity, grains glinting; believable speed & contact.
+• LIGHT-TRAIL: elongates down the fall-line, woven through the plume, converging with
+  the carve toward the sun — a corridor of light and sand.
+• ENVIRONMENT PARALLAX: fg sand & spray rush, dune face drops, next dune holds — fast
+  forward parallax; ripples streak.
+• SKY MOTION: warm band ahead near-static; sun-bloom breathes.
+• ATMOSPHERE/FX: sand-mist, sunlit dust, grain, halation.
+• LIGHTING IN MOTION: warm halo intensifies around her as she descends toward the sun.
+• GRADE: warm film HDR. AUDIO: sand rush + wind + pulse building.
+• HAND-OFF → SHOT 4: the push slides around to her flank at the next crest — arriving
+  at the profile Dutch side-track, carve rhythm & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: Dutch profile side-track (broadside, camera-left)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: broadside profile at board height, camera canted ~12° Dutch,
+  as she carves left-to-right across a crest, dunes falling away, golden sky above.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE-RIGHT, middle third, MEDIUM-FULL. OBJECT
+  (sandboard) = beneath her, broadside, edge-spray toward camera. ORIENTATION =
+  PROFILE / side-on (90°), gaze lifting toward the sun ahead (screen-right). CAMERA
+  DISTANCE = MID, tracking left-to-right. FACE-REVEAL: FACE-SHOWN (profile) — may
+  resolve either way.
+• HEAD & GAZE: clean profile, chin lifting as she gazes to the low sun; warm bliss,
+  a breath of a smile, wind in her lashes.
+• TORSO/HIPS/WEIGHT: carving lean into the crest, hips rolled edge-ward, weight over
+  the front foot, spine long and stacked.
+• ARMS: RIGHT (far) arm reaching forward toward the sun, fingers open; LEFT (near) arm
+  swept back low for balance, bangles glinting.
+• LEGS/FEET: RIGHT (near) knee deeply flexed over the strapped front foot; LEFT knee
+  driving the tail edge; a committed carve.
+• HAIR (frame): bob streaming horizontally back off the profile, sun-gilded.
+• FABRIC (frame): the amber scarf lifts into a long horizontal banner behind; linen
+  trousers ripple; a sunlit spray-sheet off the edge.
+• ENVIRONMENT — FG: the knife-crest & rippled sand skating past the lens, edge-spray.
+  MG: the dune face & her carve-arc, ripple texture. BG: dune ranges, the low sun,
+  warm haze, distant caravan.
+• SKY: golden-hour — warm sun screen-right, peach-to-lilac gradient, gold cloud streaks.
+• LIGHT-TRAIL: a long amber→rose arc trailing behind the profile through the carve,
+  doubled by the scarf's glow and the sand-sheet — the payoff.
+• LIGHTING: warm sun rim from screen-right raking her profile & hair, cool fill on the
+  shadow side, halation on the spray.
+• LENS & DOF: 50 mm-equiv Dutch, shallow-ish; . crisp, fg crest & bg dunes softly blurred.
+• PALETTE/GRADE: warm film-emulation HDR, warmest; controlled vibrancy; skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + real carve, no floaty sand.
+
+VIDEO (unique move → SIDE-TRACK that ORBITS to ¾-front with RACK-FOCUS):
+• 9:16 · ~5 s · 24 fps. Arrives already carving from Shot 3's slide-around.
+• CAMERA: a parallel side-track gliding with her, then a smooth ORBIT swinging from
+  profile toward ¾-front as she crests, with a rack-focus from the foreground spray
+  onto her face — one continuous orbit. No cut.
+• HEAD & GAZE ARC: profile → gaze lifts to the sun then eases toward camera on the
+  orbit (eye-led beat: warm bliss, soft smile); face shown throughout (compliant).
+• LIMB MOTION: far arm reaches to the light, near arm balances; knees hold the carve,
+  weight easing as she crests.
+• HIP/TORSO: carving lean deepens on the crest then releases — real weight shift.
+• HAIR/FABRIC: bob & scarf stream horizontally, ballooning as she crests, settling.
+• KEY-OBJECT PHYSICS: board edge carves the crest, spray-sheet arcing and falling,
+  believable contact & speed.
+• LIGHT-TRAIL: arcs through the carve, blooming as the orbit faces the sun.
+• ENVIRONMENT PARALLAX: fg crest & spray sweep with the orbit, dune face rotates,
+  ranges hold; ripples streak.
+• SKY MOTION: sun flares warmer as the orbit turns toward it; haze breathes.
+• ATMOSPHERE/FX: sand-mist, sunlit dust, grain, halation, soft flare.
+• LIGHTING IN MOTION: warm rim rakes and wraps her as the camera orbits to front.
+• GRADE: warm film HDR, warmest. AUDIO: sand + wind + pulse resolving on a warm beat.
+• LOOP / HAND-OFF → SHOT 1: she crests and drops into the next carve, small-ing away —
+  carve rhythm & amber→rose trail matched to Shot 1's aerial wide for a seamless loop.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
