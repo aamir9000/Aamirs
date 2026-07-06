@@ -2029,3 +2029,253 @@ VIDEO (unique move → SIDE-TRACK that CRANES UP to the Milky-Way):
 • NEGATIVES: [STD-NEG — VIDEO].
 
 ========================================================================
+
+
+========================================================================
+CONCEPT 08 — "SAKURA TUNNEL"                      ORIENTATION: 9:16
+========================================================================
+LOGLINE: . rides her e-scooter through a tunnel of cherry blossom in full
+bloom, petals swirling in her wake, trailing a blush-pink→pearl iridescent
+glow through dappled spring light. Tender, dreamy, joyful.
+CLIPS: 4 (cut together = one continuous glide through the blossom).
+GRADE PERSONALITY: SOFT SPRING HDR — blush-pink + pearl-white + soft green,
+gentle pastel, dappled sunlight, airy bloom, delicate. Controlled: pink is
+the CEILING, balanced by green foliage, warm bark & path neutrals.
+TRAIL TINT: blush-pink → pearl.
+GROUNDED-MAGICAL BEAT: real drifting-petal physics (petals loft, tumble &
+settle with air currents); the ONE surreal touch = her blush→pearl wake
+gathering the petals into a soft luminous swirl. No cartoon petals, no floaty CGI.
+FACE PLAN: Shot 1 faceless (far/back) · Shot 2 face-shown · Shot 3 faceless
+(back) · Shot 4 face-shown (profile). (2 journey, 2 beat.)
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: a soft flowing midi dress in pale blush with a fine cream floral
+print, a light gauzy cardigan slipping off one shoulder, a thin cream ribbon
+sash that flutters.
+HAIR: dark-brown chin-length side-parted bob, a few blossom petals caught in it,
+soft dappled light on the crown.
+HEADWEAR: none (petals settle in the hair).
+ACCESSORIES: small pearl stud earrings; a fine pink-gold bracelet on the RIGHT
+wrist; a delicate ring on the LEFT hand.
+FOOTWEAR: light cream ballet-flat sneakers.
+HANDS & NAILS: short soft nails, pale blush-pearl polish.
+VEHICLE (deep): the same sleek matte e-scooter, now in a soft pearl finish for
+spring, the under-glow a gentle blush; slim handlebar, single soft LED; tyres
+whispering over petal-strewn path.
+WORLD ANCHOR: a long avenue tunnel of cherry trees in full bloom arching
+overhead, gnarled mossy trunks, a petal-strewn path, soft green undergrowth, a
+small stone lantern & a quiet canal edge; petals drifting everywhere. Keep constant.
+TIME/LIGHT: bright spring mid-morning; warm sun KEY dappling through the blossom
+canopy; soft pearl FILL; gentle bloom; petals backlit like confetti. Keep constant.
+
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: wide, slightly high — establishing the blossom tunnel
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: a slightly-high wide down the length of the blossom tunnel;
+  . is SMALL, entering the arching corridor of cherry trees, petals + canopy filling
+  the frame (establishing / figure-to-ground far beat).
+• PLACEMENT & ORIENTATION: SUBJECT = lower-CENTRE, small, on the petal-strewn path;
+  the tunnel's arch & drifting petals leading to her. OBJECT (scooter) = under her,
+  a soft pearl point. ORIENTATION = ¾-REAR / near back (≈150°), gliding in. CAMERA
+  DISTANCE = FAR (subject small). FACE-REVEAL: FACELESS START — stays faceless.
+• HEAD & GAZE: (tiny) head up into the blossom canopy ahead; a lifted, joyful posture.
+• TORSO/HIPS/WEIGHT: relaxed glide, weight centred over the deck, a soft forward incline.
+• ARMS: RIGHT arm to the grip, LEFT arm eased out, palm catching a drifting petal.
+• LEGS/FEET: staggered stance on the deck, knees soft.
+• HAIR (frame): a small dark comma with a petal or two caught, dappled.
+• FABRIC (frame): the blush dress, cardigan & ribbon sash flutter back gently.
+• ENVIRONMENT — FG (near lens, high): a low blossom-laden bough & drifting petals
+  framing the top, a mossy trunk edge. MG: the tunnel of cherry trees arching overhead,
+  a stone lantern, the petal-strewn path, dappled light-pools. BG: the corridor
+  receding into a soft pink haze, a glimpse of blue sky through the canopy end.
+• SKY: soft blue glimpsed through the pink canopy, dappled sun, high soft clouds; the
+  canopy is the "ceiling."
+• LIGHT-TRAIL: a blush-pink→pearl wake threading down the path behind her, gathering a
+  soft swirl of petals — the brightest ribbon in the tunnel, guiding the eye.
+• LIGHTING: warm dappled sun through the blossom, soft pearl fill, petals backlit like
+  confetti, gentle bloom.
+• LENS & DOF: 24 mm-equiv, deep-ish focus, soft airy clarity, delicate bokeh on far petals.
+• PALETTE/GRADE: soft spring HDR, controlled vibrancy (blush + green + pearl), skin
+  natural; world reads first.
+• NEGATIVES: [STD-NEG — IMAGE] + real petal drift, no cartoon/floaty CGI petals.
+
+VIDEO (unique move → CRANE-UP through the canopy, then push down the tunnel):
+• 9:16 · ~5 s · 24 fps. Already gliding.
+• CAMERA: cranes UP into the blossom canopy revealing the arch of trees, then descends
+  and pushes forward down the tunnel behind her — one flowing lift-and-advance. No cut.
+• HEAD & GAZE ARC: (tiny) head lifts into the canopy; no reveal (faceless).
+• LIMB MOTION: a hand lifts to a petal; forearms micro-steer; knees absorb the path.
+• HIP/TORSO: gentle counter-sway holding the line.
+• HAIR/FABRIC: bob, dress, cardigan & ribbon flutter; petals settle & lift.
+• VEHICLE PHYSICS: tyres whisper over petals, a faint spray of blossom off the wheels.
+• LIGHT-TRAIL: lengthens down the tunnel, gathering petals into a soft luminous swirl.
+• ENVIRONMENT PARALLAX: fg bough sweeps as the crane lifts, canopy rotates overhead,
+  the corridor unrolls — deep leafy parallax; petals drift at real air-speed.
+• SKY MOTION: dappled light shifts through swaying blossom; clouds barely drift.
+• ATMOSPHERE/FX: drifting petals, pollen motes in sunbeams, soft bloom, dappled flicker.
+• LIGHTING IN MOTION: sun dapples ripple over her as she enters the tunnel.
+• GRADE: soft spring HDR. AUDIO: gentle breeze + rustling blossom + a tender music-box pad.
+• HAND-OFF → SHOT 2: the push descends ahead of her — arriving low & front amid drifting
+  petals for the ride-toward-camera hero, glide vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: low ¾-front hero, riding toward camera (through petals)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: low hero from ahead-below as she rides toward the lens through
+  a curtain of drifting petals, dappled light on her.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, NEAR. OBJECT (scooter) =
+  centred, soft LED toward lens. ORIENTATION = near FULL-FRONTAL easing to ¾-front
+  (0–45°). CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN START — owns the eye-led beat.
+• HEAD & GAZE: head level to camera, a soft tilt as a petal drifts past; eyes bright &
+  tender, a warm delighted smile, dappled sun across her cheek.
+• TORSO/HIPS/WEIGHT: easy forward lean into the glide; hips centred low; weight poised.
+• ARMS: RIGHT hand on the near grip, fingers relaxed; LEFT hand lifting slightly, a
+  petal landing on the open palm, bracelet glinting.
+• LEGS/FEET: RIGHT sneaker forward on the deck, knee soft; LEFT foot back, heel light.
+• HAIR (frame): bob framing the face, a petal caught at the temple, dappled highlights.
+• FABRIC (frame): the blush dress flutters, cardigan slipping off one shoulder, ribbon
+  sash lifting; petals brushing the fabric.
+• ENVIRONMENT — FG: a screen of drifting petals crossing the lens, a low blossom bough.
+  MG: the tunnel path, mossy trunks, a stone lantern, dappled light-pools. BG: the
+  corridor of blossom receding into soft pink haze.
+• SKY: soft blue glimpsed through the canopy, dappled sun, high clouds.
+• LIGHT-TRAIL: a blush→pearl arc curling off the rear wheel, gathering petals into a
+  soft swirl toward camera — the signature payoff.
+• LIGHTING: warm dappled sun on her face & hair, soft pearl fill, backlit petals glowing.
+• LENS & DOF: 35 mm-equiv low, shallow; . crisp, petals & canopy a creamy bokeh.
+• PALETTE/GRADE: soft spring HDR, controlled vibrancy, skin natural (warm dappled).
+• NEGATIVES: [STD-NEG — IMAGE] + real petals, no cartoon particles.
+
+VIDEO (unique move → REVERSE-DOLLY retreating ahead of her through the petal-fall):
+• 9:16 · ~5 s · 24 fps. Already gliding.
+• CAMERA: a low reverse-dolly retreating ahead of her as she approaches, petals streaming
+  between lens and subject — smooth, no cut.
+• HEAD & GAZE ARC: level to camera, a tender delighted lift as she watches a petal land
+  on her palm then looks up (eye-led beat) — face shown throughout.
+• LIMB MOTION: LEFT hand opens to catch a petal then eases back to balance; forearms
+  micro-steer; knees absorb the path.
+• HIP/TORSO: gentle counter-sway holding the line into camera.
+• HAIR/FABRIC: bob flutters, cardigan shoulder slips & settles, ribbon lifts; petals brush.
+• VEHICLE PHYSICS: tyres whisper over petals, a faint blossom-spray off the wheel.
+• LIGHT-TRAIL: brightens toward camera, gathering petals into a luminous swirl.
+• ENVIRONMENT PARALLAX: petals rush the lens, trunks & lanterns slide past, canopy holds
+  — deep tunnel parallax; petals drift at real air-speed.
+• SKY MOTION: dappled light shimmers through swaying blossom.
+• ATMOSPHERE/FX: drifting petals, pollen motes, soft bloom, dappled flicker.
+• LIGHTING IN MOTION: sun dapples ripple over her as she nears camera.
+• GRADE: soft spring HDR. AUDIO: breeze + blossom rustle + tender music-box lift.
+• HAND-OFF → SHOT 3: as she passes the lens, we swing BEHIND her into the tunnel — glide
+  vector, petal-swirl & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: low from directly behind — into the tunnel (back)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: low behind her, lens near the petal-strewn path, looking down
+  the blossom corridor as she glides away, petals swirling up in her wake.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, lower-to-middle third, NEAR-mid. OBJECT
+  (scooter tail + under-glow) = CENTRE foreground nearest lens. ORIENTATION = FULL
+  BACK-TO-CAMERA (180°). CAMERA DISTANCE = NEAR (path-level). FACE-REVEAL: FACELESS.
+• HEAD & GAZE: back of the bob with petals caught; head up into the canopy ahead.
+• TORSO/HIPS/WEIGHT: eased forward into the glide; hips low & centred.
+• ARMS: RIGHT arm to the grip; LEFT arm eased out, fingers trailing; cardigan slipped
+  at the shoulder, ribbon sash streaming to the lens.
+• LEGS/FEET: staggered sneakers on the deck, knees soft, under-glow softly blush.
+• HAIR (frame): bob streaming back toward the lens, petals lifting from it.
+• FABRIC (frame): dress, cardigan & ribbon snap back gently; a swirl of petals rises in
+  the blush wake behind the wheel.
+• ENVIRONMENT — FG: the pearl rear wheel & soft under-glow, petals strewn on the path
+  lifting into the wake. MG: the tunnel of trunks & blossom arching, a stone lantern,
+  dappled light-pools, the canal edge glinting. BG: the corridor receding into soft pink
+  haze, a bright canopy-end.
+• SKY: soft blue through the canopy far ahead, dappled sun.
+• LIGHT-TRAIL: streams down the path from the wheel, blush→pearl, gathering a ribbon of
+  swirling petals, converging with the tunnel's perspective — a corridor of blossom-light.
+• LIGHTING: dappled sun through blossom haloing her, soft pearl fill, backlit petals glowing.
+• LENS & DOF: 28 mm-equiv low; wheel & near petals crisp, corridor a soft pink bloom.
+• PALETTE/GRADE: soft spring HDR, controlled vibrancy, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + real petal drift, no cartoon CGI.
+
+VIDEO (unique move → LOW TRACKING PUSH behind, through the swirling petals):
+• 9:16 · ~5 s · 24 fps. Arrives already gliding from Shot 2's pass.
+• CAMERA: a low tracking push locked behind the wheel, chasing her down the tunnel as
+  petals swirl up in the wake past the lens — steady advance, no cut.
+• HEAD & GAZE ARC: back-of-head throughout; no reveal (faceless, compliant).
+• LIMB MOTION: LEFT fingers trail in the air; forearms micro-steer; knees absorb the path.
+• HIP/TORSO: subtle counter-sway; forward incline held.
+• HAIR/FABRIC: bob, dress & ribbon stream toward camera; petals lift from her hair & wake.
+• VEHICLE PHYSICS: tyres whisper over petals, blossom-spray off the wheels, believable glide.
+• LIGHT-TRAIL: elongates down the corridor, gathering a swirling petal-ribbon, converging
+  with the tunnel lines toward the bright canopy-end.
+• ENVIRONMENT PARALLAX: path & petals rush, trunks & lanterns slide, canopy holds — leafy
+  tunnel parallax; petals drift & tumble realistically.
+• SKY MOTION: dappled light shimmers through swaying blossom ahead.
+• ATMOSPHERE/FX: swirling petals, pollen motes, soft bloom, dappled flicker.
+• LIGHTING IN MOTION: brightness grows toward the canopy-end as she glides on.
+• GRADE: soft spring HDR. AUDIO: breeze + blossom rustle + music-box building.
+• HAND-OFF → SHOT 4: the push slides around to her flank — arriving at the profile
+  side-track, glide vector, petal-swirl & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: profile side-track (broadside, camera-left)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 9:16. FRAMING: broadside profile at deck height as she glides left-to-right
+  down the tunnel, blossom canopy arching above, petals crossing the frame.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, MEDIUM-FULL. OBJECT (scooter)
+  = beneath her, broadside, blush under-glow toward camera. ORIENTATION = PROFILE /
+  side-on (90°), gaze lifting UP into the blossom. CAMERA DISTANCE = MID, tracking
+  left-to-right. FACE-REVEAL: FACE-SHOWN (profile) — may resolve either way.
+• HEAD & GAZE: clean profile, chin lifting as she gazes up into the canopy; tender
+  wonder, a soft radiant smile, a petal drifting past her lashes.
+• TORSO/HIPS/WEIGHT: easy glide-lean, hips level, weight centred, spine long & lifted.
+• ARMS: RIGHT (far) hand on the grip; LEFT (near) hand lifting toward a low bough, fingers
+  open to a petal, bracelet glinting.
+• LEGS/FEET: RIGHT (near) sneaker forward on the deck, knee soft; LEFT foot back, heel light.
+• HAIR (frame): bob streaming horizontally back off the profile, petals lifting from it.
+• FABRIC (frame): dress & ribbon lift into long horizontal ribbons; cardigan sleeve
+  fluttering; a swirl of petals in the wake.
+• ENVIRONMENT — FG: a low blossom bough & drifting petals skating past the lens. MG: the
+  tunnel path, mossy trunks, a stone lantern, the canal glint. BG: the corridor of blossom
+  in soft pink haze, dappled canopy-end.
+• SKY: soft blue through the pink canopy above, dappled sun, high clouds.
+• LIGHT-TRAIL: a long blush→pearl arc trailing behind the profile, doubled by the ribbon
+  sash, gathering a petal-swirl — the payoff.
+• LIGHTING: warm dappled sun raking her profile & hair, soft pearl fill, backlit petals glowing.
+• LENS & DOF: 50 mm-equiv, shallow-ish; . crisp, fg bough & bg tunnel softly blurred, petal bokeh.
+• PALETTE/GRADE: soft spring HDR, tender; controlled vibrancy; skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + real petals, no cartoon CGI.
+
+VIDEO (unique move → SIDE-TRACK with petal-swirl, WHIP-PAN up into the canopy):
+• 9:16 · ~5 s · 24 fps. Arrives already gliding from Shot 3's slide-around.
+• CAMERA: a parallel side-track gliding with her, then a soft WHIP-PAN UP into the blossom
+  canopy at the end (the whip = the loop cut). No hard cut mid-clip.
+• HEAD & GAZE ARC: profile → gaze lifts into the blossom (eye-led beat: tender wonder, soft
+  radiant smile, a petal past her lashes); face shown throughout (compliant).
+• LIMB MOTION: LEFT hand lifts toward a bough & a petal, then eases; hands steady on glide;
+  a soft chin-lift.
+• HIP/TORSO: gentle glide-lean holding the line; torso lifts slightly toward the canopy.
+• HAIR/FABRIC: bob & dress stream horizontally, lifting as the whip rises; petals swirl up.
+• VEHICLE PHYSICS: tyres whisper over petals, blossom-spray, believable glide.
+• LIGHT-TRAIL: arcs behind, brightening as the whip lifts into the blossom.
+• ENVIRONMENT PARALLAX: fg bough & petals rush, tunnel mid-drifts, canopy holds then fills
+  on the whip; petals tumble realistically.
+• SKY MOTION: dappled light dances as the whip sweeps the sunlit canopy.
+• ATMOSPHERE/FX: swirling petals, pollen motes, soft bloom, dappled flicker.
+• LIGHTING IN MOTION: dappled sun rakes her profile, then the sunlit blossom fills the frame.
+• GRADE: soft spring HDR, tender. AUDIO: breeze + blossom rustle + music-box resolving warmly.
+• LOOP / HAND-OFF → SHOT 1: the whip's sunlit canopy resolves back to the wide establishing
+  at the tunnel mouth — glide vector & blush→pearl trail matched to Shot 1 for a seamless loop.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
