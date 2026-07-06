@@ -67,8 +67,19 @@ placement (left/right/centre/near/far) every clip.
 (cinematic landscape). Keep the tagged ratio for all clips in that
 concept unless a shot says otherwise.
 
+[PLACEMENT & CAMERA RELATION — required, stated explicitly every shot]
+State in each shot: (a) SUBJECT PLACEMENT — horizontal Left / Centre / Right
++ vertical upper / middle / lower third; (b) KEY OBJECT / VEHICLE placement —
+centre / left / right / foreground / under-subject; (c) SUBJECT ORIENTATION TO
+LENS — full-frontal (0°) · three-quarter front (45°) · profile / side-on (90°)
+· three-quarter rear (135°) · full back-to-camera (180°); (d) CAMERA DISTANCE —
+extreme-near / near / mid / full-body / far (subject small in frame). Vary all
+four across the 3–5 clips; never repeat a placement+orientation+distance combo.
+
 [PER-SHOT FIELD TEMPLATE]  Every IMAGE (start-frame) block specifies:
-Aspect · Framing & subject position · Head & gaze · Torso/hips/weight ·
+Aspect · FRAME PLACEMENT & CAMERA-RELATION (subject L/C/R + third; object
+placement; orientation to lens 0°/45°/90°/135°/180°; near↔far) · Framing &
+subject position · Head & gaze · Torso/hips/weight ·
 Arms→hands→fingers (R & L named) · Legs & feet (R & L named) · Hair ·
 Wardrobe · Headwear (if any) · Accessories · Footwear · Hands & nails ·
 Vehicle/key object (deep) · Light-trail · Environment fg/mg/bg (deep) ·
@@ -154,6 +165,10 @@ IMAGE (start-frame):
   the wet asphalt directly behind the rear wheel; . in upper-centre seen
   from behind & slightly below, small-to-medium; tarmac + sky dominate
   (heavy near foreground, deep sky background).
+• PLACEMENT & ORIENTATION: SUBJECT = upper-CENTRE, middle-to-upper third,
+  small-to-medium. OBJECT (e-scooter) = dead-CENTRE foreground, rear wheel
+  nearest the lens. ORIENTATION = FULL BACK-TO-CAMERA (180°), seen slightly
+  from below. CAMERA DISTANCE = NEAR (under-wheel) reading out to mid.
 • HEAD & GAZE: head forward down the boulevard, chin lifted into the wind,
   a whisper of turn right; eyeline to the distant horizon sun-star;
   expression calm, quietly exhilarated, lips softly closed.
@@ -223,6 +238,10 @@ IMAGE (start-frame):
 • Aspect 9:16. FRAMING/POSITION: full profile broadside, camera canted ~12°
   Dutch; . centred-right in a medium-full framing, gliding left-to-right;
   boulevard depth behind, sea band above the railing.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE-RIGHT, middle third, medium-full.
+  OBJECT = scooter centred directly beneath her, shown broadside. ORIENTATION
+  = PROFILE / side-on (90°), head micro-turned toward the screen-right horizon
+  (easing toward 45°). CAMERA DISTANCE = MID, tracking left-to-right.
 • HEAD & GAZE: head in clean profile then micro-turned toward the horizon
   ahead (screen-right), chin level; eyes bright, a faint closed-lip smile
   of enjoyment.
@@ -283,6 +302,10 @@ IMAGE (start-frame):
   coastline; . is SMALL, lower-third, riding along the ribbon of road; the
   WORLD is the larger area (this is the establishing / figure-to-ground far
   beat).
+• PLACEMENT & ORIENTATION: SUBJECT = LOWER third, small (environment-dominant),
+  drifting slightly right-of-centre along the road ribbon. OBJECT = scooter
+  directly under her on the road. ORIENTATION = TOP-DOWN crown/back view
+  (≈180° from above). CAMERA DISTANCE = FAR / high altitude (subject small).
 • HEAD & GAZE: from above, crown & shoulders read; head tips slightly toward
   the sea; posture relaxed into the cruise.
 • TORSO/HIPS/WEIGHT: centred over the deck, a gentle S-line through the body
@@ -336,6 +359,11 @@ IMAGE (start-frame):
 • Aspect 9:16. FRAMING/POSITION: over-the-shoulder from behind & slightly
   above, three-quarter; . in the lower-left third, the glowing horizon &
   sun-star filling the upper-right — she rides INTO the light.
+• PLACEMENT & ORIENTATION: SUBJECT = LOWER-LEFT third; horizon/sun-star fills
+  UPPER-RIGHT. OBJECT = scooter under her, angled away toward the horizon.
+  ORIENTATION = THREE-QUARTER REAR (135°) with a head-turn glance to camera
+  (reads ¾-front, ~45°, on the glance). CAMERA DISTANCE = NEAR-MID, over her
+  right shoulder.
 • HEAD & GAZE: she glances back over her RIGHT shoulder toward the lens (the
   final eye-led beat) — warm, self-aware, a soft smile; then implied return
   forward.
