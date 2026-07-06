@@ -23,7 +23,7 @@
 5. ⬜ Set **display name = "Aira Raeva"** on all platforms (first name Aira, "surname" Raeva; a space, no punctuation needed).
 6. ⬜ Set bio (drafts in §7 — leads with Aira, nods to Raeva).
 7. ✅ Raeva pronunciation confirmed: **"RAY-wah"** ("ray" of light + "wa" as in war).
-8. ⬜ Set up a dedicated brand email (e.g. `raeva.studio@gmail.com` / `aira...`), then attach all accounts.
+8. ✅ Brand email created: **`raeva.studios@gmail.com`** (sender/"From" name = **Aira Raeva**). ⬜ Attach IG + YouTube + Facebook to it.
 9. ⬜ Change Facebook name + email.
 10. ⬜ Design the logo bug (radiant spark / soft sun-glow) — doubles as the watermark-cover bug.
 11. ⬜ (Later, once growing) consider a trademark in the beauty/media category.
@@ -129,7 +129,7 @@ The AI-persona / beauty niche is saturated. Every `aira.*` / `*.aira` handle, ev
 - **Veo watermark is STATIC** (does NOT drift) → a **fixed opaque logo bug over its position** cleanly covers it on every clip; batch-apply the same overlay. Overlay > crop. The covering part must be **near-opaque**, sized slightly larger than the watermark box.
 - **Model choice: Veo 3.1 STANDARD** — chosen for identity consistency (Omni's cross-shot character consistency is shaky = dealbreaker for an identity-locked persona), native 4K, stronger prompt adherence for detailed timed shot-breakdowns, and a clean visible-watermark path via Google AI Ultra / AI Studio / Vertex API (SynthID stays embedded, fine). Use Fast/Light only for cheap test drafts.
 - **AI disclosure:** user will enable **Instagram's AI-content toggle** — the watermark is purely cosmetic to hide.
-- **Email:** set up a dedicated brand email first, then attach all accounts (don't hang the brand off a personal inbox).
+- **Email (LOCKED):** brand inbox = **`raeva.studios@gmail.com`** (Gmail ignores dots, so it = `raevastudios`; the singular `raevastudio`/`raevaai` were taken). Set the sender/"From" name to **Aira Raeva**. Attach all accounts to this inbox — don't hang the brand off a personal one. (Upgrade path later: register the `raeva.ai` domain → `hello@raeva.ai`.)
 
 ---
 

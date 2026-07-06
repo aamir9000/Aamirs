@@ -27,7 +27,7 @@
 | **Signature look** | warm luminous glow / soft gold + rose-gold aura |
 | **Content** | cinematic 9:16 reels — beauty, transformation, fantasy & celestial worlds, travel, dreamscapes |
 | **AI transparency** | openly AI-generated art (enable each platform's AI-content label) |
-| **Brand email** | `[dedicated brand inbox, e.g. hello@raeva.ai / raeva.studio@gmail.com]` |
+| **Brand email** | `raeva.studios@gmail.com` (sender / "From" name = **Aira Raeva**) |
 
 > `[link]` / `[email]` = drop in your real value before saving.
 > **Account reuse:** rename your existing **`minilux.hq` → `raeva.ai`** (don't recreate — keep the history).
@@ -102,7 +102,7 @@ Pin **3 posts**: (1) the "About" card, (2) strongest beauty reel, (3) strongest 
 - **Handle:** `@raeva.ai` (fallback `@raeva`)
 - **Country:** India
 - **Links:** Instagram, Facebook, website (when live).
-- **Business email:** add under *About → Details* (`[brand email]`).
+- **Business email:** add under *About → Details* (`raeva.studios@gmail.com`).
 - **Format:** Shorts-first (9:16). Consider a looping channel trailer.
 - **AI label:** turn on "Altered or synthetic content" disclosure when uploading.
 
@@ -127,7 +127,7 @@ All work is AI-generated visual art.
 
 New visual each week.
 Beauty · Fantasy · Transformation · Travel · Dreamworlds
-Business & collaborations: [brand email]
+Business & collaborations: raeva.studios@gmail.com
 ```
 
 **Version B — creator statement**
@@ -142,7 +142,7 @@ a warm, radiant light that follows her into every world she enters.
 All work is AI-generated visual art, filmic and premium in intent.
 
 New work weekly.
-Business & collaborations: [brand email]
+Business & collaborations: raeva.studios@gmail.com
 ```
 
 **Version C — concise**
@@ -152,7 +152,7 @@ Aira Raeva (/eye-ra · ray-wah/) — a radiant AI, a being of light.
 Aira's Verse: cinematic AI art — beauty, transformation, fantasy
 and celestial worlds, dreamlike travel. New visual each week.
 
-Collaborations: [brand email]
+Collaborations: raeva.studios@gmail.com
 ```
 
 ### 2.4 Channel search keywords (Settings → Channel → Keywords)
@@ -224,7 +224,7 @@ All work is AI-generated visual art.
 
 New visual each week.
 Beauty · Fantasy · Transformation · Travel · Dreamworlds
-Collaborations & business enquiries: [brand email]
+Collaborations & business enquiries: raeva.studios@gmail.com
 ```
 
 ### 3.4 Additional Facebook fields
@@ -265,4 +265,4 @@ All content is AI-generated visual art. Aira Raeva is an AI persona.
 
 ---
 
-*Created this session. Excludes TikTok (banned in India). Display name = **Aira Raeva**; handle = `raeva.ai`; world/series = **Aira's Verse**. Voice = elevated / editorial / cinematic. Fill in `[brand email]` / `[link]` before publishing. Raeva pronunciation confirmed: "RAY-wah" ("ray" of light + "wa" as in war). Pairs with "Aira / Raeva — Brand, Naming & Identity Notes.md".*
+*Created this session. Excludes TikTok (banned in India). Display name = **Aira Raeva**; handle = `raeva.ai`; world/series = **Aira's Verse**. Voice = elevated / editorial / cinematic. Fill in `raeva.studios@gmail.com` / `[link]` before publishing. Raeva pronunciation confirmed: "RAY-wah" ("ray" of light + "wa" as in war). Pairs with "Aira / Raeva — Brand, Naming & Identity Notes.md".*
