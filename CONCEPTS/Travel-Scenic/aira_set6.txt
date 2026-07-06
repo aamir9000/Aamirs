@@ -426,3 +426,281 @@ VIDEO (unique move → DOLLY-PUSH toward horizon + RACK-FOCUS her→sun-star):
 • NEGATIVES: [STD-NEG — VIDEO].
 
 ========================================================================
+
+
+========================================================================
+CONCEPT 02 — "CELESTIAL CLOUD HIGHWAY"             ORIENTATION: 16:9
+========================================================================
+LOGLINE: . glides along a translucent road-of-light suspended above a
+vast sea of dawn clouds, aurora ribbons overhead, trailing an aqua→gold
+iridescent wake toward a soft rising sun. Ethereal, majestic, serene-awe.
+CLIPS: 4 (cut together = one continuous glide).
+GRADE PERSONALITY: ethereal DAWN HDR — high-key, airy, pastel sky, aqua +
+gold, gentle bloom, clean SPHERICAL wide lens with volumetric god-rays
+(no anamorphic streak — deliberately different from Concept 01).
+TRAIL TINT: aqua → gold.
+GROUNDED-MAGICAL BEAT: the road & board of light = solidified aurora-glass
+with REAL refraction, caustics on the cloud-tops, and volumetric god-rays —
+premium, physically grounded; NEVER floaty/weightless or cartoon.
+FACE PLAN across clips: Shot 1 faceless→faceless · Shot 2 face-shown ·
+Shot 3 faceless→faceless (POV/back) · Shot 4 face-shown. (2 journey, 2 beat.)
+
+------ CONTINUITY LOCKS (IDENTICAL in all 4 clips) ------
+SUBJECT: .  (identity from reference ONLY; fixed skeleton; skin natural).
+WARDROBE: a fluid floor-length iridescent-pearl gown in aqua-gold silk —
+fitted sleeveless bodice, long flowing skirt with light panels and a sheer
+train that streams behind like liquid light; hem and panels ripple in the
+updraft.
+HAIR: dark-brown chin-length side-parted bob, front strands lifting in the
+wind, tips catching gold.
+HEADWEAR: a fine luminous circlet resting on the crown — thin pale-metal
+band with a single small iridescent stone at the brow that catches the sun.
+ACCESSORIES: delicate iridescent teardrop earrings; a fine anklet on the
+RIGHT ankle.
+FOOTWEAR: barefoot, balanced on the board of light (soft glow under the arches).
+HANDS & NAILS: short soft almond nails, pale-pearl polish.
+KEY OBJECT (deep): a slim translucent BOARD OF LIGHT (~1.2 m) like solidified
+aurora-glass — faint internal aqua-gold glow, refractive caustics throwing
+light-patterns onto the cloud-road beneath, soft bloom rim; she stands on it
+with real balance and weight; it skims the light-road with believable contact.
+WORLD ANCHOR: a translucent ROAD OF LIGHT ribboning across a vast dawn
+cloud-sea; soft aurora ribbons above; a low rising sun ahead. Keep constant.
+TIME/LIGHT: dawn; warm rose-gold KEY from the low rising sun ahead; cool
+lilac FILL from the sky; god-rays lancing through cloud gaps. Keep constant.
+
+------------------------------------------------------------------------
+SHOT 1  ·  IMAGE ANGLE: extreme wide, high — establishing (environment-dominant)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING/POSITION: extreme wide from high & behind; . is TINY
+  on the ribbon of light-road, the cloud-sea + aurora + rising sun filling
+  the frame (the establishing / figure-to-ground far beat).
+• PLACEMENT & ORIENTATION: SUBJECT = lower-CENTRE, small, on the road ribbon.
+  OBJECT (board) = under her, a bright point on the road. ORIENTATION =
+  THREE-QUARTER REAR / near back-to-camera (≈150°), gliding away. CAMERA
+  DISTANCE = FAR (subject small in frame). FACE-REVEAL: FACELESS START —
+  stays faceless to the end.
+• HEAD & GAZE: (tiny) head lifted toward the rising sun ahead; posture serene.
+• TORSO/HIPS/WEIGHT: long relaxed line, weight centred over the board, a soft
+  forward inclination into the glide.
+• ARMS: RIGHT arm eased out from the body for balance, hand relaxed, fingers
+  soft; LEFT arm trailing slightly back, palm open to the wind.
+• LEGS/FEET: RIGHT foot forward on the board, knee softly flexed; LEFT foot
+  back, weight even; barefoot arches glowing on the board.
+• HAIR (this frame): a small dark comma streaming off the crown, circlet glinting.
+• FABRIC (this frame): the gown-train a long luminous ribbon trailing far
+  behind, rippling — a second light-trail of fabric.
+• ENVIRONMENT — FG (near lens, high): a wisp of cloud drifting past the lens.
+  MG: the translucent light-road ribboning forward with caustic reflections on
+  the cloud-tops beside it. BG: an endless rolling cloud-sea, pink-gold tops,
+  lilac shadows, the soft rising sun and its glow spilling across the deck.
+• SKY: dawn gradient — rose-gold at the horizon sun, pale aqua midsky, lilac-
+  blue above; soft aurora ribbons (aqua-teal-violet) draped overhead; thin
+  cirrus edged gold; a few fading stars; volumetric god-rays through cloud gaps.
+• LIGHT-TRAIL: aqua→gold wake ribboning off the board along the road, the
+  brightest line drawing the eye toward the sun.
+• LIGHTING: soft high-key dawn ambient, warm rim from the sun ahead, luminous
+  bloom on cloud edges; the road & board self-glow gently.
+• LENS & DOF: 21 mm-equiv spherical, deep focus, everything legible; airy.
+• PALETTE/GRADE: ethereal dawn HDR, controlled vibrancy (aqua+gold on soft
+  neutrals), skin natural; world reads first.
+• NEGATIVES: [STD-NEG — IMAGE] + no floaty/weightless board; keep real contact.
+
+VIDEO (unique move → SLOW CRANE-UP + forward PUSH revealing the scale):
+• 16:9 · ~5 s · 24 fps. Already gliding.
+• CAMERA: cranes gently UP while pushing forward along the road behind her,
+  unveiling the immensity of the cloud-highway toward the sun — one flowing
+  ascend-and-advance. No cut.
+• HEAD & GAZE ARC: (tiny) head holds toward the sun; no reveal (faceless).
+• LIMB MOTION: micro-balance adjustments in the arms; ankles/knees absorb the
+  skim; train and hair flag continuously.
+• HIP/TORSO: subtle sway holding the line down the road.
+• HAIR/FABRIC: bob and the long gown-train stream and ripple like liquid light.
+• KEY-OBJECT PHYSICS: the board skims with believable contact, caustics sliding
+  across the cloud-road, faint glow pooling under her feet.
+• LIGHT-TRAIL: lengthens and brightens toward the sun as she advances.
+• ENVIRONMENT PARALLAX: foreground cloud wisps sweep past, the road unrolls,
+  the far cloud-sea drifts slowly — deep layered parallax.
+• SKY MOTION: aurora ribbons undulate slowly; god-rays shift; sun glow swells.
+• ATMOSPHERE/FX: drifting cloud vapour, soft bloom, gentle god-ray shafts.
+• LIGHTING IN MOTION: dawn warms as the push nears the sun.
+• GRADE: airy dawn HDR. AUDIO: wide airy wind + a rising ethereal pad.
+• HAND-OFF → SHOT 2: the forward push descends toward her flank — arriving at
+  the profile side-track with matched glide direction & trail.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+------------------------------------------------------------------------
+SHOT 2  ·  IMAGE ANGLE: low profile (broadside, camera-left, near cloud-line)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING/POSITION: low profile broadside at cloud-top height; .
+  centred, medium-full, gliding left-to-right; caustics and cloud-tops in the
+  near foreground.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, middle third, medium-full. OBJECT
+  = board centred beneath her, broadside, caustics visible. ORIENTATION =
+  PROFILE / side-on (90°), gaze lifting toward the sun ahead (screen-right).
+  CAMERA DISTANCE = MID, tracking left-to-right. FACE-REVEAL: FACE-SHOWN
+  (profile) — may resolve either way.
+• HEAD & GAZE: clean profile, chin lifting a touch as she gazes to the rising
+  sun; serene awe, lips softly parted then a faint smile.
+• TORSO/HIPS/WEIGHT: elegant forward glide-lean; hips level, weight over the
+  front foot; spine long and lifted.
+• ARMS: RIGHT (far) arm reaching gently forward-open toward the light, fingers
+  extended soft; LEFT (near) arm eased back for balance, hand relaxed.
+• LEGS/FEET: RIGHT (near) foot forward on the board, knee flexed; LEFT foot
+  back, heel light; barefoot, arches glowing.
+• HAIR (this frame): bob streaming horizontally back off the profile, circlet
+  catching gold at the brow.
+• FABRIC (this frame): the gown-skirt and train lift into long horizontal
+  ribbons of light behind her; bodice smooth, hem fluttering.
+• ENVIRONMENT — FG: a cresting cloud-wisp and bright caustics skating past. MG:
+  the light-road edge dissolving into mist, aurora reflected on the cloud-sheen.
+  BG: the rising sun, its glow, distant cloud ranges in pink-gold.
+• SKY: dawn pastel; aurora arcs above; sun just off screen-right; cirrus streaks.
+• LIGHT-TRAIL: a long aqua→gold arc trailing behind through the glide, doubled
+  by the fabric-train's own faint glow.
+• LIGHTING: warm gold rim from screen-right raking her profile & hair; cool
+  lilac fill on the shadow side; luminous bloom on cloud crests.
+• LENS & DOF: 50 mm-equiv, shallow-ish; . crisp, fg caustics & bg sun softly bloomed.
+• PALETTE/GRADE: ethereal dawn HDR, controlled vibrancy, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + no weightless drift.
+
+VIDEO (unique move → PARALLEL SIDE-TRACK with a foreground RACK-FOCUS):
+• 16:9 · ~5 s · 24 fps. Continues her glide from Shot 1.
+• CAMERA: locked parallel side-track gliding with her; a rack-focus pulls from
+  a foreground cloud-wisp onto her, then holds — smooth, no cut.
+• HEAD & GAZE ARC: profile → gaze lifts to the sun (the eye-led beat): serene
+  awe blooming into a faint smile; face shown throughout (compliant).
+• LIMB MOTION: far arm reaches slowly toward the light; near arm steadies;
+  legs hold the glide, weight easing forward.
+• HIP/TORSO: glide-lean deepens gently as she leans into the light.
+• HAIR/FABRIC: bob & train stream horizontally, rippling like liquid light.
+• KEY-OBJECT PHYSICS: board skims, caustics sliding, believable contact & glow.
+• LIGHT-TRAIL: arcs behind, its reflection sweeping the cloud-sheen; brightens
+  as she reaches toward the sun.
+• ENVIRONMENT PARALLAX: fg wisps rush, road edge mid-drift, sun near-static —
+  strong depth.
+• SKY MOTION: aurora shimmers; sun glow warms.
+• ATMOSPHERE/FX: vapour, bloom, faint lens glow.
+• LIGHTING IN MOTION: rim rakes along her as the glide continues.
+• GRADE: dawn HDR. AUDIO: wind swell + ethereal pad rising.
+• HAND-OFF → SHOT 3: she glides past camera; we drop BEHIND her onto the board
+  for the POV/back angle — glide vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+------------------------------------------------------------------------
+SHOT 3  ·  IMAGE ANGLE: low from behind, near the board (POV-adjacent, back)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING/POSITION: low & close from directly behind, lens near
+  the board deck; . seen from behind, near-to-mid; the road & cloud-sea rush
+  ahead into the sun.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE, lower-to-middle third, near-mid.
+  OBJECT (board) = CENTRE foreground, deck & caustics nearest the lens.
+  ORIENTATION = FULL BACK-TO-CAMERA (180°). CAMERA DISTANCE = NEAR (deck-level).
+  FACE-REVEAL: FACELESS START — stays faceless to the end.
+• HEAD & GAZE: back of the crown & circlet; head steady toward the sun.
+• TORSO/HIPS/WEIGHT: pitched slightly forward into the glide; hips low & centred.
+• ARMS: RIGHT arm out for balance, hand relaxed; LEFT arm trailing, palm to wind.
+• LEGS/FEET: staggered barefoot stance on the deck, both knees soft, arches
+  glowing against the board light.
+• HAIR (this frame): bob streaming back toward the lens, circlet glinting.
+• FABRIC (this frame): the train billows back toward camera, a luminous sheet
+  of rippling light filling the lower frame.
+• ENVIRONMENT — FG: the glowing board deck & caustic patterns nearest the lens.
+  MG: the light-road unrolling forward, aurora reflected. BG: the rising sun
+  dead ahead, cloud-sea spreading, god-rays fanning.
+• SKY: dawn ahead-heavy — the sun & its bloom dominate the vanishing point;
+  aurora arcing above; cirrus gold-tipped.
+• LIGHT-TRAIL: streams from the board straight toward the sun ahead, converging
+  with the road's perspective lines — a corridor of light.
+• LIGHTING: strong warm rim from the sun ahead haloing her silhouette; cool
+  fill behind; the board underglow lighting the train.
+• LENS & DOF: 28 mm-equiv, low; deck crisp, sun a soft luminous bloom.
+• PALETTE/GRADE: ethereal dawn HDR, controlled vibrancy, skin natural.
+• NEGATIVES: [STD-NEG — IMAGE] + no floaty board.
+
+VIDEO (unique move → LOW TRACKING PUSH behind the board, into the light):
+• 16:9 · ~5 s · 24 fps. Arrives already gliding from Shot 2's pass.
+• CAMERA: a low tracking push locked behind the board, chasing her toward the
+  sun as the road rushes beneath — steady advance, no cut.
+• HEAD & GAZE ARC: back-of-head throughout; no reveal (faceless, compliant).
+• LIMB MOTION: arms micro-balance; ankles/knees absorb the skim.
+• HIP/TORSO: gentle counter-sway; forward pitch held.
+• HAIR/FABRIC: bob & train stream and ripple toward camera continuously.
+• KEY-OBJECT PHYSICS: board deck skims, caustics sliding forward, believable glow.
+• LIGHT-TRAIL: elongates into a bright corridor toward the sun; road lines &
+  trail converge at the vanishing point.
+• ENVIRONMENT PARALLAX: road & clouds rush under and past, sun near-static —
+  fast forward parallax, deep tunnel of light.
+• SKY MOTION: god-rays sweep; sun glow swells as she nears it.
+• ATMOSPHERE/FX: vapour streaks, bloom, drifting light-motes.
+• LIGHTING IN MOTION: warm halo intensifies around her silhouette.
+• GRADE: dawn HDR, luminous. AUDIO: airy rush + pad building.
+• HAND-OFF → SHOT 4: camera arcs around from behind to ahead-left of her —
+  swinging to the ¾-front hero, glide vector & trail preserved.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+------------------------------------------------------------------------
+SHOT 4  ·  IMAGE ANGLE: low ¾-front hero (camera ahead-left, near)
+------------------------------------------------------------------------
+IMAGE (start-frame):
+• Aspect 16:9. FRAMING/POSITION: low ¾-front hero, camera ahead & left of her
+  as she glides toward/past; . in the centre-left, near, the sun & aurora
+  filling the right & upper frame.
+• PLACEMENT & ORIENTATION: SUBJECT = CENTRE-LEFT, middle third, NEAR. OBJECT
+  (board) = beneath her, angled toward the lens, caustics bright. ORIENTATION
+  = THREE-QUARTER FRONT (45°). CAMERA DISTANCE = NEAR. FACE-REVEAL: FACE-SHOWN
+  START — owns the eye-led beat, may resolve either way.
+• HEAD & GAZE: face ¾ to camera, chin lifting as her gaze rises past the lens
+  toward the sun — serene, awed, a soft radiant smile.
+• TORSO/HIPS/WEIGHT: open, lifted, gliding forward; hips squared into the glide,
+  weight forward-centred; chest lifted to the light.
+• ARMS: RIGHT (near) arm eased forward-open, fingers extended soft toward the
+  light; LEFT arm back for balance, hand relaxed, anklet-side leg free.
+• LEGS/FEET: RIGHT foot forward on the board, knee flexed; LEFT foot back, heel
+  light; barefoot, arches aglow.
+• HAIR (this frame): bob lifted off the face by the wind, front strands gold-
+  lit, circlet stone flaring at the brow.
+• FABRIC (this frame): the gown billows open toward the light, train streaming
+  behind-right; bodice catching a bright iridescent rim.
+• ENVIRONMENT — FG: bright caustics & a wisp of cloud near the lens. MG: the
+  road curving on toward the sun, aurora reflected. BG: the risen sun, bloom,
+  cloud-sea in pink-gold — the richest sky beat.
+• SKY: dominated by the warm risen sun & bloom (upper-right); aurora arcs; the
+  whole sky luminous and high-key.
+• LIGHT-TRAIL: streams behind-right toward the horizon, blooming, as she draws
+  the light forward — the signature payoff.
+• LIGHTING: full warm key & rim wrapping her from the sun; cool lilac fill on
+  the camera side; luminous halation on the gown & circlet.
+• LENS & DOF: 40 mm-equiv, shallow; . & her lifted gaze crisp, sun a soft bloom.
+• PALETTE/GRADE: ethereal dawn HDR at its warmest; controlled vibrancy; skin natural.
+• NEGATIVES: [STD-NEG — IMAGE].
+
+VIDEO (unique move → ARC / ORBIT from ¾-front sweeping to profile as she passes):
+• 16:9 · ~5 s · 24 fps. Arrives already gliding from Shot 3's arc-around.
+• CAMERA: a smooth arc/orbit that sweeps from ¾-front around toward her profile
+  as she glides past into the sun, with a gentle boom-up at the end — one
+  continuous orbit. No cut.
+• HEAD & GAZE ARC: face ¾-front, gaze lifting past the lens to the sun (eye-led
+  beat: serene radiant awe, soft smile); she may turn toward profile as the
+  camera arcs (face-shown start → flexible).
+• LIMB MOTION: near arm reaches open toward the light and eases; legs hold the
+  glide; a graceful whole-body lift into the sun.
+• HIP/TORSO: chest lifts, torso opens to the light as the orbit passes.
+• HAIR/FABRIC: bob lifts and settles; gown billows open then streams behind.
+• KEY-OBJECT PHYSICS: board skims and banks gently, caustics fanning, real glow.
+• LIGHT-TRAIL: elongates toward the sun, blooming into the horizon light — merging
+  with the dawn, the emotional payoff.
+• ENVIRONMENT PARALLAX: fg caustics & wisps sweep with the orbit, road rotates,
+  sun holds — dimensional parallax.
+• SKY MOTION: sun flares warmer as the orbit faces it; aurora shimmers; god-rays fan.
+• ATMOSPHERE/FX: rising halation & bloom envelop the frame edges, light-motes drift.
+• LIGHTING IN MOTION: gold engulfs the frame as she glides into the sun.
+• GRADE: dawn HDR, warmest. AUDIO: wind + pad resolve to a soft luminous swell.
+• LOOP / HAND-OFF → SHOT 1: she glides on toward the sun, small-ing into the
+  distance — glide vector & trail matched to Shot 1's wide establishing for a
+  seamless loop.
+• NEGATIVES: [STD-NEG — VIDEO].
+
+========================================================================
