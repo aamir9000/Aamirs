@@ -20,7 +20,7 @@
 2. ✅ Handle available: `raeva.ai` (Instagram confirmed).
 3. ⬜ Confirm `raeva.ai` (`@raeva.ai`) also claimable on **YouTube + Facebook**.
 4. ⬜ **Rename the existing `minilux.hq` account → `raeva.ai`** (rename, don't recreate — keeps account age/history). No gap risk: same account, instant switch.
-5. ⬜ Set **display name = "Aira"** on all platforms (handle carries "Raeva").
+5. ⬜ Set **display name = "Aira Raeva"** on all platforms (first name Aira, "surname" Raeva; a space, no punctuation needed).
 6. ⬜ Set bio (drafts in §7 — leads with Aira, nods to Raeva).
 7. ✅ Raeva pronunciation confirmed: **"RAY-wah"** ("ray" of light + "wa" as in war).
 8. ⬜ Set up a dedicated brand email (e.g. `raeva.studio@gmail.com` / `aira...`), then attach all accounts.
@@ -42,13 +42,14 @@ She has **two names**, both born from **Ra** (the sun / light) — two faces of 
   - Her **"light-name"** and the **brand + handle**: `raeva.ai` = "Raeva, the AI."
   - Leads with **Ra** (the sun) → same radiance DNA as Aira, but **coined + distinctive + ownable**, which is why it wins as the handle where every "Aira" form failed (§5–§6).
   - Has personality (that "v" gives it bite — not passive), feminine and premium.
-- **How they relate:** **Aira is who she *is*; Raeva is the brand/handle she lives under** (and a poetic second name). Shared **Ra** root ties them together. On profiles: **display "Aira," handle @raeva.ai.**
+- **How they relate:** **Aira is her first name; Raeva is her "surname" / light-name** (and the handle). Shared **Ra** root ties them together. On profiles: **display name "Aira Raeva," handle @raeva.ai.**
+- **Her world / series: "Aira's Verse"** — the earlier brand phrase is kept as the *name of her world/series* (used in bios, taglines, series banners, watermark), NOT as the profile display name. So three roles, each distinct: name = **Aira Raeva**, handle = **raeva.ai**, world = **Aira's Verse**.
 
 ---
 
 ## 2. Brand & Handle — Final Decision
 
-- **Display / primary name: Aira** (base name).
+- **Display name: Aira Raeva** (first name Aira, "surname"/light-name Raeva — a space, no punctuation; works in every field type incl. first/last splits).
 - **Handle: `raeva.ai`** (secondary name "Raeva" + `.ai`; confirmed available on Instagram; confirm YouTube + Facebook).
 - **Why this combo wins:**
   1. **Keeps Aira** — none of the persona/corpus work is lost; her name and pronunciation are intact.
@@ -98,7 +99,7 @@ She has **two names**, both born from **Ra** (the sun / light) — two faces of 
 ## 6. Handle & Platform Plan
 
 - **Handle (LOCKED): `raeva.ai`** — confirmed available on Instagram. Reads "Raeva, the AI." Periods are allowed on IG, YouTube (@handles), and Facebook usernames, so the same handle works across all three.
-- **Display name = "Aira"** on every platform (the base name; the handle carries "Raeva").
+- **Display name = "Aira Raeva"** on every platform (first name Aira, "surname" Raeva; a space — no dot/punctuation, so it also works if a field splits into first/last).
 - **Reuse the existing account:** **rename `minilux.hq` → `raeva.ai`** (don't create a new profile — keep age/history/followers). Instant, **no gap risk**.
 - **Consistency rule:** lock **`raeva.ai` across Instagram + YouTube + Facebook**. (TikTok excluded — banned in India.) Domain `raeva.ai` / `raeva.com` is a bonus.
 - **Confirm still needed:** `raeva.ai` claimable on **YouTube + Facebook** (Instagram = confirmed).
@@ -115,10 +116,10 @@ The AI-persona / beauty niche is saturated. Every `aira.*` / `*.aira` handle, ev
 - **Signature = the glow.** "Ra" (shared by both names) = light → a **warm radiant glow** is her visual signature: soft halo / light-bloom, signature luminous accent (**warm gold** or **soft rose-gold aura**). Recognizable across every reel.
 - **Logo bug:** a small **radiant spark / soft sun-glow** motif. Doubles as the corner bug that covers the (static) Veo watermark (§8). Must read at tiny size.
 - **Tone of voice:** **elevated + premium + editorial** — warm and confident, cinematic, quietly luxe. **Not** childish, not over-casual: minimal/tasteful punctuation over emoji, no "hey / your fav / little." Warmth comes from the writing, not from cutesy filler.
-- **Bio drafts (lead with Aira, nod to Raeva):**
-  - `Aira /eye-ra/ — an AI muse, a being of light. Cinematic art: beauty · transformation · dreamworlds.`
-  - `AIRA — also Raeva /ray-wah/. A radiant AI. Cinematic beauty, fantasy & celestial worlds.`
-  - `Aira — a radiant AI. Rendered, not filmed. Luminous cinematic reels, weekly.`
+- **Bio drafts (display name carries "Aira Raeva"; bios lead with the descriptor + the world):**
+  - `An AI muse, a being of light. /eye-ra/ · Welcome to Aira's Verse — cinematic beauty, transformation, dreamworlds.`
+  - `Aira's Verse — a radiant AI, a being of light. Cinematic beauty, fantasy & celestial worlds. New work weekly.`
+  - `Rendered, not filmed. Luminous cinematic reels from Aira's Verse.`
 - **Two-name story (for the About):** "I'm Aira (say it 'Eye-Ra') — you'll also see me as **Raeva** ('RAY-wah', like a *ray of light*), my light-name. Both come from **Ra**, the sun."
 
 ---
@@ -141,4 +142,4 @@ The AI-persona / beauty niche is saturated. Every `aira.*` / `*.aira` handle, ev
 
 ---
 
-*Last updated: this session. **Dual-name system LOCKED** — base name **Aira** (/eye-ra/), secondary name **Raeva** (/ray-wah/ — "ray" of light + "wa" as in war), both from **Ra**. Handle = **`raeva.ai`** (IG-confirmed). Display name = **Aira**. Next: confirm `raeva.ai` on YouTube + Facebook, rename `minilux.hq` → `raeva.ai`, set display "Aira" + bio.*
+*Last updated: this session. **Dual-name system LOCKED** — base name **Aira** (/eye-ra/), secondary name **Raeva** (/ray-wah/ — "ray" of light + "wa" as in war), both from **Ra**. Handle = **`raeva.ai`** (IG-confirmed). Display name = **Aira Raeva**; world/series = **Aira's Verse**. Next: confirm `raeva.ai` on YouTube + Facebook, rename `minilux.hq` → `raeva.ai`, set display "Aira Raeva" + bio.*
