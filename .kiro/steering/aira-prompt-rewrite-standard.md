@@ -1,0 +1,1279 @@
+# Aira Prompt Rewrite — COMPLETE Standard, History & Resume Guide
+
+Purpose: a single source of truth so any new session can resume with full context.
+Repo: **aamir9000/Aamirs** · Branch: **aira-prompts-enhanced** (all work committed & pushed there).
+Originals are preserved in git history / on `main`.
+
+The job: take the master Aira concept `.txt` files and turn each into a clean,
+AI-generation-ready (Nano Banana Pro stills + VEO video) version — additive only,
+never deleting real descriptive content, and progressively raise them to the
+"advanced" cinematic standard defined below.
+
+====================================================================
+## FOLDER STRUCTURE (CONCEPTS/ — reorganised by category)
+====================================================================
+All concept files now live in category folders under CONCEPTS/ (the old flat layout +
+CONCEPTS/Heavy-Detail/ were dissolved):
+- CONCEPTS/Transformation/ — every transformation reel (mid-clip outfit/world/object/weather/
+  time/place/era/lighting/season/material change). Files: 20 Cinematic Reels New Set; Set 3;
+  Set 4 (51-70); Set 5 (71-79) + (cont) + (cont 2) + (cont 3) + (cont 4); 20 Reel Concepts
+  Master-Depth Build; Concepts 91-110 FULL Heavy-Detail. THIS is where the L+M retrofit is applied.
+- CONCEPTS/Beauty/ — Beauty Ad + GRWM/beauty-hero. File: 20 Beauty Ad Reels.
+  (NOTE: Master-Depth's GRWM concepts 11-14 + lifestyle 15-20 currently live inside the Master-Depth
+  file in Transformation/ because they are mid-clip wrap-transforms; can be split out to Beauty/ on
+  request.)
+- CONCEPTS/Surreal/ — surreal fantasy worlds. File: NEW Reel Concepts (131-150).
+- CONCEPTS/Action/ — vehicle/fight/stunt. Files: 20 Magical Action Heavy-Detail; Magical Action
+  Set 2 Expression; Magical Action Master Set; Concept 170 Phoenix Crash.
+- CONCEPTS/Time-Freeze/ — time-freeze/VFX. File: Time-Freeze Reel Set.
+- CONCEPTS/Travel-Scenic/ — travel/scenic/cultural realism. Files: aira_set4; aira_set5.
+- CONCEPTS/Product/ — product films. File: Concept 100 The Unboxing.
+NOTE: section E/J path references below use the OLD locations; resolve them against this map.
+
+====================================================================
+## A. EVERYTHING ALREADY DONE (global passes, all 20 files unless noted)
+====================================================================
+1. **SUBJECT FRAMING & POSITION** added to EVERY image prompt (one unique prose
+   paragraph per frame), each ending with the EXACT clause:
+   "ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame."
+2. **Asterisks stripped** (all `**bold**` markdown removed; zero words lost).
+3. **Internal codes removed** (AO./AO-X/AU./AT #/AW #/AF #/AQ #/AC #/AP #/AX #/BB) — 0 remain.
+   Kept STD-NEG-IMG / STD-NEG-VID (real negative content).
+4. **Restored 38 descriptor words** that had been wrongly dropped together with codes
+   (e.g. (living stillness), (override), (hyper-vibrant), (identity-through-transform),
+   (vibrant-on-dark), (real pores and texture preserved throughout)). Rule: strip the
+   code, KEEP the meaningful words.
+5. **SUBJECT / IDENTITY-intro line normalised** to: `Aira [paste identity-lock reference sheet here].`
+6. **Video timestamps restructured** to discrete one-beat-per-line earlier on.
+7. **MASTER AUDIO block per concept** (Cinematic Audio Direction — see section C). Added
+   where missing; NOT duplicated where a per-concept brief already existed (Beauty Ad,
+   More Full Set 3, Master-Depth, Set 4, Set 5 variants, 91-110, Magical Master Set,
+   Concept 100 already had briefs and were left).
+8. **6-SECOND CLIP STANDARD** (user decision; reasoning: 4s too short, 10s too long/drifty,
+   6s lets the action play cleanly without filler):
+   - MASTER AUDIO runtime = frames x 6s, in self-resolving ~6s phrases.
+   - Per-frame beat timings rescaled to fill 6s; all `DURATION:` = 6 seconds;
+     Time-Freeze "running total" recomputed cumulatively (6,12,18…).
+   - Decade refs (70s/80s/90s) and reel-totals were protected from the rescale.
+9. **IDENTITY & CHARACTER-CONSISTENCY LOCK** added to every video prompt (1,714), then
+   upgraded to the **expression-safe "fixed skeleton" model** (section D).
+10. **Cleanup:** deleted the duplicate top-level "Aira — …Set 3…256.txt", the untracked
+    `concepts_dl/` and `_work/` old copies, `CONCEPTS.zip`, the 1-byte "Ai voice".
+    Moved 7 heavily-detailed concepts into `CONCEPTS/Heavy-Detail/`.
+11. **Beauty Ad Reels — FULL ADVANCED REBUILD complete** (all 20 concepts, 129 video prompts) — section B.
+
+====================================================================
+## B. THE ADVANCED VIDEO-PROMPT REBUILD (the current standard)
+====================================================================
+For each concept: READ IT FULLY, understand its world + dance/hero-move, then rewrite
+ONLY frames that are boring / unfit / ruining the moment. No blind templating.
+
+Per VIDEO prompt:
+1. REPLACE the old `SUBJECT ACTION WITH TIMING:` block with a heavily-detailed
+   `SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion,
+   never a static hold; expression eye-led and identity-safe):` with 3 beats:
+   `- [00:00–00:02] …  - [00:02–00:04] …  - [00:04–00:06] …`
+   Each beat = **shot size/angle + her action + object/world interaction + eye-led expression + camera move.**
+2. DEDUP: delete the standalone `CAMERA MOVEMENT:` and `CHOREOGRAPHY & FLUID MOTION:`
+   lines (motion + camera now live only inside the breakdown). Keep MICRO-MOVEMENT,
+   LIGHTING, ENVIRONMENT, AUDIO, LIP-SYNC, NEGATIVE.
+3. REPLACE `FRAME RATE + MOTION BLUR:` line with EXACTLY:
+   `FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.`
+4. SET `DURATION:` to `6 seconds (the clip plays the full 6s at real-time natural speed).`
+5. REPLACE the video `SHOT TYPE:` line with the frame's varied shot size/angle/placement.
+
+Per IMAGE prompt: REPLACE the `FRAMING:` line with the frame's varied crop/angle/placement.
+Keep the image still NATURAL/alive (Veo animates the expression from the still — don't
+freeze a hammy peak expression into it).
+
+ALL frames in a concept must differ in:
+  • CROP: ECU / CU / head-&-shoulders / half (waist) / cowboy (knee) / full-body / wide.
+  • ANGLE: front / three-quarter / profile(side) / over-the-shoulder / low-hero / high / overhead / symmetrical.
+  • PLACEMENT: centre / left-third / right-third / near(fills frame) / far(small, env-dominant); flip negative space side to side.
+  • CAMERA: orbit / dolly-in / crane-boom / tracking / whip-pan / arc / rack-focus / pull-out / snap-push — distinct per frame, matched to the concept's dance/world (NOT push-only).
+
+Other rules:
+  • ALREADY-IN-MOTION starts — beat 1 opens with motion already in progress (anti cold-start drift).
+  • REAL-TIME, NO SLOW-MO anywhere.
+  • EXPRESSIONS: eye-led + identity-safe (section D). ONE smooth transition per clip
+    (e.g. focus → wonder → soft smile), eyes tracing the object. Tone-matched:
+    playful/cute reactions (e.g. delighted hands-framing-cheeks, surprised eye-widen,
+    cute scrunch) for LIGHT concepts; dramatic awe/intensity for SERIOUS ones.
+    Hands near face must FRAME (not cover) and stay clean to avoid finger/face drift.
+  • MAGICAL TOUCHES: concept-specific interactive magic tied to her touch + the hero
+    material (chrome races where she traces, petals swirl to her gesture, light gathers
+    to her palm) — never random VFX.
+  • SUBCONSCIOUS CONTINUITY: maximum surface variety, but keep world/palette/identity/
+    lighting + motion hand-off (each frame ends on a vector the next picks up) + loop
+    (last frame resolves to frame 1) continuous, so it reads as ONE reel.
+  • Preserve identity lock, scene detail, loop logic, and SPOKEN vs SILENT (silent reels
+    have no spoken line — use an expression reveal instead).
+
+====================================================================
+## C. CINEMATIC AUDIO DIRECTION (the MASTER AUDIO block per concept)
+====================================================================
+Two layers: (1) one MASTER AUDIO block OUTSIDE the frames per concept; (2) per-frame
+in-prompt audio. Master audio = custom score for the exact runtime, no fade-in (emotion
+in first second), mood→instrument palette (luxury: deep sub+felt piano; romance: piano/
+strings/violin; power: trailer perc/synth bass/brass; dream: harp/choir; mystery: cello/
+dark; beauty: delicate piano/atmos), emotional arc across frames, vocals only if they
+help (honour SPOKEN/SILENT), layered, and event IMPACTS reserved for major beats (reveal/
+transform/peak) tuned to the score's key so they read as the music expanding, not added SFX.
+Runtime now = frames x 6s (or ~60s self-resolving/cuttable if a fixed clip duration is implied).
+
+====================================================================
+## D. IDENTITY-SAFE EXPRESSION MODEL (in every video prompt's lock)
+====================================================================
+Problem: when Veo animates big/fast expressions it drifts the face. Solution wording
+(already applied to all 1,714 locks): treat identity as a FIXED skeleton that never
+changes (bone structure, face shape/proportions, eye shape+spacing+iris colour, nose &
+lip shape, skin tone+texture, hairline, hair colour+texture, build, hands). ONLY soft
+expression muscles (lids, brows, cheeks, mouth corners) + eyes/gaze/head may move,
+animating ON TOP of fixed identity. Lead with EYES/gaze; keep expression smooth, moderate,
+ONE clean transition per clip; no extreme grimace, wide-mouth distortion, hard squint, or
+rapid flicker that warps geometry. Through any transform only the intended element changes;
+interpolate strictly between locked keyframes; never invent a new face/hands/second subject.
+
+====================================================================
+## E. REMAINING QUEUE (apply section B advanced rebuild) + treatment notes
+====================================================================
+Read each fully first; tailor camera/expression to its dance/world. Suggested treatments:
+- 20 Cinematic Reels New Set — DONE (all 20 concepts / 123 video prompts rebuilt). See PROGRESS below.
+- 20 Full Reel Set 4 (51-70) — DONE (all 20 concepts / 122 video prompts rebuilt). See PROGRESS below.
+- 20 Full Reel Set 5 (71-79) — DONE (all 51 intact video prompts rebuilt; concept 79 corrupt past Frame 1 — see PROGRESS).
+- Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4 — DONE (concepts 79-84, 42 video prompts). See PROGRESS below.
+- 20 Magical Action Heavy-Detail — ACTION (hypercar/chase/combat); handheld, whip-pan, low-hero,
+  hard hits on impacts. NOTE: inline single-line video prompts (different structure — adapt regex).
+- 20 Magical Action Set 2 Expression — action/expression; inline format too.
+- Magical Action · Master Set — action; uses "## 🌀 CONCEPT", "### Frame", MASTER TRACK BRIEF per concept.
+- 20 More Full Reel Set 3 — varied; already has MASTER TRACK BRIEF per concept.
+- Heavy-Detail/Master-Depth Build — varied; brief per concept.
+- Heavy-Detail/Concept 100 (Unboxing), Concept 170 (Phoenix Crash) — single/few concepts, very dense.
+- Heavy-Detail/Concepts 91-110 FULL Heavy-Detail — chrome/liquid-metal studio.
+- Heavy-Detail/NEW Reel (131-150) — surreal worlds; rich.
+- Heavy-Detail/Time-Freeze — time-freeze reels; NOTE 2 concepts are continuous "oner" single-takes
+  with CUMULATIVE beat timings (e.g. 14.0–14.8s) and bare `### VIDEO PROMPT` headers — those 8 frames
+  were intentionally LEFT (don't force discrete 6s). Some concepts have "running total" annotations.
+- aira_set4 / aira_set5 — Format B plain text: headers `---- FRAME k · SIZE · ANGLE ----`,
+  `IMAGE PROMPT (Nano …)`, `VIDEO PROMPT (VEO … · 6s · 24fps)`, audio woven inline; set4 video
+  header has NO trailing colon. Already have per-frame audio; need the advanced breakdown + variety.
+
+====================================================================
+## F. METHOD, VERIFICATION, WORKFLOW
+====================================================================
+- Reusable Python pattern used for Beauty Ad lives in `_tools/beauty_c*.py` (per-concept
+  authored content + region/frame regex application). Reuse/adapt per file format.
+- Per concept: isolate region (`# CONCEPT N` → `# CONCEPT N+1`), split by frame headers,
+  IMAGE→replace FRAMING, VIDEO→replace SHOT TYPE / delete CAMERA MOVEMENT + CHOREOGRAPHY /
+  replace SUBJECT ACTION WITH TIMING → SHOT BREAKDOWN / replace FRAME RATE / set DURATION.
+- VERIFY each file: 0 leftover `SUBJECT ACTION WITH TIMING`, 0 `^CAMERA MOVEMENT:`,
+  0 non-negated `slow-mo`, breakdown count == video-prompt count, all DURATION 6s,
+  identity-lock count == video-prompt count, ORIENTATION LOCK count == image-prompt count.
+- Commit per concept or small batch with a clear message; PUSH with the GitHub power
+  `push_to_remote` (NEVER raw `git push`). Update the PROGRESS section of this file as you go.
+
+====================================================================
+## G. OPEN / OPTIONAL ITEMS (decide with user)
+====================================================================
+- Optional: add explicit synced `IMPACT —` clauses to transform frames in non-Beauty files
+  (offered earlier; only do where not already present, to avoid duplicates).
+- The 8 Time-Freeze "oner" cumulative frames left as-is by design.
+- Files with spelled-out `DURATION: N seconds` and inline-action single-line video prompts
+  need format-specific regex (the simple line-replacements assume the markdown format).
+
+====================================================================
+## H. RESUME PROMPT (paste into a new session)
+====================================================================
+"Continue the Aira prompt rebuild on branch aira-prompts-enhanced. Read
+.kiro/steering/aira-prompt-rewrite-standard.md fully for the standard, history and
+progress. Beauty Ad is complete. Continue the ADVANCED video-prompt rebuild on the
+remaining queued files, one concept at a time — read each fully first, tailor camera +
+expression to its world, keep every frame distinct with subconscious continuity, then
+commit and push each and tick it off the progress tracker."
+
+
+====================================================================
+## PROGRESS TRACKER (advanced video-prompt rebuild)
+====================================================================
+DONE (section B advanced rebuild applied + verified + pushed to aira-prompts-enhanced):
+- CONCEPTS/Heavy-Detail/20 Beauty Ad Reels — COMPLETE (20 concepts, 129 video prompts).
+- CONCEPTS/20 Cinematic Reels New Set.txt — COMPLETE (20 concepts, 123 video prompts).
+  Format note: this file uses a RICHER per-frame structure than Beauty Ad — image prompts
+  use `ANGLE & SHOT SIZE:` (not `FRAMING:`) and ALREADY had `SUBJECT FRAMING & POSITION` +
+  ORIENTATION LOCK from the earlier global pass (so no image edits were needed). Video
+  prompts used `SHOT TYPE & ANGLE` / `CAMERA MOVEMENT (CHOREOGRAPHY)` / `SUBJECT ACTION w/
+  BEAT-TIMING` plus extra physics sections (FLUIDITY & WEIGHT, FABRIC/HAIR/PROP PHYSICS,
+  FOOTWORK & BODY FLOW, TRANSITION, LIGHTING-IN-MOTION, AUDIO, LOOP LOGIC).
+  Adaptation of section B for this format: removed the standalone `CAMERA MOVEMENT
+  (CHOREOGRAPHY)` line (camera now lives in the breakdown), replaced `SUBJECT ACTION w/
+  BEAT-TIMING` with a tailored timed 3-beat `SHOT BREAKDOWN (6s ... never slow-motion ...)`
+  (each beat = shot/angle + action + world interaction + eye-led expression + camera move,
+  already-in-motion starts, camera variety beyond push), and inserted the standard
+  `FRAME RATE + MOTION BLUR: 24fps ...` + `DURATION: 6 seconds ...` lines. All other
+  rich sections were PRESERVED (additive-only). SPOKEN-frame `SPOKEN LINE (...)` dialogue
+  preserved in all 12 spoken concepts. Verified: 0 leftover SUBJECT ACTION, 0 standalone
+  CAMERA MOVEMENT, 123 SHOT BREAKDOWN == 123 video prompts == 123 FRAME RATE == 123
+  DURATION 6s == 123 identity locks; 123 image ORIENTATION LOCKs intact; no non-negated
+  slow-mo. Reusable engine: `_tools/newset_rebuild.py` (BEATS dict per concept + region
+  surgery, idempotent; run `python3 _tools/newset_rebuild.py N`).
+
+NEXT IN QUEUE: 20 Full Reel Concepts Set 4 (51-70) — couture-material transforms.
+(Remaining queue unchanged below in section E; each file may need a format-specific
+adaptation of the section-B method like the one documented above.)
+
+
+- CONCEPTS/20 Full Reel Concepts Set 4 (Concepts 51.txt (concepts 51-70) — COMPLETE
+  (20 concepts, 122 video prompts; concept 66 = 8 frames, all others 6). This file is the
+  Beauty-Ad markdown format, so section B applied directly: per video prompt removed the
+  standalone `CAMERA MOVEMENT:` line, replaced `SUBJECT ACTION WITH TIMING` with a tailored
+  timed 3-beat `SHOT BREAKDOWN` (track the transform / orbit the apex; each beat = shot/angle
+  + action + transform/material interaction + eye-led expression + camera move; already-in-
+  motion starts; camera variety), and RESET the existing `DURATION:` line (was mixed 5s/6s
+  with "of 30s total" running annotations) and `FRAME RATE + MOTION BLUR:` line to the 6s
+  standard strings. Image prompts already had varied FRAMING + SUBJECT FRAMING & POSITION +
+  ORIENTATION LOCK and identity locks already the expression-safe model — left untouched.
+  Spoken concepts 51-63 embed the line inside the Frame-4 beat (the image `SPOKEN LINE:`
+  field, 29 of them, was NOT modified); silent concepts 64-70 use a wordless expression
+  reveal in Frame 4 instead. Verified: 0 leftover SUBJECT ACTION, 0 standalone CAMERA
+  MOVEMENT, 122 SHOT BREAKDOWN == 122 video prompts == 122 standard FRAME RATE == 122
+  DURATION 6s == 122 first-beat brackets == 122 identity locks; 122 image ORIENTATION LOCKs
+  intact; no non-negated slow-mo. Reusable engine: `_tools/set4_rebuild.py` (BEATS dict per
+  concept; also resets DURATION + FRAME RATE lines in place; idempotent).
+
+NEXT IN QUEUE: 20 Full Reel Concepts Set 5 (71-79) — studio couture transforms (image-heavy);
+vary crop/angle hard. Check its exact format first (it may match the Beauty-Ad markdown like
+Set 4, in which case set4_rebuild.py adapts with a path change).
+
+
+- CONCEPTS/20 Full Reel Concepts Set 5 (Concepts 71.txt (concepts 71-79, all SILENT) —
+  COMPLETE for all intact frames (51 video prompts: 71-77 = 6 frames each, 78 = 8 frames,
+  79 = only Frame 1 intact). Same Beauty-Ad markdown format and same transform as Set 4
+  (engine `_tools/set5_rebuild.py`): removed `CAMERA MOVEMENT:`, replaced `SUBJECT ACTION
+  WITH TIMING` with tailored timed 3-beat `SHOT BREAKDOWN`, reset `DURATION:` (was mixed
+  decimal/"of 30s total" annotations) and `FRAME RATE + MOTION BLUR:` to the 6s standard.
+  All silent — Frame-4/face beats use a wordless expression reveal, no spoken line. Concepts
+  72-77 share a structural pattern (push-in chest-up / arc-push material-form transform /
+  rack-focus product->eye / face-dominant emotional beat / beauty 3D orbit synced to a
+  bloom-burst / pull-back loop close); each tailored to its material (living-vine topiary,
+  terrazzo, woven-rattan, chalk-bloom, sequin-cascade, liquid-enamel pour, kirigami lace-cut,
+  mylar-foil balloon, oil-slick prism). Verified: 0 leftover SUBJECT ACTION, 0 standalone
+  CAMERA MOVEMENT, 51 SHOT BREAKDOWN == 51 video prompts == 51 standard FRAME RATE == 51
+  DURATION 6s == 51 first-beat brackets == 51 identity locks; 51 image ORIENTATION LOCKs
+  intact; no non-negated slow-mo.
+  ** SOURCE-CORRUPTION FLAG — CONCEPT 79 (Prism Mirror Studio): the source file is corrupted
+  past Frame 1. Its brief says "7 frames" but only Frame 1 (image + video) exists; after the
+  F1 video NEGATIVE line the text runs on (".muddy [colour.IO]...") into merged leftover
+  fragments from CONCEPT 78 (a candy-electro-pop Master Track Brief, balloon-burst / mylar
+  content, and two orphan DURATION lines: "3 seconds (0:27 to 0:30…)" and "4 seconds
+  (0:20 to 0:24…)"). Frame 1 was rebuilt to standard; frames 2-7 do NOT exist and the merged
+  garbage was intentionally LEFT as-is (not deleted, not fabricated). To fully finish 79 the
+  user must supply the original frames 2-7; then rebuild them with set5_rebuild.py after
+  cleaning the merged 78-fragment block. **
+
+NEXT IN QUEUE: 20 Full Reel Concepts Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4
+— couture/clothes-change, transform-led (check each file's format first).
+
+
+- Set 5 continuation files (concepts 79-84, all SILENT) — COMPLETE (42 video prompts):
+  * "20 Full Reel Concepts · Set 5 (cont.txt" — concept 79 (FULL 7-frame Prism Mirror Studio
+    — this is the real/complete version; the copy inside the main Set 5 file was the corrupted
+    truncated duplicate, F1-only) + concept 80 (Cobalt & Marigold thermochromic; 6 real frames
+    plus a stray duplicate Frame-1 block at the file end — rebuilt the dup identically to F1 to
+    keep it consistent → 14 SHOT BREAKDOWN total).
+  * "20 Full Reel Concepts Set 5 (cont 2).txt" — concept 81 (lava-lamp blob-morph, 7) +
+    concept 82 (plasma-globe filament, 6) → 13.
+  * "Set 5 (cont 3) Clothes-Change Transformation.txt" — concept 83 (Snap-Change four-look
+    spin/flip/bloom runway, 8).
+  * "Set 5 (cont 4) · Clothes-Change Transformation.txt" — concept 84 (Magnet-Snap three-look
+    fly-on / light-zip, 7).
+  Same Beauty-Ad markdown transform via the GENERIC engine `_tools/md_rebuild.py "<path>" N`
+  (path-parameterised so one engine serves all four files). IMPORTANT engine upgrade: it now
+  matches BOTH the multi-bullet AND the inline single-line `SUBJECT ACTION WITH TIMING:` forms
+  (concepts 83 & 84 use the inline form) via regex
+  `SUBJECT ACTION WITH TIMING:(?:\n(?:- .*\n)+| [^\n]*\n)`. All silent — wordless expression
+  reveal, no spoken line. The clothes-change reels (83/84) keep their whip-spin / split-flap /
+  magnetic-snap / light-zipper change beats folded into the breakdown. Verified per file:
+  0 leftover SUBJECT ACTION, 0 standalone CAMERA MOVEMENT, and SHOT BREAKDOWN == video prompts
+  == standard FRAME RATE == DURATION 6s == first-beat brackets (14 / 13 / 8 / 7); no
+  non-negated slow-mo.
+  NOTE: the corrupted Concept-79 stub still living in the MAIN "20 Full Reel Concepts Set 5
+  (Concepts 71.txt" file (F1 rebuilt, frames 2-7 missing + merged 78-fragments) is now
+  redundant — the complete 79 lives in the (cont) file. Optional cleanup: delete the corrupt
+  79 block from the main Set 5 file (left as-is for now, not destructive).
+
+NEXT IN QUEUE: 20 Magical Action Reels Heavy-Detail — ACTION (hypercar/chase/combat); handheld,
+whip-pan, low-hero, hard hits on impacts. NOTE (from section E): inline single-line video
+prompts (different structure) — md_rebuild.py's inline-form regex may already cover it, but
+verify the per-frame layout first.
+
+
+====================================================================
+## I. COLOUR / VIBRANCY DISCIPLINE (controlled vibrancy — do NOT over-colour)
+====================================================================
+Principle (agreed with user): vibrancy is already baked into these concepts, so the goal
+is RESTRAINT, not more colour. Too much saturation everywhere destroys the visuals — it
+flattens depth, removes focal hierarchy, pushes skin tone unnatural, blows highlights and
+causes eye-fatigue. Rich = curated, not maxed. Apply this to all Aira prompt work:
+
+- CURATED PALETTE: one dominant hue family + 1-2 supporting accents per concept; anchor it
+  with neutrals / tonal areas / negative space so the colour has somewhere to breathe.
+- VIBRANCY THROUGH CONTRAST & LIGHT, not blanket saturation: get "pop" from rim-light,
+  speculars, glow, a bright subject against a darker/cooler ground — not by cranking every
+  surface to full chroma.
+- HERO READS FIRST: Aira (and the hero product) must be the focal point; the environment
+  supports, it does not compete. Keep a clear figure-to-ground separation.
+- PROTECT IDENTITY & SKIN: natural, true skin tone — never push saturation onto the face;
+  no colour cast that shifts identity, eye colour or makeup intent.
+- "ALREADY-VIBRANT" = CEILING, NOT FLOOR: where a concept is tagged hyper-vibrant / neon /
+  candy / electric, treat that as the maximum and balance it with dark/neutral grounds and
+  restraint so colour punches rather than overwhelms. Do not add further saturation.
+- LEAVE TONAL/LUXE CONCEPTS TONAL: porcelain, marble, ice, obsidian, ink, forge, pearl,
+  sea-blue/pool, chrome — these are deliberately restrained; keep their elegant tonal palette,
+  do not "colour them up."
+- AVOID: neon-on-neon mud, clashing full-saturation fields, rainbow-everything, blown
+  highlights, muddy/over-graded look. Favour clean, deliberate, cinematic colour.
+
+NOTE: this is a guardrail for palette intent (lives in briefs / IMAGE prompts / LIGHTING /
+ENVIRONMENT). The video SHOT BREAKDOWN rebuild does not change colour; it only references
+each concept's existing palette. No destructive mass re-grade was applied — existing
+vibrancy was preserved and is to be kept balanced per the above.
+
+
+- CONCEPTS/20 Magical Action Reels Heavy-Detail.txt (20 concepts, 151 video prompts) —
+  ALREADY-COMPLIANT, NO REBUILD APPLIED (and must NOT be templated). This file was built on
+  a later base ("Sys Directive 3 + Vibrance Patch") and already meets/exceeds the advanced
+  standard: every video prompt has the expression-safe FIXED-SKELETON identity lock, a varied
+  `CAMERA MOVEMENT: one move only` action camera (push-in, shake-settle, parallel track,
+  whip-pan, arcing orbit, crane-up, etc.), a 3-beat `SUBJECT + OBJECT ACTION (timecoded)`
+  block (0.0-2.0 / 2.0-4.0 / 4.0-6.0) PLUS a dedicated `PHYSICS:` line and a separate eye-led
+  `EXPRESSION TRANSITION:` line, `DURATION: 6.0s`, a per-frame diegetic `AUDIO (Block A)` and
+  an external Master Soundtrack block; image prompts carry SUBJECT FRAMING & POSITION +
+  ORIENTATION LOCK. Verified uniform: 151 of 151 for each marker. NO visual slow-motion (the
+  only "slow-mo"/"half-time" matches are the music-tempo term in the score brief and the word
+  "ramp"). Grades are controlled complementary palettes (e.g. gold + teal) with explicit
+  `no oversaturation` / `no garish neon` negatives — already follows the Controlled Vibrancy
+  discipline (section I). Converting its `SUBJECT + OBJECT ACTION (timecoded)` into a bare
+  `SHOT BREAKDOWN` would STRIP the PHYSICS and EXPRESSION-TRANSITION detail — do not do it.
+  Treat this file as a reference implementation of the standard.
+
+
+- CONCEPTS/20 Magical Action Reels Set 2 Expression.txt (20 concepts, 151 video prompts) —
+  ALREADY-COMPLIANT, NO REBUILD (same Sys-Directive-3 base as the Heavy-Detail action file).
+  Verified uniform 151/151: SUBJECT + OBJECT ACTION (timecoded), EXPRESSION TRANSITION,
+  CAMERA MOVEMENT: one move only, DURATION 6.0s, fixed-skeleton identity lock, SUBJECT
+  FRAMING & POSITION + ORIENTATION LOCK on images. Do not template.
+
+====================================================================
+## J. FILE-FORMAT AUDIT (which files still need the rebuild) — quick map
+====================================================================
+DONE (SHOT BREAKDOWN, rebuilt): Beauty Ad (129), Cinematic New Set (123), Set 4 51-70 (122),
+  Set 5 71-79 (51), Set 5 (cont) 79-80 (14), (cont 2) 81-82 (13), (cont 3) 83 (8),
+  (cont 4) 84 (7).
+ALREADY-ADVANCED (SUBJECT + OBJECT timecoded — leave as-is, do NOT template): Magical Action
+  Heavy-Detail (151), Magical Action Set 2 Expression (151).
+STILL NEEDS REBUILD (uses `SUBJECT ACTION WITH TIMING` markdown — apply section B):
+  - 20 More Full Reel Concepts Set 3.txt — DONE (concepts 31-50, 128 video prompts; see PROGRESS).
+  - Heavy-Detail/20 Reel Concepts Master-Depth Build.txt — DONE (concepts 01-20, 140 video prompts; see PROGRESS).
+  - Heavy-Detail/Concept 100 · The Unboxing.txt (note SA=6 vs VP=4 — inspect; possible
+    image-side SUBJECT ACTION or extra blocks)
+  - Heavy-Detail/Concept 170 · Phoenix Crash.txt (8)
+  - Heavy-Detail/Concepts 91-110 · FULL Heavy-Detail.txt (26)
+  - Heavy-Detail/NEW Reel Concepts (131-150).txt (134)
+  - Heavy-Detail/Time-Freeze Reel Set.txt (SA=136 vs VP=80 — inspect; remember the 8 "oner"
+    cumulative-timing frames are intentionally LEFT per section E/G).
+NEEDS REBUILD, NON-STANDARD FORMAT (verify per file before running an engine):
+  - Magical Action Reels · Master Set.txt (129 VP; "## CONCEPT" + MASTER TRACK BRIEF; no
+    SA/SB/SO marker — confirm its action/timing layout first).
+  - aira_set4.txt (117 VP) and aira_set5.txt (123 VP) — Format B plain text
+    ("---- FRAME k · SIZE · ANGLE ----"); audio woven inline; need advanced breakdown + variety.
+
+
+- CONCEPTS/20 More Full Reel Concepts Set 3.txt (concepts 31-50, 128 video prompts) —
+  COMPLETE. Clean Beauty-Ad markdown format; rebuilt with the GENERIC engine
+  `_tools/md_rebuild.py "<path>" N` (handles bullet AND inline `SUBJECT ACTION WITH TIMING`).
+  Per video prompt: removed `CAMERA MOVEMENT`, replaced action with a tailored timed 3-beat
+  `SHOT BREAKDOWN`, reset `DURATION`/`FRAME RATE` to the 6s standard. Frame counts: 6 for most,
+  7 for 31/34/37/40/43/48, 8 for 50 (Phoenix finale). Spoken concepts deliver the line in the
+  Frame-5 beat (quoted accurately, e.g. "worth its weight in gold", "I always rise"); SILENT
+  concepts 32/36/41/46 use a wordless expression reveal. Diversified the camera grammar (the
+  source was push-heavy: added a slow arc on the gather frame + orbit on the hero/transform
+  frame), kept already-in-motion starts, eye-led identity-safe expression, and the per-concept
+  "single face stays clear and locked / never multiplied / never covered" guard inside the
+  transform beat where the source required it. Controlled-vibrancy honoured (e.g. Gilded
+  Renaissance kept gold+oxblood candlelit, not garish). Also neutralised the only 2 stray
+  "slow-mo" phrases (in Concept 32's IMAGE prompt) to "weightless real-time". Verified: 0
+  leftover SUBJECT ACTION, 0 standalone CAMERA MOVEMENT, 128 SHOT BREAKDOWN == 128 video
+  prompts == 128 standard FRAME RATE == 128 DURATION 6s == 128 first-beat brackets; 128 image
+  ORIENTATION LOCKs intact; 0 genuine (non-negated) slow-mo.
+
+NEXT IN QUEUE (markdown SUBJECT ACTION WITH TIMING — use md_rebuild.py): Concepts 91-110 (26),
+NEW Reel 131-150 (134), Time-Freeze (verify the 8 "oner" frames first), Concept 100/170. Then
+non-standard: Magical Action · Master Set (advanced already; only variable durations differ) and
+aira_set4 / aira_set5 (Format B).
+
+
+- CONCEPTS/Heavy-Detail/20 Reel Concepts Master-Depth Build.txt (concepts 01-20, 140 video prompts)
+  — COMPLETE. Zero-padded double-hash headers (`## CONCEPT 01 —` … `## CONCEPT 20 —`); rebuilt with
+  the GENERIC engine `_tools/md_rebuild.py "<path>" N` (its region regex `#+ CONCEPT 0*N \u2014`
+  handles the zero-padding). All 20 concepts are 7 frames each. Per video prompt: removed the
+  standalone `CAMERA MOVEMENT` line, replaced the inline `SUBJECT ACTION WITH TIMING` with a tailored
+  timed 3-beat `SHOT BREAKDOWN`, and reset `DURATION` (was "N seconds (0:00–0:03 of 24s total)" etc.)
+  and `FRAME RATE + MOTION BLUR` (several carried "a touch of slow-mo" / Frame-4 "96fps deep slow-mo")
+  to the 6s real-time / no-slow-mo standard strings — this neutralised every slow-mo callout. The
+  separate `OBJECT ACTION WITH TIMING` block was PRESERVED untouched (verified holds at 140), as were
+  all PHYSICS / LIGHTING / ENVIRONMENT / AUDIO / NEGATIVE / identity-lock / image-side sections
+  (additive-only). Camera grammar diversified off the push-heavy source: F1 establishing push, F2
+  build (descending settle/drift or tilt-up to the cresting element), F3 START keyframe given a slow
+  lateral ARC to the three-quarter transform-anchor, F4 hero ORBIT through the transform, F5 END
+  reveal (orbit→push), F6 spoken-line push + 6° turn (line lands Frame 6), F7 loop-close (orbit→push
+  back to the Frame-1 hook). One eye-led identity-safe expression transition per clip; already-in-
+  motion starts; subconscious continuity + seamless loop seam preserved per concept.
+  Concepts 08-10 (Monochrome Riot ink-bloom / Liquid Metal chrome-pour / Paper & Petals petal-burst)
+  ADDITIONALLY carry the section-K believability lens woven into the hero beat — named real physics
+  (ink-in-water capillary diffusion through real fabric weave; liquid-metal surface tension + mirror
+  spread/inertia reflected in the water-skin; paper crease-to-petal flutter with real petal-dust),
+  "no garish glare / no cheap sparkles", identity locked and face cleanly lit through the transform.
+  Concepts 11-14 (GRWM/beauty: First Day / Sangeet / 5 AM Club / Glass Skin) and 15-20 (lifestyle:
+  Inked / Rain Check / Long Drive / Bookshop / Kitchen Light / Countdown) kept the EXISTING treatment
+  (no believability overlay), each tailored to its world + prop (coffee mug, marigold garland, water
+  glass, serum bottle, collarbone, café window, car door, open book, mixing bowl, rooftop railing)
+  and tone. Spoken lines quoted accurately in the Frame-6 beat for all 20 (all concepts spoken).
+  Concept 16 (Rain Check) keeps its seated waist-up F1/F7 framing. Verified whole-file: 0 leftover
+  SUBJECT ACTION, 0 standalone CAMERA MOVEMENT, 140 SHOT BREAKDOWN == 140 video prompts == 140 OBJECT
+  ACTION == 140 standard FRAME RATE == 140 DURATION 6s == 140 first-beat brackets == 140 identity
+  locks; 140 image ORIENTATION LOCKs intact; 0 genuine (non-negated) slow-mo. Engine BEATS dict now
+  carries concepts 1-20 + 31-50 + 79-84. Commits: 97549b8 / 403ee3e / 58ce1ee (01-07), 6b1321b
+  (08-10), 18d6f60 (11-14), ae4924a (15-17), eee7053 (18-20).
+
+NEXT IN QUEUE (markdown SUBJECT ACTION WITH TIMING — use md_rebuild.py): Concepts 91-110 (26 — FIRST
+confirm the K.1 "8-10 concept" flag with the user), NEW Reel 131-150 (134), Time-Freeze (verify the 8
+"oner" frames first), Concept 100/170. Then non-standard: Magical Action · Master Set (advanced
+already; only variable durations differ) and aira_set4 / aira_set5 (Format B).
+
+
+====================================================================
+## K. NON-BEAUTY REEL ENHANCEMENT — BELIEVABILITY, REALISM & THEME-FIDELITY
+====================================================================
+(Decided with the user. This is the agreed "something else" to add to the NON-beauty /
+NON-GRWM reels. It is ADDITIVE and sits ON TOP of everything above — sections A-J still
+apply: do the section-B video rebuild where the file still uses `SUBJECT ACTION WITH TIMING`,
+preserve all heavy detail [OBJECT ACTION / PHYSICS / LIGHTING / ENVIRONMENT / AUDIO / NEGATIVE
+/ identity lock / etc.], honour Controlled Vibrancy [section I], 6s real-time / no slow-mo,
+commit + push per concept/batch, and update the section-J audit + progress as you go. Beauty
+Ad + GRWM/beauty-hero reels stay on the existing treatment and are OUT of scope here.)
+
+### K.0 — CORE PRINCIPLE (applies to every non-beauty concept)
+- Make EVERY element believable and describe each element CLEARLY and specifically — exact
+  material, weight, surface, behaviour, and how it interacts with light and motion. No vague
+  "magic happens"; name the physics.
+- The ONE impossible / magical beat per concept may be surreal and DREAMY, but it must be
+  GROUNDED in real physics and clean, premium execution. Explicitly forbid: cheap sparkles,
+  fake/unreal cartoon VFX, floaty unmotivated effects, plasticky CGI, weightless nonsense.
+  Real materials, real weight, real light, real momentum — even through the one magic beat.
+- Read each concept's THEME and make the visuals serve that exact purpose precisely.
+- GREEN LIGHT (granted by user): you MAY expand these concept files with MORE descriptive
+  detail (materials, micro-physics, scale, placement, lighting, motion) wherever it increases
+  believability and theme-fidelity. Additive only — never strip real detail.
+- Structural vehicles available to express the above (from the earlier module idea):
+  * a `WORLD / OBJECT ACTION (timecoded)` track to describe each world/material element
+    clearly on its own clock (this is the main tool for "describe each element clearly");
+  * a `TRANSFORM KEYFRAME (START-lock -> CROSSING -> END-lock)` continuity block for clean,
+    identity-safe morphs.
+
+### K.1 — CONCEPTS 91-110 (three-look liquid-material couture, SILENT)
+- Make all elements BELIEVABLE and describe each clearly: the exact material behaviour —
+  mercury pour viscosity & meniscus, chrome peel, ink-bloom diffusion in water, watercolour
+  bleed, holographic/prism refraction, sunset-gradient sky-wash, molten blown-glass flow.
+  Real fluid + optical physics for each.
+- Keep everything ELSE surreal and make it feel DREAMY at the same time — believable materials
+  behaving in a dream-like, elegant way (grounded substance, dreamlike motion/mood).
+- [FLAG — CONFIRM WITH USER] User said: "Keep the 8 to 10 concept as it is but make sure it
+  looks awesome." Ambiguous against the 91-110 numbering — confirm whether this means concepts
+  98-100, 108-110, or "leave ~8-10 of them structurally unchanged." Until confirmed: apply the
+  believability lens to all 20 and do NOT structurally alter the flagged concept(s) beyond
+  polish that makes them look awesome.
+
+### K.2 — NEW REEL 131-150 (surreal fantasy worlds)
+- Make SCALE believable — correct relative sizing of subject vs. world (nebula glassblower,
+  gravity-well tea house, deep-sea cathedral, sky-market, planetarium, dune sea, prism-rain
+  subway, etc.). Consistent, real perspective.
+- Everything PRECISELY PLACED — grounded in coherent 3D space, no floating/mis-scaled/
+  arbitrarily positioned elements. Dreamy, surreal worlds, but with believable scale and
+  exact placement so the eye trusts the space.
+
+### K.3 — aira_set4 (1-20) & aira_set5 (21-40) (travel / scenic / cultural; Format B plain text)
+- Keep as MUCH REALISM as possible — real locations, real natural light, real fabric / water /
+  sand / foliage physics. Keep any impossible/transform beat minimal and grounded; lean
+  documentary-real over fantastical. (Format B: headers "---- FRAME k · SIZE · ANGLE ----",
+  audio woven inline; adapt the rebuild to that structure.)
+
+### K.4 — MAGICAL ACTION · MASTER SET (1-20) (vehicle / fight / stunt)
+- Top-notch, MIND-BLOWING action; every sequence action-packed.
+- Subject ALWAYS IN MOTION and action-ready in EVERY frame of EVERY concept — never a static
+  hold; she is mid-action / coiled to move at all times.
+- Car chases & CRASHES must be 100% BELIEVABLE: real vehicle dynamics — weight transfer,
+  suspension travel, tyre slip/smoke, body roll, real impact deformation, glass/debris physics,
+  momentum and braking. NO cheap sparkles, no cartoon/unreal action.
+- Planes, cars, bikes, boats and all props must look ULTRA-REAL; their movement, speed,
+  momentum and damage must read fully realistic. The one magic move stays but is executed with
+  grounded physics.
+- NOTE: this file is already structurally advanced (timecoded action + `CAMERA MOVEMENT: one
+  move only` + 100% real-time, no slow-mo). Enhancement here = realism polish + ensure the
+  believability language is in every prompt. (Open: whether to normalise its variable
+  per-frame durations to the 6s standard — confirm with user.)
+
+### K.5 — TIME-FREEZE REEL SET (1-19)
+- Everything must BEHAVE EXACTLY per the concept's theme.
+- In a TIME-FREEZE beat: suspended elements are truly STILL in mid-air — water droplets,
+  splashes, debris, sparks, fabric, hair, petals convincingly LOCKED as if time stopped, with
+  correct mid-motion shape and real surface tension (water looks genuinely frozen mid-splash,
+  not blobby/fake). If PEOPLE are frozen, freeze them realistically (held mid-gesture, true
+  micro-stillness), with only Aira (or the intended subject) moving where the concept calls
+  for it. The stillness must read as real frozen time, not a cheap pause.
+- Part 2 (no-freeze signature tricks — RPM, Rewind, Echo, Vertigo, One Take, Freefall, Night
+  Trails, Still Point, Metamorph, Locked On, Two Worlds): each trick reads as its real
+  phenomenon, grounded and premium.
+- KEEP the 8 "oner" cumulative-timing single-take frames AS-IS (per section E/G).
+
+### K.6 — SINGLES & MIXED FILES
+- Concept 170 (Phoenix Crash Rebirth): action -> apply K.4 realism (believable crash dynamics).
+- Concept 100 (The Unboxing): product -> believable materials/lighting, premium real feel.
+- Master-Depth Build: 08-10 (Monochrome Riot / Liquid Metal / Paper & Petals) take the
+  K.0/K.1 believability lens; 11-14 are GRWM/beauty and 15-20 lifestyle -> keep the existing
+  treatment (out of K scope unless user says otherwise).
+
+### K.7 — RESUME PROMPT (paste into the fresh session)
+"Continue the Aira rebuild on branch aira-prompts-enhanced. Read
+.kiro/steering/aira-prompt-rewrite-standard.md FULLY (all sections A-K). Beauty Ad, Cinematic
+New Set, Set 4, Set 5 (+continuations), More Set 3 are done; the two Magical Action files are
+already compliant; Master-Depth Build 01-20 is DONE (whole file complete — 08-10 carry the
+section-K believability lens, 11-20 kept the existing treatment). Now apply the section-B advanced
+video rebuild PLUS the section-K Believability/Realism & Theme-Fidelity layer to the remaining
+non-beauty files — 91-110, 131-150, aira_set4, aira_set5, Magical Action Master Set, Time-Freeze,
+and Concept 170/100. Keep every detail heavily; only change what's necessary; controlled vibrancy;
+6s real-time, no slow-mo; commit + push per concept; tick the section-J audit. First, confirm the
+K.1 '8-10 concept' flag with the user before touching 91-110."
+
+
+
+====================================================================
+## L. TRANSFORMATION-REEL MODEL — MID-CLIP CHANGE + MATCH-CUT JOINS
+====================================================================
+(Decided with the user. Applies to ALL transformation reels — ANY concept where a change happens
+mid-clip: outfit/wardrobe change, environment/world/set change, object/prop change, WEATHER
+change, TIME-OF-DAY change, PLACE/LOCATION change, ERA/PERIOD change, LIGHTING change, season
+change, material/finish change, look A->B, GRWM getting-ready wraps, and any "the world/outfit
+turns" concept. A single reel may combine ONE or SEVERAL of these changes at once — handle each
+precisely. ADDITIVE on top of sections A-K. The point: stop spreading one transform across multiple clips stitched by a fragile continuous-camera handoff; instead
+CONTAIN each change inside one clip's middle, and make every frame join an intentional CUT.)
+
+### L.1 — WHERE THE CHANGE HAPPENS (mid-clip, never at the seam)
+- The visible Look-A -> Look-B change happens in the MIDDLE of ONE animated clip, never across a
+  clip boundary. The transform clip plays:
+  * [00:00-00:02] CUT in, ALREADY-IN-MOTION, in LOOK A, the look fully intact — NO change yet.
+  * [00:02-00:04] the change BEGINS here (mid-clip) and flows SMOOTHLY across her in one continuous
+    wavefront — gradual and motivated, never an abrupt swap.
+  * [00:04-00:06] the wavefront completes and the look settles SMOOTHLY and fully into LOOK B and
+    holds — never crammed into the last second, never a snap.
+- Rationale: a change that must survive a clip join forces brittle frame-to-frame continuity. Keep
+  the change safely inside one clip where the generator fully controls it.
+
+### L.2 — HELD ANGLE INSIDE THE TRANSFORM CLIP (no abrupt angle shift mid-change)
+- Within the transform clip the CAMERA ANGLE is HELD STEADY across the whole 6s — the angle must
+  NOT shift abruptly while the change is occurring (an angle jump mid-transform fights the morph).
+- The video generator's own natural camera MOVEMENT (a gentle push / drift / its subtle motion) is
+  FINE and welcome — what is banned is a deliberate ANGLE change during the transformation. So the
+  hero/transform clip no longer "orbits through" the change; it holds its angle and lets the change
+  race through. (Big angle variety lives at the CUTS between frames, per L.3 — not inside the clip.)
+
+### L.3 — EVERY JOIN IS A CUT + ANGLE CHANGE (the patch; viewer never feels they missed anything)
+- At EVERY frame join, hard-CUT to a deliberately DIFFERENT angle/crop (different shot size +
+  camera angle + placement). Never cut to the same/near-same angle (that exposes a mismatch as an
+  ugly jump cut).
+- That angle change IS the patch: it masks any slight variation between where the previous clip's
+  Look B ended and where the next clip's still begins, and it makes the edit read as intentional —
+  so the viewer feels they have NOT missed anything (polished editing rhythm, not a glitch).
+- Every clip therefore opens ALREADY-IN-MOTION on its new angle (the cut lands mid-action).
+
+### L.4 — TRANSFORMATION CONTINUITY VIA VEO FIRST/LAST-FRAME + CLEAR SMOOTH MID-CLIP MORPH (transformation clips ONLY)
+- SCOPE: transformation clips only — a clip where something actually CHANGES mid-frame. Qualifying
+  change types: OUTFIT/wardrobe, ENVIRONMENT/WORLD/SET, OBJECT/prop, WEATHER, TIME-OF-DAY,
+  PLACE/LOCATION, ERA/PERIOD, LIGHTING, SEASON, MATERIAL/finish, look A->B. A reel may carry ONE or
+  SEVERAL of these at once; whichever change(s) occur, choreograph all of them in the morph.
+  Ordinary frames with no mid-clip change are exempt.
+- CONTINUITY MECHANISM = VEO 3.1 FIRST-AND-LAST-FRAME, NOT TEXT. For a transform clip, supply the
+  Look A still (= this frame's image) as the FIRST frame and the Look B still (= the NEXT frame's
+  image) as the LAST frame; Veo morphs between them, so the clip ENDS EXACTLY on Look B = the next
+  clip's start still. The cut is exact BY CONSTRUCTION. (This REPLACES the old exhaustive-1:1-text
+  rule — Veo cannot text-generate a frame-exact match, so we hand it the exact end image instead.)
+- TWO STILLS PER TRANSFORM CLIP: Look A (first) + Look B (last). Our frame structure already gives
+  both — the transform frame's image = Look A; the NEXT frame's image = Look B (that same Look B
+  still also starts the next clip, which guarantees the seam).
+- Because the LAST-frame image carries the exact Look B, the transform clip's VIDEO TEXT does NOT
+  need an exhaustive Look-B description — keep it LEAN. The text's only job is to CHOREOGRAPH THE
+  MORPH clearly so it reads smooth:
+  * [00:00-00:02] HOLD Look A, already in motion, the look fully intact — NO change yet.
+  * [00:02-00:04] the morph BEGINS here (mid-clip) and flows smoothly across her in ONE continuous
+    wavefront — state the PATH clearly: where it starts, which direction it travels, and what
+    changes as it passes (if several things change at once, name each). Gradual, liquid, motivated.
+  * [00:04-00:06] the wavefront completes and the look settles SMOOTHLY and fully into Look B (the
+    last-frame still) and holds — NOT a last-second snap, NOT an abrupt swap.
+- TIMING LAW: the change must START IN THE MIDDLE and resolve smoothly by the end — never instant,
+  never crammed into the final second. Held angle throughout (L.2); camera may travel (track/push-with).
+- The transform frame's OWN image = the clean LOOK A it opens on (not a mid-morph still).
+
+### L.5 — WHAT STAYS THE SAME
+- Identity lock (fixed-skeleton, section D); ONE eye-led identity-safe expression transition per
+  clip; real-time / no slow-mo / 6s (sections B, D); Controlled Vibrancy (section I); section-K
+  believability where it applies. The reel still LOOPS (final frame cuts back to match Frame 1).
+- Subconscious continuity now lives in consistent IDENTITY / WORLD / PALETTE across the cuts + the
+  loop — NOT in continuous camera motion-handoffs (those are replaced by the L.3 cuts).
+- Replace the old per-concept "Movement ... locked transform keyframes START Frame 3 -> END Frame 5,
+  interpolate strictly between keyframes across frames" language and any cross-frame orbit-handoff
+  wording with the L.1-L.4 model (single held-angle transform clip + match-cut joins).
+
+### L.6 — SCOPE / STATUS
+- RETROFIT the transformation reels already rebuilt under the old continuous-handoff model
+  (Master-Depth Build 01-20 first — nearly all transforms), AND carry this model forward to every
+  remaining transformation reel in the queue.
+- Per concept: read fully -> rebuild the video SHOT BREAKDOWN to the held-angle mid-clip transform
+  with a strongly-specced Look B -> update the affected IMAGE prompts (transform still = Look A;
+  next still = matched Look B, new angle) -> ensure every join is a cut to a new angle -> verify ->
+  commit + push -> tick progress.
+
+
+
+====================================================================
+## M. ALIVE CAMERA — ACTIVE SUBJECT + CAMERA THAT RIDES WITH HER (real parallax)
+====================================================================
+(Decided with the user. Makes reels feel ALIVE: the subject is visibly DOING something and the
+camera moves WITH her through an anchored, static world. ADDITIVE on top of A-L.)
+
+### M.1 — THE SUBJECT IS ACTIVELY DOING SOMETHING (noticeable, motivated)
+- In the alive (non-transform) beats she performs a real, READABLE action — walking/striding,
+  working with her hands, reaching, turning through the space, moving toward/through something.
+  Not just standing and breathing. The action should be clearly noticeable, motivated by the world.
+
+### M.2 — CAMERA RIDES WITH THE SUBJECT (tracking / following moves)
+- Use real DP moves where the camera MATCHES her motion vector so she stays framed while she moves:
+  * SIDE-TRACK (the user's key example): she walks forward; the camera dollies LATERALLY alongside
+    her at a steady side/profile angle, holding her in frame (capturing her sideways) as she travels.
+  * FOLLOW: Steadicam/gimbal follow behind or ahead of her, matching her pace.
+  * ARC-FOLLOW: camera arcs a few degrees while tracking her turn/walk.
+  * CRANE-FOLLOW / PUSH-WITH: rise or push that travels with her, not at a static subject.
+
+### M.3 — THE WORLD STAYS ANCHORED; LIFE COMES FROM REAL PARALLAX
+- The background/environment is FIXED in real 3D space and stays in its place — it does NOT slide,
+  float, warp or move on its own. The only reason it appears to move is genuine PARALLAX caused by
+  the camera travelling: NEAR elements pass faster than FAR elements. That parallax is what sells
+  "the camera is moving WITH the subject" (e.g. filming her sideways as she walks), not "the world
+  is moving." Keep world geometry, scale and placement believable and consistent (ties to K.2).
+
+### M.4 — INTEGRATION WITH THE TRANSFORM MODEL (sections L, B, D, I)
+- A TRACK is a translation, not an angle rotation, so the camera MAY ride with her even during a
+  transform clip — L.2's held-angle rule bans an abrupt ANGLE shift mid-change, NOT camera travel.
+  So a transform beat can still be alive (tracking) while its angle holds.
+- At each CUT (L.3) change the angle AND you may switch tracking style (side-track -> follow ->
+  arc-follow), each clip opening ALREADY-IN-MOTION (the cut lands mid-stride / mid-action).
+- Keep: identity lock + eye-led expression (D), real-time / no slow-mo / 6s (B), controlled
+  vibrancy (I), believability/scale (K), and the F-last -> F1 loop. Write these alive tracking moves
+  directly into the SHOT BREAKDOWN beats (shot/angle + her action + world interaction + camera move).
+
+
+
+### M.5 — FULL CAMERA-MOVE VOCABULARY (draw from these; one move per clip, matched to the world)
+ALIVE / TRAVELLING-WITH-SUBJECT (camera rides her; world anchored; real parallax):
+- SIDE-TRACK / parallel dolly — camera travels laterally alongside a walk, capturing her side-on.
+- FOLLOW (lead or trail) — Steadicam/gimbal follows behind or ahead, matching her pace.
+- ARC-FOLLOW — camera arcs a few degrees around her as she turns/moves.
+- CRANE-FOLLOW / BOOM-WITH — rise or descend while travelling with her.
+- PUSH-WITH / PULL-WITH — push or pull that moves with a moving subject (not at a static one).
+- WHIP-PAN / SWISH into the next beat's motion (use at energy spikes, action files).
+STAGED / EXPRESSIVE (subject more contained; camera shapes the beat):
+- PUSH-IN / DOLLY-IN, PULL-OUT / DOLLY-OUT, slow ORBIT, TRACKING across, CRANE/JIB up-down,
+  TILT, PAN, RACK-FOCUS (pull focus product<->eye), SNAP-PUSH, HANDHELD breathe (doc-real),
+  LOW-HERO rise, HIGH/OVERHEAD look-down, OVER-THE-SHOULDER.
+RULES: pick ONE move per clip; never push-only across a concept; match the move to the
+concept's world/action; alive tracking moves (top group) are preferred wherever she is moving;
+during a TRANSFORM clip use a translation (track/push-with) NOT an angle rotation (L.2); switch
+move + angle at every CUT (L.3); every clip opens ALREADY-IN-MOTION (B).
+
+
+
+### M.6 — PER-FRAME POSE & MOTION VARIETY (default) vs HELD POSE (GRWM-only exception)
+(Decided with the user. Corrects the earlier uniform "standing hero gesture" arc.)
+- DEFAULT (almost every reel — fashion, transformation, material, fantasy, action, travel,
+  editorial-beauty): the subject must be in a DIFFERENT POSE or genuinely IN MOTION in EVERY
+  frame, tailored to the concept's theme — she walks/steps, shifts body orientation and level,
+  leans, turns away and back, strides, sits/rises, strikes a distinct posture per shot. NEVER the
+  same standing hand-gesture arc repeated across frames or across concepts. Pair with the alive
+  camera (M.1-M.4) so she is visibly DOING something different each frame, and keep every frame's
+  crop/angle/camera distinct (B). The eye-led identity-safe expression model (D) still governs the
+  FACE, but the BODY should move.
+- EXCEPTION — HELD / CONTAINED POSE (only where the theme truly requires it):
+  * GRWM "get ready with me" reels (getting ready in one spot) — e.g. Concepts 11 (First Day),
+    12 (Sangeet), 13 (5 AM Club).
+  * Concepts whose premise IS an identical held pose by design — e.g. Concept 02 (Six Cities,
+    "one her" = pose held identical across the match-cuts).
+  * Genuine beauty-still / application moments where stillness is the point (e.g. Glass Skin
+    serum beat) — keep mostly contained but still allow gentle per-frame variation.
+- The TRANSFORM clip (F4) still HOLDS its camera ANGLE (L.2) and identity, but she MAY be in a
+  distinct/dynamic pose there too — only the camera angle is fixed, never her body.
+- ACTION: revisit any already-done NON-GRWM concept and inject real per-frame pose/motion variety;
+  apply this to all remaining concepts. Fragrance "still radiant centre" reels (Midnight Bloom,
+  Gold Hour) get GENTLE motion (a step, a turn, a drift) rather than fully static.
+
+
+
+### M.7 — FULL-BODY MOTION VOCABULARY (layer several per frame — a head-to-toe kinetic chain)
+(Decided with the user. Use with M.6: non-GRWM frames must move the WHOLE body — hands, arms,
+legs, feet, waist/hips, torso, shoulders, neck/head, gaze, hair, fabric — not just one hand
+gesture. Draw a DIFFERENT combination for each frame so no two repeat.)
+
+GAZE & EYES: gaze-lift to lens, gaze cast down, eye-line sweep, glance over the shoulder, side-eye
+  flick, eyes tracing the wavefront/object, slow blink, soft squint, widen in awe, lash flutter,
+  focus snap, gaze drift then lock.
+HEAD & NECK: head tilt, chin lift, chin tuck, slow head turn (L/R), head cant, gentle head roll,
+  neck elongation, look-away-and-back, profile-to-front turn, soft nod, head float on the breath.
+SHOULDERS: shoulder roll (fwd/back), shoulder drop, one shoulder forward, shoulder-blade draw,
+  subtle shimmy, shoulder dip, shrug-and-release.
+ARMS / HANDS / FINGERS: arm sweep, long extension, reach-and-trail, hand glide, fingers fanning
+  open, fingertips trailing a surface or hair, wrist roll, wrist flick, hand to
+  collarbone/jaw/hip/nape, hand framing the face (never covering), palm turn-up, open gesture,
+  hair tuck behind the ear, cross/uncross arms, clasp-and-release, snap.
+TORSO / WAIST / HIPS: torso rotation, waist twist, ribcage lift, spine elongation, gentle
+  arch/backbend, side bend, contrapposto shift, hip sway, hip pop, hip counter-tilt, core spiral,
+  slow undulation, figure-eight hip.
+LEGS / FEET: step fwd/back, cross-step, weight shift (back<->front leg), pivot on the ball of the
+  foot, heel lift, toe point, knee bend, lunge-step, ankle roll, half-turn step.
+WHOLE-BODY / LOCOMOTION: walk-in, stride toward/away, turn-and-walk, slow spin, pivot-turn,
+  saunter, sashay, glide, sway, level change (rise from a lean / lower), lean-on-a-surface-and-
+  push-off, twirl, advance-and-glance-back.
+HAIR & FABRIC (motion read): hair sway/flip, strand lift in the breeze, ponytail swing, fringe
+  shift, skirt/hem flare, sleeve sweep, scarf/dupatta trailing, drape billow-and-settle.
+
+RULE: each non-GRWM frame layers a HEAD-TO-TOE chain (e.g. strides in -> hips rotate -> waist
+twists -> one arm sweeps up -> shoulders roll -> head turns -> gaze flicks to lens -> hair sways
+-> hem flares); a DIFFERENT combination leads each frame so no two repeat. Real-time, natural
+speed, NO slow-motion; identity-safe (face = eye-led only, D); energy matched to the concept
+(powerful/strident, soft/flowing, or explosive/athletic). Exceptions per M.6 (GRWM / identical-
+pose premise / beauty-still) stay contained. During a TRANSFORM clip the camera ANGLE holds (L.2)
+but her body may still move through the kinetic chain.
+
+
+
+### M.8 — IMPLEMENTATION: the pose/motion fix lives in BOTH the video AND the image prompts
+Applying M.6/M.7 to a concept means editing TWO places per frame, not just one:
+- VIDEO prompt: re-author the `SHOT BREAKDOWN` beats so each frame carries a head-to-toe kinetic
+  chain (M.7), a different combination per frame. This is the primary motion driver for Veo.
+- IMAGE prompt: update each frame's `BODY POSTURE & WEIGHT`, `SUBJECT FRAMING & POSITION`,
+  `HANDS & NAILS` (and the `KINETIC STILLNESS` layers) so the START STILL already shows that
+  DISTINCT DYNAMIC POSE (mid-stride, mid-turn, contrapposto, glance-back, level change, etc.).
+  Veo animates from this still, so a static standing still will not produce the motion — the
+  still itself must be a dynamic pose, and a different pose every frame.
+- Loop + first/last-frame still hold: F-last returns to F1's (now dynamic) pose; the transform
+  clip's first/last stills are the dynamic Look-A / Look-B poses.
+SEQUENCING (per user): FIRST finish the L+M retrofit (sections L + lean-strip) across ALL
+transformation concepts/files; THEN do this full-body pose/motion pass (M.6-M.8) over everything.
+Exceptions stay contained: GRWM (11-13), identical-pose premise (02 Six Cities), beauty-still (14);
+fragrance (06,07) gentle motion.
+
+### M.9 — EXPLICIT PER-LIMB ARTICULATION (name EVERY body part, every frame) [decided with user]
+The full-body pass is not satisfied by a vague "dynamic pose" line. For every non-exception frame,
+EXPLICITLY describe the POSITION of each body part, named separately, in BOTH the image prompt (the
+held still pose) and the video SHOT BREAKDOWN beats (how each part moves) — a DIFFERENT combination
+each frame so no two repeat:
+  • GAZE / EYES — direction + focus (to lens / cast down / over-shoulder / tracing object).
+  • HEAD & NECK — tilt / turn / chin lift or tuck / cant (degrees or clear direction).
+  • SHOULDERS — each shoulder's position (one forward/back, rolled, dropped, blade draw).
+  • RIGHT ARM → RIGHT HAND → RIGHT FINGERS — where the arm is, what the hand does, finger shape.
+  • LEFT ARM → LEFT HAND → LEFT FINGERS — same, named separately from the right.
+  • TORSO — rotation / lean / ribcage lift / spiral relative to hips.
+  • WAIST & HIPS — sway / pop / counter-tilt / contrapposto (which hip is high/forward).
+  • RIGHT LEG and LEFT LEG — named separately: which is weight-bearing vs free, bent/straight,
+    forward/back, crossed, mid-step.
+  • FEET & WEIGHT — stance, weight distribution, heel-lift / toe-point / pivot / mid-stride.
+  • HAIR & FABRIC — how they respond to the pose/motion.
+IMPLEMENTATION: expand the image `BODY POSTURE & WEIGHT`, `HANDS & NAILS` and `SUBJECT FRAMING &
+POSITION` fields so each of the above is named (left vs right explicitly, fingers explicitly); and
+write each part's motion into the video beats. Real-time natural motion; identity-safe (FACE = eyes/
+gaze/head/soft-expression only, never warped); energy matched to the concept. Exceptions per M.6 stay
+contained (GRWM / identical-pose premise / beauty-still; fragrance = gentle). The FINAL VERIFICATION
+full-body check now also requires: each non-exception frame names right leg, left leg, right hand,
+left hand, fingers, waist/hips, torso, shoulders, head/neck tilt and gaze distinctly, and the
+combination differs frame to frame.
+
+M.9 LOGIC & FLOW LAW (decided with user): the per-limb articulation must be LOGICAL and MOTIVATED,
+never a mechanical checklist of joints. Before writing PASS-2 poses for a concept, READ THE WHOLE
+FRAME FLOW first (all 6-8 frames + the loop) and choreograph the body as ONE continuous, coherent
+performance: each frame's pose flows naturally out of the previous frame's and sets up the next
+(limbs carry momentum across the cuts), and every limb position is something she is intentionally
+DOING in that moment — reaching for / settling / turning toward / interacting with the actual object
+or world of that beat — so she reads as SELF-AWARE of her action, poised and purposeful, never
+contorted, never an awkward or arbitrary limb placement. Pose serves the beat's action, the concept's
+energy, and the figure-to-ground composition; if a named position wouldn't make sense for what she is
+doing, choose one that does. Naturalness and intent come FIRST; the per-limb completeness is how that
+intent is specified, not an excuse to force unnatural shapes.
+
+
+
+====================================================================
+## N. BACKGROUND PRESENCE & FIGURE-TO-GROUND BALANCE (every reel, every concept)
+====================================================================
+(Decided with the user. STANDING RULE, additive on top of A-M; applies to ALL concepts in ALL
+folders and to PASS 1, PASS 2 and the FINAL VERIFICATION. The user is emphatic about this.)
+- The BACKGROUND / WORLD is a CO-STAR with its own significance, never wallpaper. Each concept's
+  environment carries story, place, scale and mood and MUST be rendered at its FULLEST POTENTIAL in
+  the frames where that is appropriate. If a reel never shows its background properly, an important
+  pillar is missing.
+- NEVER let the subject so fill or dominate the frame that the background is effectively gone across
+  the reel. This must NEVER happen in any reel, in any concept.
+- Compose for deliberate PROPORTION: subject AND background both read, in balance. The hero still
+  reads FIRST (focus, light, hierarchy — section I), but the world stays present and legible — clear
+  figure-to-ground separation WITH the world shown, not the world erased.
+- Guarantee a spread across the 6-8 frames that honours the world: at least one true ESTABLISHING
+  WIDE and at least one ENVIRONMENT-DOMINANT / FAR placement (background is the larger area, subject
+  smaller in frame), plus balanced mediums where world + subject share the frame. Tight ECU/CU crops
+  are welcome for VARIETY and intimacy but must be the MINORITY, not the default across the reel.
+- Build real DEPTH: foreground / midground / background layers, leading lines, anchored world +
+  parallax (M.3), the environment supporting and framing the hero. Never a floating subject on an
+  empty, ignored or blown-out backdrop. Top-notch = subject and world composed together.
+- Some frames legitimately cannot show the full background (a transform hero beat, a face ECU) — that
+  is fine; do it WISELY so that across the WHOLE reel the background is given its due in the frames
+  that suit it.
+
+### N.1 — BEAUTY AD REELS: ADD REAL MOTION INCLUDING WALKING (theme-appropriate)
+(Decided with the user.) The Beauty Ad reels (CONCEPTS/Beauty/20 Beauty Ad Reels ...) must carry
+REAL MOTION — including WALKING / striding through the set — wherever the concept's theme makes it
+appropriate, not a static beauty hold. Apply PER CONCEPT BY THEME: where walking/movement suits the
+look (entrances, runway feel, lifestyle/editorial beats) use it; genuine application/beauty-still
+moments may stay contained. This is a REVISIT of the earlier Beauty Ad treatment → add motion + the
+section-N background balance, and align with the PASS-2 full-body motion model (M.6-M.8).
+
+====================================================================
+## *** CURRENT STATE & TWO-PASS PLAN — READ THIS FIRST ON RESUME (most recent) ***
+====================================================================
+
+>>> TRIGGER SENTENCE TO PASTE INTO A FRESH SESSION (verbatim):
+"Resume the Aira prompt rebuild on branch aira-prompts-enhanced (repo aamir9000/Aamirs). Read
+.kiro/steering/aira-prompt-rewrite-standard.md IN FULL — especially this CURRENT STATE & TWO-PASS
+PLAN block (the SNAPSHOT marks PASS 1 COMPLETE across ALL files), the EXACT FILE MANIFEST,
+and sections L, M (incl. M.9 per-limb articulation + its Logic & Flow law) and N (background as
+co-star + N.1 Beauty-Ad motion). PASS 1 is DONE: all transformation files are on the L+M model, all
+standard non-transformation files are on section-B (engines in _tools/), Time-Freeze C1-11 use a
+time-trick-aware header (C12-20 oner/cumulative left by design), aira_set5 prose has synthesised
+3-beat breakdowns, and the advanced Magical Action files (incl. Master Set) are left as-is. Now do
+PASS 2 (full-body explicit per-limb pose/motion, logical + self-aware + flow-read, every concept
+except GRWM/exceptions per M.6-M.9), then run the FINAL VERIFICATION PASS over every file. Don't
+re-ask me to explain the standard."
+
+
+
+>>> SNAPSHOT (PASS 1 COMPLETE across all feasible files — see exceptions):
+- PASS 1 DONE (transformation files, fully on L+M mid-clip/held-angle/match-cut model):
+  Master-Depth Build 01-20; Cinematic New Set 01-20; More Full Reel Set 3 31-50; Set 4 51-70
+  (set4_lm.py); Set 5 main 71-78 (set5_lm.py; C79 = corrupt F1-only stub, left); Set 5 continuations
+  79-84 (set5cont_lm.py for 79-82, set5chain_lm.py for chained 83/84); Concepts 91-95 FULL Heavy-Detail
+  (set5hd_lm.py — section-B + L+M chained; file only contains 91-95, 96-110 absent in source, C95 truncated stub left).
+- PASS 1 DONE (non-transformation, section-B + section-K; no A->B so no wardrobe-flip):
+  Surreal NEW Reel 131-150 (secB_lm.py, 134 SB==134 VP); Concept 170 Phoenix Crash (secB, advanced K.4
+  PHYSICS/MICRO-EXPRESSION preserved); Product Concept 100 Unboxing (malformed F4/F5 video headers repaired
+  + bullet-format section-B); Travel-Scenic aira_set4 (secB_fb.py Format-B, 117 SB==117 VP).
+- ALREADY-COMPLIANT (left, do NOT rebuild): Magical Action Heavy-Detail; Magical Action Set 2 Expression;
+  Magical Action Master Set (advanced action; PHYSICS & MOTION/micro-timecode/one-move camera; its
+  variable per-frame durations 3s/4s sum to a designed continuous 26s reel — DECISION: KEPT as-is, NOT
+  forced to 6s, because that would break the reel's intentional variable-clip structure).
+- RESOLVED special-format files (now done):
+  * Time-Freeze Reel Set — Concepts 1-11 (standard discrete freeze/burst/speed reels, 75 frames) converted
+    to SHOT BREAKDOWN with a TAILORED time-trick header (subject performs real-time while the signature
+    time-effect — freeze suspension / speed-ramp / rewind / echo — plays as its real cinematic phenomenon,
+    never a cheap pause). Concepts 12-20 (oner single-takes C13-16 + cumulative continuous C17-20 + mixed
+    C12) INTENTIONALLY LEFT per section K.5/E/G (the documented oner cumulative-timing frames).
+  * aira_set5 — prose video format: synthesised a 3-beat SHOT BREAKDOWN from each block's embedded
+    micro-expression timeline + framing/camera/action, inserted after IDENTITY LOCK, prose kept intact
+    (123 SB==123 VP); its 7 slow-motion violations were already fixed to real-time.
+  * Beauty Ad — its 2 residual slow-motion refs fixed.
+- ENGINES (in _tools/): set4_lm.py, set5_lm.py, set5cont_lm.py, set5chain_lm.py, set5hd_lm.py,
+  secB_lm.py (generic non-transform section-B; inline + bullet SUBJECT ACTION; whole-file fallback;
+  SECB_HDR env override for a custom breakdown header), secB_fb.py (Format-B aira_set4),
+  secB_set5prose.py (aira_set5 prose). lm_rebuild.py BEATSLM (1-20, 31-50) — do NOT reuse for 51-84.
+- PASS 2 + FINAL VERIFICATION: PASS 2 (full-body per-limb pose/motion, sections M.6-M.9) NOT started —
+  this is the next major phase. Whole-project PASS-1 verification (this session): every converted file
+  has SHOT BREAKDOWN == VIDEO PROMPT, 0 leftover SUBJECT ACTION, 0 standalone CAMERA MOVEMENT,
+  DURATION 6s, 0 genuine slow-mo. Remaining slow-mo terms live ONLY in the intentional time-trick
+  Time-Freeze beats (theme-correct), the advanced Master Set / Set-2 score-tempo briefs, and NEGATIVE lists.
+- Engines: _tools/lm_rebuild.py (BEATSLM keyed by concept number; currently holds 1-20 + 31-33;
+  add BEATSLM[N] then run `python3 _tools/lm_rebuild.py "<exact path>" N`). Verify with
+  _tools/verify_lm.py for Master-Depth-format files, or the per-concept grep checks shown in the
+  commit history (residue=0, beat-1 "Cut to" count == SHOT BREAKDOWN count == VIDEO PROMPT count,
+  F4 image shows clean Look A, spoken/silent preserved).
+
+Branch aira-prompts-enhanced. Folders: CONCEPTS/{Transformation, Beauty, Surreal, Action,
+Time-Freeze, Travel-Scenic, Product} (see FOLDER STRUCTURE near top). Push via github power
+push_to_remote (path /projects/sandbox/Aamirs, owner aamir9000, repository_name Aamirs,
+remote_branch_name aira-prompts-enhanced). Commit per concept.
+
+GLOBAL RULES (apply to EVERY concept, both passes, and final verify): section N BACKGROUND PRESENCE
+& FIGURE-TO-GROUND BALANCE (the world is a co-star — show it at full potential, never let the
+subject erase the background; guarantee establishing-wide + env-dominant frames per reel) and
+section N.1 BEAUTY AD reels get real motion incl. WALKING where the theme suits.
+
+There are TWO sequential passes. FINISH PASS 1 across ALL transformation concepts/files BEFORE
+starting PASS 2.
+
+--- PASS 1 (IN PROGRESS) — L+M RETROFIT + LEAN-STRIP (sections L, M.1-M.5, B) ---
+Per transformation concept:
+  1. LEAN-STRIP the video prompts (engine `_tools/lean_strip.py "<path>"`, video-section scoped):
+     short IDENTITY line, remove static LIGHTING + ENVIRONMENT lines, trim video NEGATIVE.
+     ALREADY DONE on the 13 standard files (Transformation x10, Beauty, Surreal, Product).
+  2. Rebuild the 7 video SHOT BREAKDOWN beats into the L+M model via engine
+     `_tools/lm_rebuild.py "<path>" <N>` (add a BEATSLM[N] 7-tuple first): each frame opens
+     "Cut to ..." (match-cut, new angle); transform happens MID-CLIP at a HELD angle inside the
+     transform frame; smooth (begins middle, never abrupt/last-second); Veo first/last-frame
+     wiring (transform-frame image = Look A = FIRST frame, next image = Look B = LAST frame);
+     loop F-last -> F1. Engine also strips the old "(Transform-anchor distance ...)" / "(Camera
+     distance ...)" parentheticals.
+  3. IMAGE edits per concept (manual str_replace): rewrite the Movement line to the L+M model;
+     flip the transform-frame (F4) IMAGE to the clean LOOK A it opens on; change F3/F5 keyframe
+     notes + F2/F3/F5 COMPOSITION-REFERENCE lines from "START/END keyframe / suspended build /
+     radiant reveal / imminent" to clean held-look / match-cut SHOT NOTES.
+  4. VERIFY region: 0 of {mid-*, locked START/END, interpolate strictly, Camera distance,
+     suspended build, macro build beat, radiant reveal, transform resolved, cause building to
+     effect}; 7 "Cut to" beats; F4 image shows Look A. Whole file breakdown count unchanged.
+  5. Commit + push.
+PASS 1 DONE: Master-Depth Build concepts 01-20 — COMPLETE (whole file on the L+M mid-clip/held-angle/
+match-cut/Veo-first-last-frame model; every F4 image flipped to clean Look A; 0 residue of {locked
+START/END, interpolate strictly, Camera/Transform-anchor distance, suspended build, macro build beat,
+radiant reveal, transform resolved, cause building to effect, clearly imminent, mid-sweep/wrap/bloom/
+burst/flip/draw/roll/ripple/wave, signature impossible beat}; 140 SHOT BREAKDOWN == 140 VIDEO PROMPT).
+Concepts 13-20 commits: 13=2f6f2cd, 14=89b05e0, 15=a78be97, 16=e4b5cdb, 17=79e215a, 18=5db1c32,
+19=88671e7, 20=(this commit). Engine `_tools/lm_rebuild.py` now carries BEATSLM 1-20; verifier
+`_tools/verify_lm.py "<path>" N` added (region residue + structure PASS/FAIL). GRWM/beauty-still/seated
+concepts (11 First Day, 12 Sangeet, 13 5AM, 14 Glass Skin, 16 Rain Check seated) carry a contained-pose
+tag in the Movement line; editorial/lifestyle (15,17,18,19,20) carry none (they get full motion in PASS 2).
+PASS 1 REMAINING:
+  - Then the other Transformation/ files: 20 Cinematic Reels New Set; 20 More Full Reel Set 3;
+    Set 4 (51); Set 5 (71); Set 5 (cont); Set 5 (cont 2); Set 5 (cont 3); Set 5 (cont 4);
+    Concepts 91-110. (NOTE: these were section-B rebuilt + lean-stripped earlier but NOT yet on
+    the L+M mid-clip/cuts/first-last-frame model — they still use the old orbit-through-transform
+    beats; bring them onto L+M.)
+    >>> CINEMATIC NEW SET — IN PROGRESS: concepts 1 (Sea-Blue Pool, f5db9bf) + 2 (Velvet Hotel,
+    f7c507f) + 3 (Neon Monsoon — a rain-FREEZE, treated per K.5 not as an A->B morph; 635cd56)
+    + 4 (Dressing-Room Portal — CHAINED two-swap blush->ivory->emerald, each contained mid-clip,
+    ff00886) + 5 (Golden Desert Train — sand-to-gown, ff00886/4260c78) + 6 (Chrome Elevator, 623c960) + 7 (Candy Rooftop balloon-FLOAT grounded in buoyancy, 076d9b8) + 8 (Midnight Flower Market bloom-burst, e778c75) + 9 (Pearl Bathroom steam-reveal, 41b01e7) + 10 (Red Door world-flip, 83500b1) + 11 (Underwater Museum light-bloom, e53bb31) + 12 (Zero-Gravity anti-gravity dress, 2dd63fa) + 13 (Festival Lanterns) + 14 (Arcade decade-glitch chain) + 15 (Ice Palace spin-freeze) + 16 (Botanical plant-growth) + 17 (Kitchen apron-flare) + 18 (Airport corridor-to-cloud) + 19 (Opera shadow-split, 7fr) + 20 (Future Ocean water-road, 8fr) DONE+pushed. *** CINEMATIC NEW SET COMPLETE — all 20 concepts on L+M, 123 SHOT BREAKDOWN == 123 VIDEO PROMPT, 0 locked-residue, peak-saturation softened on tonal concepts. *** NEXT FILE: 20 More Full Reel Concepts Set 3 (concepts 31-50) — IN PROGRESS: 31 (Gilded Renaissance, e42b87f) + 32 (Bioluminescent Deep-Sea SILENT, 8a63031) + 33 (Cherry-Blossom Spring, 21026cf) DONE+pushed; NEXT concept 34. Set 3 shares Master-Depth structure (locked START/END, suspended build, BA.3/AT.5 codes in comp refs) — use lm_rebuild.py (BEATSLM 31-50, no collision) + the same image-edit set (Movement line, F2/F3 comp refs, F3/F5 keyframe notes->SHOT NOTE, F4 image flip to clean Look A); strip BA.3/AT.5 codes; these are BEAUTY-campaign gilding/glow transforms (product-at-face, mostly beauty-still contained — tag Movement line accordingly); soften any "peak" on tonal concepts. Then Set 4 (51-70), Set 5 (71-79) + 4 continuations, Concepts 91-110; then non-transformation folders; then PASS 2; then final verify. (REFERENCE — the chained-transform how-to from concept 6, already DONE: a multi-look chain handles like concept 4's but across N transform frames — each transform clip = held angle (push-with, no angle rotation), re-tone/morph BEGINS mid-clip (no instant snap), Veo first=this frame's clean look / last=next frame's clean look, match-cut joins; keep saturated worlds balanced against neutral grounds, no peak-saturation.) NOTE: some concepts in these files are FREEZE/VFX or non-look-change heroes, not
+    A->B wardrobe/world morphs — for those, don't force a Look-A flip; apply K.5 believability +
+    controlled vibrancy + match-cut framing instead. METHOD for the true-morph concepts is SURGICAL (lighter than Master-Depth):
+    they already have rich ANGLE & SHOT SIZE variety incl. establishing wides + env-dominant frames
+    (background already honoured) and alive-camera beats, and they have NO "TRANSFORM KEYFRAME NOTE /
+    locked START/END / suspended build" image residue. So per concept only the TRANSFORM FRAME(s)
+    need work: (a) rewrite the brief "Hero Movement / Impossible Move:" line to the L+M model
+    (contained mid-clip / held angle — or camera-rides-WITH-her translation for walking transforms /
+    Veo first-last-frame / match-cut joins); (b) FLIP the transform frame IMAGE (labelled "(TRANSFORM
+    KEYFRAME A)" or "(TRANSFORM — ...)") from mid-morph to the clean LOOK A the clip opens on, keeping
+    the world ALIVE in it (reflections/practicals/bokeh/caustics) per section N, and add a TRANSFORM
+    KEYFRAME NOTE; (c) rewrite that frame's VIDEO SHOT BREAKDOWN 3 beats to L+M (beat-1 "Cut to",
+    held angle / ride-with, morph BEGINS mid-clip, resolves to next frame's Look B still = Veo last
+    frame); (d) rewrite the "TRANSITION / IMPOSSIBLE MOVE:" line; (e) fix any controlled-vibrancy
+    slips (e.g. "peak saturation" on tonal concepts like sea-blue → tonal). Preserve SPOKEN LINE
+    fields. The next frame's image is already Look B — leave it. lm_rebuild.py BEATSLM is keyed by
+    concept number and collides with these files' 1-20 numbering, so DON'T run that engine here — do
+    the transform-frame edits by hand (str_replace). Verify per concept: 0 of {locked keyframes,
+    mid-<morph> on the transform still, peak saturation on tonal}, transform-frame image shows clean
+    Look A, SHOT BREAKDOWN count unchanged. Background full treatment + every-frame match-cut "Cut to"
+    openings + full-body motion all come in PASS 2 (don't double-edit image fields now).
+  - Then non-transformation folders as applicable (Surreal 131-150, Action, Time-Freeze,
+    Travel-Scenic aira_set4/5, Product) — these get lean-strip + section-K believability + L+M
+    only where a real A->B/mid-clip change exists (match-cut/cut model otherwise).
+
+--- PASS 2 (AFTER PASS 1 IS COMPLETE) — FULL-BODY POSE/MOTION (sections M.6, M.7, M.8) ---
+Apply to EVERY concept EXCEPT the held-pose exceptions. Subject must be in a DIFFERENT POSE or
+genuinely IN MOTION in EVERY frame — a head-to-toe kinetic chain (gaze/head/shoulders/arms/hands/
+waist/hips/legs/feet/locomotion/hair/fabric), a DIFFERENT combination each frame, theme-tailored.
+Written into BOTH (a) the video SHOT BREAKDOWN beats AND (b) the image BODY POSTURE & WEIGHT /
+SUBJECT FRAMING / HANDS / KINETIC STILLNESS so the start still already shows a distinct dynamic
+pose. Keep loop + first/last-frame.
+  EXCLUDE / keep contained: GRWM reels (Master-Depth 11 First Day, 12 Sangeet, 13 5 AM Club, and
+  any other GRWM); identical-pose-by-premise (Master-Depth 02 Six Cities); beauty-still
+  (Master-Depth 14 Glass Skin). Fragrance (Master-Depth 06 Midnight Bloom, 07 Gold Hour) = GENTLE
+  motion, not fully static.
+  A full-body reference draft for Master-Depth Concept 01 (Steel to Silk) video beats was authored
+  in chat (stride-in / profile-glance / pivot-arms-open / mid-turn transform / complete-turn-hem-
+  flare / half-step-to-lens / pivot-back-loop) and can be reused when Pass 2 reaches it.
+
+RULE OF THUMB: GRWM = held/contained pose (Pass 2 skips them); everything else = full per-frame
+pose/motion variety in Pass 2. Pass 1 must be complete on a file before Pass 2 touches it.
+
+
+
+====================================================================
+## *** FINAL VERIFICATION PASS — RUN ONLY AFTER BOTH PASS 1 AND PASS 2 ARE COMPLETE ***
+====================================================================
+When the on-going fix (PASS 1 = L+M retrofit + lean-strip) AND the second fix (PASS 2 = full-body
+pose/motion) have BOTH been applied to every concept, audit EVERY concept file in ALL folders
+(Transformation, Beauty, Surreal, Action, Time-Freeze, Travel-Scenic, Product) and produce a
+per-file PASS/FAIL report. Fix any file that fails, then re-verify. Checks per file:
+
+LEAN-STRIP (video prompts only; image prompts must stay fully detailed):
+  - 0 long "IDENTITY & CHARACTER-CONSISTENCY LOCK:" paragraphs (all replaced by short "IDENTITY
+    (locked):" line); short-identity count == video-prompt count.
+  - 0 "^ENVIRONMENT:" lines (video-only field removed); 0 long video "NEGATIVE: morphing..." lines
+    (all trimmed to the short video negative).
+  - IMAGE prompts intact: image "LIGHTING: KEY" count and image "NEGATIVE: mirrored..." count
+    unchanged from pre-strip (image detail preserved).
+
+L+M MODEL (transformation concepts):
+  - 0 old-model residue anywhere: mid-sweep/mid-wrap/mid-bloom/mid-burst/mid-flip, "locked START",
+    "locked END", "interpolate strictly", "interpolates cleanly", "Camera distance",
+    "Transform-anchor distance", "suspended build", "macro build beat", "radiant reveal",
+    "transform resolved", "cause building to effect", "clearly imminent".
+  - Every frame's SHOT BREAKDOWN beat 1 opens "Cut to" or "Match-cut" (match-cut joins).
+  - Each transform concept: Movement line on the mid-clip/held-angle/first-last-frame model;
+    transform-frame IMAGE shows the clean LOOK A; the next frame's image = the matched LOOK B.
+
+FULL-BODY MOTION (PASS 2 — every concept EXCEPT GRWM/exceptions):
+  - Each frame carries a distinct head-to-toe kinetic chain in BOTH the video beats AND the image
+    BODY POSTURE/SUBJECT FRAMING/HANDS; no two frames repeat the same pose; verify a spread of
+    motion verbs (stride/turn/pivot/lean/step/sway/level-change etc.) across the 7 frames.
+  - GRWM reels + Six Cities (02) + Glass Skin (14) correctly remain CONTAINED; fragrance (06,07)
+    gentle motion.
+
+STRUCTURAL INTEGRITY (every file):
+  - SHOT BREAKDOWN count == VIDEO PROMPT count; first-beat "[00:00" bracket count matches.
+  - All DURATION lines = the 6s standard; all FRAME RATE lines = the standard no-slow-mo string;
+    0 non-negated slow-mo/slow-motion.
+  - identity-lock count == video-prompt count; image ORIENTATION LOCK count == image-prompt count.
+  - Spoken lines preserved (quoted) where the concept is spoken; silent concepts have no VO.
+
+BACKGROUND / FIGURE-TO-GROUND (section N — every concept, every folder):
+  - The reel SHOWS its world: at least one establishing-wide and one environment-dominant/far frame
+    where the background is the larger area; subject never dominates so hard that the background is
+    erased across the reel; tight ECU/CU are the minority; real fg/mg/bg depth + anchored parallax.
+  - Beauty Ad reels (N.1): real motion incl. WALKING present where the concept theme suits it.
+
+Report each file as PASS or list the exact failing check + line; remediate; commit the fixes;
+then mark the whole project COMPLETE in this tracker.
+
+
+
+====================================================================
+## *** EXACT FILE MANIFEST (verbatim current paths — copy these; reorg is DONE) ***
+====================================================================
+All concept files live in CONCEPTS/<Category>/ . Engines take the path as argv (nothing is
+hardcoded), so always pass one of these EXACT paths (filenames contain "·" U+00B7 and "–" U+2013):
+
+TRANSFORMATION (Pass-1 L+M target; then Pass-2 motion except GRWM/exceptions):
+  CONCEPTS/Transformation/20 Reel Concepts Master-Depth Build.txt        (01-12 L+M done; 13-20 left)
+  CONCEPTS/Transformation/20 Cinematic Reels New Set.txt
+  CONCEPTS/Transformation/20 More Full Reel Concepts Set 3.txt
+  CONCEPTS/Transformation/20 Full Reel Concepts Set 4 (Concepts 51.txt
+  CONCEPTS/Transformation/20 Full Reel Concepts Set 5 (Concepts 71.txt
+  CONCEPTS/Transformation/20 Full Reel Concepts · Set 5 (cont.txt
+  CONCEPTS/Transformation/20 Full Reel Concepts Set 5 (cont 2).txt
+  CONCEPTS/Transformation/Set 5 (cont 3) Clothes-Change Transformation.txt
+  CONCEPTS/Transformation/Set 5 (cont 4) · Clothes-Change Transformation.txt
+  CONCEPTS/Transformation/Concepts 91–110 · FULL Heavy-Detail.txt
+BEAUTY (lean-stripped; Beauty Ad — Pass 2 contained where GRWM/beauty-still):
+  CONCEPTS/Beauty/20 Beauty Ad Reels · Mind-Blowing Choreograpgy.txt
+SURREAL (lean-stripped):
+  CONCEPTS/Surreal/NEW Reel Concepts (131–150) .txt        (note trailing space before .txt)
+ACTION:
+  CONCEPTS/Action/20 Magical Action Reels Heavy-Detail.txt
+  CONCEPTS/Action/20 Magical Action Reels Set 2 Expression.txt
+  CONCEPTS/Action/Magical Action Reels · Master Set.txt
+  CONCEPTS/Action/Concept 170 · Phoenix Crash.txt
+TIME-FREEZE:
+  CONCEPTS/Time-Freeze/Time-Freeze Reel Set · Fully-Detailed Concepts.txt
+TRAVEL-SCENIC:
+  CONCEPTS/Travel-Scenic/aira_set4.txt
+  CONCEPTS/Travel-Scenic/aira_set5.txt
+PRODUCT:
+  CONCEPTS/Product/Concept 100 · The Unboxing.txt
+USAGE: python3 _tools/lm_rebuild.py "<exact path>" <concept_number>   and
+       python3 _tools/lean_strip.py "<exact path>"
+(If any older section below shows a CONCEPTS/Heavy-Detail/... or flat path, IGNORE it and use the
+path from THIS manifest — the Heavy-Detail folder no longer exists.)
+
+
+
+====================================================================
+## O. PREMIUM CINEMATIC EDITORIAL FINISH (MASTER EDITING DIRECTIVE)
+====================================================================
+(Decided with the user. A QUALITY/RICHNESS enhancement layer applied ADDITIVELY on top of
+everything above — sections A-N still hold. This is NOT a re-concepting pass: preserve the
+original creative idea, composition, framing, camera angle, lens, shot size, perspective,
+action, choreography, wardrobe, subject identity, object identity, environment TYPE, chronology,
+storytelling, emotional tone and artistic intent EXACTLY. Only upgrade quality, realism, luxury,
+colour, richness, visual beauty, cinematic presentation, environmental appeal, production value
+and prompt engineering. If any instruction here conflicts with the original concept, PRESERVE
+the original concept and enhance its quality.)
+
+### O.0 — WHERE THE ENHANCEMENT LIVES (additive, per frame, per field)
+Land every upgrade INSIDE the existing descriptive fields; never touch framing/camera/lens/
+wardrobe/subject/object/action/emotion/order. Target fields (image + video where present):
+  SCENE INTENT · SPATIAL LOGIC / ENVIRONMENT · LIGHTING (Key/Fill/Rim/Practical/Separation/
+  Bounce) · COLOUR GRADE / COLOR GRADE · TEXTURE & MICRO-DETAIL / MATERIALS · ATMOSPHERE ·
+  COMPOSITION · LENS+DOF+BOKEH (depth cues only, never change the lens mm) · plus water/sky/
+  greenery/architecture description wherever they appear.
+Additive only — never delete real descriptive content; enrich it.
+
+### O.1 — ENVIRONMENT
+Make every environment visually rich, premium, immersive, luxurious and intentionally designed
+in every area of the frame. Remove any dull/faded/empty/unfinished/lifeless appearance. Improve
+foreground/midground/background layering, environmental depth, spatial realism, natural visual
+harmony and environmental storytelling — richness WITHOUT clutter. Every location should read as
+the finest version of itself (ties to §N: the world is a co-star). No boring/weak backgrounds.
+
+### O.2 — COLOUR SCIENCE (governed by §I Controlled Vibrancy — read together)
+Premium cinematic grade: rich mid-tones, deep BUT CLEAN blacks, beautiful highlight roll-off,
+high colour separation, strong contrast without harshness, elegant saturation, realistic skin
+tones preserved. ELIMINATE (universal, no exceptions): faded / muddy / washed-out / grey-looking
+/ flat colour. RICHEN vibrancy where the concept world supports it (pools, festivals, gardens,
+candy, tropics, sky, water). BUT — RECONCILIATION WITH §I: intentionally TONAL / NOIR / ICE /
+MARBLE / OBSIDIAN / CHROME / PORCELAIN / MOODY concepts KEEP their restrained palette; make them
+premium and ALIVE via clean deep blacks, contrast, rim-light, glow and material — that restraint
+is luxury, NOT "dull." Never push saturation onto the face/skin. "Already-vibrant/neon/candy"
+tags are the CEILING (balance with dark/neutral grounds), not a floor. No neon-on-neon mud, no
+clashing full-saturation fields, no rainbow-everything, no blown highlights.
+
+### O.3 — VISUAL BEAUTY & CLEANLINESS
+Every frame should read beautiful, luxurious, cinematic, emotionally engaging, premium, elegant,
+inviting — like an award-winning luxury editorial photograph. Keep imagery extremely CLEAN: no
+random clutter, distracting elements, messy layouts, dirty surfaces, visual noise or unfinished
+space (unless the concept intentionally requires grit). Everything organised, elegant, premium.
+
+### O.4 — ENVIRONMENTAL APPEAL & POSITIVE ENERGY (where the concept allows)
+Where it suits the concept, increase lush greenery, healthy vegetation, beautiful flowers,
+premium landscaping, luxury architecture, elegant pathways, beautiful skies, inviting spaces —
+without changing the concept. Unless the concept intentionally requires otherwise (noir/drama/
+melancholy beats), lean to joyful, warm, serene, uplifting premium ambience. Never depressing,
+dead or emotionally empty environments unless the story demands it.
+
+### O.5 — WATER (auto-upgrade wherever water exists)
+Crystal clear, premium tropical/resort quality; deep sea-blue gradients, rich turquoise,
+brilliant cyan transitions; beautiful underwater caustics, sparkling highlights, clean
+reflections, natural refractions, soft realistic ripples, excellent transparency. NEVER muddy,
+grey, dull or lifeless. (Exception: a concept whose water is intentionally dark/ink/obsidian/
+deep-sea stays that premium dark — clean, not muddy.)
+
+### O.6 — LIGHTING
+Upgrade to premium cinematic lighting: rich golden sunlight, beautiful bounce, soft volumetric
+atmosphere, natural rim-light, high dynamic range, strong subject separation, beautiful ambient
+illumination, natural global illumination, elegant shadow gradients, soft highlight transitions,
+natural light-wrapping. Eliminate flat/dull lighting. (Honour each concept's own light key —
+enhance its quality, don't relight it into a different time-of-day/mood.)
+
+### O.7 — MATERIALS
+Increase realism of fabrics, architecture, vegetation, metals, wood, glass, water, marble,
+stone, concrete, leather: better micro-texture, surface quality, natural reflections, realistic
+imperfections, premium finish.
+
+### O.8 — COMPOSITION & DEPTH (enhance, never re-frame)
+Strengthen visual balance, leading lines, framing, depth, perspective, visual flow, subject
+separation, spatial hierarchy; improve atmospheric perspective, foreground richness, midground
+detail, background beauty, spatial layering, 3-dimensionality — WHILE PRESERVING the original
+composition, framing, angle and lens. Remove dead/empty frame areas only where not intentionally
+required (respect deliberate negative space / §N establishing wides).
+
+### O.9 — ENVIRONMENT MOTION (video prompts only, subtle, realistic)
+Add subtle natural environmental motion where appropriate — gentle breeze, moving leaves,
+drifting clouds, water movement, soft reflections, flower motion, sunlight shimmer — realistic,
+never cluttered. (Complements §M alive-camera + real parallax; do not add unmotivated motion.)
+
+### O.10 — SKY (wherever sky is visible)
+Beautiful gradients, rich colour, elegant clouds, cinematic atmosphere, premium light. Avoid
+empty white skies, overexposure, dull/lifeless skies. (A concept's intentional overcast/night/
+storm sky stays that mood — made premium and rich, not flat.)
+
+### O.11 — IMAGE QUALITY & PREMIUM FINISH
+Raise realism, cinematic quality, texture/material/lighting/environmental quality, anatomy, hand
+quality, facial consistency, editorial quality, production value. Remove AI artifacts, plastic
+skin, poor anatomy, inconsistent reflections, unrealistic textures, low-quality surfaces, noisy
+materials, dead eyes, lifeless expressions, unfinished backgrounds, dull compositions. Every
+frame should resemble a luxury travel ad / Apple-grade commercial / premium Netflix production /
+five-star resort campaign / architectural magazine / high-end fashion editorial — while staying
+completely faithful to the original concept.
+
+### O.12 — FINAL OVERRIDING DIRECTIVE
+Whenever multiple valid interpretations satisfy the original concept, choose the one that is more
+visually breathtaking, luxurious, colourful (per O.2/§I), vibrant, emotionally engaging, clean,
+premium, immersive and editorial — while preserving the original concept EXACTLY. Never settle
+for dull, flat, faded, lifeless, empty or ordinary. Where water/greenery/architecture/sky/
+flowers/beaches/mountains/luxury spaces appear, auto-elevate them to the highest premium editorial
+quality without changing the concept.
+
+### O.13 — METHOD & STATUS
+- Work concept-by-concept: read the concept fully, tailor the field enrichment to ITS world and
+  palette (NO blind templating / no generic appended block), preserve everything per the DO-NOT
+  list, commit + push per concept/batch, keep this tracker updated.
+- DO NOT change: concept, shot, framing, perspective, camera angle, lens, subject, object,
+  wardrobe, environment TYPE, action, emotion, storytelling, artistic intent.
+- Verify per file after: framing/camera/lens/wardrobe/action/identity lines unchanged (diff the
+  structural markers), enriched fields present, 0 residual dull/faded/washed-out/grey/muddy
+  language (except inside NEGATIVE lists where those words belong).
+- STATUS: STARTED. Showcase concept = Travel-Scenic aira_set4 Concept 01 (Sea-Blue Infinity Pool).
+
+
+
+====================================================================
+## P. STRICT RENDER MANDATE + HERO WARDROBE-COLOUR POLICY
+====================================================================
+(Decided with the user. Two additions layered on top of A–O.)
+
+### P.1 — Strict Colour & Render Mandate (in every prompt)
+A single strict, must-follow QUALITY string is inserted at the top of EVERY image prompt and
+EVERY video prompt (tool: _tools/insert_mandate.py, idempotent, auto-detects Image/Video Prompt
+header vs '--- FRAME' modes). It reinforces render QUALITY only — crisp/fresh/clean/vivid colour
+(never dull/faded/washed-out/muddy/grey/flat), deep-but-clean blacks, luminous mid-tones, HDR/no
+blown highlights, richly graded sky, crystal-clear deep sea-blue/turquoise water (dark/ink water
+stays deep+clean), protected true skin tone, immaculately clean image with figure-to-ground so
+the hero reads first, honour the concept's intended dominant surface / full-frame coverage and do
+NOT reveal unwanted structural edges/seams/side-walls/dead space, and no AI artifacts. CRITICAL:
+it is QUALITY-only and must NEVER override the coded composition/camera/lens/wardrobe/action/
+identity — a trailing string reinforces, it does not overwrite a specific coded value. To CHANGE
+a value (e.g. grey water → sea-blue, dull outfit → richer hue) you EDIT THE FIELD itself.
+
+### P.2 — Hero Wardrobe-Colour Upgrade (the subject is the hero)
+Outfit colour is upgraded IN-FIELD (deterministic, consistent across all frames + video/
+continuity locks), NOT by a model-side "recolour if dull" instruction (that would break per-frame
+continuity). Rules:
+  * UPGRADE genuinely dull / creamy / beige / washed / boring hero outfits to a richer, happier,
+    scene-harmonious colour — keeping the exact garment design, cut, fabric, styling and
+    modesty; change ONLY the hue. Keep it consistent across every frame AND every WARDROBE (lock)
+    / CONTINUITY-LOCKS line for that concept, and update the concept Palette summary + index.
+  * PROTECT and LEAVE: (a) premise colours (Holi starts white, glacier/ice/snow scenes, night
+    scenes' dark palettes); (b) deliberate tonal/luxe statements per §I; (c) already-vibrant/
+    happy outfits; (d) accent items that read as intentional (functional aprons, etc.).
+  * Never push saturation onto the face/skin; keep identity fixed; keep scene-palette harmony.
+
+### P.3 — Composition / coverage fixes (case-by-case, in-field)
+Where a concept's hero element should DOMINATE the frame (e.g. an infinity pool should read
+edgeless and fill the frame — only the subject's spot, the sea/horizon and sky visible, NO
+flanking deck / pool side-walls / unwanted rectangle-shot edges), fix it directly in the
+SCENE INTENT / SPATIAL LOGIC / SUBJECT FRAMING / COMPOSITION / ENVIRONMENT fields, preserving
+camera intent, pose and identity. (First applied: aira_set4 Concept 01 Sea-Blue Infinity Pool.)
+
+### P.4 — STATUS
+EXEMPLAR FILE fully treated end-to-end: aira_set4 (Travel-Scenic) — enrichment (§O) + mandate
+(P.1) + pool composition fix (P.3, Concept 01) + hero wardrobe upgrades (P.2): C01 swimwear
+→ coral-and-aqua, C04 cream→marigold, C07 ivory→coral, C08 pale-rose→warm-rose, C15 sage→jade;
+premise/tonal/already-vibrant concepts deliberately left. Remaining files: pending user's go-ahead
+after reviewing exemplar + credit cost.
+
+
+
+### P.5 — WARDROBE-PASS APPLICABILITY (reviewed across the corpus)
+The hero wardrobe-colour upgrade genuinely applies only to REAL-WORLD / STATIC-HERO settings —
+i.e. the Travel-Scenic folder (DONE: aira_set4 + aira_set5). All the THEMED folders are
+wardrobe-locked and were deliberately SKIPPED (recolouring would fight the concept):
+  * Transformation (all files): outfits morph plain→vibrant reveal; the "after" hero looks are
+    already vivid and the plain "before" is intentional contrast — do not recolour.
+  * Beauty: every look is theme-tied — vibrant (flamenco crimson, neon magenta, peacock, molten
+    gold, phoenix, sakura, holographic, bioluminescent) or intentionally tonal per §I (liquid-
+    chrome, porcelain, frost, velvet-noir, smoke, crystal). Leave.
+  * Surreal 131-150: fantasy-world outfits are theme-appropriate (e.g. forge charcoal apron-coat). Leave.
+  * Action: theme-locked technical/racing/combat gear (matte-black etc.). Leave.
+  * Time-Freeze: already vivid (e.g. cobalt-blue trench-dress). Leave.
+  * Product/Unboxing: deliberate narrative looks incl. intentionally-clashing brand-billboard satire. Leave.
+Universal work (§O enrichment + P.1 strict render mandate) is applied to ALL 20 files regardless.
+Remaining work is per-concept, on-request: deep staging/composition fixes (like the Concept-01
+pool restage) and any specific spot wardrobe tweak the user flags.
